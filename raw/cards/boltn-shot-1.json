@@ -1,0 +1,1842 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728",
+      "cores": [
+        {
+          "id": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+          "core_classes": [
+            {
+              "id": 11,
+              "name": "Ranger",
+              "name_en": "Ranger",
+              "name_fr": "Ranger",
+              "name_de": "Waldläufer",
+              "name_it": "Ranger",
+              "name_es": "Explorador",
+              "name_ja": "レンジャー",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 5,
+              "name": "Arrow",
+              "name_en": "Arrow",
+              "name_fr": "Flèche",
+              "name_de": "Pfeil",
+              "name_it": "Freccia",
+              "name_es": "Flecha",
+              "name_ja": "矢",
+              "is_published": true,
+              "functional": true
+            },
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:46:51.477580+12:00",
+          "updated_at": "2025-09-18T06:46:51.494116+12:00",
+          "name": "Bolt'n' Shot",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "0",
+          "power": "4",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "If this card's {p} is greater than its base, it gets **go again** and \"When this hits, **reload**.\"",
+          "typebox": "Ranger Action - Arrow Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 0,
+          "power_value": 4,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "9d2c68ad-f30d-4b23-a383-52052709580b",
+          "faces": [
+            {
+              "id": "8ff603df-d8a2-407e-b17c-51d719aa0cea",
+              "created_at": "2025-09-18T06:46:51.502908+12:00",
+              "updated_at": "2025-09-18T06:46:51.502918+12:00",
+              "face_id": "ELE216",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "ELE216",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Bolt'n' Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and \"If this hits, **reload**.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "9d2c68ad-f30d-4b23-a383-52052709580b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bolt'n' Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>While Bolt'n' Shot's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, it has <strong>go again</strong> and &quot;If this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE216.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE216.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE216.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "e6bc811a-a8df-4d47-8b71-5625f83166db",
+            "product_group": {
+              "id": "1e566742-7d77-4c02-9787-510ca070f514",
+              "created_at": "2025-09-18T06:45:26.746173+12:00",
+              "updated_at": "2025-09-18T06:45:26.746185+12:00",
+              "group_name": "Tales of Aria",
+              "product_type": "booster",
+              "release_date": "2021-09-24",
+              "slug": "tales-of-aria"
+            },
+            "created_at": "2025-09-18T06:45:26.748425+12:00",
+            "updated_at": "2025-09-18T06:45:26.748436+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Tales of Aria",
+            "product_type": "booster",
+            "release_date": "2021-09-24",
+            "slug": "tales-of-aria",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "b5c461df-8423-4c37-9c69-4f72ae8aa5cc",
+            "created_at": "2025-09-18T06:45:12.709212+12:00",
+            "updated_at": "2025-09-18T06:45:12.709221+12:00",
+            "set_code": "ELE",
+            "set_name": "Tales of Aria",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.499540+12:00",
+          "updated_at": "2025-09-18T06:46:51.499550+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ELE216",
+          "set_number": 216,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "15a8fc8c-0aac-4f08-b8ac-922a83f69e75",
+          "faces": [
+            {
+              "id": "a0d6986e-fe32-40c8-8477-e74b1b683734",
+              "created_at": "2025-09-18T06:46:51.513144+12:00",
+              "updated_at": "2025-09-18T06:46:51.513156+12:00",
+              "face_id": "U-ELE216-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "ELE216",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Bolt'n' Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and \"If this hits, **reload**.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "15a8fc8c-0aac-4f08-b8ac-922a83f69e75",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bolt'n' Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>While Bolt'n' Shot's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, it has <strong>go again</strong> and &quot;If this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE216-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE216-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE216-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "da139752-37d3-4066-9a7a-4db1bc68fb69",
+            "product_group": {
+              "id": "219a2adf-3837-48ab-93f2-438dc1d03749",
+              "created_at": "2025-09-18T06:45:26.772834+12:00",
+              "updated_at": "2025-09-18T06:45:26.772857+12:00",
+              "group_name": "Tales of Aria - Unlimited",
+              "product_type": "booster",
+              "release_date": "2021-10-01",
+              "slug": "tales-of-aria-unlimited"
+            },
+            "created_at": "2025-09-18T06:45:26.775169+12:00",
+            "updated_at": "2025-09-18T06:45:26.775181+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Tales of Aria - Unlimited",
+            "product_type": "booster",
+            "release_date": "2021-10-01",
+            "slug": "tales-of-aria-unlimited",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "b5c461df-8423-4c37-9c69-4f72ae8aa5cc",
+            "created_at": "2025-09-18T06:45:12.709212+12:00",
+            "updated_at": "2025-09-18T06:45:12.709221+12:00",
+            "set_code": "ELE",
+            "set_name": "Tales of Aria",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.508955+12:00",
+          "updated_at": "2025-09-18T06:46:51.508965+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "U-ELE216-RF",
+          "set_number": 216,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "4d3ce1d1-cee2-4dbf-be62-a9fde5ae78f8",
+          "faces": [
+            {
+              "id": "e737299e-ee3f-4fd4-b11b-bdbceac1be16",
+              "created_at": "2025-09-18T06:46:51.525294+12:00",
+              "updated_at": "2025-09-18T06:46:51.525313+12:00",
+              "face_id": "LXI026",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "LXI026",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Bolt'n' Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Arrows can only be played from arsenal and only if you control a bow.)_\r\nWhile Bolt'n Shot's {p} is greater than its base {p}, it has **go again** and \"If it hits, **reload**.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "4d3ce1d1-cee2-4dbf-be62-a9fde5ae78f8",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bolt'n' Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>While Bolt'n Shot's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, it has <strong>go again</strong> and &quot;If it hits, <strong>reload</strong>.&quot; <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LXI026.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LXI026.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LXI026.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "be5e917a-18f7-45b6-82e0-1a44a44ca83c",
+            "product_group": null,
+            "created_at": "2025-09-18T06:45:27.852681+12:00",
+            "updated_at": "2025-09-18T06:45:27.852698+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Lexi - Blitz Deck",
+            "product_type": "booster",
+            "release_date": "2021-09-24",
+            "slug": "lexi-blitz-deck",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "45e6f48f-7858-4305-b862-b8a8d793dea1",
+            "created_at": "2025-09-18T06:45:12.767657+12:00",
+            "updated_at": "2025-09-18T06:45:12.767666+12:00",
+            "set_code": "LXI",
+            "set_name": "Lexi - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "b5c461df-8423-4c37-9c69-4f72ae8aa5cc"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.519908+12:00",
+          "updated_at": "2025-09-18T06:46:51.519921+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LXI026",
+          "set_number": 26,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "12140505-07f8-4569-8b82-941f2673a878",
+          "faces": [
+            {
+              "id": "578c6a4b-c398-45ce-aed5-2121e656587e",
+              "created_at": "2025-09-18T06:46:51.536268+12:00",
+              "updated_at": "2025-09-18T06:46:51.536281+12:00",
+              "face_id": "DE_2HP393",
+              "face_language": "de",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "2HP393",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Serienschuss",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Pfeile können nur aus dem Arsenal gespielt werden und nur, falls du einen Bogen kontrollierst.)_{br}Falls die {p} von Serienschuss höher ist als seine Basis-{p}, hat es **Weitermachen** und „Wenn dies trifft, lade nach.“ _(Falls du keine Karten im Arsenal hast, kannst du eine Karte aus deiner Hand verdeckt ins Arsenal legen.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Waldläufer Aktion - Pfeil Angriff",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "12140505-07f8-4569-8b82-941f2673a878",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Serienschuss</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Waldläufer Aktion - Pfeil Angriff</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Pfeile können nur aus dem Arsenal gespielt werden und nur, falls du einen Bogen kontrollierst.)</em></p>\n<p>Falls die <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> von Serienschuss höher ist als seine Basis-<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, hat es <strong>Weitermachen</strong> und „Wenn dies trifft, lade nach.“ <em>(Falls du keine Karten im Arsenal hast, kannst du eine Karte aus deiner Hand verdeckt ins Arsenal legen.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_2HP393.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_2HP393.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_2HP393.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "462766fd-d70a-45d5-b7ac-35604650806e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.865684+12:00",
+            "updated_at": "2025-09-18T06:45:18.865697+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "de",
+            "product_name": "History Pack 2 - Black Label [DE]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-de",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.531911+12:00",
+          "updated_at": "2025-09-18T06:46:51.531928+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "DE_2HP393",
+          "set_number": 393,
+          "layout": "regular",
+          "print_language": "de",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "f46f8e16-e3a0-433d-b66c-b870ed479379",
+          "faces": [
+            {
+              "id": "5d63be49-70f6-459d-9839-7aa2ab4c6eac",
+              "created_at": "2025-09-18T06:46:51.548578+12:00",
+              "updated_at": "2025-09-18T06:46:51.548589+12:00",
+              "face_id": "FR_2HP393",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "2HP393",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Chargez, tirez!",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Les flèches ne peuvent être jouées que depuis l’arsenal et seulement si vous contrôlez un arc.)_{br}Si la {p} de Chargez, tirez! est supérieure à sa {p} de base, elle a **encore une fois** et « Quand cette carte touche, **rechargez** ». _(Si vous n’avez aucune carte dans l’arsenal, vous pouvez mettre une carte de votre main face cachée dans l’arsenal.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Attaque de flèche",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "f46f8e16-e3a0-433d-b66c-b870ed479379",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Chargez, tirez!</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Attaque de flèche</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Les flèches ne peuvent être jouées que depuis l’arsenal et seulement si vous contrôlez un arc.)</em></p>\n<p>Si la <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de Chargez, tirez! est supérieure à sa <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de base, elle a <strong>encore une fois</strong> et « Quand cette carte touche, <strong>rechargez</strong> ». <em>(Si vous n’avez aucune carte dans l’arsenal, vous pouvez mettre une carte de votre main face cachée dans l’arsenal.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_2HP393.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_2HP393.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_2HP393.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1106e491-00fd-48b7-9490-efec9eea1d82",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.885032+12:00",
+            "updated_at": "2025-09-18T06:45:18.885049+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "fr",
+            "product_name": "History Pack 2 - Black Label [FR]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.544330+12:00",
+          "updated_at": "2025-09-18T06:46:51.544342+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_2HP393",
+          "set_number": 393,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "4dff3f35-e0bb-4993-ad27-d6eab086179a",
+          "faces": [
+            {
+              "id": "2eb25807-2b0c-4630-87c8-b868606e81b6",
+              "created_at": "2025-09-18T06:46:51.560489+12:00",
+              "updated_at": "2025-09-18T06:46:51.560500+12:00",
+              "face_id": "ES_2HP393",
+              "face_language": "es",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "2HP393",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Carga y dispara",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Las flechas solo se pueden jugar desde el arsenal y solo si controlas un arco)._{br}Si el {p} de Carga y dispara es mayor que su {p} de base, tiene **continuar** y \"Cuando impacta, **recargar**\". _(Si no tienes cartas en el arsenal, puedes tomar una carta de tu mano y colocarla boca abajo en el arsenal)._",
+              "printed_flavor_text": "",
+              "printed_typebox": "Acción de vigilante - Ataque con flecha",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "4dff3f35-e0bb-4993-ad27-d6eab086179a",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Carga y dispara</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Acción de vigilante - Ataque con flecha</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Las flechas solo se pueden jugar desde el arsenal y solo si controlas un arco).</em></p>\n<p>Si el <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de Carga y dispara es mayor que su <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de base, tiene <strong>continuar</strong> y &quot;Cuando impacta, <strong>recargar</strong>&quot;. <em>(Si no tienes cartas en el arsenal, puedes tomar una carta de tu mano y colocarla boca abajo en el arsenal).</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_2HP393.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_2HP393.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_2HP393.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "12d72e87-64af-4eac-b939-9424be79855e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.900596+12:00",
+            "updated_at": "2025-09-18T06:45:18.900613+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "es",
+            "product_name": "History Pack 2 - Black Label [ES]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-es",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.555604+12:00",
+          "updated_at": "2025-09-18T06:46:51.555617+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ES_2HP393",
+          "set_number": 393,
+          "layout": "regular",
+          "print_language": "es",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "7093ed21-7a34-4e2f-a912-638539dd5eb6",
+          "faces": [
+            {
+              "id": "6c0db3af-70e4-4993-ae1a-42a51cd08e1e",
+              "created_at": "2025-09-18T06:46:51.573971+12:00",
+              "updated_at": "2025-09-18T06:46:51.573987+12:00",
+              "face_id": "IT_2HP393",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "2HP393",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Tiro di Dardo",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Le frecce possono essere giocate solo dall'arsenale e solo se controlli un arco.)_{br}Se Tiro di Dardo ha {p} superiore alla sua {p} di base, ha **continua** e \"Quando colpisce, **ricarica**.\" _(Se non hai carte nell'arsenale, puoi mettere una carta dalla tua mano a faccia in giù nel tuo arsenale.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Azione Ranger - Attacco Freccia",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "7093ed21-7a34-4e2f-a912-638539dd5eb6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Tiro di Dardo</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Azione Ranger - Attacco Freccia</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Le frecce possono essere giocate solo dall'arsenale e solo se controlli un arco.)</em></p>\n<p>Se Tiro di Dardo ha <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> superiore alla sua <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> di base, ha <strong>continua</strong> e &quot;Quando colpisce, <strong>ricarica</strong>.&quot; <em>(Se non hai carte nell'arsenale, puoi mettere una carta dalla tua mano a faccia in giù nel tuo arsenale.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_2HP393.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_2HP393.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_2HP393.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c24effd5-1d3d-4ed0-8f6f-c6a3c2098f91",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.923313+12:00",
+            "updated_at": "2025-09-18T06:45:18.923333+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "it",
+            "product_name": "History Pack 2 - Black Label [IT]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.567987+12:00",
+          "updated_at": "2025-09-18T06:46:51.568002+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_2HP393",
+          "set_number": 393,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "49202cf5-858a-4361-9cd9-f62efe118c8a",
+          "faces": [
+            {
+              "id": "eefa70d9-2b41-4047-97da-faf59562e7b7",
+              "created_at": "2025-09-18T06:46:51.587406+12:00",
+              "updated_at": "2025-09-18T06:46:51.587418+12:00",
+              "face_id": "ELE216-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "ELE216",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Bolt'n' Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and \"If this hits, **reload**.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "49202cf5-858a-4361-9cd9-f62efe118c8a",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bolt'n' Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>While Bolt'n' Shot's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, it has <strong>go again</strong> and &quot;If this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE216-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE216-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE216-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "e6bc811a-a8df-4d47-8b71-5625f83166db",
+            "product_group": {
+              "id": "1e566742-7d77-4c02-9787-510ca070f514",
+              "created_at": "2025-09-18T06:45:26.746173+12:00",
+              "updated_at": "2025-09-18T06:45:26.746185+12:00",
+              "group_name": "Tales of Aria",
+              "product_type": "booster",
+              "release_date": "2021-09-24",
+              "slug": "tales-of-aria"
+            },
+            "created_at": "2025-09-18T06:45:26.748425+12:00",
+            "updated_at": "2025-09-18T06:45:26.748436+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Tales of Aria",
+            "product_type": "booster",
+            "release_date": "2021-09-24",
+            "slug": "tales-of-aria",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "b5c461df-8423-4c37-9c69-4f72ae8aa5cc",
+            "created_at": "2025-09-18T06:45:12.709212+12:00",
+            "updated_at": "2025-09-18T06:45:12.709221+12:00",
+            "set_code": "ELE",
+            "set_name": "Tales of Aria",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.581935+12:00",
+          "updated_at": "2025-09-18T06:46:51.581949+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ELE216-RF",
+          "set_number": 216,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "7a9e4bdb-afc7-4e5b-bc5f-a802468e3acd",
+          "faces": [
+            {
+              "id": "c6791f94-5689-444b-9bc9-5663a7e14266",
+              "created_at": "2025-09-18T06:46:51.599578+12:00",
+              "updated_at": "2025-09-18T06:46:51.599589+12:00",
+              "face_id": "U-ELE216",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "ELE216",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Bolt'n' Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and \"If this hits, **reload**.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "7a9e4bdb-afc7-4e5b-bc5f-a802468e3acd",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bolt'n' Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>While Bolt'n' Shot's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, it has <strong>go again</strong> and &quot;If this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE216.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE216.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE216.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "da139752-37d3-4066-9a7a-4db1bc68fb69",
+            "product_group": {
+              "id": "219a2adf-3837-48ab-93f2-438dc1d03749",
+              "created_at": "2025-09-18T06:45:26.772834+12:00",
+              "updated_at": "2025-09-18T06:45:26.772857+12:00",
+              "group_name": "Tales of Aria - Unlimited",
+              "product_type": "booster",
+              "release_date": "2021-10-01",
+              "slug": "tales-of-aria-unlimited"
+            },
+            "created_at": "2025-09-18T06:45:26.775169+12:00",
+            "updated_at": "2025-09-18T06:45:26.775181+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Tales of Aria - Unlimited",
+            "product_type": "booster",
+            "release_date": "2021-10-01",
+            "slug": "tales-of-aria-unlimited",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "b5c461df-8423-4c37-9c69-4f72ae8aa5cc",
+            "created_at": "2025-09-18T06:45:12.709212+12:00",
+            "updated_at": "2025-09-18T06:45:12.709221+12:00",
+            "set_code": "ELE",
+            "set_name": "Tales of Aria",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.594861+12:00",
+          "updated_at": "2025-09-18T06:46:51.594878+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "U-ELE216",
+          "set_number": 216,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "1095a776-ad30-487b-862f-6e19a3b9eae9",
+          "faces": [
+            {
+              "id": "42af18d6-5507-4482-98e1-0d9461d1cb5c",
+              "created_at": "2025-09-18T06:46:51.612206+12:00",
+              "updated_at": "2025-09-18T06:46:51.617168+12:00",
+              "face_id": "AAZ009",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "AAZ009",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Bolt'n Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "If this card's {p} is greater than its base, it gets **go again** and \"When this hits, **reload**.\" _(If you have no cards in arsenal, you may put a card from your hand face-down into your arsenal.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "1095a776-ad30-487b-862f-6e19a3b9eae9",
+              "watermark": [
+                3
+              ],
+              "printed_name_html": [
+                "<p>Bolt'n Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>If this card's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base, it gets <strong>go again</strong> and &quot;When this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in arsenal, you may put a card from your hand face-down into your arsenal.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AAZ009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AAZ009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AAZ009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c73e3e42-f3bd-4ce6-8cc6-0d1e6939d5e4",
+            "product_group": {
+              "id": "92fb9d46-a983-4d1b-8bea-abcd80a3c5b4",
+              "created_at": "2025-09-18T06:45:57.733480+12:00",
+              "updated_at": "2025-09-18T06:45:57.733495+12:00",
+              "group_name": "Armory Deck - Azalea, Ace in the Hole",
+              "product_type": "precon",
+              "release_date": "2024-08-02",
+              "slug": "armory-deck-azalea-ace-in-the-hole"
+            },
+            "created_at": "2025-09-18T06:45:57.735683+12:00",
+            "updated_at": "2025-09-18T06:45:57.735694+12:00",
+            "printed_date": "2024-06-01",
+            "printed_language": "en",
+            "product_name": "Armory Deck - Azalea, Ace in the Hole",
+            "product_type": "booster",
+            "release_date": "2024-08-02",
+            "slug": "armory-deck-azalea-ace-in-the-hole",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "eefe0b95-208c-444b-b531-cf2dfe087956",
+            "created_at": "2025-09-18T06:45:12.650930+12:00",
+            "updated_at": "2025-09-18T06:45:12.650949+12:00",
+            "set_code": "AAZ",
+            "set_name": "Armory Deck - Azalea, Ace in the Hole",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.607564+12:00",
+          "updated_at": "2025-09-18T06:46:51.607579+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "AAZ009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "86cb3cae-ff21-4875-a22b-7c7c86340e0a",
+          "faces": [
+            {
+              "id": "1d48cdac-c148-403f-9925-64ab431def7b",
+              "created_at": "2025-09-18T06:46:51.627600+12:00",
+              "updated_at": "2025-09-18T06:46:51.632724+12:00",
+              "face_id": "FR_AAZ009",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "AAZ009",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Chargez, tirez !",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Si la {p} de cette carte est supérieure à sa base, elle gagne **encore une fois** et « Quand cette carte touche, **rechargez** ». __(Si vous n’avez aucune carte dans l’arsenal, vous pouvez mettre une carte de votre main face cachée dans votre arsenal.)__",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Attaque de flèche",
+              "printed_year": "2024",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "86cb3cae-ff21-4875-a22b-7c7c86340e0a",
+              "watermark": [
+                3
+              ],
+              "printed_name_html": [
+                "<p>Chargez, tirez !</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Attaque de flèche</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Si la <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de cette carte est supérieure à sa base, elle gagne <strong>encore une fois</strong> et « Quand cette carte touche, <strong>rechargez</strong> ». <strong>(Si vous n’avez aucune carte dans l’arsenal, vous pouvez mettre une carte de votre main face cachée dans votre arsenal.)</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_AAZ009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_AAZ009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_AAZ009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "06bd10b3-db64-468f-8142-150c88a2a076",
+            "product_group": {
+              "id": "92fb9d46-a983-4d1b-8bea-abcd80a3c5b4",
+              "created_at": "2025-09-18T06:45:57.733480+12:00",
+              "updated_at": "2025-09-18T06:45:57.733495+12:00",
+              "group_name": "Armory Deck - Azalea, Ace in the Hole",
+              "product_type": "precon",
+              "release_date": "2024-08-02",
+              "slug": "armory-deck-azalea-ace-in-the-hole"
+            },
+            "created_at": "2025-09-18T06:45:57.750058+12:00",
+            "updated_at": "2025-09-18T06:45:57.750070+12:00",
+            "printed_date": "2024-06-01",
+            "printed_language": "fr",
+            "product_name": "Armory Deck - Azalea, Ace in the Hole [FR]",
+            "product_type": "booster",
+            "release_date": "2024-08-02",
+            "slug": "armory-deck-azalea-ace-in-the-hole-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "eefe0b95-208c-444b-b531-cf2dfe087956",
+            "created_at": "2025-09-18T06:45:12.650930+12:00",
+            "updated_at": "2025-09-18T06:45:12.650949+12:00",
+            "set_code": "AAZ",
+            "set_name": "Armory Deck - Azalea, Ace in the Hole",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.623151+12:00",
+          "updated_at": "2025-09-18T06:46:51.623162+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_AAZ009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "fef2458c-ed60-4db9-9034-0bd288363117",
+          "faces": [
+            {
+              "id": "0741f50e-ec11-4945-947d-f017ba926265",
+              "created_at": "2025-09-18T06:46:51.645813+12:00",
+              "updated_at": "2025-09-18T06:46:51.651082+12:00",
+              "face_id": "IT_AAZ009",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "AAZ009",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Tiro di Dardo",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Se la {p} di questa carta è superiore alla sua {p} base, guadagna **Continua** e \"Quando colpisce, **ricarica**\". __(Se non hai carte nel tuo arsenale, puoi metterci una carta dalla tua mano a faccia in giù.)__",
+              "printed_flavor_text": "",
+              "printed_typebox": "Azione Ranger - Attacco Freccia",
+              "printed_year": "2024",
+              "printed_language_code": "IT",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "fef2458c-ed60-4db9-9034-0bd288363117",
+              "watermark": [
+                3
+              ],
+              "printed_name_html": [
+                "<p>Tiro di Dardo</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Azione Ranger - Attacco Freccia</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Se la <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> di questa carta è superiore alla sua <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> base, guadagna <strong>Continua</strong> e &quot;Quando colpisce, <strong>ricarica</strong>&quot;. <strong>(Se non hai carte nel tuo arsenale, puoi metterci una carta dalla tua mano a faccia in giù.)</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_AAZ009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_AAZ009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_AAZ009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "81a1ada3-5c1c-44da-8650-7451d06ceae5",
+            "product_group": {
+              "id": "92fb9d46-a983-4d1b-8bea-abcd80a3c5b4",
+              "created_at": "2025-09-18T06:45:57.733480+12:00",
+              "updated_at": "2025-09-18T06:45:57.733495+12:00",
+              "group_name": "Armory Deck - Azalea, Ace in the Hole",
+              "product_type": "precon",
+              "release_date": "2024-08-02",
+              "slug": "armory-deck-azalea-ace-in-the-hole"
+            },
+            "created_at": "2025-09-18T06:45:57.763081+12:00",
+            "updated_at": "2025-09-18T06:45:57.763103+12:00",
+            "printed_date": "2024-06-01",
+            "printed_language": "it",
+            "product_name": "Armory Deck - Azalea, Ace in the Hole [IT]",
+            "product_type": "booster",
+            "release_date": "2024-08-02",
+            "slug": "armory-deck-azalea-ace-in-the-hole-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "eefe0b95-208c-444b-b531-cf2dfe087956",
+            "created_at": "2025-09-18T06:45:12.650930+12:00",
+            "updated_at": "2025-09-18T06:45:12.650949+12:00",
+            "set_code": "AAZ",
+            "set_name": "Armory Deck - Azalea, Ace in the Hole",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.639277+12:00",
+          "updated_at": "2025-09-18T06:46:51.639306+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_AAZ009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "7dfa6bba-aebe-4a49-9131-654e93aedc78",
+          "faces": [
+            {
+              "id": "dae09e3c-5cdc-45ee-8883-10392c7fa8f6",
+              "created_at": "2025-09-18T06:46:51.661008+12:00",
+              "updated_at": "2025-09-18T06:46:51.666395+12:00",
+              "face_id": "JA_AAZ009",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "AAZ009",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "電撃の射撃",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "このカードの{p}が基本より大きい場合、これは**続行**と「これがヒットしたとき、**再装填**を行う」を得る。（あなたの格納庫にカードがない場合、あなたは手札のカードを１枚、裏向きに格納庫に置いてよい）",
+              "printed_flavor_text": "",
+              "printed_typebox": "レンジャー・アクション － 矢・攻撃",
+              "printed_year": "2024",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "7dfa6bba-aebe-4a49-9131-654e93aedc78",
+              "watermark": [
+                3
+              ],
+              "printed_name_html": [
+                "<p>電撃の射撃</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>レンジャー・アクション － 矢・攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>このカードの<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>が基本より大きい場合、これは<strong>続行</strong>と「これがヒットしたとき、<strong>再装填</strong>を行う」を得る。（あなたの格納庫にカードがない場合、あなたは手札のカードを１枚、裏向きに格納庫に置いてよい）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AAZ009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AAZ009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AAZ009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fa7d654a-9139-45a6-ac3d-ce00718cfcc8",
+            "product_group": {
+              "id": "92fb9d46-a983-4d1b-8bea-abcd80a3c5b4",
+              "created_at": "2025-09-18T06:45:57.733480+12:00",
+              "updated_at": "2025-09-18T06:45:57.733495+12:00",
+              "group_name": "Armory Deck - Azalea, Ace in the Hole",
+              "product_type": "precon",
+              "release_date": "2024-08-02",
+              "slug": "armory-deck-azalea-ace-in-the-hole"
+            },
+            "created_at": "2025-09-18T06:45:57.780670+12:00",
+            "updated_at": "2025-09-18T06:45:57.780680+12:00",
+            "printed_date": "2024-06-01",
+            "printed_language": "ja",
+            "product_name": "Armory Deck - Azalea, Ace in the Hole [JA]",
+            "product_type": "booster",
+            "release_date": "2024-08-02",
+            "slug": "armory-deck-azalea-ace-in-the-hole-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "eefe0b95-208c-444b-b531-cf2dfe087956",
+            "created_at": "2025-09-18T06:45:12.650930+12:00",
+            "updated_at": "2025-09-18T06:45:12.650949+12:00",
+            "set_code": "AAZ",
+            "set_name": "Armory Deck - Azalea, Ace in the Hole",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.656620+12:00",
+          "updated_at": "2025-09-18T06:46:51.656631+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_AAZ009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "e728d10e-c32a-4c9a-8508-5c8abab8b103",
+          "faces": [
+            {
+              "id": "fc855170-520d-42da-8a95-9556679f42df",
+              "created_at": "2025-09-18T06:46:51.678532+12:00",
+              "updated_at": "2025-09-18T06:46:51.678548+12:00",
+              "face_id": "GEM058",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM058",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Bolt'n Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "While this card's {p} is greater than its base, it gets **go again** and \"When this hits, **reload**.\"",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "e728d10e-c32a-4c9a-8508-5c8abab8b103",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bolt'n Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>While this card's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base, it gets <strong>go again</strong> and &quot;When this hits, <strong>reload</strong>.&quot;</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM058.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM058.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM058.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:51.673147+12:00",
+          "updated_at": "2025-09-18T06:46:51.673162+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM058",
+          "set_number": 58,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "8f295475-1804-4eb4-88a4-53f6938ef27c",
+          "faces": [
+            {
+              "id": "87fecafb-9a35-4334-9fa3-449e94f9b619",
+              "created_at": "2026-01-19T19:28:39.835705+13:00",
+              "updated_at": "2026-01-19T19:28:39.835713+13:00",
+              "face_id": "FR_SAZ010",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SAZ010",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Chargez, tirez !",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Si la {p} de cette carte est supérieure à sa base, elle gagne **encore une fois** et « Quand cette carte touche, **rechargez** ». _(Si vous n’avez pas de cartes dans l’arsenal, vous pouvez mettre une carte de votre main face cachée dans votre arsenal.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Attaque de flèche",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "8f295475-1804-4eb4-88a4-53f6938ef27c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Chargez, tirez !</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Attaque de flèche</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Si la <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de cette carte est supérieure à sa base, elle gagne <strong>encore une fois</strong> et « Quand cette carte touche, <strong>rechargez</strong> ». <em>(Si vous n’avez pas de cartes dans l’arsenal, vous pouvez mettre une carte de votre main face cachée dans votre arsenal.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SAZ010.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SAZ010.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SAZ010.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "3e8f6ca8-e4b6-494f-b3b6-158727481305",
+            "product_group": {
+              "id": "c80fa57d-296b-411c-81c0-1c34fed39afd",
+              "created_at": "2025-10-20T10:26:44.833213+13:00",
+              "updated_at": "2026-01-28T08:26:34.043642+13:00",
+              "group_name": "Silver Age Chapter 2 - Azalea",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-2-azalea"
+            },
+            "created_at": "2025-10-20T10:26:44.316771+13:00",
+            "updated_at": "2026-01-28T08:26:34.048003+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "fr",
+            "product_name": "Silver Age Chapter 2 - Azalea [FR]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-2-azalea-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9471822f-7cef-41f0-b3ed-17c084bbc9f1",
+            "created_at": "2025-10-20T10:26:44.263924+13:00",
+            "updated_at": "2025-10-20T10:52:52.189809+13:00",
+            "set_code": "SAZ",
+            "set_name": "Silver Age Chapter 1 - Azalea",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:28:39.832914+13:00",
+          "updated_at": "2026-01-30T12:16:44.813040+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-30T12:10:00+13:00",
+          "print_id": "FR_SAZ010",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "8cb992ba-dfd4-4594-8c46-90539d98da6e",
+          "faces": [
+            {
+              "id": "8e49ba2d-0a03-4da0-96ae-375392dedb4a",
+              "created_at": "2026-01-19T19:28:48.784554+13:00",
+              "updated_at": "2026-01-19T19:28:48.784562+13:00",
+              "face_id": "JA_SAZ010",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SAZ010",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "電撃の射撃",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "このカードの{p}が基本より大きい場合、これは**続行**と「これがヒットしたとき、**再装填**する」を得る。（あなたの格納庫にカードがない場合、手札のカードを１枚、格納庫に裏向きで置いてもよい）",
+              "printed_flavor_text": "",
+              "printed_typebox": "レンジャー・アクション － 矢・攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "8cb992ba-dfd4-4594-8c46-90539d98da6e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>電撃の射撃</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>レンジャー・アクション － 矢・攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>このカードの<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>が基本より大きい場合、これは<strong>続行</strong>と「これがヒットしたとき、<strong>再装填</strong>する」を得る。（あなたの格納庫にカードがない場合、手札のカードを１枚、格納庫に裏向きで置いてもよい）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SAZ010.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SAZ010.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SAZ010.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "f7d38ebc-ddf8-404e-b8f6-b95eb8f6d9ec",
+            "product_group": {
+              "id": "c80fa57d-296b-411c-81c0-1c34fed39afd",
+              "created_at": "2025-10-20T10:26:44.833213+13:00",
+              "updated_at": "2026-01-28T08:26:34.043642+13:00",
+              "group_name": "Silver Age Chapter 2 - Azalea",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-2-azalea"
+            },
+            "created_at": "2025-10-20T10:26:44.313613+13:00",
+            "updated_at": "2026-01-28T08:26:34.049070+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "ja",
+            "product_name": "Silver Age Chapter 2 - Azalea [JA]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-2-azalea-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9471822f-7cef-41f0-b3ed-17c084bbc9f1",
+            "created_at": "2025-10-20T10:26:44.263924+13:00",
+            "updated_at": "2025-10-20T10:52:52.189809+13:00",
+            "set_code": "SAZ",
+            "set_name": "Silver Age Chapter 1 - Azalea",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:28:48.781790+13:00",
+          "updated_at": "2026-01-30T12:20:09.026032+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-30T12:10:00+13:00",
+          "print_id": "JA_SAZ010",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        },
+        {
+          "id": "79756cd0-f66d-43a9-a777-a9ef4773ac41",
+          "faces": [
+            {
+              "id": "5ad10866-740c-457a-93c0-d7c2f8476e32",
+              "created_at": "2026-01-19T19:28:57.272897+13:00",
+              "updated_at": "2026-01-19T19:28:57.272905+13:00",
+              "face_id": "SAZ010",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SAZ010",
+              "printed_artist": "Cristián Huerta",
+              "printed_name": "Bolt'n Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "If this card's {p} is greater than its base, it gets **go again** and \"When this hits, **reload**.\" _(If you have no cards in arsenal, you may put a card from your hand face-down into your arsenal.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "73f80fb5-d78a-4ed9-a880-b239db312ba1",
+              "card_print": "79756cd0-f66d-43a9-a777-a9ef4773ac41",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bolt'n Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>If this card's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base, it gets <strong>go again</strong> and &quot;When this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in arsenal, you may put a card from your hand face-down into your arsenal.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAZ010.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAZ010.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAZ010.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "0d97be95-b8a4-4477-b551-b78713df9820",
+            "product_group": {
+              "id": "c80fa57d-296b-411c-81c0-1c34fed39afd",
+              "created_at": "2025-10-20T10:26:44.833213+13:00",
+              "updated_at": "2026-01-28T08:26:34.043642+13:00",
+              "group_name": "Silver Age Chapter 2 - Azalea",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-2-azalea"
+            },
+            "created_at": "2025-10-20T10:26:44.310440+13:00",
+            "updated_at": "2026-01-28T08:26:34.044947+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "en",
+            "product_name": "Silver Age Chapter 2 - Azalea",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-2-azalea",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9471822f-7cef-41f0-b3ed-17c084bbc9f1",
+            "created_at": "2025-10-20T10:26:44.263924+13:00",
+            "updated_at": "2025-10-20T10:52:52.189809+13:00",
+            "set_code": "SAZ",
+            "set_name": "Silver Age Chapter 1 - Azalea",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:28:57.270037+13:00",
+          "updated_at": "2026-01-30T12:22:10.872265+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-30T12:10:00+13:00",
+          "print_id": "SAZ010",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "6c31ef14-dfe1-4c7e-8efd-3d2e45cda728"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:46:51.469911+12:00",
+      "updated_at": "2025-09-18T06:46:51.471737+12:00",
+      "card_id": "boltn-shot-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

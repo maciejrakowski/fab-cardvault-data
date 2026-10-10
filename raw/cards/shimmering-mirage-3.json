@@ -1,0 +1,908 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "51bfa1c1-aafd-49f0-8ce5-c3acf6384315",
+      "cores": [
+        {
+          "id": "9db35435-2b9d-4082-befd-1507257cff61",
+          "core_classes": [
+            {
+              "id": 7,
+              "name": "Illusionist",
+              "name_en": "Illusionist",
+              "name_fr": "Illusionniste",
+              "name_de": "Illusionist",
+              "name_it": "Illusionista",
+              "name_es": "Ilusionista",
+              "name_ja": "幻術士",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 4,
+              "name": "Defense Reaction",
+              "name_en": "Defense Reaction",
+              "name_fr": "Réaction de défense",
+              "name_de": "Verteidigungsreaktion",
+              "name_it": "Reazione di Difesa",
+              "name_es": "Reacción de defensa",
+              "name_ja": "防御リアクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [],
+          "created_at": "2025-11-14T13:40:33.401952+13:00",
+          "updated_at": "2025-11-14T13:40:33.401959+13:00",
+          "name": "Shimmering Mirage",
+          "layout_position": 10,
+          "pitch": "3",
+          "pitch_chi": "0",
+          "color": "blue",
+          "cost": "0",
+          "power": "",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "While this is defending, when this chain link resolves, banish this. You may play it this combat chain.{br}**Mirage** _(When this is defending a non-Illusionist attack with 6 or more {p}, destroy this.)_",
+          "typebox": "Illusionist Defense Reaction",
+          "traitbox": "",
+          "pitch_value": 3,
+          "pitch_chi_value": 0,
+          "cost_value": 0,
+          "power_value": null,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "51bfa1c1-aafd-49f0-8ce5-c3acf6384315"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "89f9c1a4-d48a-49ba-9fa8-5b4651778288",
+          "faces": [
+            {
+              "id": "4a62c8ba-1a95-413e-8e80-60b07b53b066",
+              "created_at": "2026-01-19T09:12:00.468212+13:00",
+              "updated_at": "2026-01-19T09:12:00.468220+13:00",
+              "face_id": "JA_PEN129",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN129",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "煌めく蜃気楼",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが防御している間、これのチェインリンクを解決したとき、これを追放する。この戦闘チェインであなたはこれをプレイしてもよい。{br}**蜃気楼**（これが６{p}以上の非幻術士の攻撃を防御しているとき、これを破壊する）",
+              "printed_flavor_text": "",
+              "printed_typebox": "幻術士・防御リアクション",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "9db35435-2b9d-4082-befd-1507257cff61",
+              "card_print": "89f9c1a4-d48a-49ba-9fa8-5b4651778288",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>煌めく蜃気楼</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>幻術士・防御リアクション</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが防御している間、これのチェインリンクを解決したとき、これを追放する。この戦闘チェインであなたはこれをプレイしてもよい。</p>\n<p><strong>蜃気楼</strong>（これが６<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>以上の非幻術士の攻撃を防御しているとき、これを破壊する）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_PEN129.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_PEN129.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_PEN129.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d5e242aa-362d-4efb-ac7f-2ed815c192e9",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.186868+13:00",
+            "updated_at": "2025-11-14T13:38:39.619716+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "ja",
+            "product_name": "Compendium of Rathe [JA]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:00.464908+13:00",
+          "updated_at": "2026-01-31T10:32:24.058336+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T14:45:00+13:00",
+          "print_id": "JA_PEN129",
+          "set_number": 129,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "51bfa1c1-aafd-49f0-8ce5-c3acf6384315"
+        },
+        {
+          "id": "c0af1380-7905-4a3d-8eea-cadc47acf9ea",
+          "faces": [
+            {
+              "id": "9342d36b-df07-4276-a87e-bb9a003dc211",
+              "created_at": "2026-01-19T09:11:44.415563+13:00",
+              "updated_at": "2026-01-19T09:11:44.415572+13:00",
+              "face_id": "FR_PEN129-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN129",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "Mirage scintillant",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Tant que cette carte défend, quand ce maillon de chaîne se résout, bannissez cette carte. Vous pouvez la jouer dans cette chaîne de combat.{br}**Mirage** _(Quand cette carte défend une attaque non-Illusionniste avec au moins 6{p}, détruisez cette carte.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Illusionniste Réaction de défense",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "9db35435-2b9d-4082-befd-1507257cff61",
+              "card_print": "c0af1380-7905-4a3d-8eea-cadc47acf9ea",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Mirage scintillant</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Illusionniste Réaction de défense</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Tant que cette carte défend, quand ce maillon de chaîne se résout, bannissez cette carte. Vous pouvez la jouer dans cette chaîne de combat.</p>\n<p><strong>Mirage</strong> <em>(Quand cette carte défend une attaque non-Illusionniste avec au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, détruisez cette carte.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_PEN129-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_PEN129-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_PEN129-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d2712c7c-7d23-44ab-8945-4217afaaba97",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.189904+13:00",
+            "updated_at": "2025-11-14T13:38:39.619064+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "fr",
+            "product_name": "Compendium of Rathe [FR]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:44.412731+13:00",
+          "updated_at": "2026-01-31T11:00:15.566965+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_PEN129-RF",
+          "set_number": 129,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "51bfa1c1-aafd-49f0-8ce5-c3acf6384315"
+        },
+        {
+          "id": "a8ce21f7-53bf-4e43-8462-2e80f219c4b4",
+          "faces": [
+            {
+              "id": "4fb96afc-d8eb-4168-9957-eb42da51c393",
+              "created_at": "2026-01-27T09:45:06.390500+13:00",
+              "updated_at": "2026-01-27T09:45:06.390508+13:00",
+              "face_id": "GEM125",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM125",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "Shimmering Mirage",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "While this is defending, when this chain link resolves, banish this. You may play it this combat chain.{br}**Mirage** _(When this is defending a non-Illusionist attack with 6 or more {p}, destroy this.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Illusionist Defense Reaction",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "9db35435-2b9d-4082-befd-1507257cff61",
+              "card_print": "a8ce21f7-53bf-4e43-8462-2e80f219c4b4",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Shimmering Mirage</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Illusionist Defense Reaction</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>While this is defending, when this chain link resolves, banish this. You may play it this combat chain.</p>\n<p><strong>Mirage</strong> <em>(When this is defending a non-Illusionist attack with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy this.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM125.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM125.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM125.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8f1632c9-f623-4de9-b95a-60feb60d4f4c",
+            "product_group": {
+              "id": "e81a4cb9-4c41-449c-8d91-740e2d20cca9",
+              "created_at": "2026-03-05T10:48:33.706806+13:00",
+              "updated_at": "2026-03-05T10:48:33.706819+13:00",
+              "group_name": "GEM - Pack 4",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "gem-pack-4"
+            },
+            "created_at": "2026-01-27T09:34:13.853860+13:00",
+            "updated_at": "2026-03-05T10:48:53.562979+13:00",
+            "printed_date": "2025-09-27",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 4",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "gem-pack-4",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-27T09:45:06.387535+13:00",
+          "updated_at": "2026-02-09T14:26:33.567738+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM125",
+          "set_number": 125,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "51bfa1c1-aafd-49f0-8ce5-c3acf6384315"
+        },
+        {
+          "id": "9710c36d-f407-4899-b34c-12260c3785fd",
+          "faces": [
+            {
+              "id": "b20affbc-3d43-4f47-8ee7-5305657fa234",
+              "created_at": "2026-01-27T09:45:06.805501+13:00",
+              "updated_at": "2026-01-27T09:45:06.805508+13:00",
+              "face_id": "GEM125-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM125",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "Shimmering Mirage",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "While this is defending, when this chain link resolves, banish this. You may play it this combat chain.{br}**Mirage** _(When this is defending a non-Illusionist attack with 6 or more {p}, destroy this.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Illusionist Defense Reaction",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "9db35435-2b9d-4082-befd-1507257cff61",
+              "card_print": "9710c36d-f407-4899-b34c-12260c3785fd",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Shimmering Mirage</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Illusionist Defense Reaction</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>While this is defending, when this chain link resolves, banish this. You may play it this combat chain.</p>\n<p><strong>Mirage</strong> <em>(When this is defending a non-Illusionist attack with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy this.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM125-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM125-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM125-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8f1632c9-f623-4de9-b95a-60feb60d4f4c",
+            "product_group": {
+              "id": "e81a4cb9-4c41-449c-8d91-740e2d20cca9",
+              "created_at": "2026-03-05T10:48:33.706806+13:00",
+              "updated_at": "2026-03-05T10:48:33.706819+13:00",
+              "group_name": "GEM - Pack 4",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "gem-pack-4"
+            },
+            "created_at": "2026-01-27T09:34:13.853860+13:00",
+            "updated_at": "2026-03-05T10:48:53.562979+13:00",
+            "printed_date": "2025-09-27",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 4",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "gem-pack-4",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-27T09:45:06.802567+13:00",
+          "updated_at": "2026-02-09T14:26:34.749192+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM125-RF",
+          "set_number": 125,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "51bfa1c1-aafd-49f0-8ce5-c3acf6384315"
+        },
+        {
+          "id": "797e7028-2dae-4e88-b31a-96416d6b9c84",
+          "faces": [
+            {
+              "id": "43f47a3e-a125-4447-bd86-ad92d2bab1b5",
+              "created_at": "2026-01-19T09:11:44.393386+13:00",
+              "updated_at": "2026-01-19T09:11:44.393394+13:00",
+              "face_id": "FR_PEN129",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN129",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "Mirage scintillant",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Tant que cette carte défend, quand ce maillon de chaîne se résout, bannissez cette carte. Vous pouvez la jouer dans cette chaîne de combat.{br}**Mirage** _(Quand cette carte défend une attaque non-Illusionniste avec au moins 6{p}, détruisez cette carte.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Illusionniste Réaction de défense",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "9db35435-2b9d-4082-befd-1507257cff61",
+              "card_print": "797e7028-2dae-4e88-b31a-96416d6b9c84",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Mirage scintillant</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Illusionniste Réaction de défense</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Tant que cette carte défend, quand ce maillon de chaîne se résout, bannissez cette carte. Vous pouvez la jouer dans cette chaîne de combat.</p>\n<p><strong>Mirage</strong> <em>(Quand cette carte défend une attaque non-Illusionniste avec au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, détruisez cette carte.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_PEN129.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_PEN129.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_PEN129.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d2712c7c-7d23-44ab-8945-4217afaaba97",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.189904+13:00",
+            "updated_at": "2025-11-14T13:38:39.619064+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "fr",
+            "product_name": "Compendium of Rathe [FR]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:44.390513+13:00",
+          "updated_at": "2026-01-31T11:03:20.468450+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_PEN129",
+          "set_number": 129,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "51bfa1c1-aafd-49f0-8ce5-c3acf6384315"
+        },
+        {
+          "id": "8208f753-7e80-4072-9024-d1c4ca279234",
+          "faces": [
+            {
+              "id": "239e79cc-3491-49b3-b48b-7b926b061503",
+              "created_at": "2026-01-19T09:12:00.564601+13:00",
+              "updated_at": "2026-01-19T09:12:00.564610+13:00",
+              "face_id": "JA_PEN129-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN129",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "煌めく蜃気楼",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが防御している間、これのチェインリンクを解決したとき、これを追放する。この戦闘チェインであなたはこれをプレイしてもよい。{br}**蜃気楼**（これが６{p}以上の非幻術士の攻撃を防御しているとき、これを破壊する）",
+              "printed_flavor_text": "",
+              "printed_typebox": "幻術士・防御リアクション",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "9db35435-2b9d-4082-befd-1507257cff61",
+              "card_print": "8208f753-7e80-4072-9024-d1c4ca279234",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>煌めく蜃気楼</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>幻術士・防御リアクション</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが防御している間、これのチェインリンクを解決したとき、これを追放する。この戦闘チェインであなたはこれをプレイしてもよい。</p>\n<p><strong>蜃気楼</strong>（これが６<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>以上の非幻術士の攻撃を防御しているとき、これを破壊する）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_PEN129-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_PEN129-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_PEN129-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d5e242aa-362d-4efb-ac7f-2ed815c192e9",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.186868+13:00",
+            "updated_at": "2025-11-14T13:38:39.619716+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "ja",
+            "product_name": "Compendium of Rathe [JA]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:00.561330+13:00",
+          "updated_at": "2026-01-31T10:34:21.359027+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T14:45:00+13:00",
+          "print_id": "JA_PEN129-RF",
+          "set_number": 129,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "51bfa1c1-aafd-49f0-8ce5-c3acf6384315"
+        },
+        {
+          "id": "6e44e442-219f-4f53-a9d9-456bb8814c8e",
+          "faces": [
+            {
+              "id": "1aee40ec-411a-4495-bcb5-f48c675c2ce9",
+              "created_at": "2026-01-19T09:12:16.568893+13:00",
+              "updated_at": "2026-01-19T09:12:16.568900+13:00",
+              "face_id": "PEN129",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN129",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "Shimmering Mirage",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "While this is defending, when this chain link resolves, banish this. You may play it this combat chain.{br}**Mirage** _(When this is defending a non-Illusionist attack with 6 or more {p}, destroy this.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Illusionist Defense Reaction",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "9db35435-2b9d-4082-befd-1507257cff61",
+              "card_print": "6e44e442-219f-4f53-a9d9-456bb8814c8e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Shimmering Mirage</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Illusionist Defense Reaction</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>While this is defending, when this chain link resolves, banish this. You may play it this combat chain.</p>\n<p><strong>Mirage</strong> <em>(When this is defending a non-Illusionist attack with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy this.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN129.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN129.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN129.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c71765f7-37cb-49c8-9b93-319e5c6b0955",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.183675+13:00",
+            "updated_at": "2025-11-14T13:38:39.618314+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "en",
+            "product_name": "Compendium of Rathe",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:16.566213+13:00",
+          "updated_at": "2026-01-31T09:41:23.714660+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T12:45:00+13:00",
+          "print_id": "PEN129",
+          "set_number": 129,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "51bfa1c1-aafd-49f0-8ce5-c3acf6384315"
+        },
+        {
+          "id": "c99ac9aa-0da3-40cf-bb7e-87149642c0a6",
+          "faces": [
+            {
+              "id": "c9ec3a10-0bb5-45b4-937d-d8b0d904fbd0",
+              "created_at": "2026-01-19T09:12:16.592385+13:00",
+              "updated_at": "2026-01-19T09:12:16.592393+13:00",
+              "face_id": "PEN129-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN129",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "Shimmering Mirage",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "While this is defending, when this chain link resolves, banish this. You may play it this combat chain.{br}**Mirage** _(When this is defending a non-Illusionist attack with 6 or more {p}, destroy this.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Illusionist Defense Reaction",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "9db35435-2b9d-4082-befd-1507257cff61",
+              "card_print": "c99ac9aa-0da3-40cf-bb7e-87149642c0a6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Shimmering Mirage</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Illusionist Defense Reaction</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>While this is defending, when this chain link resolves, banish this. You may play it this combat chain.</p>\n<p><strong>Mirage</strong> <em>(When this is defending a non-Illusionist attack with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy this.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN129-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN129-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN129-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c71765f7-37cb-49c8-9b93-319e5c6b0955",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.183675+13:00",
+            "updated_at": "2025-11-14T13:38:39.618314+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "en",
+            "product_name": "Compendium of Rathe",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:16.589673+13:00",
+          "updated_at": "2026-01-31T09:24:31.453773+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T12:45:00+13:00",
+          "print_id": "PEN129-RF",
+          "set_number": 129,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "51bfa1c1-aafd-49f0-8ce5-c3acf6384315"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-11-14T13:40:33.398822+13:00",
+      "updated_at": "2025-11-14T13:40:33.398830+13:00",
+      "card_id": "shimmering-mirage-3",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

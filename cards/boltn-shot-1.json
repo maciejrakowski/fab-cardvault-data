@@ -1,0 +1,565 @@
+{
+  "schemaVersion": 1,
+  "id": "boltn-shot-1",
+  "name": "Bolt'n' Shot",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Bolt'n' Shot",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": 4,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Ranger Action - Arrow Attack",
+      "traitLine": null,
+      "classes": [
+        "Ranger"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Arrow",
+        "Attack"
+      ],
+      "text": {
+        "markup": "If this card's {p} is greater than its base, it gets **go again** and \"When this hits, **reload**.\"",
+        "plain": "If this card's {p} is greater than its base, it gets go again and \"When this hits, reload.\""
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ELE216",
+      "code": "ELE216",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 216,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ELE216",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bolt'n' Shot",
+          "typeLine": "Ranger Action - Arrow Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and \"If this hits, **reload**.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+            "plain": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has go again and \"If this hits, reload.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+            "html": "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>While Bolt'n' Shot's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, it has <strong>go again</strong> and &quot;If this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE216",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Cristián Huerta",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE216.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE216.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE216.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ELE216-RF",
+      "code": "ELE216",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 216,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ELE216-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bolt'n' Shot",
+          "typeLine": "Ranger Action - Arrow Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and \"If this hits, **reload**.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+            "plain": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has go again and \"If this hits, reload.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+            "html": "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>While Bolt'n' Shot's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, it has <strong>go again</strong> and &quot;If this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE216",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Cristián Huerta",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE216-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE216-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE216-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LXI026",
+      "code": "LXI026",
+      "language": "en",
+      "set": "LXI",
+      "setNumber": 26,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "lexi-blitz-deck",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LXI026",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bolt'n' Shot",
+          "typeLine": "Ranger Action - Arrow Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Arrows can only be played from arsenal and only if you control a bow.)_\r\nWhile Bolt'n Shot's {p} is greater than its base {p}, it has **go again** and \"If it hits, **reload**.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+            "plain": "_(Arrows can only be played from arsenal and only if you control a bow.)_\r\nWhile Bolt'n Shot's {p} is greater than its base {p}, it has go again and \"If it hits, reload.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+            "html": "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>While Bolt'n Shot's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, it has <strong>go again</strong> and &quot;If it hits, <strong>reload</strong>.&quot; <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LXI026",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Cristián Huerta",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LXI026.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LXI026.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LXI026.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ELE216",
+      "code": "ELE216",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 216,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria-unlimited",
+      "releaseDate": "2021-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ELE216",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bolt'n' Shot",
+          "typeLine": "Ranger Action - Arrow Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and \"If this hits, **reload**.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+            "plain": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has go again and \"If this hits, reload.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+            "html": "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>While Bolt'n' Shot's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, it has <strong>go again</strong> and &quot;If this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE216",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Cristián Huerta",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE216.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE216.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE216.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ELE216-RF",
+      "code": "ELE216",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 216,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria-unlimited",
+      "releaseDate": "2021-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ELE216-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bolt'n' Shot",
+          "typeLine": "Ranger Action - Arrow Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has **go again** and \"If this hits, **reload**.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+            "plain": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nWhile Bolt'n' Shot's {p} is greater than its base {p}, it has go again and \"If this hits, reload.\" _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_",
+            "html": "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>While Bolt'n' Shot's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, it has <strong>go again</strong> and &quot;If this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE216",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Cristián Huerta",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE216-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE216-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE216-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AAZ009",
+      "code": "AAZ009",
+      "language": "en",
+      "set": "AAZ",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-azalea-ace-in-the-hole",
+      "releaseDate": "2024-08-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AAZ009",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bolt'n Shot",
+          "typeLine": "Ranger Action - Arrow Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If this card's {p} is greater than its base, it gets **go again** and \"When this hits, **reload**.\" _(If you have no cards in arsenal, you may put a card from your hand face-down into your arsenal.)_",
+            "plain": "If this card's {p} is greater than its base, it gets go again and \"When this hits, reload.\" _(If you have no cards in arsenal, you may put a card from your hand face-down into your arsenal.)_",
+            "html": "<p>If this card's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base, it gets <strong>go again</strong> and &quot;When this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in arsenal, you may put a card from your hand face-down into your arsenal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAZ009",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Cristián Huerta",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [
+            3
+          ],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AAZ009.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AAZ009.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AAZ009.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM058",
+      "code": "GEM058",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 58,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-2",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM058",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bolt'n Shot",
+          "typeLine": "Ranger Action - Arrow Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "While this card's {p} is greater than its base, it gets **go again** and \"When this hits, **reload**.\"",
+            "plain": "While this card's {p} is greater than its base, it gets go again and \"When this hits, reload.\"",
+            "html": "<p>While this card's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base, it gets <strong>go again</strong> and &quot;When this hits, <strong>reload</strong>.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM058",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Cristián Huerta",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM058.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM058.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM058.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAZ010",
+      "code": "SAZ010",
+      "language": "en",
+      "set": "SAZ",
+      "setNumber": 10,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-azalea",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-30T12:10:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SAZ010",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bolt'n Shot",
+          "typeLine": "Ranger Action - Arrow Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If this card's {p} is greater than its base, it gets **go again** and \"When this hits, **reload**.\" _(If you have no cards in arsenal, you may put a card from your hand face-down into your arsenal.)_",
+            "plain": "If this card's {p} is greater than its base, it gets go again and \"When this hits, reload.\" _(If you have no cards in arsenal, you may put a card from your hand face-down into your arsenal.)_",
+            "html": "<p>If this card's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is greater than its base, it gets <strong>go again</strong> and &quot;When this hits, <strong>reload</strong>.&quot; <em>(If you have no cards in arsenal, you may put a card from your hand face-down into your arsenal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SAZ010",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Cristián Huerta",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAZ010.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAZ010.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAZ010.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "go again",
+      "reload"
+    ],
+    "editions": {
+      "U-ELE216": "unlimited",
+      "U-ELE216-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:05:33Z",
+    "rawSha256": "566e88c7d8ad1bfe3638746ea8139101095202a76782e2d634573a52e0e3ade2",
+    "updatedAt": "2025-09-18T06:46:51.471737+12:00"
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "schemaVersion": 1,
+  "id": "affirm-loyalty-1",
+  "name": "Affirm Loyalty",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Affirm Loyalty",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Draconic Warrior Attack Reaction",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [
+        "Draconic"
+      ],
+      "types": [
+        "Attack Reaction"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.",
+        "plain": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "FNG009",
+      "code": "FNG009",
+      "language": "en",
+      "set": "FNG",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted-blitz-deck-fang",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FNG009",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Affirm Loyalty",
+          "typeLine": "Draconic Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.",
+            "plain": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.",
+            "html": "<p>Target dagger attack gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If you control 2 or more Draconic chain links, create a Fealty token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FNG009",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": "draconic",
+          "watermark": [
+            5
+          ],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FNG009.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FNG009.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FNG009.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HNT103",
+      "code": "HNT103",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 103,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT103",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Affirm Loyalty",
+          "typeLine": "Draconic Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.",
+            "plain": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.",
+            "html": "<p>Target dagger attack gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If you control 2 or more Draconic chain links, create a Fealty token.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"We obey the Emperor. With blood and blade we commit at this command.\" - Alshoni mantra_",
+            "plain": "_\"We obey the Emperor. With blood and blade we commit at this command.\" - Alshoni mantra_",
+            "html": "<p><em>&quot;We obey the Emperor. With blood and blade we commit at this command.&quot; - Alshoni mantra</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT103",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": "draconic",
+          "watermark": [
+            5
+          ],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT103.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT103.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT103.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HNT103-RF",
+      "code": "HNT103",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 103,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT103-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Affirm Loyalty",
+          "typeLine": "Draconic Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.",
+            "plain": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.",
+            "html": "<p>Target dagger attack gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If you control 2 or more Draconic chain links, create a Fealty token.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"We obey the Emperor. With blood and blade we commit at this command.\" - Alshoni mantra_",
+            "plain": "_\"We obey the Emperor. With blood and blade we commit at this command.\" - Alshoni mantra_",
+            "html": "<p><em>&quot;We obey the Emperor. With blood and blade we commit at this command.&quot; - Alshoni mantra</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT103",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": "draconic",
+          "watermark": [
+            5
+          ],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT103-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT103-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT103-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM012",
+      "code": "GEM012",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-1",
+      "releaseDate": "2025-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM012",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Affirm Loyalty",
+          "typeLine": "Draconic Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.",
+            "plain": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.",
+            "html": "<p>Target dagger attack gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If you control 2 or more Draconic chain links, create a Fealty token.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"We obey the Emperor. With blood and blade we commit at this command.\" - Alshoni mantra_",
+            "plain": "_\"We obey the Emperor. With blood and blade we commit at this command.\" - Alshoni mantra_",
+            "html": "<p><em>&quot;We obey the Emperor. With blood and blade we commit at this command.&quot; - Alshoni mantra</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM012",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": "draconic",
+          "watermark": [
+            5
+          ],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM012.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM012.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM012.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM012-RF",
+      "code": "GEM012",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-1",
+      "releaseDate": "2025-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM012-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Affirm Loyalty",
+          "typeLine": "Draconic Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.",
+            "plain": "Target dagger attack gets +2{p}. If you control 2 or more Draconic chain links, create a Fealty token.",
+            "html": "<p>Target dagger attack gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If you control 2 or more Draconic chain links, create a Fealty token.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"We obey the Emperor. With blood and blade we commit at this command.\" - Alshoni mantra_",
+            "plain": "_\"We obey the Emperor. With blood and blade we commit at this command.\" - Alshoni mantra_",
+            "html": "<p><em>&quot;We obey the Emperor. With blood and blade we commit at this command.&quot; - Alshoni mantra</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM012",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": "draconic",
+          "watermark": [
+            5
+          ],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM012-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM012-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM012-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:03:48Z",
+    "rawSha256": "71a506a38cf3d0deef19da5ca4512a9078d1d13a3c95950d9a73df1ddf84088d",
+    "updatedAt": "2025-09-18T06:45:21.011177+12:00"
+  }
+}

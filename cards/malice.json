@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "malice",
+  "name": "Malice",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Malice",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Shadow Necromancer Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Necromancer"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}, {t}: Until end of turn, you may play target zombie from your graveyard. **Go again**{br}Whenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished zone.",
+        "plain": "Action -- {r}, {t}: Until end of turn, you may play target zombie from your graveyard. Go again\nWhenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished zone."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "IAR054",
+      "code": "IAR054",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 54,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR054",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Malice",
+          "typeLine": "Shadow Necromancer Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}, {t}: Until end of turn, you may play target zombie from your graveyard. **Go again**{br}Whenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished zone.",
+            "plain": "Action -- {r}, {t}: Until end of turn, you may play target zombie from your graveyard. Go again\nWhenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished zone.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Until end of turn, you may play target zombie from your graveyard. <strong>Go again</strong></p>\n<p>Whenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished zone.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "IAR054",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "João G. Santos",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR054.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR054.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR054.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR054-MV",
+      "code": "IAR054",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 54,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR054-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Malice",
+          "typeLine": "Shadow Necromancer Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}, {t}: Until end of turn, you may play target zombie from your graveyard. **Go again**{br}Whenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished zone.",
+            "plain": "Action -- {r}, {t}: Until end of turn, you may play target zombie from your graveyard. Go again\nWhenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished zone.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Until end of turn, you may play target zombie from your graveyard. <strong>Go again</strong></p>\n<p>Whenever a zombie you control dies, banish it face-down and create a Corrupted Corpse in your banished zone.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "IAR054",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "João G. Santos",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR054-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR054-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR054-MV.webp"
+          }
+        },
+        {
+          "id": "IAR054-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Malice",
+          "typeLine": "Shadow Necromancer Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR054-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR054-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR054-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T19:43:46Z",
+    "rawSha256": "466f77b9a121392129636c8d7e986fb578638146496e2eccd3a8e5d0a141e6e3",
+    "updatedAt": "2026-07-13T19:38:00.160100+12:00"
+  }
+}

@@ -1,0 +1,933 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "0d999aff-3679-41b8-9409-c3dd79cb0ce3",
+      "cores": [
+        {
+          "id": "19ac3b2f-6245-458e-a09a-15a0704da503",
+          "core_classes": [
+            {
+              "id": 4,
+              "name": "Brute",
+              "name_en": "Brute",
+              "name_fr": "Brute",
+              "name_de": "Rohling",
+              "name_it": "Bruto",
+              "name_es": "Bruto",
+              "name_ja": "野人",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 8,
+              "name": "Shadow",
+              "name_en": "Shadow",
+              "name_fr": "Ombre",
+              "name_de": "Schatten",
+              "name_it": "Ombra",
+              "name_es": "Sombra",
+              "name_ja": "影",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-07-13T19:37:59.354723+12:00",
+          "updated_at": "2026-07-13T19:37:59.354732+12:00",
+          "name": "Cleave the Heavens",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "2",
+          "power": "6",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Instant** -- Banish this from your hand: Create a Gate to i'Arathael token.{br}**Blood Debt **",
+          "typebox": "Shadow Brute Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 2,
+          "power_value": 6,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "0d999aff-3679-41b8-9409-c3dd79cb0ce3"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "9f13221e-4058-4024-9789-72094d112553",
+          "faces": [
+            {
+              "id": "93345280-c52a-47ff-b570-77c25bfb714f",
+              "created_at": "2026-07-13T19:38:08.506610+12:00",
+              "updated_at": "2026-07-13T19:38:08.506620+12:00",
+              "face_id": "FR_IAR020",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR020",
+              "printed_artist": "Alief Rusdiatama",
+              "printed_name": "Pourfendre les cieux",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané** -- Bannissez cette carte de votre main\u00A0: créez un jeton Porte d’i’Arathael.{br}**Dette de sang** _(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1{g}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Brute Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "19ac3b2f-6245-458e-a09a-15a0704da503",
+              "card_print": "9f13221e-4058-4024-9789-72094d112553",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pourfendre les cieux</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané</strong> — Bannissez cette carte de votre main\u00A0: créez un jeton Porte d’i’Arathael.</p>\n<p><strong>Dette de sang</strong> <em>(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR020.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR020.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR020.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:08.500392+12:00",
+          "updated_at": "2026-09-07T10:30:12.483574+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR020",
+          "set_number": 20,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "0d999aff-3679-41b8-9409-c3dd79cb0ce3"
+        },
+        {
+          "id": "7794e0ea-1048-4e46-95d9-6ece15e47728",
+          "faces": [
+            {
+              "id": "bd6091b1-deaf-4ec6-87e6-f00ad798edd7",
+              "created_at": "2026-07-13T19:38:08.541856+12:00",
+              "updated_at": "2026-07-13T19:38:08.541865+12:00",
+              "face_id": "FR_IAR020-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR020",
+              "printed_artist": "Alief Rusdiatama",
+              "printed_name": "Pourfendre les cieux",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané** -- Bannissez cette carte de votre main\u00A0: créez un jeton Porte d’i’Arathael.{br}**Dette de sang** _(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1{g}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Brute Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "19ac3b2f-6245-458e-a09a-15a0704da503",
+              "card_print": "7794e0ea-1048-4e46-95d9-6ece15e47728",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pourfendre les cieux</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané</strong> — Bannissez cette carte de votre main\u00A0: créez un jeton Porte d’i’Arathael.</p>\n<p><strong>Dette de sang</strong> <em>(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR020-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR020-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR020-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:08.535796+12:00",
+          "updated_at": "2026-09-07T10:30:12.915865+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR020-RF",
+          "set_number": 20,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "0d999aff-3679-41b8-9409-c3dd79cb0ce3"
+        },
+        {
+          "id": "c801bfc3-bfe7-4137-b390-fba2a60404ac",
+          "faces": [
+            {
+              "id": "966ccb81-7f8b-45b9-9eb7-51dbb6bc9585",
+              "created_at": "2026-07-13T19:38:57.945218+12:00",
+              "updated_at": "2026-07-13T19:38:57.945228+12:00",
+              "face_id": "JA_IAR020",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR020",
+              "printed_artist": "Alief Rusdiatama",
+              "printed_name": "天を裂く",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**インスタント** -- これを手札から追放する：「イアラサエルへの門」トークンを１つ作成する。{br}**血の債務**（これが追放されている間、あなたの終了フェイズの開始時、１{g}を失う）",
+              "printed_flavor_text": "",
+              "printed_typebox": "影・野人・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "19ac3b2f-6245-458e-a09a-15a0704da503",
+              "card_print": "c801bfc3-bfe7-4137-b390-fba2a60404ac",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>天を裂く</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>影・野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>インスタント</strong> — これを手札から追放する：「イアラサエルへの門」トークンを１つ作成する。</p>\n<p><strong>血の債務</strong>（これが追放されている間、あなたの終了フェイズの開始時、１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>を失う）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR020.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR020.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR020.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:57.939217+12:00",
+          "updated_at": "2026-09-07T10:30:22.879429+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR020",
+          "set_number": 20,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "0d999aff-3679-41b8-9409-c3dd79cb0ce3"
+        },
+        {
+          "id": "8636dce0-3149-4279-9e62-9f8294143a7f",
+          "faces": [
+            {
+              "id": "489c2068-aa66-4ba8-b790-a99994b4f4eb",
+              "created_at": "2026-07-13T19:38:57.978328+12:00",
+              "updated_at": "2026-07-13T19:38:57.978338+12:00",
+              "face_id": "JA_IAR020-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR020",
+              "printed_artist": "Alief Rusdiatama",
+              "printed_name": "天を裂く",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**インスタント** -- これを手札から追放する：「イアラサエルへの門」トークンを１つ作成する。{br}**血の債務**（これが追放されている間、あなたの終了フェイズの開始時、１{g}を失う）",
+              "printed_flavor_text": "",
+              "printed_typebox": "影・野人・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "19ac3b2f-6245-458e-a09a-15a0704da503",
+              "card_print": "8636dce0-3149-4279-9e62-9f8294143a7f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>天を裂く</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>影・野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>インスタント</strong> — これを手札から追放する：「イアラサエルへの門」トークンを１つ作成する。</p>\n<p><strong>血の債務</strong>（これが追放されている間、あなたの終了フェイズの開始時、１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>を失う）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR020-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR020-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR020-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:57.972318+12:00",
+          "updated_at": "2026-09-07T10:30:22.469573+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR020-RF",
+          "set_number": 20,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "0d999aff-3679-41b8-9409-c3dd79cb0ce3"
+        },
+        {
+          "id": "82cb7adf-b018-41d5-9afa-93e6c5825279",
+          "faces": [
+            {
+              "id": "bed767aa-39d0-441d-b149-54eb881566f3",
+              "created_at": "2026-07-14T20:33:34.377791+12:00",
+              "updated_at": "2026-07-16T03:28:31.016560+12:00",
+              "face_id": "GEM192",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM192",
+              "printed_artist": "Alief Rusdiatama",
+              "printed_name": "Cleave the Heavens",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- Banish this from your hand: Create a Gate to i'Arathael token. **Blood Debt**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "19ac3b2f-6245-458e-a09a-15a0704da503",
+              "card_print": "82cb7adf-b018-41d5-9afa-93e6c5825279",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cleave the Heavens</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — Banish this from your hand: Create a Gate to i'Arathael token. <strong>Blood Debt</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM192.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM192.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM192.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "eff750c4-6ea4-4656-bce6-b497efe2491f",
+            "product_group": {
+              "id": "0fd44182-de3f-40ac-894e-ace1ca103655",
+              "created_at": "2026-09-11T13:07:08.769265+12:00",
+              "updated_at": "2026-09-11T13:07:08.769275+12:00",
+              "group_name": "GEM - Pack 6",
+              "product_type": "booster",
+              "release_date": "2026-10-01",
+              "slug": "gem-pack-6"
+            },
+            "created_at": "2026-07-13T18:14:26.634144+12:00",
+            "updated_at": "2026-09-11T13:07:26.305760+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 6",
+            "product_type": "booster",
+            "release_date": "2026-10-01",
+            "slug": "gem-pack-6",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-14T20:33:34.370881+12:00",
+          "updated_at": "2026-09-07T10:30:28.174949+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-07T10:21:00+12:00",
+          "print_id": "GEM192",
+          "set_number": 192,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "0d999aff-3679-41b8-9409-c3dd79cb0ce3"
+        },
+        {
+          "id": "89c78bc5-941d-410d-956d-e962d134ce3b",
+          "faces": [
+            {
+              "id": "55a08e43-0003-4150-bb7d-169c0c83e07f",
+              "created_at": "2026-07-14T20:33:34.397658+12:00",
+              "updated_at": "2026-07-16T03:28:40.389867+12:00",
+              "face_id": "GEM192-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM192",
+              "printed_artist": "Alief Rusdiatama",
+              "printed_name": "Cleave the Heavens",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- Banish this from your hand: Create a Gate to i'Arathael token. **Blood Debt**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "19ac3b2f-6245-458e-a09a-15a0704da503",
+              "card_print": "89c78bc5-941d-410d-956d-e962d134ce3b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cleave the Heavens</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — Banish this from your hand: Create a Gate to i'Arathael token. <strong>Blood Debt</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM192-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM192-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM192-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "eff750c4-6ea4-4656-bce6-b497efe2491f",
+            "product_group": {
+              "id": "0fd44182-de3f-40ac-894e-ace1ca103655",
+              "created_at": "2026-09-11T13:07:08.769265+12:00",
+              "updated_at": "2026-09-11T13:07:08.769275+12:00",
+              "group_name": "GEM - Pack 6",
+              "product_type": "booster",
+              "release_date": "2026-10-01",
+              "slug": "gem-pack-6"
+            },
+            "created_at": "2026-07-13T18:14:26.634144+12:00",
+            "updated_at": "2026-09-11T13:07:26.305760+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 6",
+            "product_type": "booster",
+            "release_date": "2026-10-01",
+            "slug": "gem-pack-6",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-14T20:33:34.390627+12:00",
+          "updated_at": "2026-09-07T10:30:27.806187+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-07T10:21:00+12:00",
+          "print_id": "GEM192-RF",
+          "set_number": 192,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "0d999aff-3679-41b8-9409-c3dd79cb0ce3"
+        },
+        {
+          "id": "4d1c60ba-01a2-46d5-af27-be56e0b39795",
+          "faces": [
+            {
+              "id": "37892867-1b60-4b48-884f-b29d43e7de2d",
+              "created_at": "2026-07-13T19:38:33.592582+12:00",
+              "updated_at": "2026-07-13T19:38:33.592592+12:00",
+              "face_id": "IAR020",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR020",
+              "printed_artist": "Alief Rusdiatama",
+              "printed_name": "Cleave the Heavens",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- Banish this from your hand: Create a Gate to i'Arathael token.{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "19ac3b2f-6245-458e-a09a-15a0704da503",
+              "card_print": "4d1c60ba-01a2-46d5-af27-be56e0b39795",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cleave the Heavens</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — Banish this from your hand: Create a Gate to i'Arathael token.</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR020.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR020.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR020.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:33.586566+12:00",
+          "updated_at": "2026-09-07T10:30:15.264090+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR020",
+          "set_number": 20,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "0d999aff-3679-41b8-9409-c3dd79cb0ce3"
+        },
+        {
+          "id": "be3dbd72-e922-4cf5-a613-c340922d4a8d",
+          "faces": [
+            {
+              "id": "a210b12d-3cfc-4961-8197-cdf78da9b561",
+              "created_at": "2026-07-13T19:38:33.625850+12:00",
+              "updated_at": "2026-07-13T19:38:33.625864+12:00",
+              "face_id": "IAR020-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR020",
+              "printed_artist": "Alief Rusdiatama",
+              "printed_name": "Cleave the Heavens",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- Banish this from your hand: Create a Gate to i'Arathael token.{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "19ac3b2f-6245-458e-a09a-15a0704da503",
+              "card_print": "be3dbd72-e922-4cf5-a613-c340922d4a8d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cleave the Heavens</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — Banish this from your hand: Create a Gate to i'Arathael token.</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR020-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR020-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR020-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:33.619996+12:00",
+          "updated_at": "2026-09-07T10:30:16.112013+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR020-RF",
+          "set_number": 20,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "0d999aff-3679-41b8-9409-c3dd79cb0ce3"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-07-13T19:37:59.348091+12:00",
+      "updated_at": "2026-07-13T19:37:59.348100+12:00",
+      "card_id": "cleave-the-heavens-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

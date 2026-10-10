@@ -1,0 +1,442 @@
+{
+  "schemaVersion": 1,
+  "id": "mark-of-the-huntsman",
+  "name": "Mark of the Huntsman",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Mark of the Huntsman",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 1,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Weapon - Dagger (1H)",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(1H)",
+        "Dagger"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}When this hits a hero, you may choose to destroy this and **mark** them.{br}If this is attacking a **marked** hero, this gets +1{p}.",
+        "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nWhen this hits a hero, you may choose to destroy this and mark them.\nIf this is attacking a marked hero, this gets +1{p}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HNT010",
+      "code": "HNT010",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 10,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT010",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mark of the Huntsman",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}When this hits a hero, you may choose to destroy this and **mark** them.{br}If this is attacking a **marked** hero, this gets +1{p}.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nWhen this hits a hero, you may choose to destroy this and mark them.\nIf this is attacking a marked hero, this gets +1{p}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p>When this hits a hero, you may choose to destroy this and <strong>mark</strong> them.</p>\n<p>If this is attacking a <strong>marked</strong> hero, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT010",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Marcus Reyno",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT010.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT010.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT010.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS375-RF",
+      "code": "LGS375",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 375,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pre-release-the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS375-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mark of the Huntsman",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}When this hits a**** hero, you may choose to destroy this and **mark** them.{br}If this is attacking a **marked** hero, this gets +1{p}.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nWhen this hits a** hero, you may choose to destroy this and mark** them.\nIf this is attacking a marked hero, this gets +1{p}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p>When this hits a**** hero, you may choose to destroy this and <strong>mark</strong> them.</p>\n<p>If this is attacking a <strong>marked</strong> hero, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS375",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Marcus Reyno",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS375-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS375-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS375-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WOD002",
+      "code": "WOD002",
+      "language": "en",
+      "set": "WOD",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted-blitz-deck-arakni-web-of-deceit",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WOD002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mark of the Huntsman",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}When this hits a hero, you may choose to destroy this and **mark** them.{br}If this is attacking a **marked** hero, this gets +1{p}.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nWhen this hits a hero, you may choose to destroy this and mark them.\nIf this is attacking a marked hero, this gets +1{p}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p>When this hits a hero, you may choose to destroy this and <strong>mark</strong> them.</p>\n<p>If this is attacking a <strong>marked</strong> hero, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WOD002",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Marcus Reyno",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WOD002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WOD002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WOD002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM006-CF",
+      "code": "GEM006",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-1",
+      "releaseDate": "2025-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM006-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mark of the Huntsman",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}When this hits a hero, you may choose to destroy this and **mark** them.{br}If this is attacking a **marked** hero, this gets +1{p}.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nWhen this hits a hero, you may choose to destroy this and mark them.\nIf this is attacking a marked hero, this gets +1{p}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p>When this hits a hero, you may choose to destroy this and <strong>mark</strong> them.</p>\n<p>If this is attacking a <strong>marked</strong> hero, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM006",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Marcus Reyno",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM006-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM006-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM006-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM007-CF",
+      "code": "GEM007",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-1",
+      "releaseDate": "2025-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM007-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mark of the Huntsman",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}When this hits a hero, you may choose to destroy this and **mark** them.{br}If this is attacking a **marked** hero, this gets +1{p}.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nWhen this hits a hero, you may choose to destroy this and mark them.\nIf this is attacking a marked hero, this gets +1{p}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p>When this hits a hero, you may choose to destroy this and <strong>mark</strong> them.</p>\n<p>If this is attacking a <strong>marked</strong> hero, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM007",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Marcus Reyno",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM007-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM007-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM007-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAR002",
+      "code": "SAR002",
+      "language": "en",
+      "set": "SAR",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-arakni-web-of-deceit",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-30T13:10:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SAR002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mark of the Huntsman",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}When this hits a hero, you may choose to destroy this and **mark** them.{br}If this is attacking a marked hero, this gets +1{p}.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nWhen this hits a hero, you may choose to destroy this and mark them.\nIf this is attacking a marked hero, this gets +1{p}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p>When this hits a hero, you may choose to destroy this and <strong>mark</strong> them.</p>\n<p>If this is attacking a marked hero, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SAR002",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Marcus Reyno",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAR002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAR002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAR002.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack",
+      "Go again",
+      "mark",
+      "marked"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:21:45Z",
+    "rawSha256": "a9f28a42f46b10e6c601b53c9e47c30e6071b00879da7b205e329c2241fcfbca",
+    "updatedAt": "2025-09-18T06:52:30.749056+12:00"
+  }
+}

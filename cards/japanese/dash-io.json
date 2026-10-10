@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "dash-io",
+  "language": "ja",
+  "name": "ダッシュ I/O",
+  "cores": [
+    {
+      "position": 10,
+      "name": "ダッシュ I/O",
+      "typeLine": "機械技師・ヒーロー",
+      "classes": [
+        "機械技師"
+      ],
+      "types": [
+        "ヒーロー"
+      ],
+      "text": {
+        "markup": "あなたのデッキの一番上のカードはいつでも見てよい。{br}１ターンに１回、あなたのデッキの一番上のコストが０か１の機械技師のアイテムを、インスタントであるかのようにプレイしてよい。それをプレイするためのコストに{r}を追加する。",
+        "plain": "あなたのデッキの一番上のカードはいつでも見てよい。\n１ターンに１回、あなたのデッキの一番上のコストが０か１の機械技師のアイテムを、インスタントであるかのようにプレイしてよい。それをプレイするためのコストに{r}を追加する。",
+        "html": "<p>あなたのデッキの一番上のカードはいつでも見てよい。</p>\n<p>１ターンに１回、あなたのデッキの一番上のコストが０か１の機械技師のアイテムを、インスタントであるかのようにプレイしてよい。それをプレイするためのコストに<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を追加する。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_AIO001",
+      "code": "AIO001",
+      "language": "ja",
+      "set": "AIO",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dash-io-ja",
+      "releaseDate": "2024-10-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AIO001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "ダッシュ I/O",
+          "typeLine": "機械技師・ヒーロー",
+          "traitLine": null,
+          "text": {
+            "markup": "あなたのデッキの一番上のカードはいつでも見てよい。{br}１ターンに１回、あなたのデッキの一番上のコストが０か１の機械技師のアイテムを、インスタントであるかのようにプレイしてよい。それをプレイするためのコストに{r}を追加する。",
+            "plain": "あなたのデッキの一番上のカードはいつでも見てよい。\n１ターンに１回、あなたのデッキの一番上のコストが０か１の機械技師のアイテムを、インスタントであるかのようにプレイしてよい。それをプレイするためのコストに{r}を追加する。",
+            "html": "<p>あなたのデッキの一番上のカードはいつでも見てよい。</p>\n<p>１ターンに１回、あなたのデッキの一番上のコストが０か１の機械技師のアイテムを、インスタントであるかのようにプレイしてよい。それをプレイするためのコストに<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を追加する。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "36",
+            "intellect": "4"
+          },
+          "printedCode": "AIO001",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Sam Yang",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AIO001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AIO001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AIO001.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

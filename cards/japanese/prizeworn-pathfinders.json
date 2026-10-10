@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "prizeworn-pathfinders",
+  "language": "ja",
+  "name": "戦利の先導",
+  "cores": [
+    {
+      "position": 10,
+      "name": "戦利の先導",
+      "typeLine": "守護者 / 戦士・装備品 － 足",
+      "classes": [
+        "守護者",
+        "戦士"
+      ],
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "足"
+      ],
+      "text": {
+        "markup": "あなたが賭けに勝つたび、{r}を支払ってもよい。そうした場合、これの－１{d}カウンターを１個取り除く。{br} **戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+        "plain": "あなたが賭けに勝つたび、{r}を支払ってもよい。そうした場合、これの－１{d}カウンターを１個取り除く。\n 戦傷（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+        "html": "<p>あなたが賭けに勝つたび、<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を支払ってもよい。そうした場合、これの－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個取り除く。</p>\n<p><strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_AOL006-RF",
+      "code": "AOL006",
+      "language": "ja",
+      "set": "AOL",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-olympia-prized-fighter-ja",
+      "releaseDate": "2026-08-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-30T10:28:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AOL006-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "戦利の先導",
+          "typeLine": "守護者 / 戦士・装備品 － 足",
+          "traitLine": null,
+          "text": {
+            "markup": "あなたが賭けに勝つたび、{r}を支払ってもよい。そうした場合、これの－１{d}カウンターを１個取り除く。{br} **戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+            "plain": "あなたが賭けに勝つたび、{r}を支払ってもよい。そうした場合、これの－１{d}カウンターを１個取り除く。\n 戦傷（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+            "html": "<p>あなたが賭けに勝つたび、<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を支払ってもよい。そうした場合、これの－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個取り除く。</p>\n<p><strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AOL006",
+          "printedLanguageCode": "jp",
+          "printedYear": "2026",
+          "artist": "Surya Prasetya",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AOL006-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AOL006-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AOL006-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

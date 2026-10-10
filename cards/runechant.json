@@ -1,0 +1,1406 @@
+{
+  "schemaVersion": 1,
+  "id": "runechant",
+  "name": "Runechant",
+  "objectType": "token",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Runechant",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Runeblade Token - Aura",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [],
+      "types": [
+        "Token"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": {
+        "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+        "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #5] Runechant/Quicken - trigger on activate",
+      "description": "This card's textbox was updated to change a effect to trigger on the activation of a weapon attack rather than when the weapon becomes attacking, so that would be consistent in trigger timing with playing an attack action card.",
+      "date": "03-10-2022"
+    }
+  ],
+  "printings": [
+    {
+      "id": "ARC112",
+      "code": "ARC112-T",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 112,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC112",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC112-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Daniel Jiménez",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC112.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC112.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC112.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU157-RF",
+      "code": "CRU157",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 157,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU157-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU157",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU157-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU157-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU157-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC112",
+      "code": "ARC112",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 112,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC112",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC112",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC112.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC112.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC112.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU157-RF",
+      "code": "CRU157",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 157,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU157-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU157",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "common-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU157-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU157-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU157-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVR119",
+      "code": "EVR119",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 119,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR119",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR119",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR119.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR119.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR119.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP300",
+      "code": "1HP300",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 300,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP300",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP300",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "token",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP300.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP300.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP300.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN191",
+      "code": "DYN191",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 191,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN191",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or activate a weapon attack, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or activate a weapon attack, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or activate a weapon attack, destroy Runechant and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN191",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN191.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN191.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN191.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HV027",
+      "code": "1HV027",
+      "language": "en",
+      "set": "1HV",
+      "setNumber": 27,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "viserai-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HV027",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or activate a weapon attack, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or activate a weapon attack, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or activate a weapon attack, destroy Runechant and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HV027",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HV027.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HV027.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HV027.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DTD214",
+      "code": "DTD214",
+      "language": "en",
+      "set": "DTD",
+      "setNumber": 214,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dusk-till-dawn",
+      "releaseDate": "2023-07-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DTD214",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DTD214",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DTD214.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DTD214.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DTD214.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB152-CF",
+      "code": "FAB152",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 152,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prize-wall-bright-lights",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB152-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB152",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB152-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB152-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB152-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB283-CF",
+      "code": "FAB283",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 283,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prize-wall-rosetta",
+      "releaseDate": "2024-09-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB283-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB283",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessketchin",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB283-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB283-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB283-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB265-RF",
+      "code": "FAB265",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 265,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "calling-rosetta",
+      "releaseDate": "2024-09-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB265-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB265",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessketchin",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB265-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB265-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB265-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB266-RF",
+      "code": "FAB266",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 266,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "calling-rosetta",
+      "releaseDate": "2024-09-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB266-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB266",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessketchin",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB266-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB266-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB266-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AUA028",
+      "code": "ARA028",
+      "language": "en",
+      "set": "AUA",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rosetta-blitz-deck-aurora",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AUA028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARA028",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessketchin",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AUA028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AUA028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AUA028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB284-CF",
+      "code": "FAB284",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 284,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "marketing-starcity-games-rosetta",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB284-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB284",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessketchin",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB284-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB284-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB284-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FLR028",
+      "code": "FLR028",
+      "language": "en",
+      "set": "FLR",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rosetta-blitz-deck-florian",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FLR028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FLR028",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessketchin",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FLR028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FLR028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FLR028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ROS162-A",
+      "code": "ROS162",
+      "language": "en",
+      "set": "ROS",
+      "setNumber": 162,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rosetta",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ROS162-A",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ROS162",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessketchin",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ROS162-A.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ROS162-A.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ROS162-A.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ROS162-B",
+      "code": "ROS162",
+      "language": "en",
+      "set": "ROS",
+      "setNumber": 162,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rosetta",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ROS162-B",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ROS162",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessketchin",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ROS162-B.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ROS162-B.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ROS162-B.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AVS030",
+      "code": "AVS030",
+      "language": "en",
+      "set": "AVS",
+      "setNumber": 30,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "amory-deck-legends-viserai-rune-blood",
+      "releaseDate": "2025-07-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AVS030",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AVS030",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AVS030.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AVS030.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AVS030.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SVI034",
+      "code": "SVI034",
+      "language": "en",
+      "set": "SVI",
+      "setNumber": 34,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-viserai",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SVI034",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SVI034",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SVI034.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SVI034.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SVI034.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBA036",
+      "code": "SBA036",
+      "language": "en",
+      "set": "SBA",
+      "setNumber": 36,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-briar",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBA036",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBA036",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBA036.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBA036.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBA036.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBW035",
+      "code": "SBW035",
+      "language": "en",
+      "set": "SBW",
+      "setNumber": 35,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-viserai-between-worlds",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-07T11:20:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBW035",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Runechant",
+          "typeLine": "Runeblade Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and deal 1 arcane damage to target opposing hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBW035",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBW035.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBW035.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW035.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-ARC112": "unlimited",
+      "U-CRU157-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T19:54:23Z",
+    "rawSha256": "ff90c15c461f63df2024a4a854c5a4e29474182bb59e23e1a1474010170aaf7a",
+    "updatedAt": "2025-09-18T06:55:12.616547+12:00"
+  }
+}

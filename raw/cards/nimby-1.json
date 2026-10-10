@@ -1,0 +1,921 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "8dd8e2f2-2ee5-4a49-8154-9392a943470b",
+      "cores": [
+        {
+          "id": "54a00e50-0662-4894-99f4-14484ce9c7e6",
+          "core_classes": [
+            {
+              "id": 6,
+              "name": "Generic",
+              "name_en": "Generic",
+              "name_fr": "Générique",
+              "name_de": "Allgemein",
+              "name_it": "Generico/a",
+              "name_es": "Genérico/a",
+              "name_ja": "汎用",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:52:55.867441+12:00",
+          "updated_at": "2025-09-18T06:52:55.874370+12:00",
+          "name": "Nimby",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "0",
+          "power": "3",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.",
+          "typebox": "Generic Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 0,
+          "power_value": 3,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "8dd8e2f2-2ee5-4a49-8154-9392a943470b"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "5c6694c8-6c25-45e5-8b4c-35118d624506",
+          "faces": [
+            {
+              "id": "75a29878-aece-4617-937e-44b758ee2e58",
+              "created_at": "2025-09-18T06:52:55.881942+12:00",
+              "updated_at": "2025-09-18T06:52:55.881952+12:00",
+              "face_id": "FR_SEA220",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA220",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "Rouspétance",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, vous pouvez chercher dans votre deck un Agilisme, le révéler, le mettre dans votre main, puis mélanger.",
+              "printed_flavor_text": "Anvilheim a beau être perdue, elle n’est pas oubliée.",
+              "printed_typebox": "Générique Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "54a00e50-0662-4894-99f4-14484ce9c7e6",
+              "card_print": "5c6694c8-6c25-45e5-8b4c-35118d624506",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rouspétance</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Générique Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, vous pouvez chercher dans votre deck un Agilisme, le révéler, le mettre dans votre main, puis mélanger.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>Anvilheim a beau être perdue, elle n’est pas oubliée.</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA220.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA220.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA220.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:52:55.879253+12:00",
+          "updated_at": "2025-09-18T06:52:55.879263+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA220",
+          "set_number": 220,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "8dd8e2f2-2ee5-4a49-8154-9392a943470b"
+        },
+        {
+          "id": "06bef082-b762-41da-a85b-38b954e886cb",
+          "faces": [
+            {
+              "id": "6b81bc40-b422-4a4a-bfd8-cf5701f3afc5",
+              "created_at": "2025-09-18T06:52:55.891503+12:00",
+              "updated_at": "2025-09-18T06:52:55.891517+12:00",
+              "face_id": "FR_SEA220-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA220",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "Rouspétance",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, vous pouvez chercher dans votre deck un Agilisme, le révéler, le mettre dans votre main, puis mélanger.",
+              "printed_flavor_text": "Anvilheim a beau être perdue, elle n’est pas oubliée.",
+              "printed_typebox": "Générique Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "54a00e50-0662-4894-99f4-14484ce9c7e6",
+              "card_print": "06bef082-b762-41da-a85b-38b954e886cb",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rouspétance</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Générique Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, vous pouvez chercher dans votre deck un Agilisme, le révéler, le mettre dans votre main, puis mélanger.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>Anvilheim a beau être perdue, elle n’est pas oubliée.</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA220-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA220-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA220-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:52:55.887851+12:00",
+          "updated_at": "2025-09-18T06:52:55.887862+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA220-RF",
+          "set_number": 220,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "8dd8e2f2-2ee5-4a49-8154-9392a943470b"
+        },
+        {
+          "id": "3a9e8d83-2609-4422-a262-baef1f0959b6",
+          "faces": [
+            {
+              "id": "e3df9ffe-2cdc-475a-a80f-1675964a8e43",
+              "created_at": "2025-09-18T06:52:55.901483+12:00",
+              "updated_at": "2025-09-18T06:52:55.901493+12:00",
+              "face_id": "JA_SEA220",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA220",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "機敏化",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたのデッキから「機敏主義」を探して公開し、手札に加え、シャッフルしてもよい。",
+              "printed_flavor_text": "アンヴィルへイムは失われたが、忘れ去られてはいない。",
+              "printed_typebox": "汎用・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "54a00e50-0662-4894-99f4-14484ce9c7e6",
+              "card_print": "3a9e8d83-2609-4422-a262-baef1f0959b6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>機敏化</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>汎用・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたのデッキから「機敏主義」を探して公開し、手札に加え、シャッフルしてもよい。</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>アンヴィルへイムは失われたが、忘れ去られてはいない。</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA220.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA220.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA220.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:52:55.898175+12:00",
+          "updated_at": "2025-09-18T06:52:55.898185+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA220",
+          "set_number": 220,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "8dd8e2f2-2ee5-4a49-8154-9392a943470b"
+        },
+        {
+          "id": "47eaad36-ed5f-4ce4-b64a-1163e550317a",
+          "faces": [
+            {
+              "id": "c544c783-cc2f-4bc9-8a78-ec6f8bf7cd17",
+              "created_at": "2025-09-18T06:52:55.910462+12:00",
+              "updated_at": "2025-09-18T06:52:55.910472+12:00",
+              "face_id": "JA_SEA220-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA220",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "機敏化",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたのデッキから「機敏主義」を探して公開し、手札に加え、シャッフルしてもよい。",
+              "printed_flavor_text": "アンヴィルへイムは失われたが、忘れ去られてはいない。",
+              "printed_typebox": "汎用・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "54a00e50-0662-4894-99f4-14484ce9c7e6",
+              "card_print": "47eaad36-ed5f-4ce4-b64a-1163e550317a",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>機敏化</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>汎用・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたのデッキから「機敏主義」を探して公開し、手札に加え、シャッフルしてもよい。</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>アンヴィルへイムは失われたが、忘れ去られてはいない。</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA220-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA220-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA220-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:52:55.906952+12:00",
+          "updated_at": "2025-09-18T06:52:55.906962+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA220-RF",
+          "set_number": 220,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "8dd8e2f2-2ee5-4a49-8154-9392a943470b"
+        },
+        {
+          "id": "a4683aa6-7f0b-470d-ac1d-b4415e1354d3",
+          "faces": [
+            {
+              "id": "c52bb510-d89c-4f75-96df-2f16f6c65630",
+              "created_at": "2025-09-18T06:52:55.927735+12:00",
+              "updated_at": "2025-09-18T06:52:55.927758+12:00",
+              "face_id": "SEA220",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA220",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "Nimby",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.",
+              "printed_flavor_text": "_Anvilheim is lost, but not forgotten._",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "54a00e50-0662-4894-99f4-14484ce9c7e6",
+              "card_print": "a4683aa6-7f0b-470d-ac1d-b4415e1354d3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Nimby</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Anvilheim is lost, but not forgotten.</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA220.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA220.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA220.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:52:55.919500+12:00",
+          "updated_at": "2025-09-18T06:52:55.919520+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA220",
+          "set_number": 220,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "8dd8e2f2-2ee5-4a49-8154-9392a943470b"
+        },
+        {
+          "id": "d5ba0d6a-3c0c-4d5e-8cd1-9de4fea56e0f",
+          "faces": [
+            {
+              "id": "ad65a0f7-266c-49f0-9875-1727777d3dea",
+              "created_at": "2025-09-18T06:52:55.945588+12:00",
+              "updated_at": "2025-09-18T06:52:55.945601+12:00",
+              "face_id": "SEA220-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA220",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "Nimby",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.",
+              "printed_flavor_text": "_Anvilheim is lost, but not forgotten._",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "54a00e50-0662-4894-99f4-14484ce9c7e6",
+              "card_print": "d5ba0d6a-3c0c-4d5e-8cd1-9de4fea56e0f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Nimby</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Anvilheim is lost, but not forgotten.</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA220-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA220-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA220-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:52:55.940720+12:00",
+          "updated_at": "2025-09-18T06:52:55.940735+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA220-RF",
+          "set_number": 220,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "8dd8e2f2-2ee5-4a49-8154-9392a943470b"
+        },
+        {
+          "id": "324299d5-5cc4-497b-a222-4813a7963972",
+          "faces": [
+            {
+              "id": "a8aa212f-a2a9-49cd-9402-b86b21e4a551",
+              "created_at": "2025-09-18T06:52:55.958959+12:00",
+              "updated_at": "2025-09-18T06:52:55.958974+12:00",
+              "face_id": "GEM062-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM062",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "Nimby",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "54a00e50-0662-4894-99f4-14484ce9c7e6",
+              "card_print": "324299d5-5cc4-497b-a222-4813a7963972",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Nimby</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM062-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM062-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM062-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:52:55.952401+12:00",
+          "updated_at": "2025-09-18T06:52:55.952416+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM062-RF",
+          "set_number": 62,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "8dd8e2f2-2ee5-4a49-8154-9392a943470b"
+        },
+        {
+          "id": "e1fa936e-70e3-45b3-8339-050d9f57310b",
+          "faces": [
+            {
+              "id": "d268ff82-675a-4100-a0d0-77374648501e",
+              "created_at": "2025-09-18T06:52:55.974690+12:00",
+              "updated_at": "2025-09-18T06:52:55.974710+12:00",
+              "face_id": "GEM062",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM062",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "Nimby",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "54a00e50-0662-4894-99f4-14484ce9c7e6",
+              "card_print": "e1fa936e-70e3-45b3-8339-050d9f57310b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Nimby</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, you may search your deck for a Nimblism, reveal it, put it into your hand, then shuffle.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM062.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM062.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM062.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:52:55.967706+12:00",
+          "updated_at": "2025-09-18T06:52:55.967717+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM062",
+          "set_number": 62,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "8dd8e2f2-2ee5-4a49-8154-9392a943470b"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "banned",
+          "reason": "programmatic_legality"
+        }
+      },
+      "created_at": "2025-09-18T06:52:55.864213+12:00",
+      "updated_at": "2025-09-18T06:52:55.865222+12:00",
+      "card_id": "nimby-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

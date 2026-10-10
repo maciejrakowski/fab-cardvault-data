@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "id": "blood-harvest",
+  "name": "Blood Harvest",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Blood Harvest",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": 3,
+      "power": 6,
+      "defense": 0,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Shadow Brute Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Brute"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "**Instant** -- Banish this from your hand: Gain {r}{r}{r}{br}**Blood Debt **",
+        "plain": "Instant -- Banish this from your hand: Gain {r}{r}{r}\nBlood Debt"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "IAR005",
+      "code": "IAR005",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR005",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blood Harvest",
+          "typeLine": "Shadow Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Instant** -- Banish this from your hand: Gain {r}{r}{r}{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "plain": "Instant -- Banish this from your hand: Gain {r}{r}{r}\nBlood Debt _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "html": "<p><strong>Instant</strong> — Banish this from your hand: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'></p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "3",
+            "power": "6",
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR005",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Khairul Sukmanudin",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR005.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR005.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR005.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR005-RF",
+      "code": "IAR005",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR005-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blood Harvest",
+          "typeLine": "Shadow Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Instant** -- Banish this from your hand: Gain {r}{r}{r}{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "plain": "Instant -- Banish this from your hand: Gain {r}{r}{r}\nBlood Debt _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "html": "<p><strong>Instant</strong> — Banish this from your hand: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'></p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "3",
+            "power": "6",
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR005",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Khairul Sukmanudin",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR005-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR005-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR005-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS464-CF",
+      "code": "LGS464",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 464,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "battlegrounds-usurp-the-shadow-throne",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-13T17:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS464-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blood Harvest",
+          "typeLine": "Shadow Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Instant** -- Banish this from your hand: Gain {r}{r}{r}. **Blood Debt**",
+            "plain": "Instant -- Banish this from your hand: Gain {r}{r}{r}. Blood Debt",
+            "html": "<p><strong>Instant</strong> — Banish this from your hand: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "3",
+            "power": "6",
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS464",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Khairul Sukmanudin",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS464-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS464-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS464-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Blood Debt"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T19:25:09Z",
+    "rawSha256": "e46a2891495c2263c31b64455260ee4cb43decb1bbb63a1fd571c31d888efbe0",
+    "updatedAt": "2026-07-13T19:37:59.025419+12:00"
+  }
+}

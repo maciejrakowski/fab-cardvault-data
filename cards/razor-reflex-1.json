@@ -1,0 +1,921 @@
+{
+  "schemaVersion": 1,
+  "id": "razor-reflex-1",
+  "name": "Razor Reflex",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Razor Reflex",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 1,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Attack Reaction",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Attack Reaction"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Choose 1;{br}* Target dagger or sword weapon attack gets +3{p}.{br}* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, it gets **go again**.\"",
+        "plain": "Choose 1;\n* Target dagger or sword weapon attack gets +3{p}.\n* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, it gets go again.\""
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "TEA016",
+      "code": "TEA016-C",
+      "language": "en",
+      "set": "TEA",
+      "setNumber": 16,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dorinthea-ironsong-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TEA016",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\r\n* Target sword or dagger weapon attack gains +3{p}.\r\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains **go again**.\"",
+            "plain": "Choose 1;\r\n* Target sword or dagger weapon attack gains +3{p}.\r\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target sword or dagger weapon attack gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TEA016-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TEA016.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TEA016.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TEA016.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR209",
+      "code": "WTR209-C",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 209,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR209",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains **go again**.\"",
+            "plain": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target sword or dagger weapon attack gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR209-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR209.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR209.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR209.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR209-RF",
+      "code": "WTR209-C",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 209,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR209-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains **go again**.\"",
+            "plain": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target sword or dagger weapon attack gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR209-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR209-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR209-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR209-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR209",
+      "code": "WTR209",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 209,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR209",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target sword or dagger weapon attack gains +3{p}.{br}* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains **go again**.\"",
+            "plain": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target sword or dagger weapon attack gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR209",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR209.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR209.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR209.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR209-RF",
+      "code": "WTR209",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 209,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR209-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target sword or dagger weapon attack gains +3{p}.{br}* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains **go again**.\"",
+            "plain": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target sword or dagger weapon attack gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR209",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR209-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR209-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR209-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR209",
+      "code": "WTR209",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 209,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR209",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains **go again**.\"",
+            "plain": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target sword or dagger weapon attack gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR209",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR209.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR209.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR209.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR209-RF",
+      "code": "WTR209",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 209,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR209-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains **go again**.\"",
+            "plain": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost {r} or less gains +3{p} and \"If this hits, this attack gains go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target sword or dagger weapon attack gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR209",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR209-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR209-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR209-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP402",
+      "code": "1HP402",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 402,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP402",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost 1 or less gains +3{p} and \"If this hits, this attack gains **go again**.\"",
+            "plain": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost 1 or less gains +3{p} and \"If this hits, this attack gains go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target sword or dagger weapon attack gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 1 or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP402",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP402.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP402.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP402.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HT011",
+      "code": "1HT011",
+      "language": "en",
+      "set": "1HT",
+      "setNumber": 11,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dorinthea-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HT011",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost 1 or less gains +3{p} and \"When this hits, this attack gains **go again**.\"",
+            "plain": "Choose 1;\n* Target sword or dagger weapon attack gains +3{p}.\n* Target attack action card with cost 1 or less gains +3{p} and \"When this hits, this attack gains go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target sword or dagger weapon attack gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 1 or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits, this attack gains <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HT011",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HT011.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HT011.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HT011.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARK016",
+      "code": "ARK016",
+      "language": "en",
+      "set": "ARK",
+      "setNumber": 16,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted-blitz-deck-arakni",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARK016",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target dagger or sword weapon attack gets +3{p}.{br}* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, this gets **go again**.\"",
+            "plain": "Choose 1;\n* Target dagger or sword weapon attack gets +3{p}.\n* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, this gets go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target dagger or sword weapon attack gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 1 or less gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits, this gets <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARK016",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARK016.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARK016.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARK016.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HNT227",
+      "code": "HNT227",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 227,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT227",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target dagger or sword weapon attack gets +3{p}.{br}* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, this gets **go again**.\"",
+            "plain": "Choose 1;\n* Target dagger or sword weapon attack gets +3{p}.\n* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, this gets go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target dagger or sword weapon attack gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 1 or less gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits, this gets <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT227",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT227.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT227.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT227.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM032",
+      "code": "GEM032",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 32,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-1",
+      "releaseDate": "2025-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM032",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target dagger or sword weapon attack gets +3{p}.{br}* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, this gets **go again**.\"",
+            "plain": "Choose 1;\n* Target dagger or sword weapon attack gets +3{p}.\n* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, this gets go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target dagger or sword weapon attack gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 1 or less gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits, this gets <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM032",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM032.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM032.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM032.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ASR016",
+      "code": "ASR016",
+      "language": "en",
+      "set": "ASR",
+      "setNumber": 16,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "amory-deck-ira-scarlet-revenger",
+      "releaseDate": "2025-07-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ASR016",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target dagger or sword weapon attack gets +3{p}.{br}* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, it gets **go again**.\"",
+            "plain": "Choose 1;\n* Target dagger or sword weapon attack gets +3{p}.\n* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, it gets go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target dagger or sword weapon attack gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 1 or less gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits, it gets <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ASR016",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ASR016.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ASR016.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ASR016.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB475-RF",
+      "code": "FAB475",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 475,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "calling-omens-of-the-third-age",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB475-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Razor Reflex",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target sword or dagger weapon attack gets +3{p}.{br}* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, it gets **go again**.\"",
+            "plain": "Choose 1;\n* Target sword or dagger weapon attack gets +3{p}.\n* Target attack action card with cost 1 or less gets +3{p} and \"When this hits, it gets go again.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target sword or dagger weapon attack gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 1 or less gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits, it gets <strong>go again</strong>.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB475",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Isuardi Therianto",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB475-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB475-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB475-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "go again"
+    ],
+    "editions": {
+      "R-WTR209": "unlimited-revised",
+      "R-WTR209-RF": "unlimited-revised",
+      "U-WTR209": "unlimited",
+      "U-WTR209-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:26:17Z",
+    "rawSha256": "a19b6cae93ed5198d9ffc886c241e15b8f106821dcaa232c0b919eb1ea94f36f",
+    "updatedAt": "2025-09-18T06:54:29.897811+12:00"
+  }
+}

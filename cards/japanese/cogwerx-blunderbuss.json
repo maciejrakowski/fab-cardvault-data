@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "cogwerx-blunderbuss",
+  "language": "ja",
+  "name": "コグワークスのブランダーバス",
+  "cores": [
+    {
+      "position": 10,
+      "name": "コグワークスのブランダーバス",
+      "typeLine": "機械技師・武器 － 銃（両手）",
+      "classes": [
+        "機械技師"
+      ],
+      "types": [
+        "武器"
+      ],
+      "subtypes": [
+        "（両手）",
+        "銃"
+      ],
+      "text": {
+        "markup": "**アクション**--{r}{r}, {t}：**攻撃**{br}**インスタント**--あなたがコントロールする歯車１つを{t}する：このターン、このカードの次の攻撃は**続行**を得る。",
+        "plain": "アクション--{r}{r}, {t}：攻撃\nインスタント--あなたがコントロールする歯車１つを{t}する：このターン、このカードの次の攻撃は続行を得る。",
+        "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：<strong>攻撃</strong></p>\n<p><strong>インスタント</strong>—あなたがコントロールする歯車１つを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する：このターン、このカードの次の攻撃は<strong>続行</strong>を得る。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_SEA006",
+      "code": "SEA006",
+      "language": "ja",
+      "set": "SEA",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-ja",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_SEA006",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "コグワークスのブランダーバス",
+          "typeLine": "機械技師・武器 － 銃（両手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--{r}{r}, {t}：**攻撃**{br}**インスタント**--あなたがコントロールする歯車１つを{t}する：このターン、このカードの次の攻撃は**続行**を得る。",
+            "plain": "アクション--{r}{r}, {t}：攻撃\nインスタント--あなたがコントロールする歯車１つを{t}する：このターン、このカードの次の攻撃は続行を得る。",
+            "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：<strong>攻撃</strong></p>\n<p><strong>インスタント</strong>—あなたがコントロールする歯車１つを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する：このターン、このカードの次の攻撃は<strong>続行</strong>を得る。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA006",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Mariusz Gandzel",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA006.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA006.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA006.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

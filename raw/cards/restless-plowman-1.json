@@ -1,0 +1,743 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "bc6dcc5a-a4ab-4f2b-bf77-2ea3c50fd999",
+      "cores": [
+        {
+          "id": "603723bd-e74a-435c-ac9a-9298e4e86112",
+          "core_classes": [
+            {
+              "id": 37,
+              "name": "Necromancer",
+              "name_en": "Necromancer",
+              "name_fr": null,
+              "name_de": null,
+              "name_it": null,
+              "name_es": null,
+              "name_ja": null,
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 8,
+              "name": "Shadow",
+              "name_en": "Shadow",
+              "name_fr": "Ombre",
+              "name_de": "Schatten",
+              "name_it": "Ombra",
+              "name_es": "Sombra",
+              "name_ja": "影",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 4,
+              "name": "Ally",
+              "name_en": "Ally",
+              "name_fr": "Allié",
+              "name_de": "Verbündeter",
+              "name_it": "Alleato",
+              "name_es": "Aliado",
+              "name_ja": "盟友",
+              "is_published": true,
+              "functional": true
+            },
+            {
+              "id": 117,
+              "name": "Zombie",
+              "name_en": "Zombie",
+              "name_fr": null,
+              "name_de": null,
+              "name_it": null,
+              "name_es": null,
+              "name_ja": null,
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2026-07-13T19:38:00.902644+12:00",
+          "updated_at": "2026-07-13T19:38:00.902654+12:00",
+          "name": "Restless Plowman",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "0",
+          "power": "3",
+          "defense": "",
+          "intellect": "",
+          "life": "3",
+          "textbox": "**Action** -- {t}: Gain {r}. **Go again**{br}**Decay**",
+          "typebox": "Shadow Necromancer Action - Zombie Ally",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 0,
+          "power_value": 3,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": 3,
+          "card": "bc6dcc5a-a4ab-4f2b-bf77-2ea3c50fd999"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "5e419865-f6d0-4d56-8242-e106651f4a75",
+          "faces": [
+            {
+              "id": "b62e97a7-be00-4ffb-bc28-fad29d34998c",
+              "created_at": "2026-07-13T19:38:14.258011+12:00",
+              "updated_at": "2026-07-13T19:38:14.258022+12:00",
+              "face_id": "FR_IAR087",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "necromancer",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR087",
+              "printed_artist": "Pavel Rtishchev (Klaher)",
+              "printed_name": "Laboureur agité",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**Action** -- {t}\u00A0: gagnez {r}. **Encore une fois**{br}**Putréfaction** _(Au début de votre phase de fin, mettez un marqueur -1{g} sur cette carte.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Nécromancien Action - Zombie Allié",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "603723bd-e74a-435c-ac9a-9298e4e86112",
+              "card_print": "5e419865-f6d0-4d56-8242-e106651f4a75",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Laboureur agité</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Nécromancien Action - Zombie Allié</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>\u00A0: gagnez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Encore une fois</strong></p>\n<p><strong>Putréfaction</strong> <em>(Au début de votre phase de fin, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> sur cette carte.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR087.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR087.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR087.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:14.250846+12:00",
+          "updated_at": "2026-09-11T13:52:25.148032+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR087",
+          "set_number": 87,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "bc6dcc5a-a4ab-4f2b-bf77-2ea3c50fd999"
+        },
+        {
+          "id": "babecf57-7408-42c0-991b-2042de989fc8",
+          "faces": [
+            {
+              "id": "509d2fd1-591e-4145-96e9-9a1852bd56f6",
+              "created_at": "2026-07-13T19:38:14.306167+12:00",
+              "updated_at": "2026-07-13T19:38:14.306179+12:00",
+              "face_id": "FR_IAR087-MV",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "necromancer",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "IAR087",
+              "printed_artist": "Pavel Rtishchev (Klaher)",
+              "printed_name": "Laboureur agité",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**Action** -- {t}\u00A0: gagnez {r}. **Encore une fois**{br}**Putréfaction** _(Au début de votre phase de fin, mettez un marqueur -1{g} sur cette carte.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Nécromancien Action - Zombie Allié",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "603723bd-e74a-435c-ac9a-9298e4e86112",
+              "card_print": "babecf57-7408-42c0-991b-2042de989fc8",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Laboureur agité</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Nécromancien Action - Zombie Allié</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>\u00A0: gagnez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Encore une fois</strong></p>\n<p><strong>Putréfaction</strong> <em>(Au début de votre phase de fin, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> sur cette carte.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR087-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR087-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR087-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:14.296085+12:00",
+          "updated_at": "2026-09-11T13:52:25.561551+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR087-MV",
+          "set_number": 87,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "marvel",
+          "card": "bc6dcc5a-a4ab-4f2b-bf77-2ea3c50fd999"
+        },
+        {
+          "id": "949d2cce-be28-4e91-84d2-838fdcd3a716",
+          "faces": [
+            {
+              "id": "5a1b931f-cceb-406b-9ef4-469747455694",
+              "created_at": "2026-07-13T19:39:04.533382+12:00",
+              "updated_at": "2026-07-13T19:39:04.533393+12:00",
+              "face_id": "JA_IAR087-MV",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "necromancer",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "IAR087",
+              "printed_artist": "Pavel Rtishchev (Klaher)",
+              "printed_name": "彷徨う耕夫",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**アクション** -- {t}： {r}を得る。**続行**{br}**衰微**（あなたの終了フェイズの開始時、これにー１{g}カウンターを１個置く）",
+              "printed_flavor_text": "",
+              "printed_typebox": "影・死霊術師・アクション － ゾンビ・盟友",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "603723bd-e74a-435c-ac9a-9298e4e86112",
+              "card_print": "949d2cce-be28-4e91-84d2-838fdcd3a716",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>彷徨う耕夫</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>影・死霊術師・アクション － ゾンビ・盟友</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>： <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。<strong>続行</strong></p>\n<p><strong>衰微</strong>（あなたの終了フェイズの開始時、これにー１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>カウンターを１個置く）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR087-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR087-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR087-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:39:04.526774+12:00",
+          "updated_at": "2026-09-11T13:53:22.719170+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR087-MV",
+          "set_number": 87,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "marvel",
+          "card": "bc6dcc5a-a4ab-4f2b-bf77-2ea3c50fd999"
+        },
+        {
+          "id": "4f9c79bd-d593-4e24-b954-3ea2acb2a3b6",
+          "faces": [
+            {
+              "id": "6129af18-90c0-49c7-a602-d7acb328db10",
+              "created_at": "2026-07-13T19:38:39.618387+12:00",
+              "updated_at": "2026-07-13T19:38:39.618397+12:00",
+              "face_id": "IAR087-MV",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "necromancer",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "IAR087",
+              "printed_artist": "Pavel Rtishchev (Klaher)",
+              "printed_name": "Restless Plowman",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**Action** -- {t}: Gain {r}. **Go again**{br}**Decay** _(At the beginning of your end phase, put a -1{h} counter on this.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Necromancer Action - Zombie Ally",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "603723bd-e74a-435c-ac9a-9298e4e86112",
+              "card_print": "4f9c79bd-d593-4e24-b954-3ea2acb2a3b6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Restless Plowman</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Necromancer Action - Zombie Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Go again</strong></p>\n<p><strong>Decay</strong> <em>(At the beginning of your end phase, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> counter on this.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR087-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR087-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR087-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:39.612244+12:00",
+          "updated_at": "2026-09-11T13:50:50.962717+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR087-MV",
+          "set_number": 87,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "marvel",
+          "card": "bc6dcc5a-a4ab-4f2b-bf77-2ea3c50fd999"
+        },
+        {
+          "id": "fe834525-b002-4c18-ad0b-be1c233dbd24",
+          "faces": [
+            {
+              "id": "0b81ab2c-6fb0-43b9-83df-224b9cbe11e9",
+              "created_at": "2026-07-13T19:39:04.495704+12:00",
+              "updated_at": "2026-07-13T19:39:04.495714+12:00",
+              "face_id": "JA_IAR087",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "necromancer",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR087",
+              "printed_artist": "Pavel Rtishchev (Klaher)",
+              "printed_name": "彷徨う耕夫",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**アクション** -- {t}： {r}を得る。**続行**{br}**衰微**（あなたの終了フェイズの開始時、これにー１{g}カウンターを１個置く）",
+              "printed_flavor_text": "",
+              "printed_typebox": "影・死霊術師・アクション － ゾンビ・盟友",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "603723bd-e74a-435c-ac9a-9298e4e86112",
+              "card_print": "fe834525-b002-4c18-ad0b-be1c233dbd24",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>彷徨う耕夫</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>影・死霊術師・アクション － ゾンビ・盟友</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>： <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。<strong>続行</strong></p>\n<p><strong>衰微</strong>（あなたの終了フェイズの開始時、これにー１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>カウンターを１個置く）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR087.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR087.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR087.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:39:04.489695+12:00",
+          "updated_at": "2026-09-11T13:51:34.863891+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR087",
+          "set_number": 87,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "bc6dcc5a-a4ab-4f2b-bf77-2ea3c50fd999"
+        },
+        {
+          "id": "0b57adc8-749d-4c47-9074-0911f83bf1e8",
+          "faces": [
+            {
+              "id": "5b54f203-db2d-40e4-a734-fc4ab5ceebf4",
+              "created_at": "2026-07-13T19:38:39.581662+12:00",
+              "updated_at": "2026-07-13T19:38:39.581673+12:00",
+              "face_id": "IAR087",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "necromancer",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR087",
+              "printed_artist": "Pavel Rtishchev (Klaher)",
+              "printed_name": "Restless Plowman",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "3",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**Action** -- {t}: Gain {r}. **Go again**{br}**Decay** _(At the beginning of your end phase, put a -1{h} counter on this.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Necromancer Action - Zombie Ally",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "603723bd-e74a-435c-ac9a-9298e4e86112",
+              "card_print": "0b57adc8-749d-4c47-9074-0911f83bf1e8",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Restless Plowman</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Necromancer Action - Zombie Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Go again</strong></p>\n<p><strong>Decay</strong> <em>(At the beginning of your end phase, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> counter on this.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR087.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR087.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR087.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:39.575431+12:00",
+          "updated_at": "2026-09-11T13:53:42.593679+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR087",
+          "set_number": 87,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "bc6dcc5a-a4ab-4f2b-bf77-2ea3c50fd999"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-07-13T19:38:00.896641+12:00",
+      "updated_at": "2026-07-13T19:38:00.896651+12:00",
+      "card_id": "restless-plowman-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

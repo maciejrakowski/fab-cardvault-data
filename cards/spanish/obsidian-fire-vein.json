@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "obsidian-fire-vein",
+  "language": "es",
+  "name": "Fuego obsidiano",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Fuego obsidiano",
+      "typeLine": "Arma de guerrero dracónica - Daga (1M)",
+      "classes": [
+        "Guerrero"
+      ],
+      "talents": [
+        "Dracónico"
+      ],
+      "types": [
+        "Arma"
+      ],
+      "subtypes": [
+        "(1M)",
+        "Daga"
+      ],
+      "text": {
+        "markup": "**Acción una vez por turno** -- {r}: **Ataque**. Si has jugado una carta Dracónica en este eslabón, este ataque obtiene +1{p} y **continuar**.",
+        "plain": "Acción una vez por turno -- {r}: Ataque. Si has jugado una carta Dracónica en este eslabón, este ataque obtiene +1{p} y continuar.",
+        "html": "<p><strong>Acción una vez por turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Ataque</strong>. Si has jugado una carta Dracónica en este eslabón, este ataque obtiene +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> y <strong>continuar</strong>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_HNT100",
+      "code": "HNT100",
+      "language": "es",
+      "set": "HNT",
+      "setNumber": 100,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted-es",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_HNT100",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Fuego obsidiano",
+          "typeLine": "Arma de guerrero dracónica - Daga (1M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Acción una vez por turno** -- {r}: **Ataque**. Si has jugado una carta Dracónica en este eslabón, este ataque obtiene +1{p} y **continuar**.",
+            "plain": "Acción una vez por turno -- {r}: Ataque. Si has jugado una carta Dracónica en este eslabón, este ataque obtiene +1{p} y continuar.",
+            "html": "<p><strong>Acción una vez por turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Ataque</strong>. Si has jugado una carta Dracónica en este eslabón, este ataque obtiene +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> y <strong>continuar</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT100",
+          "printedLanguageCode": "SP",
+          "printedYear": "2024",
+          "artist": "M Fakhrur Rozzi",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [
+            5
+          ],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_HNT100.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_HNT100.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_HNT100.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

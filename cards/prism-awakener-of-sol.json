@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "id": "prism-awakener-of-sol",
+  "name": "Prism, Awakener of Sol",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Prism, Awakener of Sol",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 32,
+      "intellect": 4,
+      "typeLine": "Light Illusionist Hero",
+      "traitLine": null,
+      "classes": [
+        "Illusionist"
+      ],
+      "talents": [
+        "Light"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Whenever a card with Herald in its name is put into your soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.{br}**Once per Turn Instant** -- {r}{r}, banish a card from your soul: **Awaken** target figment you control.",
+        "plain": "Whenever a card with Herald in its name is put into your soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.\nOnce per Turn Instant -- {r}{r}, banish a card from your soul: Awaken target figment you control."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "DTD001",
+      "code": "DTD001",
+      "language": "en",
+      "set": "DTD",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dusk-till-dawn",
+      "releaseDate": "2023-07-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DTD001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism, Awakener of Sol",
+          "typeLine": "Light Illusionist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever a card with Herald in its name is put into Prism's soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.\n**Once per Turn Instant** -- {r}{r}, banish a card from Prism's soul: **Awaken** target figment you control. _(Flip it.)_",
+            "plain": "Whenever a card with Herald in its name is put into Prism's soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.\nOnce per Turn Instant -- {r}{r}, banish a card from Prism's soul: Awaken target figment you control. _(Flip it.)_",
+            "html": "<p>Whenever a card with Herald in its name is put into Prism's soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.</p>\n<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish a card from Prism's soul: <strong>Awaken</strong> target figment you control. <em>(Flip it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "32",
+            "intellect": "4"
+          },
+          "printedCode": "DTD001",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Livia Prima",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DTD001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DTD001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DTD001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WIN023-CF",
+      "code": "WIN023",
+      "language": "en",
+      "set": "WIN",
+      "setNumber": 23,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-champion-cards-dusk-till-dawn",
+      "releaseDate": "2023-07-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WIN023-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism, Awakener of Sol",
+          "typeLine": "Light Illusionist Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": {
+            "markup": "Pro Tour Champion",
+            "plain": "Pro Tour Champion",
+            "html": "<p>Pro Tour Champion</p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "32",
+            "intellect": "4"
+          },
+          "printedCode": "WIN023",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Livia Prima",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WIN023-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WIN023-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WIN023-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER086-CF",
+      "code": "HER086",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 86,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "national-championship-2023",
+      "releaseDate": "2023-08-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER086-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism, Awakener of Sol",
+          "typeLine": "Light Illusionist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever a card with Herald in its name is put into Prism's soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.\n**Once per Turn Instant** -- {r}{r}, banish a card from Prism's soul: **Awaken** target figment you control. _(Flip it.)_",
+            "plain": "Whenever a card with Herald in its name is put into Prism's soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.\nOnce per Turn Instant -- {r}{r}, banish a card from Prism's soul: Awaken target figment you control. _(Flip it.)_",
+            "html": "<p>Whenever a card with Herald in its name is put into Prism's soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.</p>\n<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish a card from Prism's soul: <strong>Awaken</strong> target figment you control. <em>(Flip it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "32",
+            "intellect": "4"
+          },
+          "printedCode": "HER086",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Livia Prima",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER086-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER086-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER086-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM069-CF",
+      "code": "GEM069",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 69,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-3",
+      "releaseDate": "2025-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM069-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism, Awakener of Sol",
+          "typeLine": "Light Illusionist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever a card with Herald in its name is put into your soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.{br}**Once per Turn Instant** -- {r}{r}, banish a card from Prism's soul: **Awaken** target figment you control.",
+            "plain": "Whenever a card with Herald in its name is put into your soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.\nOnce per Turn Instant -- {r}{r}, banish a card from Prism's soul: Awaken target figment you control.",
+            "html": "<p>Whenever a card with Herald in its name is put into your soul during an action phase, you may search your deck for a figment, put it into the arena, then shuffle.</p>\n<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish a card from Prism's soul: <strong>Awaken</strong> target figment you control.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "32",
+            "intellect": "4"
+          },
+          "printedCode": "GEM069",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Livia Prima",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM069-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM069-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM069-CF.webp"
+          }
+        },
+        {
+          "id": "GEM069-CF_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism, Awakener of Sol",
+          "typeLine": null,
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "EN",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM069-CF_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM069-CF_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM069-CF_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Awaken"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:24:53Z",
+    "rawSha256": "002709e1c9e480ffad30b830145f57a58418a7abf26fb5489c7b10d54e923768",
+    "updatedAt": "2025-09-18T06:53:59.858224+12:00"
+  }
+}

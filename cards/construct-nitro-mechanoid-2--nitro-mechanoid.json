@@ -1,0 +1,513 @@
+{
+  "schemaVersion": 1,
+  "id": "construct-nitro-mechanoid-2--nitro-mechanoid",
+  "name": "Construct Nitro Mechanoid",
+  "objectType": "deck-card",
+  "cardType": "flip-card",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Construct Nitro Mechanoid",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 4,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Mechanologist Action - Construct",
+      "traitLine": null,
+      "classes": [
+        "Mechanologist"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Construct"
+      ],
+      "text": {
+        "markup": "**Transform** target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, **negate** this.{br}**Go again**",
+        "plain": "Transform target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, negate this.\nGo again"
+      }
+    },
+    {
+      "position": 20,
+      "name": "Nitro Mechanoid",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 5,
+      "defense": 5,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Mechanologist Weapon Equipment - Item",
+      "traitLine": null,
+      "classes": [
+        "Mechanologist"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment",
+        "Weapon"
+      ],
+      "subtypes": [
+        "Item"
+      ],
+      "text": {
+        "markup": "**Action** -- Banish a card from under Nitro Mechanoid: **Attack**\n**Overpower**\n**Temper**",
+        "plain": "Action -- Banish a card from under Nitro Mechanoid: Attack\nOverpower\nTemper"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "DYN092-CF",
+      "code": "DYN092",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 92,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN092-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Construct Nitro Mechanoid",
+          "typeLine": "Mechanologist Action - Construct",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Constructs resolve flipped as an item in the arena.)_\n**Transform** target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, **negate** this. _(Put them under Nitro Mechanoid. If you don't, put this in the graveyard.)_\n**Go again**",
+            "plain": "_(Constructs resolve flipped as an item in the arena.)_\nTransform target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, negate this. _(Put them under Nitro Mechanoid. If you don't, put this in the graveyard.)_\nGo again",
+            "html": "<p><em>(Constructs resolve flipped as an item in the arena.)</em></p>\n<p><strong>Transform</strong> target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, <strong>negate</strong> this. <em>(Put them under Nitro Mechanoid. If you don't, put this in the graveyard.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "4",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN092",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Sam Yang",
+          "rarityMark": "majestic-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN092-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN092-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN092-CF.webp"
+          }
+        },
+        {
+          "id": "DYN092-CF_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nitro Mechanoid",
+          "typeLine": "Mechanologist Weapon Equipment - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Banish a card from under Nitro Mechanoid: **Attack**\n**Overpower** _(This can't be defended by more than 1 action card.)_\n**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "plain": "Action -- Banish a card from under Nitro Mechanoid: Attack\nOverpower _(This can't be defended by more than 1 action card.)_\nTemper _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "html": "<p><strong>Action</strong> — Banish a card from under Nitro Mechanoid: <strong>Attack</strong></p>\n<p><strong>Overpower</strong> <em>(This can't be defended by more than 1 action card.)</em></p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "5",
+            "defense": "5",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN092",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Sam Yang",
+          "rarityMark": "majestic-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN092-CF_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN092-CF_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN092-CF_BACK.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN092-MV",
+      "code": "DYN092",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 92,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN092-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Construct Nitro Mechanoid",
+          "typeLine": "Mechanologist Action - Construct",
+          "traitLine": null,
+          "text": {
+            "markup": "**Transform** target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, **negate** this.\n**Go again**",
+            "plain": "Transform target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, negate this.\nGo again",
+            "html": "<p><strong>Transform</strong> target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, <strong>negate</strong> this.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "4",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN092",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Sam Yang",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN092-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN092-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN092-MV.webp"
+          }
+        },
+        {
+          "id": "DYN092-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nitro Mechanoid",
+          "typeLine": "Mechanologist Weapon Equipment - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Banish a card from under Nitro Mechanoid: **Attack**\n**Overpower** _(This can't be defended by more than 1 action card.)_\n**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "plain": "Action -- Banish a card from under Nitro Mechanoid: Attack\nOverpower _(This can't be defended by more than 1 action card.)_\nTemper _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "html": "<p><strong>Action</strong> — Banish a card from under Nitro Mechanoid: <strong>Attack</strong></p>\n<p><strong>Overpower</strong> <em>(This can't be defended by more than 1 action card.)</em></p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "5",
+            "defense": "5",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN092",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Sam Yang",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN092-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN092-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN092-MV_BACK.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN092-RF",
+      "code": "DYN092",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 92,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN092-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Construct Nitro Mechanoid",
+          "typeLine": "Mechanologist Action - Construct",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Constructs resolve flipped as an item in the arena.)_\n**Transform** target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, **negate** this. _(Put them under Nitro Mechanoid. If you don't, put this in the graveyard.)_\n**Go again**",
+            "plain": "_(Constructs resolve flipped as an item in the arena.)_\nTransform target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, negate this. _(Put them under Nitro Mechanoid. If you don't, put this in the graveyard.)_\nGo again",
+            "html": "<p><em>(Constructs resolve flipped as an item in the arena.)</em></p>\n<p><strong>Transform</strong> target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, <strong>negate</strong> this. <em>(Put them under Nitro Mechanoid. If you don't, put this in the graveyard.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "4",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN092",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Sam Yang",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN092-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN092-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN092-RF.webp"
+          }
+        },
+        {
+          "id": "DYN092-RF_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nitro Mechanoid",
+          "typeLine": "Mechanologist Weapon Equipment - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Banish a card from under Nitro Mechanoid: **Attack**\n**Overpower** _(This can't be defended by more than 1 action card.)_\n**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "plain": "Action -- Banish a card from under Nitro Mechanoid: Attack\nOverpower _(This can't be defended by more than 1 action card.)_\nTemper _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "html": "<p><strong>Action</strong> — Banish a card from under Nitro Mechanoid: <strong>Attack</strong></p>\n<p><strong>Overpower</strong> <em>(This can't be defended by more than 1 action card.)</em></p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "5",
+            "defense": "5",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN092",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Sam Yang",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN092-RF_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN092-RF_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN092-RF_BACK.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM119",
+      "code": "GEM119",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 119,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "gem-pack-4",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM119",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Construct Nitro Mechanoid // Nitro Mechanoid",
+          "typeLine": "Mechanologist Action - Construct",
+          "traitLine": null,
+          "text": {
+            "markup": "**Transform** target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, **negate** this.{br}**Go again**",
+            "plain": "Transform target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, negate this.\nGo again",
+            "html": "<p><strong>Transform</strong> target Mechanologist head, chest, arms, legs, weapon and 3 Hyper Drivers you control into Nitro Mechanoid. If you don't, <strong>negate</strong> this.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "4",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM119",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Isuardi Therianto",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM119.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM119.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM119.webp"
+          }
+        },
+        {
+          "id": "GEM119_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nitro Mechanoid",
+          "typeLine": "Mechanologist Weapon Equipment - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Banish a card from under Nitro Mechanoid: **Attack**{br}**Overpower**{br}**Temper**",
+            "plain": "Action -- Banish a card from under Nitro Mechanoid: Attack\nOverpower\nTemper",
+            "html": "<p><strong>Action</strong> — Banish a card from under Nitro Mechanoid: <strong>Attack</strong></p>\n<p><strong>Overpower</strong></p>\n<p><strong>Temper</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "5",
+            "defense": "5",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM119",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Isuardi Therianto",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM119_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM119_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM119_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "Transform",
+      "negate"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:08:51Z",
+    "rawSha256": "75ddd732380cc5dece8e8dcbfdeac572adc63759a88a4b1d236635ea8f664996",
+    "updatedAt": "2025-09-18T06:47:57.852983+12:00"
+  }
+}

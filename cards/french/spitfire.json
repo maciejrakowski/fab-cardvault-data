@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "spitfire",
+  "language": "fr",
+  "name": "Crache-feu",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Crache-feu",
+      "typeLine": "Mécanologue Arme - Revolver (2M)",
+      "classes": [
+        "Mécanologue"
+      ],
+      "types": [
+        "Arme"
+      ],
+      "subtypes": [
+        "(2M)",
+        "Revolver"
+      ],
+      "text": {
+        "markup": "**Action** -- {t} cette carte et un rouage que vous contrôlez : **Attaque**{br}Quand cette carte attaque, vous pouvez {t} un rouage que vous contrôlez. Si vous le faites, l’attaque gagne +1{p}.",
+        "plain": "Action -- {t} cette carte et un rouage que vous contrôlez : Attaque\nQuand cette carte attaque, vous pouvez {t} un rouage que vous contrôlez. Si vous le faites, l’attaque gagne +1{p}.",
+        "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> cette carte et un rouage que vous contrôlez : <strong>Attaque</strong></p>\n<p>Quand cette carte attaque, vous pouvez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> un rouage que vous contrôlez. Si vous le faites, l’attaque gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_SEA007",
+      "code": "SEA007",
+      "language": "fr",
+      "set": "SEA",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-fr",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_SEA007",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Crache-feu",
+          "typeLine": "Mécanologue Arme - Revolver (2M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t} cette carte et un rouage que vous contrôlez : **Attaque**{br}Quand cette carte attaque, vous pouvez {t} un rouage que vous contrôlez. Si vous le faites, l’attaque gagne +1{p}.",
+            "plain": "Action -- {t} cette carte et un rouage que vous contrôlez : Attaque\nQuand cette carte attaque, vous pouvez {t} un rouage que vous contrôlez. Si vous le faites, l’attaque gagne +1{p}.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> cette carte et un rouage que vous contrôlez : <strong>Attaque</strong></p>\n<p>Quand cette carte attaque, vous pouvez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> un rouage que vous contrôlez. Si vous le faites, l’attaque gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA007",
+          "printedLanguageCode": "FR",
+          "printedYear": "2025",
+          "artist": "Marcellino Tan",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA007.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA007.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA007.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

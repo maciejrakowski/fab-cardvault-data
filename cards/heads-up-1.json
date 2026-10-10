@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "heads-up-1",
+  "name": "Heads Up",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Heads Up",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 1,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Warrior Action",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Your next sword attack this turn gets +3{p} and \"When this attacks, if it wagered, it gets **dominate**.\"{br}**Go again**",
+        "plain": "Your next sword attack this turn gets +3{p} and \"When this attacks, if it wagered, it gets dominate.\"\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AOL014",
+      "code": "AOL014",
+      "language": "en",
+      "set": "AOL",
+      "setNumber": 14,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-olympia-prized-fighter",
+      "releaseDate": "2026-08-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-30T10:28:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AOL014",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Heads Up",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next sword attack this turn gets +3{p} and \"When this attacks, if it wagered, it gets **dominate**.\" _(It can't be defended by more than 1 card from hand.)_{br}**Go again**",
+            "plain": "Your next sword attack this turn gets +3{p} and \"When this attacks, if it wagered, it gets dominate.\" _(It can't be defended by more than 1 card from hand.)_\nGo again",
+            "html": "<p>Your next sword attack this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this attacks, if it wagered, it gets <strong>dominate</strong>.&quot; <em>(It can't be defended by more than 1 card from hand.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AOL014",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Reinaldo Indrajaya",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AOL014.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AOL014.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AOL014.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM213-RF",
+      "code": "GEM213",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 213,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-6",
+      "releaseDate": "2026-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-07T10:46:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM213-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Heads Up",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next sword attack this turn gets +3{p} and \"When this attacks, if it wagered, it gets **dominate**.\" **Go again**",
+            "plain": "Your next sword attack this turn gets +3{p} and \"When this attacks, if it wagered, it gets dominate.\" Go again",
+            "html": "<p>Your next sword attack this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this attacks, if it wagered, it gets <strong>dominate</strong>.&quot; <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM213",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Reinaldo Indrajaya",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM213-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM213-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM213-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "dominate"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:17:04Z",
+    "rawSha256": "267a4f0a9e91f053b320d4b32cda477392a44a32e5f57e4f07101ef502e9e45c",
+    "updatedAt": "2026-06-17T09:26:39.477212+12:00"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "savage-claw",
+  "language": "fr",
+  "name": "Griffe sauvage",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Griffe sauvage",
+      "typeLine": "Brute Arme - Griffe (1M)",
+      "types": [
+        "Arme"
+      ],
+      "subtypes": [
+        "(1M)",
+        "Griffe"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}{r}, {t} : **Attaque**{br}Si une carte avec au moins 6{p} a été pitchée pour attaquer avec cette carte, l’attaque gagne +1{p}.",
+        "plain": "Action -- {r}{r}, {t} : Attaque\nSi une carte avec au moins 6{p} a été pitchée pour attaquer avec cette carte, l’attaque gagne +1{p}.",
+        "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <strong>Attaque</strong></p>\n<p>Si une carte avec au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> a été pitchée pour attaquer avec cette carte, l’attaque gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_PEN001",
+      "code": "PEN001",
+      "language": "fr",
+      "set": "PEN",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "compendium-of-rathe-fr",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_PEN001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Griffe sauvage",
+          "typeLine": "Brute Arme - Griffe (1M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}, {t} : **Attaque**{br}Si une carte avec au moins 6{p} a été pitchée pour attaquer avec cette carte, l’attaque gagne +1{p}.",
+            "plain": "Action -- {r}{r}, {t} : Attaque\nSi une carte avec au moins 6{p} a été pitchée pour attaquer avec cette carte, l’attaque gagne +1{p}.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <strong>Attaque</strong></p>\n<p>Si une carte avec au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> a été pitchée pour attaquer avec cette carte, l’attaque gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "PEN001",
+          "printedLanguageCode": "fr",
+          "printedYear": "2025",
+          "artist": "João G. Santos",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_PEN001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_PEN001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_PEN001.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

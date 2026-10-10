@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "restless-templar-1",
+  "name": "Restless Templar",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Restless Templar",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": 3,
+      "defense": null,
+      "life": 3,
+      "intellect": null,
+      "typeLine": "Shadow Necromancer Action - Zombie Ally",
+      "traitLine": null,
+      "classes": [
+        "Necromancer"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Ally",
+        "Zombie"
+      ],
+      "text": {
+        "markup": "Whenever a zombie you control with decay dies, create a Gate to i'Arathael token.{br}**Decay**",
+        "plain": "Whenever a zombie you control with decay dies, create a Gate to i'Arathael token.\nDecay"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "IAR059",
+      "code": "IAR059",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 59,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR059",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Restless Templar",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever a zombie you control with decay dies, create a Gate to i'Arathael token.{br}**Decay** _(At the beginning of your end phase, put a -1{h} counter on this.)_",
+            "plain": "Whenever a zombie you control with decay dies, create a Gate to i'Arathael token.\nDecay _(At the beginning of your end phase, put a -1{h} counter on this.)_",
+            "html": "<p>Whenever a zombie you control with decay dies, create a Gate to i'Arathael token.</p>\n<p><strong>Decay</strong> <em>(At the beginning of your end phase, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> counter on this.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR059",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Billy Christian",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR059.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR059.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR059.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR059-MV",
+      "code": "IAR059",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 59,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR059-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Restless Templar",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever a zombie you control with decay dies, create a Gate to i'Arathael token.{br}**Decay** _(At the beginning of your end phase, put a -1{h} counter on this.)_",
+            "plain": "Whenever a zombie you control with decay dies, create a Gate to i'Arathael token.\nDecay _(At the beginning of your end phase, put a -1{h} counter on this.)_",
+            "html": "<p>Whenever a zombie you control with decay dies, create a Gate to i'Arathael token.</p>\n<p><strong>Decay</strong> <em>(At the beginning of your end phase, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> counter on this.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR059",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Billy Christian",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR059-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR059-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR059-MV.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Decay"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T19:52:07Z",
+    "rawSha256": "1b9730ab6215e8c68b83d0766f7c8ff76715931bac90891db500367f12fa80dc",
+    "updatedAt": "2026-07-13T19:38:00.333018+12:00"
+  }
+}

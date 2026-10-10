@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "creep-1",
+  "language": "ja",
+  "name": "忍び寄り",
+  "cores": [
+    {
+      "position": 10,
+      "name": "忍び寄り",
+      "typeLine": "暗殺者・アクション － 攻撃",
+      "classes": [
+        "暗殺者"
+      ],
+      "types": [
+        "アクション"
+      ],
+      "subtypes": [
+        "攻撃"
+      ],
+      "text": {
+        "markup": "**隠密** これが攻撃したとき、この戦闘チェインであなたがプレイする次の隠密を持つ攻撃・アクションカードは**続行**を得る。",
+        "plain": "隠密 これが攻撃したとき、この戦闘チェインであなたがプレイする次の隠密を持つ攻撃・アクションカードは続行を得る。",
+        "html": "<p><strong>隠密</strong> これが攻撃したとき、この戦闘チェインであなたがプレイする次の隠密を持つ攻撃・アクションカードは<strong>続行</strong>を得る。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_AAC009",
+      "code": "AAC009",
+      "language": "ja",
+      "set": "AAC",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-arakni-5lp3d-7hru-7h3-cr4x-ja",
+      "releaseDate": "2025-12-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AAC009",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "忍び寄り",
+          "typeLine": "暗殺者・アクション － 攻撃",
+          "traitLine": null,
+          "text": {
+            "markup": "**隠密** これが攻撃したとき、この戦闘チェインであなたがプレイする次の隠密を持つ攻撃・アクションカードは**続行**を得る。",
+            "plain": "隠密 これが攻撃したとき、この戦闘チェインであなたがプレイする次の隠密を持つ攻撃・アクションカードは続行を得る。",
+            "html": "<p><strong>隠密</strong> これが攻撃したとき、この戦闘チェインであなたがプレイする次の隠密を持つ攻撃・アクションカードは<strong>続行</strong>を得る。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAC009",
+          "printedLanguageCode": "jp",
+          "printedYear": "2025",
+          "artist": "Henrique Lindner",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AAC009.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AAC009.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AAC009.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

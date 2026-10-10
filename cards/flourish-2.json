@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "id": "flourish-2",
+  "name": "Flourish",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Flourish",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 0,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Earth Action",
+      "traitLine": null,
+      "classes": [],
+      "talents": [
+        "Earth"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "The next time an attack would gain {p} this turn, instead it gains that much plus 3.{br}**Go again**",
+        "plain": "The next time an attack would gain {p} this turn, instead it gains that much plus 3.\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "TER017",
+      "code": "TER017",
+      "language": "en",
+      "set": "TER",
+      "setNumber": 17,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "1st-strike-terra",
+      "releaseDate": "2024-08-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TER017",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flourish",
+          "typeLine": "Earth Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next time an attack would gain {p} this turn, instead it gains that much plus 3. _If it would gain +1{p}, instead it gains +4{p}_{br}**Go again**",
+            "plain": "The next time an attack would gain {p} this turn, instead it gains that much plus 3. _If it would gain +1{p}, instead it gains +4{p}_\nGo again",
+            "html": "<p>The next time an attack would gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> this turn, instead it gains that much plus 3. <em>If it would gain +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, instead it gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'></em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TER017",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Marco González",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "earth",
+          "watermark": [
+            1
+          ],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TER017.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TER017.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TER017.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM169",
+      "code": "GEM169",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 169,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-5",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM169",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flourish",
+          "typeLine": "Earth Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next time an attack would gain {p} this turn, instead it gains that much plus 3. **Go again**",
+            "plain": "The next time an attack would gain {p} this turn, instead it gains that much plus 3. Go again",
+            "html": "<p>The next time an attack would gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> this turn, instead it gains that much plus 3. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM169",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Marco González",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "earth",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM169.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM169.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM169.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM169-RF",
+      "code": "GEM169",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 169,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-5",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM169-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flourish",
+          "typeLine": "Earth Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next time an attack would gain {p} this turn, instead it gains that much plus 3. **Go again**",
+            "plain": "The next time an attack would gain {p} this turn, instead it gains that much plus 3. Go again",
+            "html": "<p>The next time an attack would gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> this turn, instead it gains that much plus 3. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM169",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Marco González",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "earth",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM169-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM169-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM169-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:14:59Z",
+    "rawSha256": "42bbdde8343f082291cd72c6e5499df5b8721803e2d1275f1e030dfb3317a233",
+    "updatedAt": "2025-09-18T06:50:08.216605+12:00"
+  }
+}

@@ -1,0 +1,861 @@
+{
+  "schemaVersion": 1,
+  "id": "nimblism-1",
+  "name": "Nimblism",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Nimblism",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Action",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "The next attack action card with cost 1 or less you play this turn gets +3{p}.{br}**Go again**",
+        "plain": "The next attack action card with cost 1 or less you play this turn gets +3{p}.\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "WTR218",
+      "code": "WTR218-C",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 218,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR218",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost {r} or less you play this turn gains +3{p}.\n**Go again**",
+            "plain": "The next attack action card with cost {r} or less you play this turn gains +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR218-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Fedor Barkhatov",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR218.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR218.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR218.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR218-RF",
+      "code": "WTR218-C",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 218,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR218-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost {r} or less you play this turn gains +3{p}.\n**Go again**",
+            "plain": "The next attack action card with cost {r} or less you play this turn gains +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR218-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Fedor Barkhatov",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR218-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR218-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR218-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR218",
+      "code": "WTR218",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 218,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR218",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost {r} or less you play this turn gains +3{p}.{br}**Go again**",
+            "plain": "The next attack action card with cost {r} or less you play this turn gains +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR218",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Fedor Barkhatov",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR218.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR218.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR218.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR218-RF",
+      "code": "WTR218",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 218,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR218-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost {r} or less you play this turn gains +3{p}.{br}**Go again**",
+            "plain": "The next attack action card with cost {r} or less you play this turn gains +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR218",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Fedor Barkhatov",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR218-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR218-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR218-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR218",
+      "code": "WTR218",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 218,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR218",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost {r} or less you play this turn gains +3{p}.\n**Go again**",
+            "plain": "The next attack action card with cost {r} or less you play this turn gains +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR218",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Fedor Barkhatov",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR218.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR218.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR218.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR218-RF",
+      "code": "WTR218",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 218,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR218-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost {r} or less you play this turn gains +3{p}.\n**Go again**",
+            "plain": "The next attack action card with cost {r} or less you play this turn gains +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR218",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Fedor Barkhatov",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR218-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR218-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR218-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP417",
+      "code": "1HP417",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 417,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP417",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost 1 or less you play this turn gains +3{p}. \n**Go again**",
+            "plain": "The next attack action card with cost 1 or less you play this turn gains +3{p}. \nGo again",
+            "html": "<p>The next attack action card with cost 1 or less you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. </p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP417",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Fedor Barkhatov",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP417.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP417.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP417.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MST221",
+      "code": "MST221",
+      "language": "en",
+      "set": "MST",
+      "setNumber": 221,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "part-the-mistveil",
+      "releaseDate": "2024-05-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MST221",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost 1 or less you play this turn gets +3{p}.{br}**Go again**",
+            "plain": "The next attack action card with cost 1 or less you play this turn gets +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost 1 or less you play this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MST221",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Fedor Barkhatov",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MST221.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MST221.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MST221.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM065",
+      "code": "GEM065",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 65,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-2",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM065",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost 1 or less you play this turn gets +3{p}.{br}**Go again**",
+            "plain": "The next attack action card with cost 1 or less you play this turn gets +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost 1 or less you play this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM065",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Reza Afshar",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM065.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM065.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM065.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM065-RF",
+      "code": "GEM065",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 65,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-2",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM065-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost 1 or less you play this turn gets +3{p}.{br}**Go again**",
+            "plain": "The next attack action card with cost 1 or less you play this turn gets +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost 1 or less you play this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM065",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Reza Afshar",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM065-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM065-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM065-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA238",
+      "code": "SEA238",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 238,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA238",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost 1 or less you play this turn gets +3{p}.{br}**Go again**",
+            "plain": "The next attack action card with cost 1 or less you play this turn gets +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost 1 or less you play this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA238",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Fedor Barkhatov",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA238.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA238.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA238.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAZ025",
+      "code": "SAZ025",
+      "language": "en",
+      "set": "SAZ",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-azalea",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-30T12:10:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SAZ025",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost 1 or less you play this turn gains +3{p}.{br}**Go again**",
+            "plain": "The next attack action card with cost 1 or less you play this turn gains +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost 1 or less you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SAZ025",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Fedor Barkhatov",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAZ025.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAZ025.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAZ025.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBA026",
+      "code": "SBA026",
+      "language": "en",
+      "set": "SBA",
+      "setNumber": 26,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-briar",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBA026",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nimblism",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card with cost 1 or less you play this turn gets +3{p}.{br}**Go again**",
+            "plain": "The next attack action card with cost 1 or less you play this turn gets +3{p}.\nGo again",
+            "html": "<p>The next attack action card with cost 1 or less you play this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBA026",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Fedor Barkhatov",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBA026.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBA026.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBA026.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {
+      "R-WTR218": "unlimited-revised",
+      "R-WTR218-RF": "unlimited-revised",
+      "U-WTR218": "unlimited",
+      "U-WTR218-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:22:48Z",
+    "rawSha256": "ea125f63ee43b446c351db199d24d99efb1801eb87aa28e20a77c7aeb36be1bb",
+    "updatedAt": "2025-09-18T06:52:54.757017+12:00"
+  }
+}

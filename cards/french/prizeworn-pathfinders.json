@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "prizeworn-pathfinders",
+  "language": "fr",
+  "name": "Bottes des vainqueurs",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Bottes des vainqueurs",
+      "typeLine": "Gardien / Guerrier Équipement - Jambes",
+      "classes": [
+        "Gardien",
+        "Guerrier"
+      ],
+      "types": [
+        "Équipement"
+      ],
+      "subtypes": [
+        "Jambes"
+      ],
+      "text": {
+        "markup": "À chaque fois que vous remportez un pari, vous pouvez payer {r}. Si vous le faites, retirez un marqueur -1{d} de cette carte.{br} **Usure de guerre**_ (Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1{d} sur elle.)_",
+        "plain": "À chaque fois que vous remportez un pari, vous pouvez payer {r}. Si vous le faites, retirez un marqueur -1{d} de cette carte.\n Usure de guerre_ (Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1{d} sur elle.)_",
+        "html": "<p>À chaque fois que vous remportez un pari, vous pouvez payer <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Si vous le faites, retirez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> de cette carte.</p>\n<p><strong>Usure de guerre</strong>_ (Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> sur elle.)_</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_AOL006-RF",
+      "code": "AOL006",
+      "language": "fr",
+      "set": "AOL",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-olympia-prized-fighter-fr",
+      "releaseDate": "2026-08-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-30T10:28:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_AOL006-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Bottes des vainqueurs",
+          "typeLine": "Gardien / Guerrier Équipement - Jambes",
+          "traitLine": null,
+          "text": {
+            "markup": "À chaque fois que vous remportez un pari, vous pouvez payer {r}. Si vous le faites, retirez un marqueur -1{d} de cette carte.{br} **Usure de guerre**_ (Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1{d} sur elle.)_",
+            "plain": "À chaque fois que vous remportez un pari, vous pouvez payer {r}. Si vous le faites, retirez un marqueur -1{d} de cette carte.\n Usure de guerre_ (Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1{d} sur elle.)_",
+            "html": "<p>À chaque fois que vous remportez un pari, vous pouvez payer <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Si vous le faites, retirez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> de cette carte.</p>\n<p><strong>Usure de guerre</strong>_ (Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> sur elle.)_</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AOL006",
+          "printedLanguageCode": "fr",
+          "printedYear": "2026",
+          "artist": "Surya Prasetya",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_AOL006-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_AOL006-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_AOL006-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

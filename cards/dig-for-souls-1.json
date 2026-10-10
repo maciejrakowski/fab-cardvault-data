@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "dig-for-souls-1",
+  "name": "Dig for Souls",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Dig for Souls",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "printedStats": {
+        "cost": "X"
+      },
+      "typeLine": "Shadow Necromancer Action",
+      "traitLine": null,
+      "classes": [
+        "Necromancer"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Look at the top X cards of your deck. You may put a zombie from among them into your graveyard, then put the rest on the bottom of your deck in any order.{br}Your next zombie attack this turn gets +4{p} and \"When this hits, destroy this zombie.\"{br}**Go again**",
+        "plain": "Look at the top X cards of your deck. You may put a zombie from among them into your graveyard, then put the rest on the bottom of your deck in any order.\nYour next zombie attack this turn gets +4{p} and \"When this hits, destroy this zombie.\"\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMA011",
+      "code": "AMA011",
+      "language": "en",
+      "set": "AMA",
+      "setNumber": 11,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-malice-domina-of-the-dead",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-09T10:17:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMA011",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dig for Souls",
+          "typeLine": "Shadow Necromancer Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Look at the top X cards of your deck. You may put a zombie from among them into your graveyard, then put the rest on the bottom of your deck in any order.{br}Your next zombie attack this turn gets +4{p} and \"When this hits, destroy this zombie.\"{br}**Go again**",
+            "plain": "Look at the top X cards of your deck. You may put a zombie from among them into your graveyard, then put the rest on the bottom of your deck in any order.\nYour next zombie attack this turn gets +4{p} and \"When this hits, destroy this zombie.\"\nGo again",
+            "html": "<p>Look at the top X cards of your deck. You may put a zombie from among them into your graveyard, then put the rest on the bottom of your deck in any order.</p>\n<p>Your next zombie attack this turn gets +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits, destroy this zombie.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "X",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMA011",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Diana Tanamas",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMA011.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMA011.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA011.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T20:57:21Z",
+    "rawSha256": "fc25702879165fe6b37426e4091e7c6408f57af7be32488e940f48d6584ea858",
+    "updatedAt": "2026-07-13T19:38:04.223497+12:00"
+  }
+}

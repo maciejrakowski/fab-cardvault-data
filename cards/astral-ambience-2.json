@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "astral-ambience-2",
+  "name": "Astral Ambience",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Astral Ambience",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 2,
+      "power": 6,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Illusionist Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Illusionist"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "Whenever this fragments, create a Spectral Shield token.{br}**Instant** -- {t} a Spectral Shield you control: This gets **go again**.{br}**Fragment**",
+        "plain": "Whenever this fragments, create a Spectral Shield token.\nInstant -- {t} a Spectral Shield you control: This gets go again.\nFragment"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "IAR250",
+      "code": "IAR250",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 250,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR250",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Astral Ambience",
+          "typeLine": "Illusionist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever this fragments, create a Spectral Shield token.{br}**Instant** -- {t} a Spectral Shield you control: This gets **go again**.{br}**Fragment** _(Whenever a card with 2 or more {d} defends this, this gets -2{p}.)_",
+            "plain": "Whenever this fragments, create a Spectral Shield token.\nInstant -- {t} a Spectral Shield you control: This gets go again.\nFragment _(Whenever a card with 2 or more {d} defends this, this gets -2{p}.)_",
+            "html": "<p>Whenever this fragments, create a Spectral Shield token.</p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a Spectral Shield you control: This gets <strong>go again</strong>.</p>\n<p><strong>Fragment</strong> <em>(Whenever a card with 2 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> defends this, this gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR250",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Reinaldo Indrajaya",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR250.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR250.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR250.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR250-RF",
+      "code": "IAR250",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 250,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR250-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Astral Ambience",
+          "typeLine": "Illusionist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever this fragments, create a Spectral Shield token.{br}**Instant** -- {t} a Spectral Shield you control: This gets **go again**.{br}**Fragment** _(Whenever a card with 2 or more {d} defends this, this gets -2{p}.)_",
+            "plain": "Whenever this fragments, create a Spectral Shield token.\nInstant -- {t} a Spectral Shield you control: This gets go again.\nFragment _(Whenever a card with 2 or more {d} defends this, this gets -2{p}.)_",
+            "html": "<p>Whenever this fragments, create a Spectral Shield token.</p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a Spectral Shield you control: This gets <strong>go again</strong>.</p>\n<p><strong>Fragment</strong> <em>(Whenever a card with 2 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> defends this, this gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR250",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Reinaldo Indrajaya",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR250-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR250-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR250-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Fragment",
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T19:22:43Z",
+    "rawSha256": "4ac760fad00bcf20339110c00ccfe51e9c0b5c4290c61c9dafc014f033bda256",
+    "updatedAt": "2026-07-13T19:38:03.789616+12:00"
+  }
+}

@@ -1,0 +1,863 @@
+{
+  "schemaVersion": 1,
+  "id": "corrupted-corpse",
+  "name": "Corrupted Corpse",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Corrupted Corpse",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": 2,
+      "power": 3,
+      "defense": null,
+      "life": 3,
+      "intellect": null,
+      "typeLine": "Shadow Necromancer Action - Zombie Ally",
+      "traitLine": null,
+      "classes": [
+        "Necromancer"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Ally",
+        "Zombie"
+      ],
+      "text": {
+        "markup": "**Incarnate**{br}This card's attacks get **go again**.{br}**Blood Debt **",
+        "plain": "Incarnate\nThis card's attacks get go again.\nBlood Debt"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMA029",
+      "code": "AMA029",
+      "language": "en",
+      "set": "AMA",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-malice-domina-of-the-dead",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-09T10:17:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMA029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{g}.)_",
+            "plain": "Incarnate _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt _(While this is banished, at the beginning of your end phase, lose 1{g}.)_",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start the game in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "AMA029",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Carlos Cruchaga",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMA029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMA029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB514-MVA",
+      "code": "FAB514",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 514,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "prize-wall-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB514-MVA",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt**",
+            "plain": "Incarnate _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start the game in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "FAB514",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB514-MVA.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB514-MVA.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVA.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB514-MVB",
+      "code": "FAB514",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 514,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "prize-wall-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB514-MVB",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt**",
+            "plain": "Incarnate _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start the game in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "FAB514",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB514-MVB.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB514-MVB.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVB.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB514-MVC",
+      "code": "FAB514",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 514,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "prize-wall-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB514-MVC",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt**",
+            "plain": "Incarnate _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start the game in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "FAB514",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB514-MVC.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB514-MVC.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVC.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB514-MVD",
+      "code": "FAB514",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 514,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "prize-wall-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB514-MVD",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt**",
+            "plain": "Incarnate _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start the game in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "FAB514",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB514-MVD.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB514-MVD.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVD.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB514-MVE",
+      "code": "FAB514",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 514,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "prize-wall-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB514-MVE",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt**",
+            "plain": "Incarnate _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start the game in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "FAB514",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB514-MVE.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB514-MVE.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVE.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB514-MVF",
+      "code": "FAB514",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 514,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "prize-wall-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB514-MVF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt**",
+            "plain": "Incarnate _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start the game in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "FAB514",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB514-MVF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB514-MVF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB514-MVG",
+      "code": "FAB514",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 514,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "prize-wall-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB514-MVG",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt**",
+            "plain": "Incarnate _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start the game in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "FAB514",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB514-MVG.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB514-MVG.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVG.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB514-MVH",
+      "code": "FAB514",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 514,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "prize-wall-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB514-MVH",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt**",
+            "plain": "Incarnate _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start the game in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "FAB514",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB514-MVH.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB514-MVH.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVH.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB514-MVI",
+      "code": "FAB514",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 514,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "prize-wall-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB514-MVI",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt**",
+            "plain": "Incarnate _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start the game in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "FAB514",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB514-MVI.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB514-MVI.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVI.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB514-MVJ",
+      "code": "FAB514",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 514,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "prize-wall-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB514-MVJ",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt**",
+            "plain": "Incarnate _(This can't start the game in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start the game in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "FAB514",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB514-MVJ.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB514-MVJ.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB514-MVJ.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR090-RF",
+      "code": "IAR090",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 90,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pre-release-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR090-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**. **Blood Debt**",
+            "plain": "Incarnate _(This can't start in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again. Blood Debt",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>. <strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "IAR090",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Carlos Cruchaga",
+          "rarityMark": "basic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR090-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR090-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR090-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR090",
+      "code": "IAR090",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 90,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR090",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Corrupted Corpse",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Incarnate** _(This can't start in your deck. If this would die, instead it ceases to exist.)_{br}This card's attacks get **go again**.{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "plain": "Incarnate _(This can't start in your deck. If this would die, instead it ceases to exist.)_\nThis card's attacks get go again.\nBlood Debt _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "html": "<p><strong>Incarnate</strong> <em>(This can't start in your deck. If this would die, instead it ceases to exist.)</em></p>\n<p>This card's attacks get <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": "2",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "IAR090",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Carlos Cruchaga",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR090.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR090.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR090.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Blood Debt",
+      "Incarnate",
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T19:31:56Z",
+    "rawSha256": "3cf427e1159059ddbd23fbb75e0fc4b20a49dafad886a9b4ef4f800b871d450a",
+    "updatedAt": "2026-07-13T19:38:00.953069+12:00"
+  }
+}

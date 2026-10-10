@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "hunters-klaive",
+  "language": "it",
+  "name": "Klaive del Cacciatore",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Klaive del Cacciatore",
+      "typeLine": "Arma Assassino - Pugnale (1M)",
+      "classes": [
+        "Assassino"
+      ],
+      "types": [
+        "Arma"
+      ],
+      "subtypes": [
+        "(1M)",
+        "Pugnale"
+      ],
+      "text": {
+        "markup": "**Azione, una volta per turno** -- {r}{r}: **Attacca** **Continua**{br}Quando colpisce un eroe, **marchialo**.{br}**Perforare 1** _(Se viene difesa da un equipaggiamento, guadagna +1{p}.)_",
+        "plain": "Azione, una volta per turno -- {r}{r}: Attacca Continua\nQuando colpisce un eroe, marchialo.\nPerforare 1 _(Se viene difesa da un equipaggiamento, guadagna +1{p}.)_",
+        "html": "<p><strong>Azione, una volta per turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attacca</strong> <strong>Continua</strong></p>\n<p>Quando colpisce un eroe, <strong>marchialo</strong>.</p>\n<p><strong>Perforare 1</strong> <em>(Se viene difesa da un equipaggiamento, guadagna +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_HNT009",
+      "code": "HNT009",
+      "language": "it",
+      "set": "HNT",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted-it",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_HNT009",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Klaive del Cacciatore",
+          "typeLine": "Arma Assassino - Pugnale (1M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Azione, una volta per turno** -- {r}{r}: **Attacca** **Continua**{br}Quando colpisce un eroe, **marchialo**.{br}**Perforare 1** _(Se viene difesa da un equipaggiamento, guadagna +1{p}.)_",
+            "plain": "Azione, una volta per turno -- {r}{r}: Attacca Continua\nQuando colpisce un eroe, marchialo.\nPerforare 1 _(Se viene difesa da un equipaggiamento, guadagna +1{p}.)_",
+            "html": "<p><strong>Azione, una volta per turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attacca</strong> <strong>Continua</strong></p>\n<p>Quando colpisce un eroe, <strong>marchialo</strong>.</p>\n<p><strong>Perforare 1</strong> <em>(Se viene difesa da un equipaggiamento, guadagna +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT009",
+          "printedLanguageCode": "IT",
+          "printedYear": "2024",
+          "artist": "Thomas Ressuge",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_HNT009.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_HNT009.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_HNT009.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

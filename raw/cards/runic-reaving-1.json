@@ -1,0 +1,812 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "9e4b5e2d-61c4-46cd-8bb5-a788b878b457",
+      "cores": [
+        {
+          "id": "4b06a455-dd5b-4cf8-a04d-7b234280214c",
+          "core_classes": [
+            {
+              "id": 12,
+              "name": "Runeblade",
+              "name_en": "Runeblade",
+              "name_fr": "Lamerune",
+              "name_de": "Runenklinge",
+              "name_it": "Runalama",
+              "name_es": "Filorruna",
+              "name_ja": "ルーン剣士",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-05-22T19:18:59.792876+12:00",
+          "updated_at": "2026-05-22T19:18:59.792884+12:00",
+          "name": "Runic Reaving",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "0",
+          "color": "red",
+          "cost": "0",
+          "power": "4",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Usurp**{br}**Instant** -- Discard this: Create a Runechant token.",
+          "typebox": "Runeblade Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": 0,
+          "cost_value": 0,
+          "power_value": 4,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "9e4b5e2d-61c4-46cd-8bb5-a788b878b457"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "f9aca23a-9525-456f-bdda-50de7b9cd6c4",
+          "faces": [
+            {
+              "id": "06ad0a1d-c353-452d-b554-3e437cccfb2d",
+              "created_at": "2026-07-13T19:39:10.137726+12:00",
+              "updated_at": "2026-07-13T19:39:10.137737+12:00",
+              "face_id": "JA_IAR149-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR149",
+              "printed_artist": "Nino Setiawan",
+              "printed_name": "ルーンの略奪",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**侵奪**（これをプレイするための追加コストとして、可能ならば「ルーン陣」を１つ破壊する。そうした場合、これは＋２{p}を得る）{br}**インスタント** -- これを捨てる：「ルーン陣」トークンを１つ作成する。",
+              "printed_flavor_text": "",
+              "printed_typebox": "ルーン剣士・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "4b06a455-dd5b-4cf8-a04d-7b234280214c",
+              "card_print": "f9aca23a-9525-456f-bdda-50de7b9cd6c4",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>ルーンの略奪</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>ルーン剣士・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>侵奪</strong>（これをプレイするための追加コストとして、可能ならば「ルーン陣」を１つ破壊する。そうした場合、これは＋２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る）</p>\n<p><strong>インスタント</strong> — これを捨てる：「ルーン陣」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR149-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR149-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR149-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:39:10.130067+12:00",
+          "updated_at": "2026-08-28T09:40:33.866281+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR149-RF",
+          "set_number": 149,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "9e4b5e2d-61c4-46cd-8bb5-a788b878b457"
+        },
+        {
+          "id": "2992a5c7-ea44-42d5-b825-fbbe05abfd53",
+          "faces": [
+            {
+              "id": "fa5f0699-418b-48fd-9c7c-2063aa526570",
+              "created_at": "2026-07-13T19:39:10.099375+12:00",
+              "updated_at": "2026-07-13T19:39:10.099390+12:00",
+              "face_id": "JA_IAR149",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR149",
+              "printed_artist": "Nino Setiawan",
+              "printed_name": "ルーンの略奪",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**侵奪**（これをプレイするための追加コストとして、可能ならば「ルーン陣」を１つ破壊する。そうした場合、これは＋２{p}を得る）{br}**インスタント** -- これを捨てる：「ルーン陣」トークンを１つ作成する。",
+              "printed_flavor_text": "",
+              "printed_typebox": "ルーン剣士・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "4b06a455-dd5b-4cf8-a04d-7b234280214c",
+              "card_print": "2992a5c7-ea44-42d5-b825-fbbe05abfd53",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>ルーンの略奪</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>ルーン剣士・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>侵奪</strong>（これをプレイするための追加コストとして、可能ならば「ルーン陣」を１つ破壊する。そうした場合、これは＋２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る）</p>\n<p><strong>インスタント</strong> — これを捨てる：「ルーン陣」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR149.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR149.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR149.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:39:10.090569+12:00",
+          "updated_at": "2026-08-28T09:40:29.345282+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR149",
+          "set_number": 149,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "9e4b5e2d-61c4-46cd-8bb5-a788b878b457"
+        },
+        {
+          "id": "fd6a5508-e809-4672-826f-a273bc79515d",
+          "faces": [
+            {
+              "id": "620732f6-4221-4c57-b062-17fe607cc6fb",
+              "created_at": "2026-07-13T19:38:20.451187+12:00",
+              "updated_at": "2026-07-13T19:38:20.451229+12:00",
+              "face_id": "FR_IAR149",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR149",
+              "printed_artist": "Nino Setiawan",
+              "printed_name": "Saccage runique",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Usurper** _(Comme coût supplémentaire pour jouer cette carte, détruisez un Chanterune si possible. Si vous le faites, cette carte gagne +2{p}.)_{br}**Instantané** -- Défaussez-vous de cette carte\u00A0: créez un jeton Chanterune.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lamerune Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "4b06a455-dd5b-4cf8-a04d-7b234280214c",
+              "card_print": "fd6a5508-e809-4672-826f-a273bc79515d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Saccage runique</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lamerune Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Usurper</strong> <em>(Comme coût supplémentaire pour jouer cette carte, détruisez un Chanterune si possible. Si vous le faites, cette carte gagne +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p><strong>Instantané</strong> — Défaussez-vous de cette carte\u00A0: créez un jeton Chanterune.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR149.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR149.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR149.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:20.440874+12:00",
+          "updated_at": "2026-08-28T09:40:28.224018+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR149",
+          "set_number": 149,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "9e4b5e2d-61c4-46cd-8bb5-a788b878b457"
+        },
+        {
+          "id": "55b95203-61fb-4d0d-bc8c-2ecddc8b7563",
+          "faces": [
+            {
+              "id": "98589b42-7379-455c-95c7-afd75731b33c",
+              "created_at": "2026-07-13T19:38:20.492997+12:00",
+              "updated_at": "2026-07-13T19:38:20.493008+12:00",
+              "face_id": "FR_IAR149-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR149",
+              "printed_artist": "Nino Setiawan",
+              "printed_name": "Saccage runique",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Usurper** _(Comme coût supplémentaire pour jouer cette carte, détruisez un Chanterune si possible. Si vous le faites, cette carte gagne +2{p}.)_{br}**Instantané** -- Défaussez-vous de cette carte\u00A0: créez un jeton Chanterune.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lamerune Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "4b06a455-dd5b-4cf8-a04d-7b234280214c",
+              "card_print": "55b95203-61fb-4d0d-bc8c-2ecddc8b7563",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Saccage runique</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lamerune Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Usurper</strong> <em>(Comme coût supplémentaire pour jouer cette carte, détruisez un Chanterune si possible. Si vous le faites, cette carte gagne +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p><strong>Instantané</strong> — Défaussez-vous de cette carte\u00A0: créez un jeton Chanterune.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR149-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR149-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR149-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:20.484694+12:00",
+          "updated_at": "2026-08-28T09:40:27.850674+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR149-RF",
+          "set_number": 149,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "9e4b5e2d-61c4-46cd-8bb5-a788b878b457"
+        },
+        {
+          "id": "9ee0c390-3cc1-4a00-9eac-fcf7a82704a1",
+          "faces": [
+            {
+              "id": "d52eb86a-2909-4c13-a33c-3e2e19abec10",
+              "created_at": "2026-05-22T19:19:00.647192+12:00",
+              "updated_at": "2026-07-14T09:30:49.174610+12:00",
+              "face_id": "FAB477-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB477",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "Runic Reaving",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Usurp** _(As an additional cost to play this, destroy a Runechant if able. If you do, this gets +2{p}.)_{br}**Instant** -- Discard this: Create a Runechant token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Runeblade Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "4b06a455-dd5b-4cf8-a04d-7b234280214c",
+              "card_print": "9ee0c390-3cc1-4a00-9eac-fcf7a82704a1",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Runic Reaving</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Runeblade Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Usurp</strong> <em>(As an additional cost to play this, destroy a Runechant if able. If you do, this gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p><strong>Instant</strong> — Discard this: Create a Runechant token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB477-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB477-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB477-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fa183c65-7fc0-4c94-a397-7fced4f30832",
+            "product_group": null,
+            "created_at": "2026-03-30T10:30:30.555238+13:00",
+            "updated_at": "2026-06-12T09:35:02.587721+12:00",
+            "printed_date": "2025-12-01",
+            "printed_language": "en",
+            "product_name": "National Championship - 2026",
+            "product_type": "promo",
+            "release_date": "2026-07-06",
+            "slug": "national-championship-2026",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-05-22T19:19:00.640767+12:00",
+          "updated_at": "2026-06-09T13:10:28.417780+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-08-28T09:30:00+12:00",
+          "print_id": "FAB477-RF",
+          "set_number": 477,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "9e4b5e2d-61c4-46cd-8bb5-a788b878b457"
+        },
+        {
+          "id": "cd0a472e-1569-457d-b390-02fc1a241382",
+          "faces": [
+            {
+              "id": "701e7019-006c-404e-9e51-45c3314b6c6b",
+              "created_at": "2026-07-13T19:38:45.490937+12:00",
+              "updated_at": "2026-07-13T19:38:45.490954+12:00",
+              "face_id": "IAR149",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR149",
+              "printed_artist": "Nino Setiawan",
+              "printed_name": "Runic Reaving",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Usurp** _(As an additional cost to play this, destroy a Runechant if able. If you do, this gets +2{p}.)_{br}**Instant** -- Discard this: Create a Runechant token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Runeblade Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "4b06a455-dd5b-4cf8-a04d-7b234280214c",
+              "card_print": "cd0a472e-1569-457d-b390-02fc1a241382",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Runic Reaving</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Runeblade Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Usurp</strong> <em>(As an additional cost to play this, destroy a Runechant if able. If you do, this gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p><strong>Instant</strong> — Discard this: Create a Runechant token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR149.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR149.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR149.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:45.462041+12:00",
+          "updated_at": "2026-08-28T09:40:33.157084+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR149",
+          "set_number": 149,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "9e4b5e2d-61c4-46cd-8bb5-a788b878b457"
+        },
+        {
+          "id": "76b5f73c-a4ef-4044-881f-8761cad8d8d0",
+          "faces": [
+            {
+              "id": "5398d4ba-d7c6-4b59-bf34-226f23ba06d5",
+              "created_at": "2026-07-13T19:38:45.550795+12:00",
+              "updated_at": "2026-07-13T19:38:45.550813+12:00",
+              "face_id": "IAR149-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR149",
+              "printed_artist": "Nino Setiawan",
+              "printed_name": "Runic Reaving",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Usurp** _(As an additional cost to play this, destroy a Runechant if able. If you do, this gets +2{p}.)_{br}**Instant** -- Discard this: Create a Runechant token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Runeblade Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "4b06a455-dd5b-4cf8-a04d-7b234280214c",
+              "card_print": "76b5f73c-a4ef-4044-881f-8761cad8d8d0",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Runic Reaving</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Runeblade Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Usurp</strong> <em>(As an additional cost to play this, destroy a Runechant if able. If you do, this gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p><strong>Instant</strong> — Discard this: Create a Runechant token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR149-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR149-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR149-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:45.539618+12:00",
+          "updated_at": "2026-08-28T09:40:32.443901+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR149-RF",
+          "set_number": 149,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "9e4b5e2d-61c4-46cd-8bb5-a788b878b457"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-05-22T19:18:59.784834+12:00",
+      "updated_at": "2026-05-22T19:18:59.784842+12:00",
+      "card_id": "runic-reaving-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

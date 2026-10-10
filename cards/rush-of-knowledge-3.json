@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "rush-of-knowledge-3",
+  "name": "Rush of Knowledge",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Rush of Knowledge",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": 4,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Illusionist / Wizard Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Illusionist",
+        "Wizard"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this attacks, you may destroy a Ponder token you control. If you do, draw a card and gain 1 action point.{br}**Phantasm**",
+        "plain": "When this attacks, you may destroy a Ponder token you control. If you do, draw a card and gain 1 action point.\nPhantasm"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "IAR252",
+      "code": "IAR252",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 252,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR252",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rush of Knowledge",
+          "typeLine": "Illusionist / Wizard Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, you may destroy a Ponder token you control. If do you, draw a card and gain 1 action point.{br}**Phantasm** _(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this.)_",
+            "plain": "When this attacks, you may destroy a Ponder token you control. If do you, draw a card and gain 1 action point.\nPhantasm _(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this.)_",
+            "html": "<p>When this attacks, you may destroy a Ponder token you control. If do you, draw a card and gain 1 action point.</p>\n<p><strong>Phantasm</strong> <em>(When this is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy this.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR252",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nailsen Ivanderlie",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR252.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR252.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR252.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR252-RF",
+      "code": "IAR252",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 252,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR252-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rush of Knowledge",
+          "typeLine": "Illusionist / Wizard Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, you may destroy a Ponder token you control. If do you, draw a card and gain 1 action point. **Phantasm**",
+            "plain": "When this attacks, you may destroy a Ponder token you control. If do you, draw a card and gain 1 action point. Phantasm",
+            "html": "<p>When this attacks, you may destroy a Ponder token you control. If do you, draw a card and gain 1 action point. <strong>Phantasm</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR252",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nailsen Ivanderlie",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR252-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR252-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR252-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Phantasm"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T19:56:49Z",
+    "rawSha256": "ec0006874cdcd3097233d6174b92a54d0d52bd7e069be69131ded3a8361c14d4",
+    "updatedAt": "2026-07-13T19:38:03.843622+12:00"
+  }
+}

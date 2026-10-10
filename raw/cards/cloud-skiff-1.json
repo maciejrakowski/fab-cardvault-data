@@ -1,0 +1,921 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "eef2eb25-982e-459f-ad3a-828d2f6134a8",
+      "cores": [
+        {
+          "id": "7b58a374-4f02-4a8f-b316-de4797919c47",
+          "core_classes": [
+            {
+              "id": 8,
+              "name": "Mechanologist",
+              "name_en": "Mechanologist",
+              "name_fr": "Mécanologue",
+              "name_de": "Mechanologisch",
+              "name_it": "Meccanologo",
+              "name_es": "Mecanólogo",
+              "name_ja": "機械技師",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:47:42.998286+12:00",
+          "updated_at": "2025-09-18T06:47:43.009159+12:00",
+          "name": "Cloud Skiff",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "1",
+          "power": "5",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Once per Turn Instant** -- {t} a cog you control: This gets +1{p} or **go again**.",
+          "typebox": "Mechanologist Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 1,
+          "power_value": 5,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "eef2eb25-982e-459f-ad3a-828d2f6134a8"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "1c1e69fb-f5de-4733-8fb9-64045a7b8fc1",
+          "faces": [
+            {
+              "id": "ec851344-bc06-412c-83ba-672f13f1ff2c",
+              "created_at": "2025-09-18T06:47:43.024686+12:00",
+              "updated_at": "2025-09-18T06:47:43.024701+12:00",
+              "face_id": "FR_SEA024",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA024",
+              "printed_artist": "Nikko Wahyudi",
+              "printed_name": "Esquif des nuages",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané une fois par tour** -- {t} un rouage que vous contrôlez : cette carte gagne +1{p} ou **encore une fois**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mécanologue Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b58a374-4f02-4a8f-b316-de4797919c47",
+              "card_print": "1c1e69fb-f5de-4733-8fb9-64045a7b8fc1",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Esquif des nuages</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mécanologue Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> un rouage que vous contrôlez : cette carte gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> ou <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA024.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA024.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA024.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:43.017819+12:00",
+          "updated_at": "2025-09-18T06:47:43.017834+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA024",
+          "set_number": 24,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "eef2eb25-982e-459f-ad3a-828d2f6134a8"
+        },
+        {
+          "id": "e42fe3bd-8356-4866-b59a-8849c8202267",
+          "faces": [
+            {
+              "id": "8ea0b947-33fb-4cfa-9485-17d560c6d89f",
+              "created_at": "2025-09-18T06:47:43.040343+12:00",
+              "updated_at": "2025-09-18T06:47:43.040362+12:00",
+              "face_id": "FR_SEA024-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA024",
+              "printed_artist": "Nikko Wahyudi",
+              "printed_name": "Esquif des nuages",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané une fois par tour** -- {t} un rouage que vous contrôlez : cette carte gagne +1{p} ou **encore une fois**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mécanologue Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b58a374-4f02-4a8f-b316-de4797919c47",
+              "card_print": "e42fe3bd-8356-4866-b59a-8849c8202267",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Esquif des nuages</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mécanologue Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> un rouage que vous contrôlez : cette carte gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> ou <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA024-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA024-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA024-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:43.033333+12:00",
+          "updated_at": "2025-09-18T06:47:43.033350+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA024-RF",
+          "set_number": 24,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "eef2eb25-982e-459f-ad3a-828d2f6134a8"
+        },
+        {
+          "id": "ac9b8790-99fc-4bc5-b19d-422e02171ce3",
+          "faces": [
+            {
+              "id": "7ca24587-4e37-4727-a5c6-b4bfaa9772b7",
+              "created_at": "2025-09-18T06:47:43.057788+12:00",
+              "updated_at": "2025-09-18T06:47:43.057826+12:00",
+              "face_id": "JA_SEA024",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA024",
+              "printed_artist": "Nikko Wahyudi",
+              "printed_name": "飛雲艇",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**ターン１インスタント**--あなたがコントロールする歯車１つを{t}する：これは＋１{p}か**続行**を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "機械技師・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b58a374-4f02-4a8f-b316-de4797919c47",
+              "card_print": "ac9b8790-99fc-4bc5-b19d-422e02171ce3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>飛雲艇</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>機械技師・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>ターン１インスタント</strong>—あなたがコントロールする歯車１つを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する：これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>か<strong>続行</strong>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA024.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA024.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA024.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:43.050858+12:00",
+          "updated_at": "2025-09-18T06:47:43.050871+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA024",
+          "set_number": 24,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "eef2eb25-982e-459f-ad3a-828d2f6134a8"
+        },
+        {
+          "id": "9871d431-fdd2-49b8-bce7-e9010fd87b4a",
+          "faces": [
+            {
+              "id": "5dc1066d-8fb4-49c1-a25d-ab059b5b7cb8",
+              "created_at": "2025-09-18T06:47:43.076533+12:00",
+              "updated_at": "2025-09-18T06:47:43.076547+12:00",
+              "face_id": "JA_SEA024-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA024",
+              "printed_artist": "Nikko Wahyudi",
+              "printed_name": "飛雲艇",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**ターン１インスタント**--あなたがコントロールする歯車１つを{t}する：これは＋１{p}か**続行**を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "機械技師・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b58a374-4f02-4a8f-b316-de4797919c47",
+              "card_print": "9871d431-fdd2-49b8-bce7-e9010fd87b4a",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>飛雲艇</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>機械技師・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>ターン１インスタント</strong>—あなたがコントロールする歯車１つを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する：これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>か<strong>続行</strong>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA024-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA024-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA024-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:43.069515+12:00",
+          "updated_at": "2025-09-18T06:47:43.069533+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA024-RF",
+          "set_number": 24,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "eef2eb25-982e-459f-ad3a-828d2f6134a8"
+        },
+        {
+          "id": "149b1f65-5805-4228-ac54-779cd2111d7a",
+          "faces": [
+            {
+              "id": "7716b97f-2507-498d-af75-81d9bb2a5964",
+              "created_at": "2025-09-18T06:47:43.092855+12:00",
+              "updated_at": "2025-09-18T06:47:43.092867+12:00",
+              "face_id": "SEA024",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA024",
+              "printed_artist": "Nikko Wahyudi",
+              "printed_name": "Cloud Skiff",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {t} a cog you control: This gets +1{p} or **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mechanologist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b58a374-4f02-4a8f-b316-de4797919c47",
+              "card_print": "149b1f65-5805-4228-ac54-779cd2111d7a",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cloud Skiff</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control: This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> or <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA024.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA024.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA024.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:43.086622+12:00",
+          "updated_at": "2025-09-18T06:47:43.086637+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA024",
+          "set_number": 24,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "eef2eb25-982e-459f-ad3a-828d2f6134a8"
+        },
+        {
+          "id": "30e2f0f9-c419-4737-a398-fc9df0e92d1c",
+          "faces": [
+            {
+              "id": "10f65bb1-4f2e-46af-a66d-e6d522216346",
+              "created_at": "2025-09-18T06:47:43.105333+12:00",
+              "updated_at": "2025-09-18T06:47:43.105358+12:00",
+              "face_id": "SEA024-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA024",
+              "printed_artist": "Nikko Wahyudi",
+              "printed_name": "Cloud Skiff",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {t} a cog you control: This gets +1{p} or **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mechanologist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b58a374-4f02-4a8f-b316-de4797919c47",
+              "card_print": "30e2f0f9-c419-4737-a398-fc9df0e92d1c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cloud Skiff</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control: This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> or <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA024-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA024-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA024-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:43.099866+12:00",
+          "updated_at": "2025-09-18T06:47:43.099879+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA024-RF",
+          "set_number": 24,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "eef2eb25-982e-459f-ad3a-828d2f6134a8"
+        },
+        {
+          "id": "5b3383f2-b920-42b5-b782-c4cb0566a238",
+          "faces": [
+            {
+              "id": "c66a0752-067b-47cd-8ac3-2566291b7ccc",
+              "created_at": "2025-09-18T06:47:43.118371+12:00",
+              "updated_at": "2025-09-18T06:47:43.118383+12:00",
+              "face_id": "GEM041-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM041",
+              "printed_artist": "Nikko Wahyudi",
+              "printed_name": "Cloud Skiff",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {t} a cog you control: This gets +1{p} or **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mechanologist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b58a374-4f02-4a8f-b316-de4797919c47",
+              "card_print": "5b3383f2-b920-42b5-b782-c4cb0566a238",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cloud Skiff</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control: This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> or <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM041-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM041-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM041-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:43.114013+12:00",
+          "updated_at": "2025-09-18T06:47:43.114029+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM041-RF",
+          "set_number": 41,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "eef2eb25-982e-459f-ad3a-828d2f6134a8"
+        },
+        {
+          "id": "8ddebc34-050f-43b0-aa17-7af3b4fa746d",
+          "faces": [
+            {
+              "id": "0e8906d3-4c66-4b28-8d6c-62cec4d2dce2",
+              "created_at": "2025-09-18T06:47:43.131965+12:00",
+              "updated_at": "2025-09-18T06:47:43.131979+12:00",
+              "face_id": "GEM041",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM041",
+              "printed_artist": "Nikko Wahyudi",
+              "printed_name": "Cloud Skiff",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {t} a cog you control: This gets +1{p} or **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mechanologist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b58a374-4f02-4a8f-b316-de4797919c47",
+              "card_print": "8ddebc34-050f-43b0-aa17-7af3b4fa746d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cloud Skiff</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control: This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> or <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM041.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM041.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM041.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:43.127130+12:00",
+          "updated_at": "2025-09-18T06:47:43.127146+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM041",
+          "set_number": 41,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "eef2eb25-982e-459f-ad3a-828d2f6134a8"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:47:42.992967+12:00",
+      "updated_at": "2025-09-18T06:47:42.995049+12:00",
+      "card_id": "cloud-skiff-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "clambering-corpses-3",
+  "name": "Clambering Corpses",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Clambering Corpses",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": 1,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Shadow Necromancer Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Necromancer"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this attacks, you may discard a zombie. If you do, this gets +3{p} and **go again**.{br}When this hits a hero, your zombie attacks this turn get **go again**.",
+        "plain": "When this attacks, you may discard a zombie. If you do, this gets +3{p} and go again.\nWhen this hits a hero, your zombie attacks this turn get go again."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMA021",
+      "code": "AMA021",
+      "language": "en",
+      "set": "AMA",
+      "setNumber": 21,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-malice-domina-of-the-dead",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-09T10:17:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMA021",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Clambering Corpses",
+          "typeLine": "Shadow Necromancer Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, you may discard a zombie. If you do, this gets +3{p} and **go again**.{br}When this hits a hero, your zombie attacks this turn get **go again**.",
+            "plain": "When this attacks, you may discard a zombie. If you do, this gets +3{p} and go again.\nWhen this hits a hero, your zombie attacks this turn get go again.",
+            "html": "<p>When this attacks, you may discard a zombie. If you do, this gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>.</p>\n<p>When this hits a hero, your zombie attacks this turn get <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": "1",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMA021",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMA021.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMA021.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA021.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T20:57:10Z",
+    "rawSha256": "47f39515ea8289ce7342f1d657cf85379c3b41c4ca11b046ae7c9172cab93af5",
+    "updatedAt": "2026-07-13T19:38:04.262099+12:00"
+  }
+}

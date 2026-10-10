@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "undead-grasp",
+  "name": "Undead Grasp",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Undead Grasp",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Shadow Necromancer Equipment - Arms",
+      "traitLine": null,
+      "classes": [
+        "Necromancer"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Arms"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}, discard a zombie, destroy this: Your next zombie attack this turn gets +3{p} and \"When this hits, destroy this zombie.\" **Go again**{br}**Battleworn**",
+        "plain": "Action -- {r}, discard a zombie, destroy this: Your next zombie attack this turn gets +3{p} and \"When this hits, destroy this zombie.\" Go again\nBattleworn"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMA005-RF",
+      "code": "AMA005",
+      "language": "en",
+      "set": "AMA",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-malice-domina-of-the-dead",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-09T10:17:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMA005-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Undead Grasp",
+          "typeLine": "Shadow Necromancer Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}, discard a zombie, destroy this: Your next zombie attack this turn gets +3{p} and \"When this hits, destroy this zombie.\" **Go again**{br}**Battleworn** _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "plain": "Action -- {r}, discard a zombie, destroy this: Your next zombie attack this turn gets +3{p} and \"When this hits, destroy this zombie.\" Go again\nBattleworn _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, discard a zombie, destroy this: Your next zombie attack this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits, destroy this zombie.&quot; <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMA005",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Brian Madya Narendra",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMA005-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMA005-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA005-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Battleworn",
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T20:57:54Z",
+    "rawSha256": "1172f5afc05c87a47715136f30e481879031d33fa076d26e6d4d90f344466785",
+    "updatedAt": "2026-07-13T19:38:04.206098+12:00"
+  }
+}

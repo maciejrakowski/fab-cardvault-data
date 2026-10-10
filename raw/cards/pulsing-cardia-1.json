@@ -1,0 +1,933 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "f5bd995b-888f-486c-8cd9-773a2f4851b1",
+      "cores": [
+        {
+          "id": "1a5b4b36-b9ea-4dcc-ace9-3637c87af8e7",
+          "core_classes": [
+            {
+              "id": 7,
+              "name": "Illusionist",
+              "name_en": "Illusionist",
+              "name_fr": "Illusionniste",
+              "name_de": "Illusionist",
+              "name_it": "Illusionista",
+              "name_es": "Ilusionista",
+              "name_ja": "幻術士",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 6,
+              "name": "Lightning",
+              "name_en": "Lightning",
+              "name_fr": "Foudre",
+              "name_de": "Blitz",
+              "name_it": "Fulmine",
+              "name_es": "Relámpago",
+              "name_ja": "稲妻",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-03-03T15:44:01.297519+13:00",
+          "updated_at": "2026-03-03T15:44:01.297526+13:00",
+          "name": "Pulsing Cardia",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "0",
+          "color": "red",
+          "cost": "0",
+          "power": "5",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "Whenever this fragments, gain {r}.{br}**Fragment**",
+          "typebox": "Lightning Illusionist Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": 0,
+          "cost_value": 0,
+          "power_value": 5,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "f5bd995b-888f-486c-8cd9-773a2f4851b1"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "b1a8edfc-c1dd-487f-abec-80f6968e97ac",
+          "faces": [
+            {
+              "id": "acc186c3-f905-4cb6-be6b-554b1977326b",
+              "created_at": "2026-03-30T10:35:52.944635+13:00",
+              "updated_at": "2026-03-30T10:35:52.944648+13:00",
+              "face_id": "GEM151",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM151",
+              "printed_artist": "Esty Swandana",
+              "printed_name": "Pulsing Cardia",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Whenever this fragments, gain {r}.{br}**Fragment**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Illusionist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1a5b4b36-b9ea-4dcc-ace9-3637c87af8e7",
+              "card_print": "b1a8edfc-c1dd-487f-abec-80f6968e97ac",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulsing Cardia</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Illusionist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Whenever this fragments, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p><strong>Fragment</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM151.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM151.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM151.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "a2e91bac-3a97-4d4f-bbbf-6dc4f17be9c1",
+            "product_group": {
+              "id": "f91f50c4-85c3-43fe-955e-272a1bc15184",
+              "created_at": "2026-05-25T11:24:33.149188+12:00",
+              "updated_at": "2026-05-25T11:26:08.056484+12:00",
+              "group_name": "GEM - Pack 5",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "gem-pack-5"
+            },
+            "created_at": "2026-03-29T22:50:54.743068+13:00",
+            "updated_at": "2026-05-25T11:25:38.676993+12:00",
+            "printed_date": "2025-12-29",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 5",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "gem-pack-5",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-30T10:35:52.937331+13:00",
+          "updated_at": "2026-05-25T11:22:45.479262+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM151",
+          "set_number": 151,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "f5bd995b-888f-486c-8cd9-773a2f4851b1"
+        },
+        {
+          "id": "9965060d-794c-44f9-9abb-4a8203b4f769",
+          "faces": [
+            {
+              "id": "3b3c6434-4b7c-4930-9509-28a66c821ba1",
+              "created_at": "2026-03-30T10:35:52.967591+13:00",
+              "updated_at": "2026-03-30T10:35:52.967605+13:00",
+              "face_id": "GEM151-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM151",
+              "printed_artist": "Esty Swandana",
+              "printed_name": "Pulsing Cardia",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Whenever this fragments, gain {r}.{br}**Fragment**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Illusionist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1a5b4b36-b9ea-4dcc-ace9-3637c87af8e7",
+              "card_print": "9965060d-794c-44f9-9abb-4a8203b4f769",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulsing Cardia</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Illusionist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Whenever this fragments, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p><strong>Fragment</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM151-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM151-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM151-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "a2e91bac-3a97-4d4f-bbbf-6dc4f17be9c1",
+            "product_group": {
+              "id": "f91f50c4-85c3-43fe-955e-272a1bc15184",
+              "created_at": "2026-05-25T11:24:33.149188+12:00",
+              "updated_at": "2026-05-25T11:26:08.056484+12:00",
+              "group_name": "GEM - Pack 5",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "gem-pack-5"
+            },
+            "created_at": "2026-03-29T22:50:54.743068+13:00",
+            "updated_at": "2026-05-25T11:25:38.676993+12:00",
+            "printed_date": "2025-12-29",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 5",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "gem-pack-5",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-30T10:35:52.960409+13:00",
+          "updated_at": "2026-05-25T11:22:46.588732+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM151-RF",
+          "set_number": 151,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "f5bd995b-888f-486c-8cd9-773a2f4851b1"
+        },
+        {
+          "id": "4ceb65ba-7a5c-487c-a903-e7cae72ba9c6",
+          "faces": [
+            {
+              "id": "86a96e0b-6829-497d-a5b7-da442a64f768",
+              "created_at": "2026-03-03T15:44:15.810903+13:00",
+              "updated_at": "2026-03-03T15:44:15.810911+13:00",
+              "face_id": "FR_OMN021",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN021",
+              "printed_artist": "Esty Swandana",
+              "printed_name": "Cardia palpitant",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "À chaque fois que cette carte se fragmente, gagnez {r}.{br}**Fragmenter** _(À chaque fois qu’une carte avec au moins 2 {d} défend cette carte, cette carte gagne -2{p}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Illusionniste Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1a5b4b36-b9ea-4dcc-ace9-3637c87af8e7",
+              "card_print": "4ceb65ba-7a5c-487c-a903-e7cae72ba9c6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cardia palpitant</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Illusionniste Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>À chaque fois que cette carte se fragmente, gagnez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p><strong>Fragmenter</strong> <em>(À chaque fois qu’une carte avec au moins 2 <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> défend cette carte, cette carte gagne -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN021.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN021.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN021.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:15.796561+13:00",
+          "updated_at": "2026-04-09T23:01:36.382398+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-04-09T23:55:00+12:00",
+          "print_id": "FR_OMN021",
+          "set_number": 21,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "f5bd995b-888f-486c-8cd9-773a2f4851b1"
+        },
+        {
+          "id": "e2aaafa5-b3a1-49ed-9f73-4cd5a12af4f3",
+          "faces": [
+            {
+              "id": "57c8d705-a606-4bf8-abfc-ee388e7aff9e",
+              "created_at": "2026-03-03T15:44:15.904282+13:00",
+              "updated_at": "2026-03-03T15:44:15.904296+13:00",
+              "face_id": "FR_OMN021-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN021",
+              "printed_artist": "Esty Swandana",
+              "printed_name": "Cardia palpitant",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "À chaque fois que cette carte se fragmente, gagnez {r}.{br}**Fragmenter** _(À chaque fois qu’une carte avec au moins 2 {d} défend cette carte, cette carte gagne -2{p}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Illusionniste Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1a5b4b36-b9ea-4dcc-ace9-3637c87af8e7",
+              "card_print": "e2aaafa5-b3a1-49ed-9f73-4cd5a12af4f3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cardia palpitant</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Illusionniste Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>À chaque fois que cette carte se fragmente, gagnez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p><strong>Fragmenter</strong> <em>(À chaque fois qu’une carte avec au moins 2 <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> défend cette carte, cette carte gagne -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN021-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN021-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN021-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:15.889187+13:00",
+          "updated_at": "2026-04-09T23:01:19.348129+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-04-09T23:55:00+12:00",
+          "print_id": "FR_OMN021-RF",
+          "set_number": 21,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "f5bd995b-888f-486c-8cd9-773a2f4851b1"
+        },
+        {
+          "id": "c4fde052-5f21-4e80-a326-fb1ea9e8b8df",
+          "faces": [
+            {
+              "id": "13c39691-209e-493b-96ce-cbf7a45e08cb",
+              "created_at": "2026-03-03T15:44:16.015723+13:00",
+              "updated_at": "2026-03-03T15:44:16.015731+13:00",
+              "face_id": "JA_OMN021",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN021",
+              "printed_artist": "Esty Swandana",
+              "printed_name": "心核の脈動",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが１回解片するたび、{r}を得る。{br}**解片**（２{d}以上のカード１枚がこれを防御するたび、これは－２{p}を得る）",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・幻術士・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1a5b4b36-b9ea-4dcc-ace9-3637c87af8e7",
+              "card_print": "c4fde052-5f21-4e80-a326-fb1ea9e8b8df",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>心核の脈動</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・幻術士・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが１回解片するたび、<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。</p>\n<p><strong>解片</strong>（２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>以上のカード１枚がこれを防御するたび、これは－２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN021.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN021.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN021.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:15.985836+13:00",
+          "updated_at": "2026-04-09T23:01:22.648600+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-04-09T23:55:00+12:00",
+          "print_id": "JA_OMN021",
+          "set_number": 21,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "f5bd995b-888f-486c-8cd9-773a2f4851b1"
+        },
+        {
+          "id": "95576644-713c-4209-80f0-7f737879a271",
+          "faces": [
+            {
+              "id": "fc413509-1d84-4e5e-80fa-ea0a943356ea",
+              "created_at": "2026-03-03T15:44:16.105659+13:00",
+              "updated_at": "2026-03-03T15:44:16.105668+13:00",
+              "face_id": "JA_OMN021-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN021",
+              "printed_artist": "Esty Swandana",
+              "printed_name": "心核の脈動",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが１回解片するたび、{r}を得る。{br}**解片**（２{d}以上のカード１枚がこれを防御するたび、これは－２{p}を得る）",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・幻術士・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1a5b4b36-b9ea-4dcc-ace9-3637c87af8e7",
+              "card_print": "95576644-713c-4209-80f0-7f737879a271",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>心核の脈動</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・幻術士・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが１回解片するたび、<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。</p>\n<p><strong>解片</strong>（２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>以上のカード１枚がこれを防御するたび、これは－２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN021-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN021-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN021-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:16.083929+13:00",
+          "updated_at": "2026-04-09T23:01:26.938023+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-04-09T23:55:00+12:00",
+          "print_id": "JA_OMN021-RF",
+          "set_number": 21,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "f5bd995b-888f-486c-8cd9-773a2f4851b1"
+        },
+        {
+          "id": "074033a3-bab7-45b0-bc8f-8b0cca43bd8c",
+          "faces": [
+            {
+              "id": "10373cbe-3483-4736-a377-5c59c1acdd8b",
+              "created_at": "2026-03-03T15:44:16.250067+13:00",
+              "updated_at": "2026-03-03T15:44:16.250080+13:00",
+              "face_id": "OMN021",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN021",
+              "printed_artist": "Esty Swandana",
+              "printed_name": "Pulsing Cardia",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Whenever this fragments, gain {r}.{br}**Fragment** _(Whenever a card with 2 or more {d} defends this, this gets -2{p}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Illusionist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1a5b4b36-b9ea-4dcc-ace9-3637c87af8e7",
+              "card_print": "074033a3-bab7-45b0-bc8f-8b0cca43bd8c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulsing Cardia</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Illusionist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Whenever this fragments, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p><strong>Fragment</strong> <em>(Whenever a card with 2 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> defends this, this gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN021.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN021.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN021.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:16.234447+13:00",
+          "updated_at": "2026-04-09T23:01:41.987704+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-04-09T23:55:00+12:00",
+          "print_id": "OMN021",
+          "set_number": 21,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "f5bd995b-888f-486c-8cd9-773a2f4851b1"
+        },
+        {
+          "id": "78eff411-9e97-463b-afbe-63a4df664006",
+          "faces": [
+            {
+              "id": "62535b9c-f797-4701-af5f-5b34b953548c",
+              "created_at": "2026-03-03T15:44:16.551908+13:00",
+              "updated_at": "2026-03-03T15:44:16.551923+13:00",
+              "face_id": "OMN021-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN021",
+              "printed_artist": "Esty Swandana",
+              "printed_name": "Pulsing Cardia",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Whenever this fragments, gain {r}.{br}**Fragment** _(Whenever a card with 2 or more {d} defends this, this gets -2{p}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Illusionist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1a5b4b36-b9ea-4dcc-ace9-3637c87af8e7",
+              "card_print": "78eff411-9e97-463b-afbe-63a4df664006",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulsing Cardia</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Illusionist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Whenever this fragments, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p><strong>Fragment</strong> <em>(Whenever a card with 2 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> defends this, this gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN021-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN021-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN021-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:16.538512+13:00",
+          "updated_at": "2026-04-09T23:01:29.557580+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-04-09T23:55:00+12:00",
+          "print_id": "OMN021-RF",
+          "set_number": 21,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "f5bd995b-888f-486c-8cd9-773a2f4851b1"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-03-03T15:44:01.288576+13:00",
+      "updated_at": "2026-03-03T15:44:01.288586+13:00",
+      "card_id": "pulsing-cardia-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

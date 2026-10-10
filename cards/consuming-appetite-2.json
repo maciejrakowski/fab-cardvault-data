@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "id": "consuming-appetite-2",
+  "name": "Consuming Appetite",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Consuming Appetite",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 3,
+      "power": 6,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Shadow Brute Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Brute"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "**Instant **-- {r}, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get \"**Action** -- {t}: **Attack**.** Go again**\"{br}**Blood Debt **",
+        "plain": "Instant -- {r}, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get \"Action -- {t}: Attack. Go again\"\nBlood Debt"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "IAR008",
+      "code": "IAR008",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 8,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR008",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Consuming Appetite",
+          "typeLine": "Shadow Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Instant** -- {r}, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get \"**Action** -- {t}: **Attack**.** Go again**\"{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "plain": "Instant -- {r}, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get \"Action -- {t}: Attack. Go again\"\nBlood Debt _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "html": "<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get &quot;<strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong>.** Go again**&quot;</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "3",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR008",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Satriasa",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR008.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR008.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR008.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR008-RF",
+      "code": "IAR008",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 8,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR008-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Consuming Appetite",
+          "typeLine": "Shadow Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Instant** -- {r}, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get \"**Action** -- {t}: **Attack**.** Go again**\"{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "plain": "Instant -- {r}, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get \"Action -- {t}: Attack. Go again\"\nBlood Debt _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "html": "<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get &quot;<strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong>.** Go again**&quot;</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "3",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR008",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Satriasa",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR008-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR008-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR008-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM193",
+      "code": "GEM193",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 193,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-6",
+      "releaseDate": "2026-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-08-31T17:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM193",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Consuming Appetite",
+          "typeLine": "Shadow Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Instant** -- {r}, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get \"**Action** -- {t}: **Attack**.** Go again**\". **Blood Debt**",
+            "plain": "Instant -- {r}, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get \"Action -- {t}: Attack. Go again\". Blood Debt",
+            "html": "<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get &quot;<strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong>.** Go again**&quot;. <strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "3",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM193",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Satriasa",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM193.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM193.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM193.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM193-RF",
+      "code": "GEM193",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 193,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-6",
+      "releaseDate": "2026-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-08-31T17:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM193-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Consuming Appetite",
+          "typeLine": "Shadow Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Instant** -- {r}, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get \"**Action** -- {t}: **Attack**.** Go again**\". **Blood Debt**",
+            "plain": "Instant -- {r}, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get \"Action -- {t}: Attack. Go again\". Blood Debt",
+            "html": "<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish this from your hand: Until end of turn, Blasmophet, the Insatiable Hunger tokens you control get &quot;<strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong>.** Go again**&quot;. <strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "3",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM193",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Satriasa",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM193-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM193-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM193-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack",
+      "Blood Debt",
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T19:30:01Z",
+    "rawSha256": "ccb279b0a930fbfd4e0ab5852321ec5ab44cfc0e7d499daf24812b9ef8bd8cc2",
+    "updatedAt": "2026-07-13T19:37:59.100503+12:00"
+  }
+}

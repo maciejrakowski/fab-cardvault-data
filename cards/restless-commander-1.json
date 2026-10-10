@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "restless-commander-1",
+  "name": "Restless Commander",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Restless Commander",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": 3,
+      "defense": null,
+      "life": 3,
+      "intellect": null,
+      "typeLine": "Shadow Necromancer Action - Zombie Ally",
+      "traitLine": null,
+      "classes": [
+        "Necromancer"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Ally",
+        "Zombie"
+      ],
+      "text": {
+        "markup": "Zombies you control get +1{p}.{br}**Decay**",
+        "plain": "Zombies you control get +1{p}.\nDecay"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "JDG086-CF",
+      "code": "JDG086",
+      "language": "en",
+      "set": "JDG",
+      "setNumber": 86,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "judge-pack-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-08-09T17:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "JDG086-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Restless Commander",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "Zombies you control get +1{p}.{br}**Decay** _(At the beginning of your end phase, put a -1{g} counter on this.)_",
+            "plain": "Zombies you control get +1{p}.\nDecay _(At the beginning of your end phase, put a -1{g} counter on this.)_",
+            "html": "<p>Zombies you control get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Decay</strong> <em>(At the beginning of your end phase, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> counter on this.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "JDG086",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Joseph Qiu",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG086-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG086-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG086-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AMA014",
+      "code": "AMA014",
+      "language": "en",
+      "set": "AMA",
+      "setNumber": 14,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-malice-domina-of-the-dead",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-09T10:17:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMA014",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Restless Commander",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "Zombies you control get +1{p}.{br}**Decay** _(At the beginning of your end phase, put a -1{g} counter on this.)_",
+            "plain": "Zombies you control get +1{p}.\nDecay _(At the beginning of your end phase, put a -1{g} counter on this.)_",
+            "html": "<p>Zombies you control get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Decay</strong> <em>(At the beginning of your end phase, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> counter on this.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "AMA014",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Joseph Qiu",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMA014.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMA014.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA014.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Decay"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T20:57:38Z",
+    "rawSha256": "4f161ba328777aa1b64de60fe869584b0d285aa938861a967b999a605d9d33b0",
+    "updatedAt": "2026-07-13T19:38:04.242288+12:00"
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "schemaVersion": 1,
+  "id": "avast-ye-3",
+  "name": "Avast Ye!",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Avast Ye!",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Pirate Necromancer Action",
+      "traitLine": null,
+      "classes": [
+        "Necromancer",
+        "Pirate"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Your next Pirate ally attack this turn gets **go again** and \"When this hits a hero, create a Gold token.\"{br}**Go again**",
+        "plain": "Your next Pirate ally attack this turn gets go again and \"When this hits a hero, create a Gold token.\"\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AGB025",
+      "code": "AGB025",
+      "language": "en",
+      "set": "AGB",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-gravy-bones",
+      "releaseDate": "2025-05-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AGB025",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Avast Ye!",
+          "typeLine": "Pirate Necromancer Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Pirate ally attack this turn gets **go again** and \"When this hits a hero, create a Gold token.\"{br}**Go again**",
+            "plain": "Your next Pirate ally attack this turn gets go again and \"When this hits a hero, create a Gold token.\"\nGo again",
+            "html": "<p>Your next Pirate ally attack this turn gets <strong>go again</strong> and &quot;When this hits a hero, create a Gold token.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AGB025",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AGB025.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AGB025.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AGB025.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AGB025-CC",
+      "code": "AGB025",
+      "language": "en",
+      "set": "AGB",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-gravy-bones",
+      "releaseDate": "2025-05-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AGB025-CC",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Avast Ye!",
+          "typeLine": "Pirate Necromancer Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Pirate ally attack this turn gets **go again** and \"When this hits a hero, create a Gold token.\"{br}**Go again**",
+            "plain": "Your next Pirate ally attack this turn gets go again and \"When this hits a hero, create a Gold token.\"\nGo again",
+            "html": "<p>Your next Pirate ally attack this turn gets <strong>go again</strong> and &quot;When this hits a hero, create a Gold token.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AGB025",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": "CC",
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AGB025-CC.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AGB025-CC.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AGB025-CC.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM051",
+      "code": "GEM051",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 51,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-2",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM051",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Avast Ye!",
+          "typeLine": "Pirate Necromancer Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Pirate ally attack this turn gets **go again** and \"When this hits a hero, create a Gold token.\"{br}**Go again**",
+            "plain": "Your next Pirate ally attack this turn gets go again and \"When this hits a hero, create a Gold token.\"\nGo again",
+            "html": "<p>Your next Pirate ally attack this turn gets <strong>go again</strong> and &quot;When this hits a hero, create a Gold token.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM051",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM051.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM051.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM051.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM051-RF",
+      "code": "GEM051",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 51,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-2",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM051-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Avast Ye!",
+          "typeLine": "Pirate Necromancer Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Pirate ally attack this turn gets **go again** and \"When this hits a hero, create a Gold token.\"{br}**Go again**",
+            "plain": "Your next Pirate ally attack this turn gets go again and \"When this hits a hero, create a Gold token.\"\nGo again",
+            "html": "<p>Your next Pirate ally attack this turn gets <strong>go again</strong> and &quot;When this hits a hero, create a Gold token.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM051",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM051-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM051-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM051-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA056",
+      "code": "SEA056",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 56,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA056",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Avast Ye!",
+          "typeLine": "Pirate Necromancer Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Pirate ally attack this turn gets **go again** and \"When this hits a hero, create a Gold token.\"{br}**Go again**",
+            "plain": "Your next Pirate ally attack this turn gets go again and \"When this hits a hero, create a Gold token.\"\nGo again",
+            "html": "<p>Your next Pirate ally attack this turn gets <strong>go again</strong> and &quot;When this hits a hero, create a Gold token.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The lubber in ye must die, that a true pirate be born. - Captain Vanegull_",
+            "plain": "_The lubber in ye must die, that a true pirate be born. - Captain Vanegull_",
+            "html": "<p><em>The lubber in ye must die, that a true pirate be born. - Captain Vanegull</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA056",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA056.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA056.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA056.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA056-RF",
+      "code": "SEA056",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 56,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA056-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Avast Ye!",
+          "typeLine": "Pirate Necromancer Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Pirate ally attack this turn gets **go again** and \"When this hits a hero, create a Gold token.\"{br}**Go again**",
+            "plain": "Your next Pirate ally attack this turn gets go again and \"When this hits a hero, create a Gold token.\"\nGo again",
+            "html": "<p>Your next Pirate ally attack this turn gets <strong>go again</strong> and &quot;When this hits a hero, create a Gold token.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The lubber in ye must die, that a true pirate be born. - Captain Vanegull_",
+            "plain": "_The lubber in ye must die, that a true pirate be born. - Captain Vanegull_",
+            "html": "<p><em>The lubber in ye must die, that a true pirate be born. - Captain Vanegull</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA056",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA056-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA056-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA056-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SGB027",
+      "code": "SGB027",
+      "language": "en",
+      "set": "SGB",
+      "setNumber": 27,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-gravy-bones",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SGB027",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Avast Ye!",
+          "typeLine": "Pirate Necromancer Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Pirate ally attack this turn gets **go again** and \"When this hits a hero, create a Gold token.\"{br}**Go again**",
+            "plain": "Your next Pirate ally attack this turn gets go again and \"When this hits a hero, create a Gold token.\"\nGo again",
+            "html": "<p>Your next Pirate ally attack this turn gets <strong>go again</strong> and &quot;When this hits a hero, create a Gold token.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SGB027",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SGB027.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SGB027.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SGB027.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:04:30Z",
+    "rawSha256": "b0dc0b1872fcc58b01ee057ebcc2b7ec6cd12f88e8038e961c34e2a3042080fd",
+    "updatedAt": "2025-09-18T06:45:55.875037+12:00"
+  }
+}

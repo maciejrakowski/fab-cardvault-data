@@ -1,0 +1,719 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "0ec9cb15-6b73-4132-b2c6-526a445545cc",
+      "cores": [
+        {
+          "id": "e7437a39-3714-4624-a944-06b1d7f40e8d",
+          "core_classes": [
+            {
+              "id": 4,
+              "name": "Brute",
+              "name_en": "Brute",
+              "name_fr": "Brute",
+              "name_de": "Rohling",
+              "name_it": "Bruto",
+              "name_es": "Bruto",
+              "name_ja": "野人",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-07-13T19:37:59.813806+12:00",
+          "updated_at": "2026-07-13T19:37:59.813814+12:00",
+          "name": "Peak Power",
+          "layout_position": 10,
+          "pitch": "2",
+          "pitch_chi": "",
+          "color": "yellow",
+          "cost": "3",
+          "power": "6",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this attacks, reveal the top card of your deck. If the revealed card has 6 or more base {p}, this gets **overpower**.",
+          "typebox": "Brute Action - Attack",
+          "traitbox": "",
+          "pitch_value": 2,
+          "pitch_chi_value": null,
+          "cost_value": 3,
+          "power_value": 6,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "0ec9cb15-6b73-4132-b2c6-526a445545cc"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "fef20f22-d1f7-4d50-8e98-28637786939c",
+          "faces": [
+            {
+              "id": "34efcfea-4d87-4425-9719-179785372955",
+              "created_at": "2026-07-13T19:39:00.189271+12:00",
+              "updated_at": "2026-07-13T19:39:00.189286+12:00",
+              "face_id": "JA_IAR042",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR042",
+              "printed_artist": "Nikolay Moskvin",
+              "printed_name": "最大出力",
+              "printed_pitch": 2,
+              "printed_cost": "3",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたのデッキの上のカードを公開する。それの基本が６{p}以上の場合、これは**凌駕**を得る。（これは２枚以上のアクションカードに防御されない）",
+              "printed_flavor_text": "",
+              "printed_typebox": "野人・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "e7437a39-3714-4624-a944-06b1d7f40e8d",
+              "card_print": "fef20f22-d1f7-4d50-8e98-28637786939c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>最大出力</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたのデッキの上のカードを公開する。それの基本が６<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>以上の場合、これは<strong>凌駕</strong>を得る。（これは２枚以上のアクションカードに防御されない）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR042.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR042.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR042.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:39:00.181927+12:00",
+          "updated_at": "2026-09-06T17:00:20.799550+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR042",
+          "set_number": 42,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "0ec9cb15-6b73-4132-b2c6-526a445545cc"
+        },
+        {
+          "id": "f7560833-3bb7-4927-bfbd-c720ebd9f9c2",
+          "faces": [
+            {
+              "id": "9b678de2-cb83-4479-b7fc-f4965d0edb53",
+              "created_at": "2026-07-13T19:38:35.654910+12:00",
+              "updated_at": "2026-07-13T19:38:35.654921+12:00",
+              "face_id": "IAR042-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR042",
+              "printed_artist": "Nikolay Moskvin",
+              "printed_name": "Peak Power",
+              "printed_pitch": 2,
+              "printed_cost": "3",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, reveal the top card of your deck. If the revealed card has 6 or more base {p}, this gets **overpower**. _(This can't be defended by more than 1 action card.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "e7437a39-3714-4624-a944-06b1d7f40e8d",
+              "card_print": "f7560833-3bb7-4927-bfbd-c720ebd9f9c2",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Peak Power</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, reveal the top card of your deck. If the revealed card has 6 or more base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, this gets <strong>overpower</strong>. <em>(This can't be defended by more than 1 action card.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR042-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR042-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR042-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:35.648292+12:00",
+          "updated_at": "2026-09-06T17:00:12.530014+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR042-RF",
+          "set_number": 42,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "0ec9cb15-6b73-4132-b2c6-526a445545cc"
+        },
+        {
+          "id": "b41fec9d-da9a-4201-bb24-7a0dba121bbb",
+          "faces": [
+            {
+              "id": "28f3670c-6270-4168-9a47-269cd79e4786",
+              "created_at": "2026-07-13T19:39:00.240745+12:00",
+              "updated_at": "2026-07-13T19:39:00.240756+12:00",
+              "face_id": "JA_IAR042-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR042",
+              "printed_artist": "Nikolay Moskvin",
+              "printed_name": "最大出力",
+              "printed_pitch": 2,
+              "printed_cost": "3",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたのデッキの上のカードを公開する。それの基本が６{p}以上の場合、これは**凌駕**を得る。（これは２枚以上のアクションカードに防御されない）",
+              "printed_flavor_text": "",
+              "printed_typebox": "野人・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "e7437a39-3714-4624-a944-06b1d7f40e8d",
+              "card_print": "b41fec9d-da9a-4201-bb24-7a0dba121bbb",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>最大出力</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたのデッキの上のカードを公開する。それの基本が６<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>以上の場合、これは<strong>凌駕</strong>を得る。（これは２枚以上のアクションカードに防御されない）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR042-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR042-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR042-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:39:00.232360+12:00",
+          "updated_at": "2026-09-06T17:00:13.547236+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR042-RF",
+          "set_number": 42,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "0ec9cb15-6b73-4132-b2c6-526a445545cc"
+        },
+        {
+          "id": "063860df-7bc3-4387-9838-201279567318",
+          "faces": [
+            {
+              "id": "c4bb62f9-638a-4829-a462-29a5ea5c09f8",
+              "created_at": "2026-07-13T19:38:10.402963+12:00",
+              "updated_at": "2026-07-13T19:38:10.402974+12:00",
+              "face_id": "FR_IAR042-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR042",
+              "printed_artist": "Nikolay Moskvin",
+              "printed_name": "Puissance maximale",
+              "printed_pitch": 2,
+              "printed_cost": "3",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, révélez la carte du dessus de votre deck. Si la carte révélée a une base de {p} d’au moins 6, cette carte gagne **maîtrise**. _(Cette carte ne peut pas être défendue par plus d’une carte action.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "e7437a39-3714-4624-a944-06b1d7f40e8d",
+              "card_print": "063860df-7bc3-4387-9838-201279567318",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Puissance maximale</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, révélez la carte du dessus de votre deck. Si la carte révélée a une base de <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> d’au moins 6, cette carte gagne <strong>maîtrise</strong>. <em>(Cette carte ne peut pas être défendue par plus d’une carte action.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR042-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR042-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR042-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:10.396509+12:00",
+          "updated_at": "2026-09-06T17:00:14.222576+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR042-RF",
+          "set_number": 42,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "0ec9cb15-6b73-4132-b2c6-526a445545cc"
+        },
+        {
+          "id": "0f0e6ecc-1b22-4b6c-bbc4-9796a9d0093b",
+          "faces": [
+            {
+              "id": "b65abd33-84bc-4d93-bece-b778fa5fde10",
+              "created_at": "2026-07-13T19:38:10.367079+12:00",
+              "updated_at": "2026-07-13T19:38:10.367090+12:00",
+              "face_id": "FR_IAR042",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR042",
+              "printed_artist": "Nikolay Moskvin",
+              "printed_name": "Puissance maximale",
+              "printed_pitch": 2,
+              "printed_cost": "3",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, révélez la carte du dessus de votre deck. Si la carte révélée a une base de {p} d’au moins 6, cette carte gagne **maîtrise**. _(Cette carte ne peut pas être défendue par plus d’une carte action.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "e7437a39-3714-4624-a944-06b1d7f40e8d",
+              "card_print": "0f0e6ecc-1b22-4b6c-bbc4-9796a9d0093b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Puissance maximale</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, révélez la carte du dessus de votre deck. Si la carte révélée a une base de <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> d’au moins 6, cette carte gagne <strong>maîtrise</strong>. <em>(Cette carte ne peut pas être défendue par plus d’une carte action.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR042.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR042.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR042.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:10.359814+12:00",
+          "updated_at": "2026-09-06T17:00:17.357144+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR042",
+          "set_number": 42,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "0ec9cb15-6b73-4132-b2c6-526a445545cc"
+        },
+        {
+          "id": "02adb38e-a10c-4f2e-a401-6e8ff479a2c1",
+          "faces": [
+            {
+              "id": "226bab4f-0bc7-4294-969e-614cfff96a2c",
+              "created_at": "2026-07-13T19:38:35.612758+12:00",
+              "updated_at": "2026-07-13T19:38:35.612771+12:00",
+              "face_id": "IAR042",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR042",
+              "printed_artist": "Nikolay Moskvin",
+              "printed_name": "Peak Power",
+              "printed_pitch": 2,
+              "printed_cost": "3",
+              "printed_power": "6",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, reveal the top card of your deck. If the revealed card has 6 or more base {p}, this gets **overpower**. _(This can't be defended by more than 1 action card.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "e7437a39-3714-4624-a944-06b1d7f40e8d",
+              "card_print": "02adb38e-a10c-4f2e-a401-6e8ff479a2c1",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Peak Power</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, reveal the top card of your deck. If the revealed card has 6 or more base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, this gets <strong>overpower</strong>. <em>(This can't be defended by more than 1 action card.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR042.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR042.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR042.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:35.606379+12:00",
+          "updated_at": "2026-09-06T17:00:18.763790+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR042",
+          "set_number": 42,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "0ec9cb15-6b73-4132-b2c6-526a445545cc"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-07-13T19:37:59.807839+12:00",
+      "updated_at": "2026-07-13T19:37:59.807848+12:00",
+      "card_id": "peak-power-2",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

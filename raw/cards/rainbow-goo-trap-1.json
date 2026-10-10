@@ -1,0 +1,921 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "d48fc0a1-94fa-4ffe-9b64-95f1c78e7eb3",
+      "cores": [
+        {
+          "id": "579aa3b3-08fb-405e-85d1-08a6601a2745",
+          "core_classes": [
+            {
+              "id": 11,
+              "name": "Ranger",
+              "name_en": "Ranger",
+              "name_fr": "Ranger",
+              "name_de": "Waldläufer",
+              "name_it": "Ranger",
+              "name_es": "Explorador",
+              "name_ja": "レンジャー",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 4,
+              "name": "Defense Reaction",
+              "name_en": "Defense Reaction",
+              "name_fr": "Réaction de défense",
+              "name_de": "Verteidigungsreaktion",
+              "name_it": "Reazione di Difesa",
+              "name_es": "Reacción de defensa",
+              "name_ja": "防御リアクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 45,
+              "name": "Trap",
+              "name_en": "Trap",
+              "name_fr": "Piège",
+              "name_de": "Falle",
+              "name_it": "Trappola",
+              "name_es": "Trampa",
+              "name_ja": "罠",
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-11-14T13:40:32.884352+13:00",
+          "updated_at": "2025-11-14T13:40:32.884359+13:00",
+          "name": "Rainbow Goo Trap",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "0",
+          "color": "red",
+          "cost": "0",
+          "power": "",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this defends an attack with {p} greater than its base, dominate, and go again, the attack gets -2{p} and loses and can't gain abilities.",
+          "typebox": "Ranger Defense Reaction - Trap",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": 0,
+          "cost_value": 0,
+          "power_value": null,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "d48fc0a1-94fa-4ffe-9b64-95f1c78e7eb3"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "93be5f1e-7773-4b56-94a3-2458a0a95987",
+          "faces": [
+            {
+              "id": "dba0b9b2-f701-4098-b3e1-a39e01b787f4",
+              "created_at": "2026-01-19T09:11:58.218134+13:00",
+              "updated_at": "2026-01-19T09:11:58.218142+13:00",
+              "face_id": "JA_PEN085-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN085",
+              "printed_artist": "Marco Wulfr",
+              "printed_name": "虹色粘性の罠",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが圧倒と続行と基本の値よりも大きい{p}を持つ攻撃を防御したとき、その攻撃は－２{p}を得て、能力を失い、能力を得ることができない。",
+              "printed_flavor_text": "",
+              "printed_typebox": "レンジャー・防御リアクション － 罠",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "579aa3b3-08fb-405e-85d1-08a6601a2745",
+              "card_print": "93be5f1e-7773-4b56-94a3-2458a0a95987",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>虹色粘性の罠</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>レンジャー・防御リアクション － 罠</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが圧倒と続行と基本の値よりも大きい<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を持つ攻撃を防御したとき、その攻撃は－２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得て、能力を失い、能力を得ることができない。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_PEN085-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_PEN085-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_PEN085-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d5e242aa-362d-4efb-ac7f-2ed815c192e9",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.186868+13:00",
+            "updated_at": "2025-11-14T13:38:39.619716+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "ja",
+            "product_name": "Compendium of Rathe [JA]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:58.215442+13:00",
+          "updated_at": "2026-01-31T10:32:21.448998+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T14:45:00+13:00",
+          "print_id": "JA_PEN085-RF",
+          "set_number": 85,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "d48fc0a1-94fa-4ffe-9b64-95f1c78e7eb3"
+        },
+        {
+          "id": "e0fe9d87-985e-45c0-89cb-e9aff96f8f93",
+          "faces": [
+            {
+              "id": "7dc9cc96-d38d-4cb8-8dac-113d724f6122",
+              "created_at": "2026-01-19T09:12:14.434301+13:00",
+              "updated_at": "2026-01-19T09:12:14.434310+13:00",
+              "face_id": "PEN085-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN085",
+              "printed_artist": "Marco Wulfr",
+              "printed_name": "Rainbow Goo Trap",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends an attack with {p} greater than its base, dominate, and go again, the attack gets -2{p} and loses and can't gain abilities.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Defense Reaction - Trap",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "579aa3b3-08fb-405e-85d1-08a6601a2745",
+              "card_print": "e0fe9d87-985e-45c0-89cb-e9aff96f8f93",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rainbow Goo Trap</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Defense Reaction - Trap</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends an attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base, dominate, and go again, the attack gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and loses and can't gain abilities.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN085-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN085-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN085-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c71765f7-37cb-49c8-9b93-319e5c6b0955",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.183675+13:00",
+            "updated_at": "2025-11-14T13:38:39.618314+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "en",
+            "product_name": "Compendium of Rathe",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:14.431588+13:00",
+          "updated_at": "2026-01-31T09:24:22.832017+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T12:45:00+13:00",
+          "print_id": "PEN085-RF",
+          "set_number": 85,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "d48fc0a1-94fa-4ffe-9b64-95f1c78e7eb3"
+        },
+        {
+          "id": "8057f57e-87fa-49b4-8a9a-155ae6f5c627",
+          "faces": [
+            {
+              "id": "390f72a4-4b3a-4f4a-9216-fb7542d1c68f",
+              "created_at": "2026-01-19T09:12:14.412683+13:00",
+              "updated_at": "2026-01-19T09:12:14.412691+13:00",
+              "face_id": "PEN085",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN085",
+              "printed_artist": "Marco Wulfr",
+              "printed_name": "Rainbow Goo Trap",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends an attack with {p} greater than its base, dominate, and go again, the attack gets -2{p} and loses and can't gain abilities.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Defense Reaction - Trap",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "579aa3b3-08fb-405e-85d1-08a6601a2745",
+              "card_print": "8057f57e-87fa-49b4-8a9a-155ae6f5c627",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rainbow Goo Trap</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Defense Reaction - Trap</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends an attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base, dominate, and go again, the attack gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and loses and can't gain abilities.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN085.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN085.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN085.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c71765f7-37cb-49c8-9b93-319e5c6b0955",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.183675+13:00",
+            "updated_at": "2025-11-14T13:38:39.618314+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "en",
+            "product_name": "Compendium of Rathe",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:14.409992+13:00",
+          "updated_at": "2026-01-31T09:24:52.186924+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T12:45:00+13:00",
+          "print_id": "PEN085",
+          "set_number": 85,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "d48fc0a1-94fa-4ffe-9b64-95f1c78e7eb3"
+        },
+        {
+          "id": "a008c1b0-995f-44fd-9441-470a2962fbc3",
+          "faces": [
+            {
+              "id": "14d5dd68-081f-40b2-a31a-49acfbf31777",
+              "created_at": "2026-01-19T09:11:42.252121+13:00",
+              "updated_at": "2026-01-19T09:11:42.252129+13:00",
+              "face_id": "FR_PEN085",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN085",
+              "printed_artist": "Marco Wulfr",
+              "printed_name": "Piège de gelée chromatique",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte défend une attaque avec une {p} supérieure à sa base, dominer, et encore une fois, l’attaque gagne -2{p}, perd ses capacités et ne peut pas en gagner.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Réaction de défense - Piège",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "579aa3b3-08fb-405e-85d1-08a6601a2745",
+              "card_print": "a008c1b0-995f-44fd-9441-470a2962fbc3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Piège de gelée chromatique</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Réaction de défense - Piège</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte défend une attaque avec une <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> supérieure à sa base, dominer, et encore une fois, l’attaque gagne -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, perd ses capacités et ne peut pas en gagner.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_PEN085.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_PEN085.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_PEN085.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d2712c7c-7d23-44ab-8945-4217afaaba97",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.189904+13:00",
+            "updated_at": "2025-11-14T13:38:39.619064+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "fr",
+            "product_name": "Compendium of Rathe [FR]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:42.248156+13:00",
+          "updated_at": "2026-01-31T11:00:27.536761+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_PEN085",
+          "set_number": 85,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "d48fc0a1-94fa-4ffe-9b64-95f1c78e7eb3"
+        },
+        {
+          "id": "029567f9-9cb1-4bd8-bc43-d6eca1ce97e6",
+          "faces": [
+            {
+              "id": "7d0312a6-30c4-4740-b5d9-b98e4463e557",
+              "created_at": "2026-01-19T09:11:42.277519+13:00",
+              "updated_at": "2026-01-19T09:11:42.277527+13:00",
+              "face_id": "FR_PEN085-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN085",
+              "printed_artist": "Marco Wulfr",
+              "printed_name": "Piège de gelée chromatique",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte défend une attaque avec une {p} supérieure à sa base, dominer, et encore une fois, l’attaque gagne -2{p}, perd ses capacités et ne peut pas en gagner.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Réaction de défense - Piège",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "579aa3b3-08fb-405e-85d1-08a6601a2745",
+              "card_print": "029567f9-9cb1-4bd8-bc43-d6eca1ce97e6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Piège de gelée chromatique</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Réaction de défense - Piège</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte défend une attaque avec une <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> supérieure à sa base, dominer, et encore une fois, l’attaque gagne -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, perd ses capacités et ne peut pas en gagner.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_PEN085-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_PEN085-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_PEN085-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d2712c7c-7d23-44ab-8945-4217afaaba97",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.189904+13:00",
+            "updated_at": "2025-11-14T13:38:39.619064+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "fr",
+            "product_name": "Compendium of Rathe [FR]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:42.274264+13:00",
+          "updated_at": "2026-01-31T11:03:52.428260+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_PEN085-RF",
+          "set_number": 85,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "d48fc0a1-94fa-4ffe-9b64-95f1c78e7eb3"
+        },
+        {
+          "id": "3df0330c-4862-472e-9860-74744e688135",
+          "faces": [
+            {
+              "id": "a203766b-91c6-4f70-82b2-0659e9203c26",
+              "created_at": "2026-01-27T09:45:06.346083+13:00",
+              "updated_at": "2026-01-27T09:45:06.346091+13:00",
+              "face_id": "GEM122",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM122",
+              "printed_artist": "Marco Wulfr",
+              "printed_name": "Rainbow Goo Trap",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends an attack with {p} greater than its base, dominate, and go again, the attack gets -2{p} and loses and can't gain abilities.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Defense Reaction - Trap",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "579aa3b3-08fb-405e-85d1-08a6601a2745",
+              "card_print": "3df0330c-4862-472e-9860-74744e688135",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rainbow Goo Trap</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Defense Reaction - Trap</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends an attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base, dominate, and go again, the attack gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and loses and can't gain abilities.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM122.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM122.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM122.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8f1632c9-f623-4de9-b95a-60feb60d4f4c",
+            "product_group": {
+              "id": "e81a4cb9-4c41-449c-8d91-740e2d20cca9",
+              "created_at": "2026-03-05T10:48:33.706806+13:00",
+              "updated_at": "2026-03-05T10:48:33.706819+13:00",
+              "group_name": "GEM - Pack 4",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "gem-pack-4"
+            },
+            "created_at": "2026-01-27T09:34:13.853860+13:00",
+            "updated_at": "2026-03-05T10:48:53.562979+13:00",
+            "printed_date": "2025-09-27",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 4",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "gem-pack-4",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-27T09:45:06.342868+13:00",
+          "updated_at": "2026-02-09T14:26:41.097888+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM122",
+          "set_number": 122,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "d48fc0a1-94fa-4ffe-9b64-95f1c78e7eb3"
+        },
+        {
+          "id": "3a637c2d-32de-438c-9204-83560a1447af",
+          "faces": [
+            {
+              "id": "1d01b39d-3f97-4935-be9c-a661a6549ea1",
+              "created_at": "2026-01-27T09:45:06.762361+13:00",
+              "updated_at": "2026-01-27T09:45:06.762368+13:00",
+              "face_id": "GEM122-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM122",
+              "printed_artist": "Marco Wulfr",
+              "printed_name": "Rainbow Goo Trap",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends an attack with {p} greater than its base, dominate, and go again, the attack gets -2{p} and loses and can't gain abilities.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Defense Reaction - Trap",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "579aa3b3-08fb-405e-85d1-08a6601a2745",
+              "card_print": "3a637c2d-32de-438c-9204-83560a1447af",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rainbow Goo Trap</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Defense Reaction - Trap</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends an attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base, dominate, and go again, the attack gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and loses and can't gain abilities.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM122-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM122-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM122-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8f1632c9-f623-4de9-b95a-60feb60d4f4c",
+            "product_group": {
+              "id": "e81a4cb9-4c41-449c-8d91-740e2d20cca9",
+              "created_at": "2026-03-05T10:48:33.706806+13:00",
+              "updated_at": "2026-03-05T10:48:33.706819+13:00",
+              "group_name": "GEM - Pack 4",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "gem-pack-4"
+            },
+            "created_at": "2026-01-27T09:34:13.853860+13:00",
+            "updated_at": "2026-03-05T10:48:53.562979+13:00",
+            "printed_date": "2025-09-27",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 4",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "gem-pack-4",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-27T09:45:06.759353+13:00",
+          "updated_at": "2026-02-09T14:26:41.916925+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM122-RF",
+          "set_number": 122,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "d48fc0a1-94fa-4ffe-9b64-95f1c78e7eb3"
+        },
+        {
+          "id": "1b5827a2-edb4-4e46-978b-7c9ec2dac4e5",
+          "faces": [
+            {
+              "id": "820244ff-eb3a-4db6-8f60-6cb7321d928f",
+              "created_at": "2026-01-19T09:11:58.195190+13:00",
+              "updated_at": "2026-01-19T09:11:58.195198+13:00",
+              "face_id": "JA_PEN085",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN085",
+              "printed_artist": "Marco Wulfr",
+              "printed_name": "虹色粘性の罠",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが圧倒と続行と基本の値よりも大きい{p}を持つ攻撃を防御したとき、その攻撃は－２{p}を得て、能力を失い、能力を得ることができない。",
+              "printed_flavor_text": "",
+              "printed_typebox": "レンジャー・防御リアクション － 罠",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "579aa3b3-08fb-405e-85d1-08a6601a2745",
+              "card_print": "1b5827a2-edb4-4e46-978b-7c9ec2dac4e5",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>虹色粘性の罠</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>レンジャー・防御リアクション － 罠</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが圧倒と続行と基本の値よりも大きい<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を持つ攻撃を防御したとき、その攻撃は－２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得て、能力を失い、能力を得ることができない。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_PEN085.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_PEN085.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_PEN085.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d5e242aa-362d-4efb-ac7f-2ed815c192e9",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.186868+13:00",
+            "updated_at": "2025-11-14T13:38:39.619716+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "ja",
+            "product_name": "Compendium of Rathe [JA]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:58.192471+13:00",
+          "updated_at": "2026-01-31T10:34:48.014888+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T14:45:00+13:00",
+          "print_id": "JA_PEN085",
+          "set_number": 85,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "d48fc0a1-94fa-4ffe-9b64-95f1c78e7eb3"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-11-14T13:40:32.881220+13:00",
+      "updated_at": "2025-11-14T13:40:32.881228+13:00",
+      "card_id": "rainbow-goo-trap-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "id": "shadowrealm-harvester-1",
+  "name": "Shadowrealm Harvester",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Shadowrealm Harvester",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 2,
+      "power": 6,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Shadow Action - Attack",
+      "traitLine": null,
+      "classes": [],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "If this was played from your banished zone, it gets +1{p} and **overpower**.{br}**Blood Debt **",
+        "plain": "If this was played from your banished zone, it gets +1{p} and overpower.\nBlood Debt"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "FAB511-RF",
+      "code": "FAB511",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 511,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "calling-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-17T15:15:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB511-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Shadowrealm Harvester",
+          "typeLine": "Shadow Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If this was played from your banished zone, it gets +1{p} and **overpower**. **Blood Debt**",
+            "plain": "If this was played from your banished zone, it gets +1{p} and overpower. Blood Debt",
+            "html": "<p>If this was played from your banished zone, it gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>overpower</strong>. <strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB511",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Firaz M. Rasyid",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB511-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB511-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB511-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR175",
+      "code": "IAR175",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 175,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR175",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Shadowrealm Harvester",
+          "typeLine": "Shadow Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If this was played from your banished zone, it gets +1{p} and **overpower**. _(This can't be defended by more than 1 action card.)_{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "plain": "If this was played from your banished zone, it gets +1{p} and overpower. _(This can't be defended by more than 1 action card.)_\nBlood Debt _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "html": "<p>If this was played from your banished zone, it gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>overpower</strong>. <em>(This can't be defended by more than 1 action card.)</em></p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR175",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Firaz M. Rasyid",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR175.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR175.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR175.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR175-RF",
+      "code": "IAR175",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 175,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR175-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Shadowrealm Harvester",
+          "typeLine": "Shadow Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If this was played from your banished zone, it gets +1{p} and **overpower**. _(This can't be defended by more than 1 action card.)_{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "plain": "If this was played from your banished zone, it gets +1{p} and overpower. _(This can't be defended by more than 1 action card.)_\nBlood Debt _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "html": "<p>If this was played from your banished zone, it gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>overpower</strong>. <em>(This can't be defended by more than 1 action card.)</em></p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR175",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Firaz M. Rasyid",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR175-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR175-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR175-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Blood Debt",
+      "overpower"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T19:59:26Z",
+    "rawSha256": "30567f12d77cc24935a908d502e435e8638d6f8f32b00587e3bde0d2888d7596",
+    "updatedAt": "2026-07-13T19:38:02.542721+12:00"
+  }
+}

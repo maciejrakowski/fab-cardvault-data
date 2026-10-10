@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "id": "riptide-lurker-of-the-deep",
+  "name": "Riptide, Lurker of the Deep",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Riptide, Lurker of the Deep",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 38,
+      "intellect": 4,
+      "typeLine": "Ranger Hero",
+      "traitLine": null,
+      "classes": [
+        "Ranger"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Whenever you play a card from hand, you may put a card from hand face-down into your arsenal.{br}Whenever a trap you control triggers, deal 1 damage to the attacking hero.",
+        "plain": "Whenever you play a card from hand, you may put a card from hand face-down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "OUT091",
+      "code": "OUT091",
+      "language": "en",
+      "set": "OUT",
+      "setNumber": 91,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OUT091",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Riptide, Lurker of the Deep",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "plain": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "html": "<p>Whenever you play a card from hand, you may put a card from hand face down into your arsenal.</p>\n<p>Whenever a trap you control triggers, deal 1 damage to the attacking hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "38",
+            "intellect": "4"
+          },
+          "printedCode": "OUT091",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Joseph Qiu",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OUT091.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OUT091.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OUT091.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WIN022-CF",
+      "code": "WIN022",
+      "language": "en",
+      "set": "WIN",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-champion-cards-outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WIN022-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Riptide, Lurker of the Deep",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": {
+            "markup": "Pro Tour Champion",
+            "plain": "Pro Tour Champion",
+            "html": "<p>Pro Tour Champion</p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "38",
+            "intellect": "4"
+          },
+          "printedCode": "WIN022",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Joseph Qiu",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WIN022-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WIN022-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WIN022-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER078-CF",
+      "code": "HER078",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 78,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "road-to-nationals-2023",
+      "releaseDate": "2023-05-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER078-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Riptide, Lurker of the Deep",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "plain": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "html": "<p>Whenever you play a card from hand, you may put a card from hand face down into your arsenal.</p>\n<p>Whenever a trap you control triggers, deal 1 damage to the attacking hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "38",
+            "intellect": "4"
+          },
+          "printedCode": "HER078",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Joseph Qiu",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER078-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER078-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER078-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM033-CF",
+      "code": "GEM033",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 33,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "gem-pack-2",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM033-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Riptide, Lurker of the Deep",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a card from hand, you may put a card from hand face-down into your arsenal.{br}Whenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "plain": "Whenever you play a card from hand, you may put a card from hand face-down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "html": "<p>Whenever you play a card from hand, you may put a card from hand face-down into your arsenal.</p>\n<p>Whenever a trap you control triggers, deal 1 damage to the attacking hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "38",
+            "intellect": "4"
+          },
+          "printedCode": "GEM033",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Joseph Qiu",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM033-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM033-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM033-CF.webp"
+          }
+        },
+        {
+          "id": "GEM033-CF_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Riptide, Lurker of the Deep",
+          "typeLine": null,
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "EN",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM033-CF_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM033-CF_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM033-CF_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:27:09Z",
+    "rawSha256": "dc56da4ff3fa80c5ca6e45baebf598389cf1a5b57e6c3761d5a942fd35399472",
+    "updatedAt": "2025-09-18T06:54:57.573475+12:00"
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 1,
+  "id": "flowshard-elemental-1",
+  "name": "Flowshard Elemental",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Flowshard Elemental",
+      "pitch": 1,
+      "chi": 0,
+      "color": "red",
+      "cost": 0,
+      "power": 4,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Lightning Action - Attack",
+      "traitLine": null,
+      "classes": [],
+      "talents": [
+        "Lightning"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets **go again**.",
+        "plain": "When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets go again."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "GEM172",
+      "code": "GEM172",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 172,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-5",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM172",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flowshard Elemental",
+          "typeLine": "Lightning Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets **go again**.",
+            "plain": "When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets go again.",
+            "html": "<p>When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM172",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM172.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM172.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM172.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM172-RF",
+      "code": "GEM172",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 172,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-5",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM172-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flowshard Elemental",
+          "typeLine": "Lightning Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets **go again**.",
+            "plain": "When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets go again.",
+            "html": "<p>When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM172",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM172-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM172-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM172-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OMN149",
+      "code": "OMN149",
+      "language": "en",
+      "set": "OMN",
+      "setNumber": 149,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "omens-of-the-third-age",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OMN149",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flowshard Elemental",
+          "typeLine": "Lightning Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets **go again**.",
+            "plain": "When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets go again.",
+            "html": "<p>When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OMN149",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN149.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN149.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN149.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OMN149-RF",
+      "code": "OMN149",
+      "language": "en",
+      "set": "OMN",
+      "setNumber": 149,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "omens-of-the-third-age",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OMN149-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flowshard Elemental",
+          "typeLine": "Lightning Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets **go again**.",
+            "plain": "When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets go again.",
+            "html": "<p>When this attacks, you may discard an instant card. If you do, create a Lightning Flow token and this gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OMN149",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN149-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN149-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN149-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:15:09Z",
+    "rawSha256": "4b2439309c1c1bbd94ad8976bf3d3fc5e988e9557a88e80178e67062e41e44fa",
+    "updatedAt": "2026-03-03T15:44:04.619016+13:00"
+  }
+}

@@ -1,0 +1,920 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "549f48cd-a88a-4283-9c68-39c9dfdf02cd",
+      "cores": [
+        {
+          "id": "ec95826a-a89c-4db4-b0d7-6300b002a5bc",
+          "core_classes": [
+            {
+              "id": 12,
+              "name": "Runeblade",
+              "name_en": "Runeblade",
+              "name_fr": "Lamerune",
+              "name_de": "Runenklinge",
+              "name_it": "Runalama",
+              "name_es": "Filorruna",
+              "name_ja": "ルーン剣士",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 6,
+              "name": "Lightning",
+              "name_en": "Lightning",
+              "name_fr": "Foudre",
+              "name_de": "Blitz",
+              "name_it": "Fulmine",
+              "name_es": "Relámpago",
+              "name_ja": "稲妻",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [],
+          "created_at": "2026-03-03T15:44:02.888700+13:00",
+          "updated_at": "2026-03-03T15:44:02.888708+13:00",
+          "name": "Electryn Joltstep",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "1",
+          "color": "red",
+          "cost": "1",
+          "power": "",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "Your next Runeblade or Lightning attack this turn gets +3{p}.{br}Create a Lightning Flow token.{br}**Go again**",
+          "typebox": "Lightning Runeblade Action",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": 1,
+          "cost_value": 1,
+          "power_value": null,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "549f48cd-a88a-4283-9c68-39c9dfdf02cd"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "96008418-c60c-4860-8d80-833302161cd5",
+          "faces": [
+            {
+              "id": "cf14cc54-4854-4e62-acbe-ea8f7820be45",
+              "created_at": "2026-03-30T10:35:53.090972+13:00",
+              "updated_at": "2026-03-30T10:35:53.090985+13:00",
+              "face_id": "GEM154",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM154",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "Electryn Joltstep",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Your next Runeblade or Lightning attack this turn gets +3{p}.{br}Create a Lightning Flow token.{br}**Go again**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Runeblade Action",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ec95826a-a89c-4db4-b0d7-6300b002a5bc",
+              "card_print": "96008418-c60c-4860-8d80-833302161cd5",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Electryn Joltstep</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Runeblade Action</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Your next Runeblade or Lightning attack this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>Create a Lightning Flow token.</p>\n<p><strong>Go again</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM154.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM154.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM154.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "a2e91bac-3a97-4d4f-bbbf-6dc4f17be9c1",
+            "product_group": {
+              "id": "f91f50c4-85c3-43fe-955e-272a1bc15184",
+              "created_at": "2026-05-25T11:24:33.149188+12:00",
+              "updated_at": "2026-05-25T11:26:08.056484+12:00",
+              "group_name": "GEM - Pack 5",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "gem-pack-5"
+            },
+            "created_at": "2026-03-29T22:50:54.743068+13:00",
+            "updated_at": "2026-05-25T11:25:38.676993+12:00",
+            "printed_date": "2025-12-29",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 5",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "gem-pack-5",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-30T10:35:53.083520+13:00",
+          "updated_at": "2026-05-25T11:22:47.253572+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM154",
+          "set_number": 154,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "549f48cd-a88a-4283-9c68-39c9dfdf02cd"
+        },
+        {
+          "id": "66302e26-ba14-423e-a404-4b5e85723d23",
+          "faces": [
+            {
+              "id": "3230b0c6-3b3a-4253-9068-f15306a32887",
+              "created_at": "2026-03-30T10:35:53.114787+13:00",
+              "updated_at": "2026-03-30T10:35:53.114800+13:00",
+              "face_id": "GEM154-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM154",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "Electryn Joltstep",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Your next Runeblade or Lightning attack this turn gets +3{p}.{br}Create a Lightning Flow token.{br}**Go again**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Runeblade Action",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ec95826a-a89c-4db4-b0d7-6300b002a5bc",
+              "card_print": "66302e26-ba14-423e-a404-4b5e85723d23",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Electryn Joltstep</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Runeblade Action</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Your next Runeblade or Lightning attack this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>Create a Lightning Flow token.</p>\n<p><strong>Go again</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM154-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM154-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM154-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "a2e91bac-3a97-4d4f-bbbf-6dc4f17be9c1",
+            "product_group": {
+              "id": "f91f50c4-85c3-43fe-955e-272a1bc15184",
+              "created_at": "2026-05-25T11:24:33.149188+12:00",
+              "updated_at": "2026-05-25T11:26:08.056484+12:00",
+              "group_name": "GEM - Pack 5",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "gem-pack-5"
+            },
+            "created_at": "2026-03-29T22:50:54.743068+13:00",
+            "updated_at": "2026-05-25T11:25:38.676993+12:00",
+            "printed_date": "2025-12-29",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 5",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "gem-pack-5",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-30T10:35:53.107330+13:00",
+          "updated_at": "2026-05-25T11:22:50.658221+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM154-RF",
+          "set_number": 154,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "549f48cd-a88a-4283-9c68-39c9dfdf02cd"
+        },
+        {
+          "id": "536daafb-c511-4ac4-bd9a-c33ea5e80711",
+          "faces": [
+            {
+              "id": "a331efec-c9f1-4883-9278-b879153d822b",
+              "created_at": "2026-03-03T15:44:37.775138+13:00",
+              "updated_at": "2026-03-03T15:44:37.775147+13:00",
+              "face_id": "FR_OMN080",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN080",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "Pas-éclair electryn",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Votre prochaine attaque Lamerune ou Foudre ce tour-ci gagne +3{p}.{br}Créez un jeton Flux de foudre.{br}**Encore une fois**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Lamerune Action",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ec95826a-a89c-4db4-b0d7-6300b002a5bc",
+              "card_print": "536daafb-c511-4ac4-bd9a-c33ea5e80711",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pas-éclair electryn</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Lamerune Action</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Votre prochaine attaque Lamerune ou Foudre ce tour-ci gagne +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>Créez un jeton Flux de foudre.</p>\n<p><strong>Encore une fois</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN080.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN080.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN080.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:37.760680+13:00",
+          "updated_at": "2026-05-22T20:01:17.911315+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "FR_OMN080",
+          "set_number": 80,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "549f48cd-a88a-4283-9c68-39c9dfdf02cd"
+        },
+        {
+          "id": "c3e7ceee-bca7-4ce6-b877-a64dedc1242e",
+          "faces": [
+            {
+              "id": "ab11ffb3-89e2-4823-98fe-8e79cbf25a6c",
+              "created_at": "2026-03-03T15:44:37.859922+13:00",
+              "updated_at": "2026-03-03T15:44:37.859938+13:00",
+              "face_id": "FR_OMN080-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN080",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "Pas-éclair electryn",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Votre prochaine attaque Lamerune ou Foudre ce tour-ci gagne +3{p}.{br}Créez un jeton Flux de foudre.{br}**Encore une fois**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Lamerune Action",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ec95826a-a89c-4db4-b0d7-6300b002a5bc",
+              "card_print": "c3e7ceee-bca7-4ce6-b877-a64dedc1242e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pas-éclair electryn</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Lamerune Action</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Votre prochaine attaque Lamerune ou Foudre ce tour-ci gagne +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>Créez un jeton Flux de foudre.</p>\n<p><strong>Encore une fois</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN080-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN080-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN080-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:37.835000+13:00",
+          "updated_at": "2026-05-22T20:01:11.760674+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "FR_OMN080-RF",
+          "set_number": 80,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "549f48cd-a88a-4283-9c68-39c9dfdf02cd"
+        },
+        {
+          "id": "897ef122-c6f4-4d60-9aab-30390507c4b3",
+          "faces": [
+            {
+              "id": "06bb36b7-084a-4f60-9446-75eb9d4ae500",
+              "created_at": "2026-03-03T15:44:37.938732+13:00",
+              "updated_at": "2026-03-03T15:44:37.938746+13:00",
+              "face_id": "JA_OMN080",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN080",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "雷律の瞬電",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "このターン、あなたの次のルーン剣士か稲妻の攻撃は＋３{p}を得る。{br}「稲妻の流動」トークンを１つ作成する。{br}**続行**",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・ルーン剣士・アクション",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ec95826a-a89c-4db4-b0d7-6300b002a5bc",
+              "card_print": "897ef122-c6f4-4d60-9aab-30390507c4b3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>雷律の瞬電</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・ルーン剣士・アクション</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>このターン、あなたの次のルーン剣士か稲妻の攻撃は＋３<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n<p>「稲妻の流動」トークンを１つ作成する。</p>\n<p><strong>続行</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN080.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN080.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN080.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:37.913424+13:00",
+          "updated_at": "2026-05-22T20:01:14.053154+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "JA_OMN080",
+          "set_number": 80,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "549f48cd-a88a-4283-9c68-39c9dfdf02cd"
+        },
+        {
+          "id": "1d929ca1-ed82-4bbe-b3fe-51d9b3fb4c9c",
+          "faces": [
+            {
+              "id": "dec99458-4542-42f0-8db7-5ea9ce9affe7",
+              "created_at": "2026-03-03T15:44:38.046435+13:00",
+              "updated_at": "2026-03-03T15:44:38.046462+13:00",
+              "face_id": "JA_OMN080-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN080",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "雷律の瞬電",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "このターン、あなたの次のルーン剣士か稲妻の攻撃は＋３{p}を得る。{br}「稲妻の流動」トークンを１つ作成する。{br}**続行**",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・ルーン剣士・アクション",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ec95826a-a89c-4db4-b0d7-6300b002a5bc",
+              "card_print": "1d929ca1-ed82-4bbe-b3fe-51d9b3fb4c9c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>雷律の瞬電</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・ルーン剣士・アクション</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>このターン、あなたの次のルーン剣士か稲妻の攻撃は＋３<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n<p>「稲妻の流動」トークンを１つ作成する。</p>\n<p><strong>続行</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN080-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN080-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN080-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:37.994491+13:00",
+          "updated_at": "2026-05-22T20:01:20.213363+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "JA_OMN080-RF",
+          "set_number": 80,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "549f48cd-a88a-4283-9c68-39c9dfdf02cd"
+        },
+        {
+          "id": "6d42db1d-8f4e-4c67-925d-7821bcbc35db",
+          "faces": [
+            {
+              "id": "ef6d330b-5783-41f7-80cf-9ae8f2ed3d45",
+              "created_at": "2026-03-03T15:44:38.140729+13:00",
+              "updated_at": "2026-03-03T15:44:38.140738+13:00",
+              "face_id": "OMN080",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN080",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "Electryn Joltstep",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Your next Runeblade or Lightning attack this turn gets +3{p}.{br}Create a Lightning Flow token.{br}**Go again**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Runeblade Action",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ec95826a-a89c-4db4-b0d7-6300b002a5bc",
+              "card_print": "6d42db1d-8f4e-4c67-925d-7821bcbc35db",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Electryn Joltstep</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Runeblade Action</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Your next Runeblade or Lightning attack this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>Create a Lightning Flow token.</p>\n<p><strong>Go again</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN080.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN080.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN080.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:38.115924+13:00",
+          "updated_at": "2026-05-22T20:01:16.366463+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "OMN080",
+          "set_number": 80,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "549f48cd-a88a-4283-9c68-39c9dfdf02cd"
+        },
+        {
+          "id": "f6dce025-9d1a-4b0b-9b8a-6ac5a8fb485b",
+          "faces": [
+            {
+              "id": "be8032af-2b01-4cd9-848c-f0a7cdb130ae",
+              "created_at": "2026-03-03T15:44:38.225781+13:00",
+              "updated_at": "2026-03-03T15:44:38.225790+13:00",
+              "face_id": "OMN080-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN080",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "Electryn Joltstep",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Your next Runeblade or Lightning attack this turn gets +3{p}.{br}Create a Lightning Flow token.{br}**Go again**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Runeblade Action",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ec95826a-a89c-4db4-b0d7-6300b002a5bc",
+              "card_print": "f6dce025-9d1a-4b0b-9b8a-6ac5a8fb485b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Electryn Joltstep</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Runeblade Action</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Your next Runeblade or Lightning attack this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>Create a Lightning Flow token.</p>\n<p><strong>Go again</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN080-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN080-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN080-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:38.205811+13:00",
+          "updated_at": "2026-05-22T20:01:09.217472+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "OMN080-RF",
+          "set_number": 80,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "549f48cd-a88a-4283-9c68-39c9dfdf02cd"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-03-03T15:44:02.879805+13:00",
+      "updated_at": "2026-03-03T15:44:02.879829+13:00",
+      "card_id": "electryn-joltstep-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

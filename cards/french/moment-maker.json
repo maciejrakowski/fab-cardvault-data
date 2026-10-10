@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "moment-maker",
+  "language": "fr",
+  "name": "Créateur d’opportunités",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Créateur d’opportunités",
+      "typeLine": "Révéré Gardien Arme - Marteau Hache (2M)",
+      "classes": [
+        "Gardien"
+      ],
+      "types": [
+        "Arme"
+      ],
+      "subtypes": [
+        "(2M)",
+        "Hache",
+        "Marteau"
+      ],
+      "text": {
+        "markup": "**Action une fois par tour** -- {r}{r}{r}\u00A0: **Attaque** Si vous contrôlez au moins 3 auras de Suspens, cette carte gagne +2{p} et «\u00A0Quand cette carte touche un héros, **la foule vous acclame**\u00A0».",
+        "plain": "Action une fois par tour -- {r}{r}{r}\u00A0: Attaque Si vous contrôlez au moins 3 auras de Suspens, cette carte gagne +2{p} et «\u00A0Quand cette carte touche un héros, la foule vous acclame\u00A0».",
+        "html": "<p><strong>Action une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>\u00A0: <strong>Attaque</strong> Si vous contrôlez au moins 3 auras de Suspens, cette carte gagne +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> et «\u00A0Quand cette carte touche un héros, <strong>la foule vous acclame</strong>\u00A0».</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_APS003-RF",
+      "code": "APS003",
+      "language": "fr",
+      "set": "APS",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-pleiades-superstar-fr",
+      "releaseDate": "2025-09-19",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_APS003-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Créateur d’opportunités",
+          "typeLine": "Révéré Gardien Arme - Marteau Hache (2M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action une fois par tour** -- {r}{r}{r}\u00A0: **Attaque** Si vous contrôlez au moins 3 auras de Suspens, cette carte gagne +2{p} et «\u00A0Quand cette carte touche un héros, **la foule vous acclame**\u00A0».",
+            "plain": "Action une fois par tour -- {r}{r}{r}\u00A0: Attaque Si vous contrôlez au moins 3 auras de Suspens, cette carte gagne +2{p} et «\u00A0Quand cette carte touche un héros, la foule vous acclame\u00A0».",
+            "html": "<p><strong>Action une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>\u00A0: <strong>Attaque</strong> Si vous contrôlez au moins 3 auras de Suspens, cette carte gagne +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> et «\u00A0Quand cette carte touche un héros, <strong>la foule vous acclame</strong>\u00A0».</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "4",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "APS003",
+          "printedLanguageCode": "FR",
+          "printedYear": "2025",
+          "artist": "Jessketchin",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_APS003-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_APS003-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_APS003-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

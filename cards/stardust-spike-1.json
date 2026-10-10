@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "stardust-spike-1",
+  "name": "Stardust Spike",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Stardust Spike",
+      "pitch": 1,
+      "chi": 0,
+      "color": "red",
+      "cost": 0,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Lightning Illusionist Instant - Aura",
+      "traitLine": null,
+      "classes": [
+        "Illusionist"
+      ],
+      "talents": [
+        "Lightning"
+      ],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": {
+        "markup": "When this leaves the arena, gain {r} and **amp 1**.{br}**Ward 2**",
+        "plain": "When this leaves the arena, gain {r} and amp 1.\nWard 2"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AZS017",
+      "code": "AZS017",
+      "language": "en",
+      "set": "AZS",
+      "setNumber": 17,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-zyggy-starlight",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-03-04T12:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AZS017",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Stardust Spike",
+          "typeLine": "Lightning Illusionist Instant - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When this leaves the arena, gain {r} and **amp 1**. _(The next time you would deal arcane damage this turn, instead deal that much plus 1.)_{br}**Ward 2** _(If you would be dealt damage, destroy this to prevent 2 of that damage.)_",
+            "plain": "When this leaves the arena, gain {r} and amp 1. _(The next time you would deal arcane damage this turn, instead deal that much plus 1.)_\nWard 2 _(If you would be dealt damage, destroy this to prevent 2 of that damage.)_",
+            "html": "<p>When this leaves the arena, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> and <strong>amp 1</strong>. <em>(The next time you would deal arcane damage this turn, instead deal that much plus 1.)</em></p>\n<p><strong>Ward 2</strong> <em>(If you would be dealt damage, destroy this to prevent 2 of that damage.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AZS017",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Reinaldo Indrajaya",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AZS017.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AZS017.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AZS017.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM148-CF",
+      "code": "GEM148",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 148,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-5",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM148-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Stardust Spike",
+          "typeLine": "Lightning Illusionist Instant - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When this leaves the arena, gain {r} and **amp 1**. **Ward 2*",
+            "plain": "When this leaves the arena, gain {r} and amp 1. **Ward 2*",
+            "html": "<p>When this leaves the arena, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> and <strong>amp 1</strong>. *<em>Ward 2</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM148",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Reinaldo Indrajaya",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM148-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM148-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM148-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Ward 2",
+      "amp 1"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:31:40Z",
+    "rawSha256": "10f6545973dc62a15c2331272584084e7fbdeb29eea9b497ac0d9417c4511a77",
+    "updatedAt": "2026-03-03T15:44:06.890536+13:00"
+  }
+}

@@ -1,0 +1,933 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "e029a143-4ca4-4c69-9297-c2f44b6fbe3e",
+      "cores": [
+        {
+          "id": "55c028ad-cca1-4c4f-8991-0e73c645b09d",
+          "core_classes": [
+            {
+              "id": 4,
+              "name": "Brute",
+              "name_en": "Brute",
+              "name_fr": "Brute",
+              "name_de": "Rohling",
+              "name_it": "Bruto",
+              "name_es": "Bruto",
+              "name_ja": "野人",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 8,
+              "name": "Shadow",
+              "name_en": "Shadow",
+              "name_fr": "Ombre",
+              "name_de": "Schatten",
+              "name_it": "Ombra",
+              "name_es": "Sombra",
+              "name_ja": "影",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-07-13T19:37:59.149248+12:00",
+          "updated_at": "2026-07-13T19:37:59.149259+12:00",
+          "name": "Consuming Strength",
+          "layout_position": 10,
+          "pitch": "2",
+          "pitch_chi": "",
+          "color": "yellow",
+          "cost": "2",
+          "power": "6",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "Play this only if you control a Blasmophet.{br}**Instant **-- {r}, banish this from your hand: Your next attack this turn gets +2{p}.{br}**Blood Debt **",
+          "typebox": "Shadow Brute Action - Attack",
+          "traitbox": "",
+          "pitch_value": 2,
+          "pitch_chi_value": null,
+          "cost_value": 2,
+          "power_value": 6,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "e029a143-4ca4-4c69-9297-c2f44b6fbe3e"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "e411f44c-06cb-4b20-8742-40b59364b5e7",
+          "faces": [
+            {
+              "id": "10b49092-c7a7-4747-afb6-02a37f6594a2",
+              "created_at": "2026-07-13T19:38:57.139888+12:00",
+              "updated_at": "2026-07-13T19:38:57.139902+12:00",
+              "face_id": "JA_IAR010",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR010",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "喰らい尽くす怪力",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これはあなたが「ブラスモフェット」をコントロールしている場合にのみプレイできる。{br}**インスタント** -- {r}, これを手札から追放する：このターン、あなたの次の攻撃は＋２{p}を得る。{br}**血の債務**（これが追放されている間、あなたの終了フェイズの開始時、１{g}を失う）",
+              "printed_flavor_text": "",
+              "printed_typebox": "影・野人・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "55c028ad-cca1-4c4f-8991-0e73c645b09d",
+              "card_print": "e411f44c-06cb-4b20-8742-40b59364b5e7",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>喰らい尽くす怪力</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>影・野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これはあなたが「ブラスモフェット」をコントロールしている場合にのみプレイできる。</p>\n<p><strong>インスタント</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, これを手札から追放する：このターン、あなたの次の攻撃は＋２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n<p><strong>血の債務</strong>（これが追放されている間、あなたの終了フェイズの開始時、１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>を失う）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR010.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR010.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR010.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:57.132093+12:00",
+          "updated_at": "2026-08-18T17:01:06.666844+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR010",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "e029a143-4ca4-4c69-9297-c2f44b6fbe3e"
+        },
+        {
+          "id": "dfb2cd90-a9c6-4fa4-9e88-d05668ea06a8",
+          "faces": [
+            {
+              "id": "349f99f1-b63e-4565-93a6-4dd39d991d74",
+              "created_at": "2026-07-13T19:38:57.181031+12:00",
+              "updated_at": "2026-07-13T19:38:57.181040+12:00",
+              "face_id": "JA_IAR010-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR010",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "喰らい尽くす怪力",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これはあなたが「ブラスモフェット」をコントロールしている場合にのみプレイできる。{br}**インスタント** -- {r}, これを手札から追放する：このターン、あなたの次の攻撃は＋２{p}を得る。{br}**血の債務**（これが追放されている間、あなたの終了フェイズの開始時、１{g}を失う）",
+              "printed_flavor_text": "",
+              "printed_typebox": "影・野人・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "55c028ad-cca1-4c4f-8991-0e73c645b09d",
+              "card_print": "dfb2cd90-a9c6-4fa4-9e88-d05668ea06a8",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>喰らい尽くす怪力</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>影・野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これはあなたが「ブラスモフェット」をコントロールしている場合にのみプレイできる。</p>\n<p><strong>インスタント</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, これを手札から追放する：このターン、あなたの次の攻撃は＋２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n<p><strong>血の債務</strong>（これが追放されている間、あなたの終了フェイズの開始時、１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>を失う）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR010-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR010-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR010-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:57.175372+12:00",
+          "updated_at": "2026-08-18T17:01:07.046992+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR010-RF",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "e029a143-4ca4-4c69-9297-c2f44b6fbe3e"
+        },
+        {
+          "id": "1f072b6f-cfbc-493c-b7b0-8de235d81491",
+          "faces": [
+            {
+              "id": "9c55b1aa-1365-494a-ab32-29c70b92cf4f",
+              "created_at": "2026-07-13T19:38:32.616203+12:00",
+              "updated_at": "2026-07-13T19:38:32.616214+12:00",
+              "face_id": "IAR010",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR010",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Consuming Strength",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Play this only if you control a Blasmophet.{br}**Instant** -- {r}, banish this from your hand: Your next attack this turn gets +2{p}.{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "55c028ad-cca1-4c4f-8991-0e73c645b09d",
+              "card_print": "1f072b6f-cfbc-493c-b7b0-8de235d81491",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Consuming Strength</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Play this only if you control a Blasmophet.</p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish this from your hand: Your next attack this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR010.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR010.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR010.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:32.608676+12:00",
+          "updated_at": "2026-08-18T17:01:03.998186+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR010",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "e029a143-4ca4-4c69-9297-c2f44b6fbe3e"
+        },
+        {
+          "id": "6c67eb34-dc19-439d-a79d-a05e31961822",
+          "faces": [
+            {
+              "id": "2b496e44-12d6-4ced-8aa2-87f3f2550a74",
+              "created_at": "2026-07-13T19:38:32.660922+12:00",
+              "updated_at": "2026-07-13T19:38:32.660934+12:00",
+              "face_id": "IAR010-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR010",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Consuming Strength",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Play this only if you control a Blasmophet.{br}**Instant** -- {r}, banish this from your hand: Your next attack this turn gets +2{p}.{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "55c028ad-cca1-4c4f-8991-0e73c645b09d",
+              "card_print": "6c67eb34-dc19-439d-a79d-a05e31961822",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Consuming Strength</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Play this only if you control a Blasmophet.</p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish this from your hand: Your next attack this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR010-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR010-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR010-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:32.653689+12:00",
+          "updated_at": "2026-08-18T17:01:03.619809+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR010-RF",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "e029a143-4ca4-4c69-9297-c2f44b6fbe3e"
+        },
+        {
+          "id": "715fc7b7-d12f-465d-bf99-0567ce147bfa",
+          "faces": [
+            {
+              "id": "7d219541-5ed6-42cc-8e07-bb956353f48e",
+              "created_at": "2026-07-14T20:33:34.501016+12:00",
+              "updated_at": "2026-07-16T03:32:29.872581+12:00",
+              "face_id": "GEM195",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM195",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Consuming Strength",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Play this only if you control a Blasmophet.{br}**Instant** -- {r}, banish this from your hand: Your next attack this turn gets +2{p}. **Blood Debt**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "55c028ad-cca1-4c4f-8991-0e73c645b09d",
+              "card_print": "715fc7b7-d12f-465d-bf99-0567ce147bfa",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Consuming Strength</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Play this only if you control a Blasmophet.</p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish this from your hand: Your next attack this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Blood Debt</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM195.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM195.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM195.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "eff750c4-6ea4-4656-bce6-b497efe2491f",
+            "product_group": {
+              "id": "0fd44182-de3f-40ac-894e-ace1ca103655",
+              "created_at": "2026-09-11T13:07:08.769265+12:00",
+              "updated_at": "2026-09-11T13:07:08.769275+12:00",
+              "group_name": "GEM - Pack 6",
+              "product_type": "booster",
+              "release_date": "2026-10-01",
+              "slug": "gem-pack-6"
+            },
+            "created_at": "2026-07-13T18:14:26.634144+12:00",
+            "updated_at": "2026-09-11T13:07:26.305760+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 6",
+            "product_type": "booster",
+            "release_date": "2026-10-01",
+            "slug": "gem-pack-6",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-14T20:33:34.493749+12:00",
+          "updated_at": "2026-09-07T10:20:34.091912+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-07T10:18:00+12:00",
+          "print_id": "GEM195",
+          "set_number": 195,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "e029a143-4ca4-4c69-9297-c2f44b6fbe3e"
+        },
+        {
+          "id": "c1157ae1-fc71-483e-a61f-9a8949c17a15",
+          "faces": [
+            {
+              "id": "7a1ec143-34e2-4197-b2d9-380cede06ed0",
+              "created_at": "2026-07-14T20:33:34.523620+12:00",
+              "updated_at": "2026-07-16T03:32:39.280966+12:00",
+              "face_id": "GEM195-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM195",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Consuming Strength",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Play this only if you control a Blasmophet.{br}**Instant** -- {r}, banish this from your hand: Your next attack this turn gets +2{p}. **Blood Debt**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "55c028ad-cca1-4c4f-8991-0e73c645b09d",
+              "card_print": "c1157ae1-fc71-483e-a61f-9a8949c17a15",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Consuming Strength</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Play this only if you control a Blasmophet.</p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish this from your hand: Your next attack this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Blood Debt</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM195-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM195-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM195-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "eff750c4-6ea4-4656-bce6-b497efe2491f",
+            "product_group": {
+              "id": "0fd44182-de3f-40ac-894e-ace1ca103655",
+              "created_at": "2026-09-11T13:07:08.769265+12:00",
+              "updated_at": "2026-09-11T13:07:08.769275+12:00",
+              "group_name": "GEM - Pack 6",
+              "product_type": "booster",
+              "release_date": "2026-10-01",
+              "slug": "gem-pack-6"
+            },
+            "created_at": "2026-07-13T18:14:26.634144+12:00",
+            "updated_at": "2026-09-11T13:07:26.305760+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 6",
+            "product_type": "booster",
+            "release_date": "2026-10-01",
+            "slug": "gem-pack-6",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-14T20:33:34.516117+12:00",
+          "updated_at": "2026-09-07T10:20:33.734847+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-07T10:18:00+12:00",
+          "print_id": "GEM195-RF",
+          "set_number": 195,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "e029a143-4ca4-4c69-9297-c2f44b6fbe3e"
+        },
+        {
+          "id": "e08365aa-00eb-4f52-a136-b2c4d07686eb",
+          "faces": [
+            {
+              "id": "50c03ded-b84c-4e64-a154-7be6ba604887",
+              "created_at": "2026-07-13T19:38:07.612752+12:00",
+              "updated_at": "2026-07-13T19:38:07.612763+12:00",
+              "face_id": "FR_IAR010",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR010",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Force dévorante",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Ne jouez cette carte que si vous contrôlez un Blasmophet.{br}**Instantané** -- {r}, bannissez cette carte de votre main\u00A0: votre prochaine attaque ce tour-ci gagne +2{p}.{br}**Dette de sang** _(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1{g}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Brute Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "55c028ad-cca1-4c4f-8991-0e73c645b09d",
+              "card_print": "e08365aa-00eb-4f52-a136-b2c4d07686eb",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Force dévorante</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Ne jouez cette carte que si vous contrôlez un Blasmophet.</p>\n<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, bannissez cette carte de votre main\u00A0: votre prochaine attaque ce tour-ci gagne +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Dette de sang</strong> <em>(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR010.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR010.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR010.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:07.606159+12:00",
+          "updated_at": "2026-08-18T17:01:05.168163+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR010",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "e029a143-4ca4-4c69-9297-c2f44b6fbe3e"
+        },
+        {
+          "id": "997a13a3-e032-486a-9a6a-66f600f51d6c",
+          "faces": [
+            {
+              "id": "7071d962-28ff-4e81-8c26-3f3205953ecb",
+              "created_at": "2026-07-13T19:38:07.645621+12:00",
+              "updated_at": "2026-07-13T19:38:07.645632+12:00",
+              "face_id": "FR_IAR010-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "IAR010",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Force dévorante",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Ne jouez cette carte que si vous contrôlez un Blasmophet.{br}**Instantané** -- {r}, bannissez cette carte de votre main\u00A0: votre prochaine attaque ce tour-ci gagne +2{p}.{br}**Dette de sang** _(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1{g}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Brute Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "55c028ad-cca1-4c4f-8991-0e73c645b09d",
+              "card_print": "997a13a3-e032-486a-9a6a-66f600f51d6c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Force dévorante</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Ne jouez cette carte que si vous contrôlez un Blasmophet.</p>\n<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, bannissez cette carte de votre main\u00A0: votre prochaine attaque ce tour-ci gagne +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Dette de sang</strong> <em>(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR010-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR010-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR010-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:07.639622+12:00",
+          "updated_at": "2026-08-18T17:01:05.536874+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR010-RF",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "e029a143-4ca4-4c69-9297-c2f44b6fbe3e"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-07-13T19:37:59.142958+12:00",
+      "updated_at": "2026-07-13T19:37:59.142967+12:00",
+      "card_id": "consuming-strength-2",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

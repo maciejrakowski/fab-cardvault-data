@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "redspine-manta",
+  "language": "ja",
+  "name": "赤棘のマンタ",
+  "cores": [
+    {
+      "position": 10,
+      "name": "赤棘のマンタ",
+      "typeLine": "レンジャー・武器 － 弓（両手）",
+      "classes": [
+        "レンジャー"
+      ],
+      "types": [
+        "武器"
+      ],
+      "subtypes": [
+        "（両手）",
+        "弓"
+      ],
+      "text": {
+        "markup": "**アクション**--{t}：あなたの手札の矢を１枚、格納庫に表向きで置く。**続行**",
+        "plain": "アクション--{t}：あなたの手札の矢を１枚、格納庫に表向きで置く。続行",
+        "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：あなたの手札の矢を１枚、格納庫に表向きで置く。<strong>続行</strong></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_SEA094",
+      "code": "SEA094",
+      "language": "ja",
+      "set": "SEA",
+      "setNumber": 94,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-ja",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_SEA094",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "赤棘のマンタ",
+          "typeLine": "レンジャー・武器 － 弓（両手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--{t}：あなたの手札の矢を１枚、格納庫に表向きで置く。**続行**",
+            "plain": "アクション--{t}：あなたの手札の矢を１枚、格納庫に表向きで置く。続行",
+            "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：あなたの手札の矢を１枚、格納庫に表向きで置く。<strong>続行</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA094",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Kanadekana",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA094.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA094.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA094.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

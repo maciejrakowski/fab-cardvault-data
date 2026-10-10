@@ -1,0 +1,921 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "7d80e6b9-49fe-4939-bde5-0f87b1fa8003",
+      "cores": [
+        {
+          "id": "51435517-0229-4947-b2a3-767671ca8ca7",
+          "core_classes": [
+            {
+              "id": 4,
+              "name": "Brute",
+              "name_en": "Brute",
+              "name_fr": "Brute",
+              "name_de": "Rohling",
+              "name_it": "Bruto",
+              "name_es": "Bruto",
+              "name_ja": "野人",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:49:16.104387+12:00",
+          "updated_at": "2025-09-18T06:49:16.117102+12:00",
+          "name": "Energetic Impact",
+          "layout_position": 10,
+          "pitch": "3",
+          "pitch_chi": "",
+          "color": "blue",
+          "cost": "3",
+          "power": "5",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this defends together with a card with 6 or more {p}, create a Vigor token.",
+          "typebox": "Brute Action - Attack",
+          "traitbox": "",
+          "pitch_value": 3,
+          "pitch_chi_value": null,
+          "cost_value": 3,
+          "power_value": 5,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "7d80e6b9-49fe-4939-bde5-0f87b1fa8003"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "66f20dc1-2bf5-47f3-95db-3853066f0160",
+          "faces": [
+            {
+              "id": "084e503d-5398-4c08-91a6-5d3f61dc35a0",
+              "created_at": "2025-09-18T06:49:16.131894+12:00",
+              "updated_at": "2025-09-18T06:49:16.131904+12:00",
+              "face_id": "FR_SUP131",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "super-rare-dot",
+              "printed_code": "SUP131",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "Impact énergétique",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte défend avec une carte qui a au moins 6{p}, créez un jeton Vigueur.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "51435517-0229-4947-b2a3-767671ca8ca7",
+              "card_print": "66f20dc1-2bf5-47f3-95db-3853066f0160",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Impact énergétique</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte défend avec une carte qui a au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, créez un jeton Vigueur.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SUP131.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SUP131.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SUP131.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "0057e77f-3271-4dee-806c-f138a1c185f6",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.567245+12:00",
+            "updated_at": "2025-09-18T06:45:13.567256+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "fr",
+            "product_name": "Super Slam [FR]",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:16.127358+12:00",
+          "updated_at": "2025-09-18T06:49:16.127384+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SUP131",
+          "set_number": 131,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "super-rare",
+          "card": "7d80e6b9-49fe-4939-bde5-0f87b1fa8003"
+        },
+        {
+          "id": "212e8475-88b6-4b0b-a2ac-cf28a23218c0",
+          "faces": [
+            {
+              "id": "c737f0ad-94a7-46c3-a82b-fca7c5da8f30",
+              "created_at": "2025-09-18T06:49:16.142926+12:00",
+              "updated_at": "2025-09-18T06:49:16.142937+12:00",
+              "face_id": "FR_SUP131-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "super-rare-dot",
+              "printed_code": "SUP131",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "Impact énergétique",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte défend avec une carte qui a au moins 6{p}, créez un jeton Vigueur.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "51435517-0229-4947-b2a3-767671ca8ca7",
+              "card_print": "212e8475-88b6-4b0b-a2ac-cf28a23218c0",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Impact énergétique</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte défend avec une carte qui a au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, créez un jeton Vigueur.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SUP131-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SUP131-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SUP131-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "0057e77f-3271-4dee-806c-f138a1c185f6",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.567245+12:00",
+            "updated_at": "2025-09-18T06:45:13.567256+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "fr",
+            "product_name": "Super Slam [FR]",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:16.137844+12:00",
+          "updated_at": "2025-09-18T06:49:16.137856+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SUP131-RF",
+          "set_number": 131,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "super-rare",
+          "card": "7d80e6b9-49fe-4939-bde5-0f87b1fa8003"
+        },
+        {
+          "id": "a3259557-479f-459d-90bc-e76a3dcc92aa",
+          "faces": [
+            {
+              "id": "5b1214e4-d914-4bdb-88b9-6eb92e33f118",
+              "created_at": "2025-09-18T06:49:16.155288+12:00",
+              "updated_at": "2025-09-18T06:49:16.155300+12:00",
+              "face_id": "JA_SUP131",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "super-rare-dot",
+              "printed_code": "SUP131",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "力強い衝撃",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが６{p}以上のカードと共に防御したとき、「活力」トークンを１つ作成する。",
+              "printed_flavor_text": "",
+              "printed_typebox": "野人・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "51435517-0229-4947-b2a3-767671ca8ca7",
+              "card_print": "a3259557-479f-459d-90bc-e76a3dcc92aa",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>力強い衝撃</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが６<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>以上のカードと共に防御したとき、「活力」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SUP131.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SUP131.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SUP131.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "19f9bcbf-d398-44ee-a37c-e01fbf7b0ab3",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.594602+12:00",
+            "updated_at": "2025-09-18T06:45:13.594613+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "ja",
+            "product_name": "Super Slam [JA]",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:16.150502+12:00",
+          "updated_at": "2025-09-18T06:49:16.150514+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SUP131",
+          "set_number": 131,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "super-rare",
+          "card": "7d80e6b9-49fe-4939-bde5-0f87b1fa8003"
+        },
+        {
+          "id": "d04cc765-8148-4a53-b424-14f71fecdc0e",
+          "faces": [
+            {
+              "id": "e575ab4f-bb42-4d62-815e-e19c8e6e086e",
+              "created_at": "2025-09-18T06:49:16.167531+12:00",
+              "updated_at": "2025-09-18T06:49:16.167545+12:00",
+              "face_id": "JA_SUP131-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "super-rare-dot",
+              "printed_code": "SUP131",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "力強い衝撃",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが６{p}以上のカードと共に防御したとき、「活力」トークンを１つ作成する。",
+              "printed_flavor_text": "",
+              "printed_typebox": "野人・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "51435517-0229-4947-b2a3-767671ca8ca7",
+              "card_print": "d04cc765-8148-4a53-b424-14f71fecdc0e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>力強い衝撃</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが６<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>以上のカードと共に防御したとき、「活力」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SUP131-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SUP131-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SUP131-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "19f9bcbf-d398-44ee-a37c-e01fbf7b0ab3",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.594602+12:00",
+            "updated_at": "2025-09-18T06:45:13.594613+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "ja",
+            "product_name": "Super Slam [JA]",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:16.163012+12:00",
+          "updated_at": "2025-09-18T06:49:16.163029+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SUP131-RF",
+          "set_number": 131,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "super-rare",
+          "card": "7d80e6b9-49fe-4939-bde5-0f87b1fa8003"
+        },
+        {
+          "id": "a90d30ea-ce11-4237-aee3-2051a47630ab",
+          "faces": [
+            {
+              "id": "17e10fee-0648-4e67-9fcb-3438f1040f2a",
+              "created_at": "2025-09-18T06:49:16.180137+12:00",
+              "updated_at": "2025-09-18T06:49:16.180150+12:00",
+              "face_id": "SUP131",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "super-rare-dot",
+              "printed_code": "SUP131",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "Energetic Impact",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends together with a card with 6 or more {p}, create a Vigor token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "51435517-0229-4947-b2a3-767671ca8ca7",
+              "card_print": "a90d30ea-ce11-4237-aee3-2051a47630ab",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Energetic Impact</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends together with a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, create a Vigor token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SUP131.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SUP131.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SUP131.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2a2a72d2-3f0f-4abd-84bb-450d22971e2a",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.620857+12:00",
+            "updated_at": "2025-09-18T06:45:13.620871+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "en",
+            "product_name": "Super Slam",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:16.175236+12:00",
+          "updated_at": "2025-09-18T06:49:16.175249+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SUP131",
+          "set_number": 131,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "super-rare",
+          "card": "7d80e6b9-49fe-4939-bde5-0f87b1fa8003"
+        },
+        {
+          "id": "ef1fac1a-5f1b-4475-8ba9-4ce82a8e564b",
+          "faces": [
+            {
+              "id": "4c366699-dbc8-4cb2-9bde-e52183fb802c",
+              "created_at": "2025-09-18T06:49:16.193870+12:00",
+              "updated_at": "2025-09-18T06:49:16.193881+12:00",
+              "face_id": "SUP131-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "super-rare-dot",
+              "printed_code": "SUP131",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "Energetic Impact",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends together with a card with 6 or more {p}, create a Vigor token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "51435517-0229-4947-b2a3-767671ca8ca7",
+              "card_print": "ef1fac1a-5f1b-4475-8ba9-4ce82a8e564b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Energetic Impact</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends together with a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, create a Vigor token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SUP131-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SUP131-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SUP131-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2a2a72d2-3f0f-4abd-84bb-450d22971e2a",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.620857+12:00",
+            "updated_at": "2025-09-18T06:45:13.620871+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "en",
+            "product_name": "Super Slam",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:16.187673+12:00",
+          "updated_at": "2025-09-18T06:49:16.187685+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SUP131-RF",
+          "set_number": 131,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "super-rare",
+          "card": "7d80e6b9-49fe-4939-bde5-0f87b1fa8003"
+        },
+        {
+          "id": "2af49718-1136-430b-9b40-19afdb784f9f",
+          "faces": [
+            {
+              "id": "3654652e-eaf8-4f7b-8f39-82450405c09c",
+              "created_at": "2025-09-18T06:49:16.211592+12:00",
+              "updated_at": "2025-09-18T06:49:16.211611+12:00",
+              "face_id": "GEM098",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM098",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "Energetic Impact",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends together with a card with 6 or more {p}, create a Vigor token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "51435517-0229-4947-b2a3-767671ca8ca7",
+              "card_print": "2af49718-1136-430b-9b40-19afdb784f9f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Energetic Impact</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends together with a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, create a Vigor token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM098.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM098.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM098.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "87d78dff-0632-4adf-b89c-954cd8723781",
+            "product_group": {
+              "id": "622439b4-486f-4f10-8c4c-71b9e7762196",
+              "created_at": "2026-03-05T10:49:37.071770+13:00",
+              "updated_at": "2026-03-05T10:49:37.071783+13:00",
+              "group_name": "GEM - Pack 3",
+              "product_type": "booster",
+              "release_date": "2025-10-01",
+              "slug": "gem-pack-3"
+            },
+            "created_at": "2025-09-18T06:45:13.647735+12:00",
+            "updated_at": "2026-03-05T10:50:13.369558+13:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 3",
+            "product_type": "booster",
+            "release_date": "2025-10-01",
+            "slug": "gem-pack-3",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:16.203052+12:00",
+          "updated_at": "2025-09-18T06:49:16.203077+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM098",
+          "set_number": 98,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "7d80e6b9-49fe-4939-bde5-0f87b1fa8003"
+        },
+        {
+          "id": "e7461e0e-f91e-4265-b55f-f4e3def84bc9",
+          "faces": [
+            {
+              "id": "4aa0cce9-81ee-4690-81db-24a331bf48e8",
+              "created_at": "2025-09-18T06:49:16.227320+12:00",
+              "updated_at": "2025-09-18T06:49:16.227333+12:00",
+              "face_id": "GEM098-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM098",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "Energetic Impact",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends together with a card with 6 or more {p}, create a Vigor token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "51435517-0229-4947-b2a3-767671ca8ca7",
+              "card_print": "e7461e0e-f91e-4265-b55f-f4e3def84bc9",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Energetic Impact</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends together with a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, create a Vigor token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM098-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM098-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM098-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "87d78dff-0632-4adf-b89c-954cd8723781",
+            "product_group": {
+              "id": "622439b4-486f-4f10-8c4c-71b9e7762196",
+              "created_at": "2026-03-05T10:49:37.071770+13:00",
+              "updated_at": "2026-03-05T10:49:37.071783+13:00",
+              "group_name": "GEM - Pack 3",
+              "product_type": "booster",
+              "release_date": "2025-10-01",
+              "slug": "gem-pack-3"
+            },
+            "created_at": "2025-09-18T06:45:13.647735+12:00",
+            "updated_at": "2026-03-05T10:50:13.369558+13:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 3",
+            "product_type": "booster",
+            "release_date": "2025-10-01",
+            "slug": "gem-pack-3",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:16.219999+12:00",
+          "updated_at": "2025-09-18T06:49:16.220023+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM098-RF",
+          "set_number": 98,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "7d80e6b9-49fe-4939-bde5-0f87b1fa8003"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        }
+      },
+      "created_at": "2025-09-18T06:49:16.101436+12:00",
+      "updated_at": "2025-09-18T06:49:16.102426+12:00",
+      "card_id": "energetic-impact-3",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

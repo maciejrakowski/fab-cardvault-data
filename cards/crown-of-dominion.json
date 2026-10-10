@@ -1,0 +1,384 @@
+{
+  "schemaVersion": 1,
+  "id": "crown-of-dominion",
+  "name": "Crown of Dominion",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Crown of Dominion",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Equipment - Head",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Head"
+      ],
+      "text": {
+        "markup": "Your hero is Royal.{br}When this is equipped, create a Gold token.",
+        "plain": "Your hero is Royal.\nWhen this is equipped, create a Gold token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "DYN234-CF",
+      "code": "DYN234",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 234,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN234-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crown of Dominion",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "Your hero is Royal.\nWhen you equip Crown of Dominion, create a Gold token.",
+            "plain": "Your hero is Royal.\nWhen you equip Crown of Dominion, create a Gold token.",
+            "html": "<p>Your hero is Royal.</p>\n<p>When you equip Crown of Dominion, create a Gold token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN234",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Andy Aslamov",
+          "rarityMark": "legendary-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN234-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN234-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN234-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN234-MV",
+      "code": "DYN234",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 234,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN234-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crown of Dominion",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "Your hero is Royal.\nWhen you equip Crown of Dominion, create a Gold token.",
+            "plain": "Your hero is Royal.\nWhen you equip Crown of Dominion, create a Gold token.",
+            "html": "<p>Your hero is Royal.</p>\n<p>When you equip Crown of Dominion, create a Gold token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN234",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Andy Aslamov",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "dynasty-marvel",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN234-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN234-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN234-MV.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN234-RF",
+      "code": "DYN234",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 234,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN234-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crown of Dominion",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "Your hero is Royal.\nWhen you equip Crown of Dominion, create a Gold token.",
+            "plain": "Your hero is Royal.\nWhen you equip Crown of Dominion, create a Gold token.",
+            "html": "<p>Your hero is Royal.</p>\n<p>When you equip Crown of Dominion, create a Gold token.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.\" - Emperor, Dracai of Aesir_",
+            "plain": "_\"I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.\" - Emperor, Dracai of Aesir_",
+            "html": "<p><em>&quot;I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.&quot; - Emperor, Dracai of Aesir</em></p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN234",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Andy Aslamov",
+          "rarityMark": "legendary-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN234-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN234-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN234-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB111-GF",
+      "code": "FAB111",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB111-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crown of Dominion",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "Your hero is Royal.\nWhen you equip Crown of Dominion, create a Gold token.",
+            "plain": "Your hero is Royal.\nWhen you equip Crown of Dominion, create a Gold token.",
+            "html": "<p>Your hero is Royal.</p>\n<p>When you equip Crown of Dominion, create a Gold token.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.\" - Emperor, Dracai of Aesir_",
+            "plain": "_\"I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.\" - Emperor, Dracai of Aesir_",
+            "html": "<p><em>&quot;I will watch over this Dynasty till my very last breath. Its power, riches, and enemies, I take as my own.&quot; - Emperor, Dracai of Aesir</em></p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB111",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Andy Aslamov",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB111-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB111-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB111-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM112-RF",
+      "code": "GEM112",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 112,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-4",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM112-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crown of Dominion",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "Your hero is Royal.{br}When this is equipped, create a Gold token.",
+            "plain": "Your hero is Royal.\nWhen this is equipped, create a Gold token.",
+            "html": "<p>Your hero is Royal.</p>\n<p>When this is equipped, create a Gold token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM112",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Dominik Mayer",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM112-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM112-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM112-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:09:12Z",
+    "rawSha256": "ae4ff62d94c01490f414760d16f5c6d5ec74a4c0dfbfea33d13f337f6bf9cf57",
+    "updatedAt": "2025-09-18T06:48:09.421638+12:00"
+  }
+}

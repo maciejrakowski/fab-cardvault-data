@@ -1,0 +1,921 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "726deaa1-79c7-472e-bfa4-b1c96208f360",
+      "cores": [
+        {
+          "id": "2a52c653-5779-4f82-bc3a-6866c8da3584",
+          "core_classes": [
+            {
+              "id": 6,
+              "name": "Generic",
+              "name_en": "Generic",
+              "name_fr": "Générique",
+              "name_de": "Allgemein",
+              "name_it": "Generico/a",
+              "name_es": "Genérico/a",
+              "name_ja": "汎用",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:57:10.940553+12:00",
+          "updated_at": "2025-09-18T06:57:10.949776+12:00",
+          "name": "Strike Gold",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "0",
+          "power": "4",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this hits, create a Gold token.",
+          "typebox": "Generic Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 0,
+          "power_value": 4,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "726deaa1-79c7-472e-bfa4-b1c96208f360"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "1c870b9c-a839-487e-bea6-804556c72abe",
+          "faces": [
+            {
+              "id": "7d4b6671-2526-4337-b08e-f90699345593",
+              "created_at": "2025-09-18T06:57:10.962296+12:00",
+              "updated_at": "2025-09-18T06:57:10.962308+12:00",
+              "face_id": "FR_SEA229",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA229",
+              "printed_artist": "Saad Irfan",
+              "printed_name": "Gagner le gros lot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte touche, créez un jeton Or.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Générique Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a52c653-5779-4f82-bc3a-6866c8da3584",
+              "card_print": "1c870b9c-a839-487e-bea6-804556c72abe",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Gagner le gros lot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Générique Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte touche, créez un jeton Or.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA229.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA229.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA229.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:10.956254+12:00",
+          "updated_at": "2025-09-18T06:57:10.956269+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA229",
+          "set_number": 229,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "726deaa1-79c7-472e-bfa4-b1c96208f360"
+        },
+        {
+          "id": "798a3dcb-ab50-45d0-b666-c883c2710a7b",
+          "faces": [
+            {
+              "id": "3c838810-2495-4c72-afa1-062bb4e61024",
+              "created_at": "2025-09-18T06:57:10.985065+12:00",
+              "updated_at": "2025-09-18T06:57:10.985113+12:00",
+              "face_id": "FR_SEA229-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA229",
+              "printed_artist": "Saad Irfan",
+              "printed_name": "Gagner le gros lot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte touche, créez un jeton Or.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Générique Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a52c653-5779-4f82-bc3a-6866c8da3584",
+              "card_print": "798a3dcb-ab50-45d0-b666-c883c2710a7b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Gagner le gros lot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Générique Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte touche, créez un jeton Or.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA229-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA229-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA229-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:10.973812+12:00",
+          "updated_at": "2025-09-18T06:57:10.973835+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA229-RF",
+          "set_number": 229,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "726deaa1-79c7-472e-bfa4-b1c96208f360"
+        },
+        {
+          "id": "fecac2f6-6a4d-4444-a816-66bbff40e366",
+          "faces": [
+            {
+              "id": "54dacc21-966f-46fa-9f8a-50652976e39b",
+              "created_at": "2025-09-18T06:57:11.007399+12:00",
+              "updated_at": "2025-09-18T06:57:11.007416+12:00",
+              "face_id": "JA_SEA229",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA229",
+              "printed_artist": "Saad Irfan",
+              "printed_name": "金鉱掘り",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これがヒットしたとき、「金貨」トークンを１つ作成する。",
+              "printed_flavor_text": "",
+              "printed_typebox": "汎用・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a52c653-5779-4f82-bc3a-6866c8da3584",
+              "card_print": "fecac2f6-6a4d-4444-a816-66bbff40e366",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>金鉱掘り</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>汎用・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これがヒットしたとき、「金貨」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA229.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA229.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA229.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:10.998385+12:00",
+          "updated_at": "2025-09-18T06:57:10.998406+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA229",
+          "set_number": 229,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "726deaa1-79c7-472e-bfa4-b1c96208f360"
+        },
+        {
+          "id": "040fcd17-7a18-489b-bd3b-8b921834f7d3",
+          "faces": [
+            {
+              "id": "225d4cf2-3bff-4a5b-ad31-f7f595eceeb9",
+              "created_at": "2025-09-18T06:57:11.023018+12:00",
+              "updated_at": "2025-09-18T06:57:11.023032+12:00",
+              "face_id": "JA_SEA229-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA229",
+              "printed_artist": "Saad Irfan",
+              "printed_name": "金鉱掘り",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これがヒットしたとき、「金貨」トークンを１つ作成する。",
+              "printed_flavor_text": "",
+              "printed_typebox": "汎用・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a52c653-5779-4f82-bc3a-6866c8da3584",
+              "card_print": "040fcd17-7a18-489b-bd3b-8b921834f7d3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>金鉱掘り</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>汎用・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これがヒットしたとき、「金貨」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA229-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA229-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA229-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:11.017294+12:00",
+          "updated_at": "2025-09-18T06:57:11.017308+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA229-RF",
+          "set_number": 229,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "726deaa1-79c7-472e-bfa4-b1c96208f360"
+        },
+        {
+          "id": "8afa0bde-b2c3-443f-bdb7-2be6cb730b35",
+          "faces": [
+            {
+              "id": "6b3ff0a5-a36b-454d-a758-bd36545906d4",
+              "created_at": "2025-09-18T06:57:11.037599+12:00",
+              "updated_at": "2025-09-18T06:57:11.037611+12:00",
+              "face_id": "SEA229",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA229",
+              "printed_artist": "Saad Irfan",
+              "printed_name": "Strike Gold",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this hits, create a Gold token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a52c653-5779-4f82-bc3a-6866c8da3584",
+              "card_print": "8afa0bde-b2c3-443f-bdb7-2be6cb730b35",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Strike Gold</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this hits, create a Gold token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA229.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA229.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA229.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:11.032885+12:00",
+          "updated_at": "2025-09-18T06:57:11.032898+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA229",
+          "set_number": 229,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "726deaa1-79c7-472e-bfa4-b1c96208f360"
+        },
+        {
+          "id": "36b41a90-0781-4793-b6ed-9cf18e8ee526",
+          "faces": [
+            {
+              "id": "225021f2-1599-4da4-9e47-e1923e78ea8c",
+              "created_at": "2025-09-18T06:57:11.050477+12:00",
+              "updated_at": "2025-09-18T06:57:11.050489+12:00",
+              "face_id": "SEA229-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA229",
+              "printed_artist": "Saad Irfan",
+              "printed_name": "Strike Gold",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this hits, create a Gold token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a52c653-5779-4f82-bc3a-6866c8da3584",
+              "card_print": "36b41a90-0781-4793-b6ed-9cf18e8ee526",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Strike Gold</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this hits, create a Gold token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA229-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA229-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA229-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:11.046008+12:00",
+          "updated_at": "2025-09-18T06:57:11.046025+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA229-RF",
+          "set_number": 229,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "726deaa1-79c7-472e-bfa4-b1c96208f360"
+        },
+        {
+          "id": "84ea5309-1736-4104-904b-084a5a076713",
+          "faces": [
+            {
+              "id": "f7ab7f1d-46c6-4019-be5e-0dddf97a09b0",
+              "created_at": "2025-09-18T06:57:11.063021+12:00",
+              "updated_at": "2025-09-18T06:57:11.063034+12:00",
+              "face_id": "GEM064-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM064",
+              "printed_artist": "Saad Irfan",
+              "printed_name": "Strike Gold",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this hits, create a Gold token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a52c653-5779-4f82-bc3a-6866c8da3584",
+              "card_print": "84ea5309-1736-4104-904b-084a5a076713",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Strike Gold</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this hits, create a Gold token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM064-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM064-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM064-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:11.057471+12:00",
+          "updated_at": "2025-09-18T06:57:11.057483+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM064-RF",
+          "set_number": 64,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "726deaa1-79c7-472e-bfa4-b1c96208f360"
+        },
+        {
+          "id": "071dd562-0465-4567-ad73-d4d0720c2930",
+          "faces": [
+            {
+              "id": "ca066edf-b55d-466a-91b6-d370096fe124",
+              "created_at": "2025-09-18T06:57:11.075273+12:00",
+              "updated_at": "2025-09-18T06:57:11.075283+12:00",
+              "face_id": "GEM064",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM064",
+              "printed_artist": "Saad Irfan",
+              "printed_name": "Strike Gold",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this hits, create a Gold token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a52c653-5779-4f82-bc3a-6866c8da3584",
+              "card_print": "071dd562-0465-4567-ad73-d4d0720c2930",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Strike Gold</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this hits, create a Gold token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM064.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM064.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM064.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:11.071019+12:00",
+          "updated_at": "2025-09-18T06:57:11.071034+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM064",
+          "set_number": 64,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "726deaa1-79c7-472e-bfa4-b1c96208f360"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:57:10.937278+12:00",
+      "updated_at": "2025-09-18T06:57:10.938271+12:00",
+      "card_id": "strike-gold-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

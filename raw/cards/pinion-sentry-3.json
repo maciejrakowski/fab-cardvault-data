@@ -1,0 +1,908 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "5db5f190-13b1-49ad-b9e5-d0308a262925",
+      "cores": [
+        {
+          "id": "01076db5-6916-4757-8975-ec977dd688f4",
+          "core_classes": [
+            {
+              "id": 8,
+              "name": "Mechanologist",
+              "name_en": "Mechanologist",
+              "name_fr": "Mécanologue",
+              "name_de": "Mechanologisch",
+              "name_it": "Meccanologo",
+              "name_es": "Mecanólogo",
+              "name_ja": "機械技師",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 3,
+              "name": "Block",
+              "name_en": "Block",
+              "name_fr": "Blocage",
+              "name_de": "Blockade",
+              "name_it": "Blocco",
+              "name_es": "Bloqueo",
+              "name_ja": "ブロック",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [],
+          "created_at": "2025-09-18T06:53:41.828969+12:00",
+          "updated_at": "2025-09-18T06:53:41.836490+12:00",
+          "name": "Pinion Sentry",
+          "layout_position": 10,
+          "pitch": "3",
+          "pitch_chi": "",
+          "color": "blue",
+          "cost": "",
+          "power": "",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this defends, you may {t} a cog you control. If you do, create a Golden Cog token.",
+          "typebox": "Mechanologist Block",
+          "traitbox": "",
+          "pitch_value": 3,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "5db5f190-13b1-49ad-b9e5-d0308a262925"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "78ee02bd-b4e8-4ac9-9cf5-370d9fee88b5",
+          "faces": [
+            {
+              "id": "400a70aa-011c-45d4-afda-3dc70748af5f",
+              "created_at": "2025-09-18T06:53:41.847871+12:00",
+              "updated_at": "2025-09-18T06:53:41.847880+12:00",
+              "face_id": "FR_SEA023",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA023",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Sentinelle à pignons",
+              "printed_pitch": 3,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte défend, vous pouvez {t} un rouage que vous contrôlez. Si vous le faites, créez un jeton Rouage doré.",
+              "printed_flavor_text": "Les heures de bureau sont de 10 h à 15 h. Aucune exception. - Bureau du Gouverneur, Quai du Cornemuseur",
+              "printed_typebox": "Mécanologue Blocage",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "01076db5-6916-4757-8975-ec977dd688f4",
+              "card_print": "78ee02bd-b4e8-4ac9-9cf5-370d9fee88b5",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Sentinelle à pignons</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mécanologue Blocage</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte défend, vous pouvez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> un rouage que vous contrôlez. Si vous le faites, créez un jeton Rouage doré.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>Les heures de bureau sont de 10 h à 15 h. Aucune exception. - Bureau du Gouverneur, Quai du Cornemuseur</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA023.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA023.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA023.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:41.843111+12:00",
+          "updated_at": "2025-09-18T06:53:41.843124+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA023",
+          "set_number": 23,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "5db5f190-13b1-49ad-b9e5-d0308a262925"
+        },
+        {
+          "id": "66381cb5-a671-4966-bebe-b002c55e015d",
+          "faces": [
+            {
+              "id": "e85074a6-f4f8-44e0-8f14-449b13715155",
+              "created_at": "2025-09-18T06:53:41.858067+12:00",
+              "updated_at": "2025-09-18T06:53:41.858082+12:00",
+              "face_id": "FR_SEA023-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA023",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Sentinelle à pignons",
+              "printed_pitch": 3,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte défend, vous pouvez {t} un rouage que vous contrôlez. Si vous le faites, créez un jeton Rouage doré.",
+              "printed_flavor_text": "Les heures de bureau sont de 10 h à 15 h. Aucune exception. - Bureau du Gouverneur, Quai du Cornemuseur",
+              "printed_typebox": "Mécanologue Blocage",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "01076db5-6916-4757-8975-ec977dd688f4",
+              "card_print": "66381cb5-a671-4966-bebe-b002c55e015d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Sentinelle à pignons</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mécanologue Blocage</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte défend, vous pouvez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> un rouage que vous contrôlez. Si vous le faites, créez un jeton Rouage doré.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>Les heures de bureau sont de 10 h à 15 h. Aucune exception. - Bureau du Gouverneur, Quai du Cornemuseur</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA023-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA023-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA023-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:41.854219+12:00",
+          "updated_at": "2025-09-18T06:53:41.854231+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA023-RF",
+          "set_number": 23,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "5db5f190-13b1-49ad-b9e5-d0308a262925"
+        },
+        {
+          "id": "4976c0a0-16f8-4800-abe1-75484d19a5fa",
+          "faces": [
+            {
+              "id": "7bca1e26-f9e4-412c-9b37-14190af7fe9a",
+              "created_at": "2025-09-18T06:53:41.872255+12:00",
+              "updated_at": "2025-09-18T06:53:41.872267+12:00",
+              "face_id": "JA_SEA023",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA023",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "波止場の衛兵",
+              "printed_pitch": 3,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが防御したとき、あなたがコントロールする歯車１つを{t}してもよい。そうした場合、「金の歯車」トークンを１つ作成する。",
+              "printed_flavor_text": "執務時間は午前10時から午後３時まで。例外なし。―パイパーズ・ピア知事室",
+              "printed_typebox": "機械技師・ブロック",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "01076db5-6916-4757-8975-ec977dd688f4",
+              "card_print": "4976c0a0-16f8-4800-abe1-75484d19a5fa",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>波止場の衛兵</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>機械技師・ブロック</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが防御したとき、あなたがコントロールする歯車１つを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>してもよい。そうした場合、「金の歯車」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>執務時間は午前10時から午後３時まで。例外なし。―パイパーズ・ピア知事室</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA023.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA023.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA023.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:41.866789+12:00",
+          "updated_at": "2025-09-18T06:53:41.866803+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA023",
+          "set_number": 23,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "5db5f190-13b1-49ad-b9e5-d0308a262925"
+        },
+        {
+          "id": "46809366-8a1c-40de-87b6-78c9df0acb34",
+          "faces": [
+            {
+              "id": "329cfde6-e4d8-4000-ba10-57e3c7ef7839",
+              "created_at": "2025-09-18T06:53:41.887785+12:00",
+              "updated_at": "2025-09-18T06:53:41.887796+12:00",
+              "face_id": "JA_SEA023-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA023",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "波止場の衛兵",
+              "printed_pitch": 3,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが防御したとき、あなたがコントロールする歯車１つを{t}してもよい。そうした場合、「金の歯車」トークンを１つ作成する。",
+              "printed_flavor_text": "執務時間は午前10時から午後３時まで。例外なし。―パイパーズ・ピア知事室",
+              "printed_typebox": "機械技師・ブロック",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "01076db5-6916-4757-8975-ec977dd688f4",
+              "card_print": "46809366-8a1c-40de-87b6-78c9df0acb34",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>波止場の衛兵</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>機械技師・ブロック</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが防御したとき、あなたがコントロールする歯車１つを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>してもよい。そうした場合、「金の歯車」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>執務時間は午前10時から午後３時まで。例外なし。―パイパーズ・ピア知事室</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA023-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA023-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA023-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:41.881145+12:00",
+          "updated_at": "2025-09-18T06:53:41.881156+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA023-RF",
+          "set_number": 23,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "5db5f190-13b1-49ad-b9e5-d0308a262925"
+        },
+        {
+          "id": "d7d78de5-3b70-4a78-bea5-edfb432c43b4",
+          "faces": [
+            {
+              "id": "2e74dd82-f8f5-4ddc-85af-75dca7a5c19b",
+              "created_at": "2025-09-18T06:53:41.905381+12:00",
+              "updated_at": "2025-09-18T06:53:41.905393+12:00",
+              "face_id": "SEA023",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA023",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Pinion Sentry",
+              "printed_pitch": 3,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends, you may {t} a cog you control. If you do, create a Golden Cog token.",
+              "printed_flavor_text": "_Office hours are 10 - 3. No exceptions. - Governor's Chambers, Piper's Pier_",
+              "printed_typebox": "Mechanologist Block",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "01076db5-6916-4757-8975-ec977dd688f4",
+              "card_print": "d7d78de5-3b70-4a78-bea5-edfb432c43b4",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pinion Sentry</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Block</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control. If you do, create a Golden Cog token.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Office hours are 10 - 3. No exceptions. - Governor's Chambers, Piper's Pier</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA023.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA023.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA023.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:41.900614+12:00",
+          "updated_at": "2025-09-18T06:53:41.900627+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA023",
+          "set_number": 23,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "5db5f190-13b1-49ad-b9e5-d0308a262925"
+        },
+        {
+          "id": "3f88af2a-af12-4dab-8035-859dd654156f",
+          "faces": [
+            {
+              "id": "4058ce40-ece9-4df6-a24b-494bd01faa33",
+              "created_at": "2025-09-18T06:53:41.917864+12:00",
+              "updated_at": "2025-09-18T06:53:41.917874+12:00",
+              "face_id": "SEA023-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA023",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Pinion Sentry",
+              "printed_pitch": 3,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends, you may {t} a cog you control. If you do, create a Golden Cog token.",
+              "printed_flavor_text": "_Office hours are 10 - 3. No exceptions. - Governor's Chambers, Piper's Pier_",
+              "printed_typebox": "Mechanologist Block",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "01076db5-6916-4757-8975-ec977dd688f4",
+              "card_print": "3f88af2a-af12-4dab-8035-859dd654156f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pinion Sentry</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Block</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control. If you do, create a Golden Cog token.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Office hours are 10 - 3. No exceptions. - Governor's Chambers, Piper's Pier</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA023-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA023-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA023-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:41.914098+12:00",
+          "updated_at": "2025-09-18T06:53:41.914109+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA023-RF",
+          "set_number": 23,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "5db5f190-13b1-49ad-b9e5-d0308a262925"
+        },
+        {
+          "id": "622ee4c9-cf99-4ec8-bf9e-ee339152d8c0",
+          "faces": [
+            {
+              "id": "af766030-15a0-4c8d-afa3-a21be1d7e56e",
+              "created_at": "2025-09-18T06:53:41.932992+12:00",
+              "updated_at": "2025-09-18T06:53:41.933008+12:00",
+              "face_id": "GEM045-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM045",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Pinion Sentry",
+              "printed_pitch": 3,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends, you may {t} a cog you control. If you do, create a Golden Cog token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mechanologist Block",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "01076db5-6916-4757-8975-ec977dd688f4",
+              "card_print": "622ee4c9-cf99-4ec8-bf9e-ee339152d8c0",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pinion Sentry</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Block</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control. If you do, create a Golden Cog token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM045-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM045-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM045-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:41.925253+12:00",
+          "updated_at": "2025-09-18T06:53:41.925270+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM045-RF",
+          "set_number": 45,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "5db5f190-13b1-49ad-b9e5-d0308a262925"
+        },
+        {
+          "id": "917ad2a9-b5e1-4b0b-895c-d79fbc829f23",
+          "faces": [
+            {
+              "id": "40bf3887-c026-4dcc-bbf9-4c2a9377a3ab",
+              "created_at": "2025-09-18T06:53:41.951071+12:00",
+              "updated_at": "2025-09-18T06:53:41.951104+12:00",
+              "face_id": "GEM045",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM045",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Pinion Sentry",
+              "printed_pitch": 3,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this defends, you may {t} a cog you control. If you do, create a Golden Cog token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mechanologist Block",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "01076db5-6916-4757-8975-ec977dd688f4",
+              "card_print": "917ad2a9-b5e1-4b0b-895c-d79fbc829f23",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pinion Sentry</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Block</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this defends, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control. If you do, create a Golden Cog token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM045.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM045.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM045.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:41.944153+12:00",
+          "updated_at": "2025-09-18T06:53:41.944170+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM045",
+          "set_number": 45,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "5db5f190-13b1-49ad-b9e5-d0308a262925"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:53:41.824819+12:00",
+      "updated_at": "2025-09-18T06:53:41.826380+12:00",
+      "card_id": "pinion-sentry-3",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

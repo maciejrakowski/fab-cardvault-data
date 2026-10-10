@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "dash-io",
+  "language": "es",
+  "cores": [
+    {
+      "position": 10,
+      "typeLine": "Héroe mecanólogo",
+      "classes": [
+        "Mecanólogo"
+      ],
+      "types": [
+        "Héroe"
+      ],
+      "text": {
+        "markup": "Puedes mirar la primera carta de tu mazo en cualquier momento.\nUna vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un {r} adicional.",
+        "plain": "Puedes mirar la primera carta de tu mazo en cualquier momento.\nUna vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un {r} adicional.",
+        "html": "<p>Puedes mirar la primera carta de tu mazo en cualquier momento.</p>\n<p>Una vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> adicional.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_EVO001",
+      "code": "EVO001",
+      "language": "es",
+      "set": "EVO",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-es",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_EVO001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Dash I/O",
+          "typeLine": "Héroe mecanólogo",
+          "traitLine": null,
+          "text": {
+            "markup": "Puedes mirar la primera carta de tu mazo en cualquier momento.\nUna vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un {r} adicional.",
+            "plain": "Puedes mirar la primera carta de tu mazo en cualquier momento.\nUna vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un {r} adicional.",
+            "html": "<p>Puedes mirar la primera carta de tu mazo en cualquier momento.</p>\n<p>Una vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> adicional.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "36",
+            "intellect": "4"
+          },
+          "printedCode": "EVO001",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Sam Yang",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_EVO001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_EVO001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_EVO001.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

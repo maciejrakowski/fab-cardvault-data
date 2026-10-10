@@ -1,0 +1,622 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "ecf83bfa-26e9-4a27-8a19-7a08b1bb6fbd",
+      "cores": [
+        {
+          "id": "d5fd49f0-d730-498a-a097-44054cce1f72",
+          "core_classes": [
+            {
+              "id": 11,
+              "name": "Ranger",
+              "name_en": "Ranger",
+              "name_fr": "Ranger",
+              "name_de": "Waldläufer",
+              "name_it": "Ranger",
+              "name_es": "Explorador",
+              "name_ja": "レンジャー",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 12,
+              "name": "Weapon",
+              "name_en": "Weapon",
+              "name_fr": "Arme",
+              "name_de": "Waffe",
+              "name_it": "Arma",
+              "name_es": "Arma",
+              "name_ja": "武器",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 2,
+              "name": "(2H)",
+              "name_en": "(2H)",
+              "name_fr": "(2M)",
+              "name_de": "(2H)",
+              "name_it": "(2M)",
+              "name_es": "(2M)",
+              "name_ja": "（両手）",
+              "is_published": true,
+              "functional": true
+            },
+            {
+              "id": 20,
+              "name": "Bow",
+              "name_en": "Bow",
+              "name_fr": "Arc",
+              "name_de": "Bogen",
+              "name_it": "Arco",
+              "name_es": "Arco",
+              "name_ja": "弓",
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-09-18T06:54:39.886904+12:00",
+          "updated_at": "2025-09-18T06:54:39.897987+12:00",
+          "name": "Redspine Manta",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "",
+          "defense": "",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Action** -- {t}: Put an arrow from your hand face-up into your arsenal. **Go again**",
+          "typebox": "Ranger Weapon - Bow (2H)",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "ecf83bfa-26e9-4a27-8a19-7a08b1bb6fbd"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "442acd0b-e5f5-4709-b3f0-a6d309f9caff",
+          "faces": [
+            {
+              "id": "6cd076e1-8858-42e4-b4fc-92e901f78a51",
+              "created_at": "2025-09-18T06:54:39.911776+12:00",
+              "updated_at": "2025-09-18T06:54:39.911793+12:00",
+              "face_id": "FR_SEA094",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "basic-dot",
+              "printed_code": "SEA094",
+              "printed_artist": "Kanadekana",
+              "printed_name": "Raie manta à dos rouge",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t} : mettez une flèche de votre main face visible dans votre arsenal. **Encore une fois**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Arme - Arc (2M)",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d5fd49f0-d730-498a-a097-44054cce1f72",
+              "card_print": "442acd0b-e5f5-4709-b3f0-a6d309f9caff",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Raie manta à dos rouge</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Arme - Arc (2M)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : mettez une flèche de votre main face visible dans votre arsenal. <strong>Encore une fois</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA094.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA094.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA094.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:39.905659+12:00",
+          "updated_at": "2025-09-18T06:54:39.905683+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA094",
+          "set_number": 94,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "basic",
+          "card": "ecf83bfa-26e9-4a27-8a19-7a08b1bb6fbd"
+        },
+        {
+          "id": "301393f6-a886-4924-91b7-9ba72d653657",
+          "faces": [
+            {
+              "id": "161abdf7-6db6-4efe-923f-c0a4c650b7e3",
+              "created_at": "2025-09-18T06:54:39.923664+12:00",
+              "updated_at": "2025-09-18T06:54:39.923682+12:00",
+              "face_id": "JA_SEA094",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "basic-dot",
+              "printed_code": "SEA094",
+              "printed_artist": "Kanadekana",
+              "printed_name": "赤棘のマンタ",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**アクション**--{t}：あなたの手札の矢を１枚、格納庫に表向きで置く。**続行**",
+              "printed_flavor_text": "",
+              "printed_typebox": "レンジャー・武器 － 弓（両手）",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d5fd49f0-d730-498a-a097-44054cce1f72",
+              "card_print": "301393f6-a886-4924-91b7-9ba72d653657",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>赤棘のマンタ</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>レンジャー・武器 － 弓（両手）</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：あなたの手札の矢を１枚、格納庫に表向きで置く。<strong>続行</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA094.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA094.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA094.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:39.918359+12:00",
+          "updated_at": "2025-09-18T06:54:39.918372+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA094",
+          "set_number": 94,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "basic",
+          "card": "ecf83bfa-26e9-4a27-8a19-7a08b1bb6fbd"
+        },
+        {
+          "id": "6d81c287-9b44-45ef-80e9-a27383992c24",
+          "faces": [
+            {
+              "id": "ca827d08-67b6-4715-92f7-b1fd790b050f",
+              "created_at": "2025-09-18T06:54:39.940005+12:00",
+              "updated_at": "2025-09-18T06:54:39.940019+12:00",
+              "face_id": "SEA094",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "basic-dot",
+              "printed_code": "SEA094",
+              "printed_artist": "Kanadekana",
+              "printed_name": "Redspine Manta",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t}: Put an arrow from your hand face-up into your arsenal. **Go again**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Weapon - Bow (2H)",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d5fd49f0-d730-498a-a097-44054cce1f72",
+              "card_print": "6d81c287-9b44-45ef-80e9-a27383992c24",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Redspine Manta</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Weapon - Bow (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Put an arrow from your hand face-up into your arsenal. <strong>Go again</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA094.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA094.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA094.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:39.934365+12:00",
+          "updated_at": "2025-09-18T06:54:39.934382+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA094",
+          "set_number": 94,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "basic",
+          "card": "ecf83bfa-26e9-4a27-8a19-7a08b1bb6fbd"
+        },
+        {
+          "id": "21a58c91-8c16-4515-a072-956aec0492e5",
+          "faces": [
+            {
+              "id": "3ab2d482-40c9-43bd-ab66-13e25a6972f5",
+              "created_at": "2025-09-18T06:54:39.954195+12:00",
+              "updated_at": "2025-09-18T06:54:39.954208+12:00",
+              "face_id": "GEM039-CF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM039",
+              "printed_artist": "Kanadekana",
+              "printed_name": "Redspine Manta",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t}: Put an arrow from your hand face-up into your arsenal. **Go again**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Weapon - Bow (2H)",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d5fd49f0-d730-498a-a097-44054cce1f72",
+              "card_print": "21a58c91-8c16-4515-a072-956aec0492e5",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Redspine Manta</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Weapon - Bow (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Put an arrow from your hand face-up into your arsenal. <strong>Go again</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM039-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM039-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM039-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:39.949704+12:00",
+          "updated_at": "2025-09-18T06:54:39.949727+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM039-CF",
+          "set_number": 39,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "ecf83bfa-26e9-4a27-8a19-7a08b1bb6fbd"
+        },
+        {
+          "id": "94d4d65b-b4b7-459b-9234-67c93be8bd44",
+          "faces": [
+            {
+              "id": "a91c8cbe-bb3f-4590-bbe9-0f63761e40ba",
+              "created_at": "2025-09-18T06:54:39.969292+12:00",
+              "updated_at": "2025-09-18T06:54:39.969310+12:00",
+              "face_id": "LGS400-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS400",
+              "printed_artist": "Kanadekana",
+              "printed_name": "Redspine Manta",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t}: Put an arrow from your hand face-up into your arsenal. **Go again**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Weapon - Bow (2H)",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d5fd49f0-d730-498a-a097-44054cce1f72",
+              "card_print": "94d4d65b-b4b7-459b-9234-67c93be8bd44",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Redspine Manta</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Weapon - Bow (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Put an arrow from your hand face-up into your arsenal. <strong>Go again</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS400-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS400-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS400-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "06f4192c-64bb-436d-a1b9-70b6f2f7e776",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:50.079241+12:00",
+            "updated_at": "2025-09-18T06:46:50.079259+12:00",
+            "printed_date": "2024-04-01",
+            "printed_language": "en",
+            "product_name": "Pre-release - High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "pre-release-high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:39.961073+12:00",
+          "updated_at": "2025-09-18T06:54:39.961119+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS400-RF",
+          "set_number": 400,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "ecf83bfa-26e9-4a27-8a19-7a08b1bb6fbd"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:54:39.881662+12:00",
+      "updated_at": "2025-09-18T06:54:39.883131+12:00",
+      "card_id": "redspine-manta",
+      "card_type": "regular",
+      "object_type": "arena-card"
+    }
+  ]
+}

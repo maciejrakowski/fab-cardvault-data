@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "brimming-blade-1",
+  "name": "Brimming Blade",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Brimming Blade",
+      "pitch": 1,
+      "chi": 1,
+      "color": "red",
+      "cost": 1,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Warrior Action",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "**Sharpen** target sword you control twice. _(Put two +1{p} counters on it. Remove all +1{p} counters from it at end of turn.)_{br}**Go again**",
+        "plain": "Sharpen target sword you control twice. _(Put two +1{p} counters on it. Remove all +1{p} counters from it at end of turn.)_\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AHA011",
+      "code": "AHA011",
+      "language": "en",
+      "set": "AHA",
+      "setNumber": 11,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-hala-bladesaint-of-the-vow",
+      "releaseDate": "2026-04-17",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-04-07T12:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AHA011",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Brimming Blade",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "**Sharpen** target sword you control twice. _(Put two +1{p} counters on it. Remove all +1{p} counters from it at end of turn.)_{br}**Go again**",
+            "plain": "Sharpen target sword you control twice. _(Put two +1{p} counters on it. Remove all +1{p} counters from it at end of turn.)_\nGo again",
+            "html": "<p><strong>Sharpen</strong> target sword you control twice. <em>(Put two +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> counters on it. Remove all +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> counters from it at end of turn.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AHA011",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AHA011.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AHA011.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AHA011.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM164-RF",
+      "code": "GEM164",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 164,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-5",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM164-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Brimming Blade",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "**Sharpen** target sword you control twice.{br}**Go again**",
+            "plain": "Sharpen target sword you control twice.\nGo again",
+            "html": "<p><strong>Sharpen</strong> target sword you control twice.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM164",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM164-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM164-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM164-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "Sharpen"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:06:15Z",
+    "rawSha256": "f9370b54419998354a68bcf0c003ca5203d56b8a6f9fc8fd7a7f8562d86558e0",
+    "updatedAt": "2025-11-14T14:15:45.798531+13:00"
+  }
+}

@@ -1,0 +1,622 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "9db49db3-0dad-4a74-a9e9-19dafc18a601",
+      "cores": [
+        {
+          "id": "957822b1-4c93-4649-bbb2-101c2a9f7184",
+          "core_classes": [
+            {
+              "id": 8,
+              "name": "Mechanologist",
+              "name_en": "Mechanologist",
+              "name_fr": "Mécanologue",
+              "name_de": "Mechanologisch",
+              "name_it": "Meccanologo",
+              "name_es": "Mecanólogo",
+              "name_ja": "機械技師",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 12,
+              "name": "Weapon",
+              "name_en": "Weapon",
+              "name_fr": "Arme",
+              "name_de": "Waffe",
+              "name_it": "Arma",
+              "name_es": "Arma",
+              "name_ja": "武器",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 2,
+              "name": "(2H)",
+              "name_en": "(2H)",
+              "name_fr": "(2M)",
+              "name_de": "(2H)",
+              "name_it": "(2M)",
+              "name_es": "(2M)",
+              "name_ja": "（両手）",
+              "is_published": true,
+              "functional": true
+            },
+            {
+              "id": 37,
+              "name": "Gun",
+              "name_en": "Gun",
+              "name_fr": "Revolver",
+              "name_de": "Schusswaffe",
+              "name_it": "Fucile",
+              "name_es": "Arma de fuego",
+              "name_ja": "銃",
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-09-18T06:56:50.930628+12:00",
+          "updated_at": "2025-09-18T06:56:50.943417+12:00",
+          "name": "Spitfire",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "2",
+          "defense": "",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Action** -- {t}, {t} a cog you control: **Attack**{br}When this attacks, you may {t} a cog you control. If you do, the attack gets +1{p}.",
+          "typebox": "Mechanologist Weapon - Gun (2H)",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": 2,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "9db49db3-0dad-4a74-a9e9-19dafc18a601"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "f9c3662d-9895-4ad4-89ee-a5d6a99d3aff",
+          "faces": [
+            {
+              "id": "7b58170b-dbac-46ce-be44-ebc473a37815",
+              "created_at": "2025-09-18T06:56:50.957913+12:00",
+              "updated_at": "2025-09-18T06:56:50.957925+12:00",
+              "face_id": "FR_SEA007",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "basic-dot",
+              "printed_code": "SEA007",
+              "printed_artist": "Marcellino Tan",
+              "printed_name": "Crache-feu",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "2",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t} cette carte et un rouage que vous contrôlez : **Attaque**{br}Quand cette carte attaque, vous pouvez {t} un rouage que vous contrôlez. Si vous le faites, l’attaque gagne +1{p}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mécanologue Arme - Revolver (2M)",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "957822b1-4c93-4649-bbb2-101c2a9f7184",
+              "card_print": "f9c3662d-9895-4ad4-89ee-a5d6a99d3aff",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Crache-feu</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mécanologue Arme - Revolver (2M)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> cette carte et un rouage que vous contrôlez : <strong>Attaque</strong></p>\n<p>Quand cette carte attaque, vous pouvez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> un rouage que vous contrôlez. Si vous le faites, l’attaque gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA007.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA007.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA007.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:50.953203+12:00",
+          "updated_at": "2025-09-18T06:56:50.953217+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA007",
+          "set_number": 7,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "basic",
+          "card": "9db49db3-0dad-4a74-a9e9-19dafc18a601"
+        },
+        {
+          "id": "cd7a3f6e-8e5f-41cb-b798-385d28cc1e39",
+          "faces": [
+            {
+              "id": "94ee04be-24b2-4b71-b723-59baa740020a",
+              "created_at": "2025-09-18T06:56:50.971717+12:00",
+              "updated_at": "2025-09-18T06:56:50.971727+12:00",
+              "face_id": "JA_SEA007",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "basic-dot",
+              "printed_code": "SEA007",
+              "printed_artist": "Marcellino Tan",
+              "printed_name": "スピットファイア",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "2",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**アクション**--これとあなたがコントロールする歯車１つを{t}する：**攻撃**{br}これが攻撃したとき、あなたがコントロールする歯車１つ{t}をしてもよい。そうした場合、この攻撃は＋１{p}を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "機械技師・武器 － 銃（両手）",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "957822b1-4c93-4649-bbb2-101c2a9f7184",
+              "card_print": "cd7a3f6e-8e5f-41cb-b798-385d28cc1e39",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>スピットファイア</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>機械技師・武器 － 銃（両手）</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong>—これとあなたがコントロールする歯車１つを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する：<strong>攻撃</strong></p>\n<p>これが攻撃したとき、あなたがコントロールする歯車１つ<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>をしてもよい。そうした場合、この攻撃は＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA007.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA007.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA007.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:50.966341+12:00",
+          "updated_at": "2025-09-18T06:56:50.966356+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA007",
+          "set_number": 7,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "basic",
+          "card": "9db49db3-0dad-4a74-a9e9-19dafc18a601"
+        },
+        {
+          "id": "a311a644-7a98-4b57-abc1-2434133cbf59",
+          "faces": [
+            {
+              "id": "a065fbbd-2d9a-45e5-af33-006126ca027d",
+              "created_at": "2025-09-18T06:56:50.985829+12:00",
+              "updated_at": "2025-09-18T06:56:50.985846+12:00",
+              "face_id": "SEA007",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "basic-dot",
+              "printed_code": "SEA007",
+              "printed_artist": "Marcellino Tan",
+              "printed_name": "Spitfire",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "2",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t}, {t} a cog you control: **Attack**{br}When this attacks, you may {t} a cog you control. If you do, the attack gets +1{p}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mechanologist Weapon - Gun (2H)",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "957822b1-4c93-4649-bbb2-101c2a9f7184",
+              "card_print": "a311a644-7a98-4b57-abc1-2434133cbf59",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Spitfire</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Weapon - Gun (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control: <strong>Attack</strong></p>\n<p>When this attacks, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control. If you do, the attack gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA007.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA007.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA007.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:50.979934+12:00",
+          "updated_at": "2025-09-18T06:56:50.979950+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA007",
+          "set_number": 7,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "basic",
+          "card": "9db49db3-0dad-4a74-a9e9-19dafc18a601"
+        },
+        {
+          "id": "4e4ba265-82be-44bd-b579-5ecdf545a071",
+          "faces": [
+            {
+              "id": "6d16293b-dc14-49a5-8c7b-44dfa1458d82",
+              "created_at": "2025-09-18T06:56:50.999997+12:00",
+              "updated_at": "2025-09-18T06:56:51.000008+12:00",
+              "face_id": "GEM036-CF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM036",
+              "printed_artist": "Marcellino Tan",
+              "printed_name": "Spitfire",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "2",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t}, {t} a cog you control: **Attack**{br}When this attacks, you may {t} a cog you control. If you do, the attack gets +1{p}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mechanologist Weapon - Gun (2H)",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "957822b1-4c93-4649-bbb2-101c2a9f7184",
+              "card_print": "4e4ba265-82be-44bd-b579-5ecdf545a071",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Spitfire</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Weapon - Gun (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control: <strong>Attack</strong></p>\n<p>When this attacks, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control. If you do, the attack gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM036-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM036-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM036-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:50.995421+12:00",
+          "updated_at": "2025-09-18T06:56:50.995437+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM036-CF",
+          "set_number": 36,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "9db49db3-0dad-4a74-a9e9-19dafc18a601"
+        },
+        {
+          "id": "14e187c4-5391-4b91-87c1-94da2c36bed5",
+          "faces": [
+            {
+              "id": "7735be9c-b857-42ce-9e99-63a345f9e668",
+              "created_at": "2025-09-18T06:56:51.014811+12:00",
+              "updated_at": "2025-09-18T06:56:51.014826+12:00",
+              "face_id": "LGS397-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS397",
+              "printed_artist": "Marcellino Tan",
+              "printed_name": "Spitfire",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "2",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t}, {t} a cog you control: **Attack**{br}When this attacks, you may {t} a cog you control. If you do, the attack gets +1{p}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mechanologist Weapon - Gun (2H)",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "957822b1-4c93-4649-bbb2-101c2a9f7184",
+              "card_print": "14e187c4-5391-4b91-87c1-94da2c36bed5",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Spitfire</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Weapon - Gun (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control: <strong>Attack</strong></p>\n<p>When this attacks, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control. If you do, the attack gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS397-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS397-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS397-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "06f4192c-64bb-436d-a1b9-70b6f2f7e776",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:50.079241+12:00",
+            "updated_at": "2025-09-18T06:46:50.079259+12:00",
+            "printed_date": "2024-04-01",
+            "printed_language": "en",
+            "product_name": "Pre-release - High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "pre-release-high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:51.007450+12:00",
+          "updated_at": "2025-09-18T06:56:51.007465+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS397-RF",
+          "set_number": 397,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "9db49db3-0dad-4a74-a9e9-19dafc18a601"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:56:50.925703+12:00",
+      "updated_at": "2025-09-18T06:56:50.927472+12:00",
+      "card_id": "spitfire",
+      "card_type": "regular",
+      "object_type": "arena-card"
+    }
+  ]
+}

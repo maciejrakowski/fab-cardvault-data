@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "id": "viserai-between-worlds--viserai-usurper",
+  "name": "Viserai, Between Worlds",
+  "objectType": "hero-card",
+  "cardType": "flip-card",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Viserai, Between Worlds",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Shadow Runeblade Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more Runechants this turn, **traverse**.",
+        "plain": "Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more Runechants this turn, traverse."
+      }
+    },
+    {
+      "position": 20,
+      "name": "Viserai, Usurper",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": 4,
+      "printedStats": {
+        "life": "*"
+      },
+      "typeLine": "Shadow Runeblade Hero - Demon ",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Demon"
+      ],
+      "text": {
+        "markup": "The first attack action card with blood debt you play each turn gets **go again**.{br}At the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may **traverse**.",
+        "plain": "The first attack action card with blood debt you play each turn gets go again.\nAt the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may traverse."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "SBW001",
+      "code": "SBW001",
+      "language": "en",
+      "set": "SBW",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "silver-age-viserai-between-worlds",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-07T11:20:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBW001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Between Worlds",
+          "typeLine": "Shadow Runeblade Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more this turn, **traverse**. _(Flip. Your {h} does not change.)_",
+            "plain": "Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more this turn, traverse. _(Flip. Your {h} does not change.)_",
+            "html": "<p>Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more this turn, <strong>traverse</strong>. <em>(Flip. Your <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> does not change.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "SBW001",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBW001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBW001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW001.webp"
+          }
+        },
+        {
+          "id": "SBW001_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Usurper",
+          "typeLine": "Shadow Runeblade Hero - Demon",
+          "traitLine": null,
+          "text": {
+            "markup": "The first attack action card with blood debt you play each turn gets **go again**.{br}At the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may **traverse**.",
+            "plain": "The first attack action card with blood debt you play each turn gets go again.\nAt the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may traverse.",
+            "html": "<p>The first attack action card with blood debt you play each turn gets <strong>go again</strong>.</p>\n<p>At the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may <strong>traverse</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "*",
+            "intellect": "4"
+          },
+          "printedCode": "SBW001",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBW001_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBW001_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW001_BACK.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR107",
+      "code": "IAR107",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 107,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR107",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Between Worlds",
+          "typeLine": "Shadow Runeblade Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more Runechants this turn, **traverse**. _(Flip. Your {h} does not change.)_",
+            "plain": "Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more Runechants this turn, traverse. _(Flip. Your {h} does not change.)_",
+            "html": "<p>Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more Runechants this turn, <strong>traverse</strong>. <em>(Flip. Your <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> does not change.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "IAR107",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR107.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR107.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR107.webp"
+          }
+        },
+        {
+          "id": "IAR107_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Usurper",
+          "typeLine": "Shadow Runeblade Hero - Demon",
+          "traitLine": null,
+          "text": {
+            "markup": "The first attack action card with blood debt you play each turn gets **go again**.{br}At the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may **traverse**.",
+            "plain": "The first attack action card with blood debt you play each turn gets go again.\nAt the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may traverse.",
+            "html": "<p>The first attack action card with blood debt you play each turn gets <strong>go again</strong>.</p>\n<p>At the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may <strong>traverse</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "*",
+            "intellect": "4"
+          },
+          "printedCode": "IAR107",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nathaniel Himawan ",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR107_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR107_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR107_BACK.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR107-MV",
+      "code": "IAR107",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 107,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR107-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Between Worlds",
+          "typeLine": "Shadow Runeblade Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more Runechants this turn, **traverse**.",
+            "plain": "Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more Runechants this turn, traverse.",
+            "html": "<p>Whenever you create 1 or more Runechants, banish the top card of your deck. Then if you've created 3 or more Runechants this turn, <strong>traverse</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "IAR107",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR107-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR107-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR107-MV.webp"
+          }
+        },
+        {
+          "id": "IAR107-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Usurper",
+          "typeLine": "Shadow Runeblade Hero - Demon",
+          "traitLine": null,
+          "text": {
+            "markup": "The first attack action card with blood debt you play each turn gets **go again**.{br}At the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may **traverse**.",
+            "plain": "The first attack action card with blood debt you play each turn gets go again.\nAt the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may traverse.",
+            "html": "<p>The first attack action card with blood debt you play each turn gets <strong>go again</strong>.</p>\n<p>At the beginning of each end phase, if you've created or activated a Gate to i'Arathael this turn, you may <strong>traverse</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "*",
+            "intellect": "4"
+          },
+          "printedCode": "IAR107",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nathaniel Himawan ",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR107-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR107-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR107-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "traverse"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T20:04:49Z",
+    "rawSha256": "237c234a280537732f12d2510867dd4e3160346a698c019f59e58b6f20fb5b42",
+    "updatedAt": "2026-07-13T19:38:01.333702+12:00"
+  }
+}

@@ -1,0 +1,921 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "a8fc345b-cbab-491d-aa73-9558cffaa678",
+      "cores": [
+        {
+          "id": "f00260a8-3362-4f49-a5bf-4955e9e80486",
+          "core_classes": [
+            {
+              "id": 8,
+              "name": "Mechanologist",
+              "name_en": "Mechanologist",
+              "name_fr": "Mécanologue",
+              "name_de": "Mechanologisch",
+              "name_it": "Meccanologo",
+              "name_es": "Mecanólogo",
+              "name_ja": "機械技師",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:56:19.823425+12:00",
+          "updated_at": "2025-09-18T06:56:19.833251+12:00",
+          "name": "Sky Skimmer",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "0",
+          "power": "4",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Once per Turn Instant** -- {t} a cog you control: This gets +1{p} or **go again**.",
+          "typebox": "Mechanologist Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 0,
+          "power_value": 4,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "a8fc345b-cbab-491d-aa73-9558cffaa678"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "9e2df433-cdf2-486b-b878-871c7b3bd46c",
+          "faces": [
+            {
+              "id": "e144abf9-8417-450d-861d-9f9f9b927187",
+              "created_at": "2025-09-18T06:56:19.848107+12:00",
+              "updated_at": "2025-09-18T06:56:19.848123+12:00",
+              "face_id": "FR_SEA027",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA027",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Écumeur de ciel",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané une fois par tour** -- {t} un rouage que vous contrôlez : cette carte gagne +1{p} ou **encore une fois**.",
+              "printed_flavor_text": "Pour les artificiers ambitieux du Quai du Cornemuseur, tout est possible.",
+              "printed_typebox": "Mécanologue Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "f00260a8-3362-4f49-a5bf-4955e9e80486",
+              "card_print": "9e2df433-cdf2-486b-b878-871c7b3bd46c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Écumeur de ciel</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mécanologue Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> un rouage que vous contrôlez : cette carte gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> ou <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>Pour les artificiers ambitieux du Quai du Cornemuseur, tout est possible.</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA027.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA027.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA027.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:19.840539+12:00",
+          "updated_at": "2025-09-18T06:56:19.840556+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA027",
+          "set_number": 27,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "a8fc345b-cbab-491d-aa73-9558cffaa678"
+        },
+        {
+          "id": "68c096a1-6572-4729-93cf-3743fae85665",
+          "faces": [
+            {
+              "id": "7e66afcb-ccfc-448f-adf5-3fa7c47d8bca",
+              "created_at": "2025-09-18T06:56:19.859831+12:00",
+              "updated_at": "2025-09-18T06:56:19.859847+12:00",
+              "face_id": "FR_SEA027-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA027",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Écumeur de ciel",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané une fois par tour** -- {t} un rouage que vous contrôlez : cette carte gagne +1{p} ou **encore une fois**.",
+              "printed_flavor_text": "Pour les artificiers ambitieux du Quai du Cornemuseur, tout est possible.",
+              "printed_typebox": "Mécanologue Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "f00260a8-3362-4f49-a5bf-4955e9e80486",
+              "card_print": "68c096a1-6572-4729-93cf-3743fae85665",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Écumeur de ciel</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mécanologue Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> un rouage que vous contrôlez : cette carte gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> ou <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>Pour les artificiers ambitieux du Quai du Cornemuseur, tout est possible.</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA027-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA027-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA027-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:19.854407+12:00",
+          "updated_at": "2025-09-18T06:56:19.854419+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA027-RF",
+          "set_number": 27,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "a8fc345b-cbab-491d-aa73-9558cffaa678"
+        },
+        {
+          "id": "ed82b35c-a49f-4b50-a664-5c7e5d70c6fe",
+          "faces": [
+            {
+              "id": "9911f1c2-8407-42b2-b511-905bf3182e17",
+              "created_at": "2025-09-18T06:56:19.881306+12:00",
+              "updated_at": "2025-09-18T06:56:19.881333+12:00",
+              "face_id": "JA_SEA027",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA027",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "空滑り",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**ターン１インスタント**--あなたがコントロールする歯車１つを する：これは＋１{p}か**続行**を得る。",
+              "printed_flavor_text": "パイパーズ・ピアの熱意ある技術者にとって、可能性は無限なのさ。",
+              "printed_typebox": "機械技師・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "f00260a8-3362-4f49-a5bf-4955e9e80486",
+              "card_print": "ed82b35c-a49f-4b50-a664-5c7e5d70c6fe",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>空滑り</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>機械技師・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>ターン１インスタント</strong>—あなたがコントロールする歯車１つを する：これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>か<strong>続行</strong>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>パイパーズ・ピアの熱意ある技術者にとって、可能性は無限なのさ。</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA027.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA027.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA027.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:19.872325+12:00",
+          "updated_at": "2025-09-18T06:56:19.872340+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA027",
+          "set_number": 27,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "a8fc345b-cbab-491d-aa73-9558cffaa678"
+        },
+        {
+          "id": "5b3318c4-215a-4f87-876a-7b2cae098b47",
+          "faces": [
+            {
+              "id": "61e85d9b-819f-4cb7-a056-39e833d52ca5",
+              "created_at": "2025-09-18T06:56:19.900906+12:00",
+              "updated_at": "2025-09-18T06:56:19.900919+12:00",
+              "face_id": "JA_SEA027-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA027",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "空滑り",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**ターン１インスタント**--あなたがコントロールする歯車１つを する：これは＋１{p}か**続行**を得る。",
+              "printed_flavor_text": "パイパーズ・ピアの熱意ある技術者にとって、可能性は無限なのさ。",
+              "printed_typebox": "機械技師・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "f00260a8-3362-4f49-a5bf-4955e9e80486",
+              "card_print": "5b3318c4-215a-4f87-876a-7b2cae098b47",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>空滑り</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>機械技師・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>ターン１インスタント</strong>—あなたがコントロールする歯車１つを する：これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>か<strong>続行</strong>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>パイパーズ・ピアの熱意ある技術者にとって、可能性は無限なのさ。</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA027-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA027-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA027-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:19.894752+12:00",
+          "updated_at": "2025-09-18T06:56:19.894776+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA027-RF",
+          "set_number": 27,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "a8fc345b-cbab-491d-aa73-9558cffaa678"
+        },
+        {
+          "id": "5a576531-4e28-4850-a7c4-ccb007c003d8",
+          "faces": [
+            {
+              "id": "79eadd4e-fcc0-4981-a39e-603d628e8bce",
+              "created_at": "2025-09-18T06:56:19.920339+12:00",
+              "updated_at": "2025-09-18T06:56:19.920355+12:00",
+              "face_id": "SEA027",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA027",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Sky Skimmer",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {t} a cog you control: This gets +1{p} or **go again**.",
+              "printed_flavor_text": "_To the ambitious artificers of Piper's Pier, the sky's the limit._",
+              "printed_typebox": "Mechanologist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "f00260a8-3362-4f49-a5bf-4955e9e80486",
+              "card_print": "5a576531-4e28-4850-a7c4-ccb007c003d8",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Sky Skimmer</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control: This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> or <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>To the ambitious artificers of Piper's Pier, the sky's the limit.</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA027.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA027.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA027.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:19.911814+12:00",
+          "updated_at": "2025-09-18T06:56:19.911839+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA027",
+          "set_number": 27,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "a8fc345b-cbab-491d-aa73-9558cffaa678"
+        },
+        {
+          "id": "cceb0cfd-992b-4f7f-9ca9-e0d54c28b4e6",
+          "faces": [
+            {
+              "id": "8fda8d7f-1f76-41d8-aba2-a5f561f53697",
+              "created_at": "2025-09-18T06:56:19.936878+12:00",
+              "updated_at": "2025-09-18T06:56:19.936890+12:00",
+              "face_id": "SEA027-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA027",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Sky Skimmer",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {t} a cog you control: This gets +1{p} or **go again**.",
+              "printed_flavor_text": "_To the ambitious artificers of Piper's Pier, the sky's the limit._",
+              "printed_typebox": "Mechanologist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "f00260a8-3362-4f49-a5bf-4955e9e80486",
+              "card_print": "cceb0cfd-992b-4f7f-9ca9-e0d54c28b4e6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Sky Skimmer</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control: This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> or <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>To the ambitious artificers of Piper's Pier, the sky's the limit.</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA027-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA027-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA027-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:19.931247+12:00",
+          "updated_at": "2025-09-18T06:56:19.931261+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA027-RF",
+          "set_number": 27,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "a8fc345b-cbab-491d-aa73-9558cffaa678"
+        },
+        {
+          "id": "ac4aca57-bc07-4f43-b07c-f8259dcb57b4",
+          "faces": [
+            {
+              "id": "4c70b520-fb67-4ddd-8fb5-a698a4400f03",
+              "created_at": "2025-09-18T06:56:19.955655+12:00",
+              "updated_at": "2025-09-18T06:56:19.955668+12:00",
+              "face_id": "GEM042-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM042",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Sky Skimmer",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {t} a cog you control: This gets +1{p} or **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mechanologist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "f00260a8-3362-4f49-a5bf-4955e9e80486",
+              "card_print": "ac4aca57-bc07-4f43-b07c-f8259dcb57b4",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Sky Skimmer</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control: This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> or <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM042-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM042-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM042-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:19.948888+12:00",
+          "updated_at": "2025-09-18T06:56:19.948904+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM042-RF",
+          "set_number": 42,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "a8fc345b-cbab-491d-aa73-9558cffaa678"
+        },
+        {
+          "id": "57150365-7ba6-494e-beae-eebb32df3c63",
+          "faces": [
+            {
+              "id": "16eac90c-a51e-41de-ad01-74115fc58524",
+              "created_at": "2025-09-18T06:56:19.974856+12:00",
+              "updated_at": "2025-09-18T06:56:19.974869+12:00",
+              "face_id": "GEM042",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "mechanologist",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM042",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Sky Skimmer",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {t} a cog you control: This gets +1{p} or **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Mechanologist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "f00260a8-3362-4f49-a5bf-4955e9e80486",
+              "card_print": "57150365-7ba6-494e-beae-eebb32df3c63",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Sky Skimmer</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Mechanologist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> a cog you control: This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> or <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM042.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM042.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM042.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:56:19.968828+12:00",
+          "updated_at": "2025-09-18T06:56:19.968847+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM042",
+          "set_number": 42,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "a8fc345b-cbab-491d-aa73-9558cffaa678"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:56:19.819924+12:00",
+      "updated_at": "2025-09-18T06:56:19.820913+12:00",
+      "card_id": "sky-skimmer-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

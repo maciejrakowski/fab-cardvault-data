@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "savage-claw",
+  "language": "ja",
+  "name": "荒涼の鉤爪",
+  "cores": [
+    {
+      "position": 10,
+      "name": "荒涼の鉤爪",
+      "typeLine": "野人・武器 － 鉤爪（片手）",
+      "classes": [
+        "野人"
+      ],
+      "types": [
+        "武器"
+      ],
+      "subtypes": [
+        "（片手）",
+        "鉤爪"
+      ],
+      "text": {
+        "markup": "**アクション**--{r}{r}, {t}：**攻撃**{br}これで攻撃するために６{p}以上のカードをピッチした場合、この攻撃は＋１{p}を得る。",
+        "plain": "アクション--{r}{r}, {t}：攻撃\nこれで攻撃するために６{p}以上のカードをピッチした場合、この攻撃は＋１{p}を得る。",
+        "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：<strong>攻撃</strong></p>\n<p>これで攻撃するために６<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>以上のカードをピッチした場合、この攻撃は＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_PEN001",
+      "code": "PEN001",
+      "language": "ja",
+      "set": "PEN",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "compendium-of-rathe-ja",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_PEN001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "荒涼の鉤爪",
+          "typeLine": "野人・武器 － 鉤爪（片手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--{r}{r}, {t}：**攻撃**{br}これで攻撃するために６{p}以上のカードをピッチした場合、この攻撃は＋１{p}を得る。",
+            "plain": "アクション--{r}{r}, {t}：攻撃\nこれで攻撃するために６{p}以上のカードをピッチした場合、この攻撃は＋１{p}を得る。",
+            "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：<strong>攻撃</strong></p>\n<p>これで攻撃するために６<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>以上のカードをピッチした場合、この攻撃は＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "PEN001",
+          "printedLanguageCode": "jp",
+          "printedYear": "2025",
+          "artist": "João G. Santos",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_PEN001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_PEN001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_PEN001.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

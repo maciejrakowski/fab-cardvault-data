@@ -1,0 +1,730 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "44a8bd6a-af97-4fc5-a856-88ad75945eb2",
+      "cores": [
+        {
+          "id": "d5ba0916-9c85-4627-b4f7-39fbc485ab4d",
+          "core_classes": [
+            {
+              "id": 7,
+              "name": "Illusionist",
+              "name_en": "Illusionist",
+              "name_fr": "Illusionniste",
+              "name_de": "Illusionist",
+              "name_it": "Illusionista",
+              "name_es": "Ilusionista",
+              "name_ja": "幻術士",
+              "is_published": true
+            },
+            {
+              "id": 15,
+              "name": "Wizard",
+              "name_en": "Wizard",
+              "name_fr": "Sorcier",
+              "name_de": "Zauberer",
+              "name_it": "Mago",
+              "name_es": "Mago",
+              "name_ja": "魔術師",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-07-13T19:38:03.849640+12:00",
+          "updated_at": "2026-09-21T12:18:03.952153+12:00",
+          "name": "Rush of Knowledge",
+          "layout_position": 10,
+          "pitch": "3",
+          "pitch_chi": "",
+          "color": "blue",
+          "cost": "0",
+          "power": "4",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this attacks, you may destroy a Ponder token you control. If you do, draw a card and gain 1 action point.{br}**Phantasm**",
+          "typebox": "Illusionist / Wizard Action - Attack",
+          "traitbox": "",
+          "pitch_value": 3,
+          "pitch_chi_value": null,
+          "cost_value": 0,
+          "power_value": 4,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "44a8bd6a-af97-4fc5-a856-88ad75945eb2"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "4e8a0934-3cf7-470a-bffd-2aab58fc534b",
+          "faces": [
+            {
+              "id": "ccf0c8fe-8776-4838-8d2c-cfd9272743d0",
+              "created_at": "2026-07-13T19:38:53.846588+12:00",
+              "updated_at": "2026-07-13T19:38:53.846604+12:00",
+              "face_id": "IAR252",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "IAR252",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "Rush of Knowledge",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, you may destroy a Ponder token you control. If do you, draw a card and gain 1 action point.{br}**Phantasm** _(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Illusionist / Wizard Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d5ba0916-9c85-4627-b4f7-39fbc485ab4d",
+              "card_print": "4e8a0934-3cf7-470a-bffd-2aab58fc534b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rush of Knowledge</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Illusionist / Wizard Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, you may destroy a Ponder token you control. If do you, draw a card and gain 1 action point.</p>\n<p><strong>Phantasm</strong> <em>(When this is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy this.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR252.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR252.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR252.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:53.838887+12:00",
+          "updated_at": "2026-08-30T17:00:33.164876+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR252",
+          "set_number": 252,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "majestic",
+          "card": "44a8bd6a-af97-4fc5-a856-88ad75945eb2"
+        },
+        {
+          "id": "aa71ff51-027a-4936-b61b-199eb0c6d71f",
+          "faces": [
+            {
+              "id": "df807f0e-4a4f-44aa-b4c8-edd7d59a65d1",
+              "created_at": "2026-07-13T19:38:53.885825+12:00",
+              "updated_at": "2026-07-13T19:38:53.885842+12:00",
+              "face_id": "IAR252-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "IAR252",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "Rush of Knowledge",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, you may destroy a Ponder token you control. If do you, draw a card and gain 1 action point. **Phantasm**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Illusionist / Wizard Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d5ba0916-9c85-4627-b4f7-39fbc485ab4d",
+              "card_print": "aa71ff51-027a-4936-b61b-199eb0c6d71f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rush of Knowledge</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Illusionist / Wizard Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, you may destroy a Ponder token you control. If do you, draw a card and gain 1 action point. <strong>Phantasm</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR252-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR252-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR252-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:53.878321+12:00",
+          "updated_at": "2026-08-30T17:00:32.794182+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR252-RF",
+          "set_number": 252,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "majestic",
+          "card": "44a8bd6a-af97-4fc5-a856-88ad75945eb2"
+        },
+        {
+          "id": "bc1b7f49-05e0-4bd5-a332-a8546640df1c",
+          "faces": [
+            {
+              "id": "b571d124-c2c0-40f1-b0a8-8700d26c1ab9",
+              "created_at": "2026-07-13T19:39:20.712740+12:00",
+              "updated_at": "2026-07-13T19:39:20.712749+12:00",
+              "face_id": "JA_IAR252",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "IAR252",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "知の奔流",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたがコントロールする「熟考」トークンを１つ破壊してもよい。そうした場合、カードを１枚引き、１アクションポイントを得る。{br}**幻影**（６{p}以上の非幻術士・攻撃・アクションカードがこれを防御しているとき、これを破壊する）",
+              "printed_flavor_text": "",
+              "printed_typebox": "幻術士/魔術師・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d5ba0916-9c85-4627-b4f7-39fbc485ab4d",
+              "card_print": "bc1b7f49-05e0-4bd5-a332-a8546640df1c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>知の奔流</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>幻術士/魔術師・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたがコントロールする「熟考」トークンを１つ破壊してもよい。そうした場合、カードを１枚引き、１アクションポイントを得る。</p>\n<p><strong>幻影</strong>（６<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>以上の非幻術士・攻撃・アクションカードがこれを防御しているとき、これを破壊する）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR252.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR252.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR252.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:39:20.706316+12:00",
+          "updated_at": "2026-08-30T17:00:36.267763+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR252",
+          "set_number": 252,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "majestic",
+          "card": "44a8bd6a-af97-4fc5-a856-88ad75945eb2"
+        },
+        {
+          "id": "b5888126-5837-4e0e-a360-1d1e871a6138",
+          "faces": [
+            {
+              "id": "92767113-d49d-4493-8d03-fed295503413",
+              "created_at": "2026-07-13T19:39:20.746886+12:00",
+              "updated_at": "2026-07-13T19:39:20.746900+12:00",
+              "face_id": "JA_IAR252-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "IAR252",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "知の奔流",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたがコントロールする「熟考」トークンを１つ破壊してもよい。そうした場合、カードを１枚引き、１アクションポイントを得る。{br}**幻影**（６{p}以上の非幻術士・攻撃・アクションカードがこれを防御しているとき、これを破壊する）",
+              "printed_flavor_text": "",
+              "printed_typebox": "幻術士/魔術師・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d5ba0916-9c85-4627-b4f7-39fbc485ab4d",
+              "card_print": "b5888126-5837-4e0e-a360-1d1e871a6138",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>知の奔流</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>幻術士/魔術師・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたがコントロールする「熟考」トークンを１つ破壊してもよい。そうした場合、カードを１枚引き、１アクションポイントを得る。</p>\n<p><strong>幻影</strong>（６<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>以上の非幻術士・攻撃・アクションカードがこれを防御しているとき、これを破壊する）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR252-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR252-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR252-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:39:20.740583+12:00",
+          "updated_at": "2026-08-30T17:00:35.921263+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR252-RF",
+          "set_number": 252,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "majestic",
+          "card": "44a8bd6a-af97-4fc5-a856-88ad75945eb2"
+        },
+        {
+          "id": "7d2bb6e5-9422-4534-87bd-dbc934b1fa44",
+          "faces": [
+            {
+              "id": "896087c9-1c24-402e-8386-c4d0f3fd3557",
+              "created_at": "2026-07-13T19:38:30.793570+12:00",
+              "updated_at": "2026-07-13T19:38:30.793585+12:00",
+              "face_id": "FR_IAR252",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "IAR252",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "Poussée de connaissance",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, vous pouvez détruire un jeton Contemplation que vous contrôlez. Si vous le faites, piochez une carte et gagnez 1 point d’action.{br}**Phantasme** _(Quand cette carte est défendue par une carte action d’attaque non-Illusionniste avec au moins 6{p}, détruisez cette carte.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Illusionniste / Sorcier Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d5ba0916-9c85-4627-b4f7-39fbc485ab4d",
+              "card_print": "7d2bb6e5-9422-4534-87bd-dbc934b1fa44",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Poussée de connaissance</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Illusionniste / Sorcier Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, vous pouvez détruire un jeton Contemplation que vous contrôlez. Si vous le faites, piochez une carte et gagnez 1 point d’action.</p>\n<p><strong>Phantasme</strong> <em>(Quand cette carte est défendue par une carte action d’attaque non-Illusionniste avec au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, détruisez cette carte.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR252.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR252.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR252.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:30.786194+12:00",
+          "updated_at": "2026-08-30T17:00:30.186818+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR252",
+          "set_number": 252,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "majestic",
+          "card": "44a8bd6a-af97-4fc5-a856-88ad75945eb2"
+        },
+        {
+          "id": "e7408f15-52e2-4bb5-b482-a73ec4eea5fa",
+          "faces": [
+            {
+              "id": "8a187efb-626f-4814-8fb1-ab79a2ed0b7b",
+              "created_at": "2026-07-13T19:38:30.831355+12:00",
+              "updated_at": "2026-07-13T19:38:30.831382+12:00",
+              "face_id": "FR_IAR252-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "IAR252",
+              "printed_artist": "Nailsen Ivanderlie",
+              "printed_name": "Poussée de connaissance",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, vous pouvez détruire un jeton Contemplation que vous contrôlez. Si vous le faites, piochez une carte et gagnez 1 point d’action.{br}**Phantasme** _(Quand cette carte est défendue par une carte action d’attaque non-Illusionniste avec au moins 6{p}, détruisez cette carte.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Illusionniste / Sorcier Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d5ba0916-9c85-4627-b4f7-39fbc485ab4d",
+              "card_print": "e7408f15-52e2-4bb5-b482-a73ec4eea5fa",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Poussée de connaissance</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Illusionniste / Sorcier Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, vous pouvez détruire un jeton Contemplation que vous contrôlez. Si vous le faites, piochez une carte et gagnez 1 point d’action.</p>\n<p><strong>Phantasme</strong> <em>(Quand cette carte est défendue par une carte action d’attaque non-Illusionniste avec au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, détruisez cette carte.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR252-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR252-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR252-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:30.824827+12:00",
+          "updated_at": "2026-08-30T17:00:29.807842+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR252-RF",
+          "set_number": 252,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "majestic",
+          "card": "44a8bd6a-af97-4fc5-a856-88ad75945eb2"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        }
+      },
+      "created_at": "2026-07-13T19:38:03.843612+12:00",
+      "updated_at": "2026-07-13T19:38:03.843622+12:00",
+      "card_id": "rush-of-knowledge-3",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

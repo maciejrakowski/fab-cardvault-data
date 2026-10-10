@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "spitfire",
+  "language": "ja",
+  "name": "スピットファイア",
+  "cores": [
+    {
+      "position": 10,
+      "name": "スピットファイア",
+      "typeLine": "機械技師・武器 － 銃（両手）",
+      "classes": [
+        "機械技師"
+      ],
+      "types": [
+        "武器"
+      ],
+      "subtypes": [
+        "（両手）",
+        "銃"
+      ],
+      "text": {
+        "markup": "**アクション**--これとあなたがコントロールする歯車１つを{t}する：**攻撃**{br}これが攻撃したとき、あなたがコントロールする歯車１つ{t}をしてもよい。そうした場合、この攻撃は＋１{p}を得る。",
+        "plain": "アクション--これとあなたがコントロールする歯車１つを{t}する：攻撃\nこれが攻撃したとき、あなたがコントロールする歯車１つ{t}をしてもよい。そうした場合、この攻撃は＋１{p}を得る。",
+        "html": "<p><strong>アクション</strong>—これとあなたがコントロールする歯車１つを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する：<strong>攻撃</strong></p>\n<p>これが攻撃したとき、あなたがコントロールする歯車１つ<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>をしてもよい。そうした場合、この攻撃は＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_SEA007",
+      "code": "SEA007",
+      "language": "ja",
+      "set": "SEA",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-ja",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_SEA007",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "スピットファイア",
+          "typeLine": "機械技師・武器 － 銃（両手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--これとあなたがコントロールする歯車１つを{t}する：**攻撃**{br}これが攻撃したとき、あなたがコントロールする歯車１つ{t}をしてもよい。そうした場合、この攻撃は＋１{p}を得る。",
+            "plain": "アクション--これとあなたがコントロールする歯車１つを{t}する：攻撃\nこれが攻撃したとき、あなたがコントロールする歯車１つ{t}をしてもよい。そうした場合、この攻撃は＋１{p}を得る。",
+            "html": "<p><strong>アクション</strong>—これとあなたがコントロールする歯車１つを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する：<strong>攻撃</strong></p>\n<p>これが攻撃したとき、あなたがコントロールする歯車１つ<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>をしてもよい。そうした場合、この攻撃は＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA007",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Marcellino Tan",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA007.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA007.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA007.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

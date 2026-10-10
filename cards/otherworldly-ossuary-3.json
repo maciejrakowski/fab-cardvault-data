@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "otherworldly-ossuary-3",
+  "name": "Otherworldly Ossuary",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Otherworldly Ossuary",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 1,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Shadow Necromancer Action",
+      "traitLine": null,
+      "classes": [
+        "Necromancer"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Create a Corrupted Corpse in your banished zone.{br}**Go again**",
+        "plain": "Create a Corrupted Corpse in your banished zone.\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMA022",
+      "code": "AMA022",
+      "language": "en",
+      "set": "AMA",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-malice-domina-of-the-dead",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-09T10:17:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMA022",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Otherworldly Ossuary",
+          "typeLine": "Shadow Necromancer Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Create a Corrupted Corpse in your banished zone.{br}**Go again**",
+            "plain": "Create a Corrupted Corpse in your banished zone.\nGo again",
+            "html": "<p>Create a Corrupted Corpse in your banished zone.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMA022",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Ausonia",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMA022.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMA022.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMA022.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T18:58:28Z",
+    "rawSha256": "c2090773b4f2ae2abf75e3960c9b9e2382244a6a0485518528c7b316c479b608",
+    "updatedAt": "2026-07-13T19:38:04.281313+12:00"
+  }
+}

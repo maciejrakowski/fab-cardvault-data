@@ -1,0 +1,731 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "e7a8a908-1b0c-4371-ba7a-98ce964f4f67",
+      "cores": [
+        {
+          "id": "58e1ae77-15f9-4443-a0a7-0e8a02d2770f",
+          "core_classes": [
+            {
+              "id": 12,
+              "name": "Runeblade",
+              "name_en": "Runeblade",
+              "name_fr": "Lamerune",
+              "name_de": "Runenklinge",
+              "name_it": "Runalama",
+              "name_es": "Filorruna",
+              "name_ja": "ルーン剣士",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 8,
+              "name": "Shadow",
+              "name_en": "Shadow",
+              "name_fr": "Ombre",
+              "name_de": "Schatten",
+              "name_it": "Ombra",
+              "name_es": "Sombra",
+              "name_ja": "影",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-07-13T19:38:01.726786+12:00",
+          "updated_at": "2026-07-13T19:38:01.726794+12:00",
+          "name": "Bloodfrenzy Gloomblade",
+          "layout_position": 10,
+          "pitch": "2",
+          "pitch_chi": "",
+          "color": "yellow",
+          "cost": "1",
+          "power": "2",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "You may play this from your banished zone.{br}**Usurp**{br}If you've dealt damage to the defending hero this turn, this gets **go again**.{br}**Blood Debt**",
+          "typebox": "Shadow Runeblade Action - Attack",
+          "traitbox": "",
+          "pitch_value": 2,
+          "pitch_chi_value": null,
+          "cost_value": 1,
+          "power_value": 2,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "e7a8a908-1b0c-4371-ba7a-98ce964f4f67"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "734aaf9e-324a-41f7-bbde-33a6ed8c93b1",
+          "faces": [
+            {
+              "id": "7d7f1b7d-e21d-4581-b5c2-d2a412ece340",
+              "created_at": "2026-07-13T19:39:07.871229+12:00",
+              "updated_at": "2026-07-13T19:39:07.871240+12:00",
+              "face_id": "JA_IAR124",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR124",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "血狂いの堕剣士",
+              "printed_pitch": 2,
+              "printed_cost": "1",
+              "printed_power": "2",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これを追放ゾーンからプレイしてもよい。{br}**侵奪**（これをプレイするための追加コストとして、可能ならば「ルーン陣」を１つ破壊する。そうした場合、これは＋２{p}を得る）{br}このターンにあなたが防御ヒーローにダメージを与えていた場合、これは**続行**を得る。（これのヒットも含む）{br}**血の債務**",
+              "printed_flavor_text": "",
+              "printed_typebox": "影・ルーン剣士・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "58e1ae77-15f9-4443-a0a7-0e8a02d2770f",
+              "card_print": "734aaf9e-324a-41f7-bbde-33a6ed8c93b1",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>血狂いの堕剣士</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>影・ルーン剣士・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これを追放ゾーンからプレイしてもよい。</p>\n<p><strong>侵奪</strong>（これをプレイするための追加コストとして、可能ならば「ルーン陣」を１つ破壊する。そうした場合、これは＋２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る）</p>\n<p>このターンにあなたが防御ヒーローにダメージを与えていた場合、これは<strong>続行</strong>を得る。（これのヒットも含む）</p>\n<p><strong>血の債務</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR124.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR124.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR124.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:39:07.865071+12:00",
+          "updated_at": "2026-09-07T11:32:45.913517+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR124",
+          "set_number": 124,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "e7a8a908-1b0c-4371-ba7a-98ce964f4f67"
+        },
+        {
+          "id": "302181f4-824e-4335-af5e-3cc9761f3f57",
+          "faces": [
+            {
+              "id": "0073e07e-0e73-46da-92f2-ff55c33495e5",
+              "created_at": "2026-07-13T19:39:07.906341+12:00",
+              "updated_at": "2026-07-13T19:39:07.906351+12:00",
+              "face_id": "JA_IAR124-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR124",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "血狂いの堕剣士",
+              "printed_pitch": 2,
+              "printed_cost": "1",
+              "printed_power": "2",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これを追放ゾーンからプレイしてもよい。{br}**侵奪**（これをプレイするための追加コストとして、可能ならば「ルーン陣」を１つ破壊する。そうした場合、これは＋２{p}を得る）{br}このターンにあなたが防御ヒーローにダメージを与えていた場合、これは**続行**を得る。（これのヒットも含む）{br}**血の債務**",
+              "printed_flavor_text": "",
+              "printed_typebox": "影・ルーン剣士・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "58e1ae77-15f9-4443-a0a7-0e8a02d2770f",
+              "card_print": "302181f4-824e-4335-af5e-3cc9761f3f57",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>血狂いの堕剣士</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>影・ルーン剣士・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これを追放ゾーンからプレイしてもよい。</p>\n<p><strong>侵奪</strong>（これをプレイするための追加コストとして、可能ならば「ルーン陣」を１つ破壊する。そうした場合、これは＋２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る）</p>\n<p>このターンにあなたが防御ヒーローにダメージを与えていた場合、これは<strong>続行</strong>を得る。（これのヒットも含む）</p>\n<p><strong>血の債務</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR124-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR124-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR124-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:39:07.899627+12:00",
+          "updated_at": "2026-09-07T11:32:48.011292+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR124-RF",
+          "set_number": 124,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "e7a8a908-1b0c-4371-ba7a-98ce964f4f67"
+        },
+        {
+          "id": "4128bb77-6c5a-421d-8ea0-023bd666f554",
+          "faces": [
+            {
+              "id": "4a7ee8e5-b658-47fc-9593-811ac7492968",
+              "created_at": "2026-07-13T19:38:18.288043+12:00",
+              "updated_at": "2026-07-13T19:38:18.288058+12:00",
+              "face_id": "FR_IAR124-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR124",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Lamesombre de frénésie sanglante",
+              "printed_pitch": 2,
+              "printed_cost": "1",
+              "printed_power": "2",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Vous pouvez jouer cette carte depuis votre zone de bannissement.{br}**Usurper** _(Comme coût supplémentaire pour jouer cette carte, détruisez un Chanterune si possible. Si vous le faites, cette carte gagne +2{p}.)_{br}Si vous avez infligé des dégâts au héros défenseur ce tour-ci, cette carte gagne **encore une fois**. _(Y compris si cette carte touche.)_{br}**Dette de sang**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Lamerune Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "58e1ae77-15f9-4443-a0a7-0e8a02d2770f",
+              "card_print": "4128bb77-6c5a-421d-8ea0-023bd666f554",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Lamesombre de frénésie sanglante</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Lamerune Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Vous pouvez jouer cette carte depuis votre zone de bannissement.</p>\n<p><strong>Usurper</strong> <em>(Comme coût supplémentaire pour jouer cette carte, détruisez un Chanterune si possible. Si vous le faites, cette carte gagne +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>Si vous avez infligé des dégâts au héros défenseur ce tour-ci, cette carte gagne <strong>encore une fois</strong>. <em>(Y compris si cette carte touche.)</em></p>\n<p><strong>Dette de sang</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR124-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR124-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR124-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:18.280057+12:00",
+          "updated_at": "2026-09-07T11:32:46.574459+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR124-RF",
+          "set_number": 124,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "e7a8a908-1b0c-4371-ba7a-98ce964f4f67"
+        },
+        {
+          "id": "fd9c7b94-aea6-4032-a4c2-af1b94867009",
+          "faces": [
+            {
+              "id": "7c4aba0a-ec26-4982-9c69-99fdc69de213",
+              "created_at": "2026-07-13T19:38:18.238072+12:00",
+              "updated_at": "2026-07-13T19:38:18.238086+12:00",
+              "face_id": "FR_IAR124",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR124",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Lamesombre de frénésie sanglante",
+              "printed_pitch": 2,
+              "printed_cost": "1",
+              "printed_power": "2",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Vous pouvez jouer cette carte depuis votre zone de bannissement.{br}**Usurper** _(Comme coût supplémentaire pour jouer cette carte, détruisez un Chanterune si possible. Si vous le faites, cette carte gagne +2{p}.)_{br}Si vous avez infligé des dégâts au héros défenseur ce tour-ci, cette carte gagne **encore une fois**. _(Y compris si cette carte touche.)_{br}**Dette de sang**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Lamerune Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "58e1ae77-15f9-4443-a0a7-0e8a02d2770f",
+              "card_print": "fd9c7b94-aea6-4032-a4c2-af1b94867009",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Lamesombre de frénésie sanglante</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Lamerune Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Vous pouvez jouer cette carte depuis votre zone de bannissement.</p>\n<p><strong>Usurper</strong> <em>(Comme coût supplémentaire pour jouer cette carte, détruisez un Chanterune si possible. Si vous le faites, cette carte gagne +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>Si vous avez infligé des dégâts au héros défenseur ce tour-ci, cette carte gagne <strong>encore une fois</strong>. <em>(Y compris si cette carte touche.)</em></p>\n<p><strong>Dette de sang</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR124.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR124.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR124.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:18.230455+12:00",
+          "updated_at": "2026-09-07T11:32:42.979065+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR124",
+          "set_number": 124,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "e7a8a908-1b0c-4371-ba7a-98ce964f4f67"
+        },
+        {
+          "id": "3f6ce30f-f257-4d65-adc9-6fe3a718430a",
+          "faces": [
+            {
+              "id": "01fba62d-2fa9-401d-9973-c0383603e720",
+              "created_at": "2026-07-13T19:38:43.070972+12:00",
+              "updated_at": "2026-07-13T19:38:43.070983+12:00",
+              "face_id": "IAR124",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR124",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Bloodfrenzy Gloomblade",
+              "printed_pitch": 2,
+              "printed_cost": "1",
+              "printed_power": "2",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "You may play this from your banished zone.{br}**Usurp** _(As an additional cost to play this, destroy a Runechant if able. If you do, this gets +2{p}.)_{br}If you've dealt damage to the defending hero this turn, this gets **go again**. _(Including if this hits.)_{br}**Blood Debt**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Runeblade Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "58e1ae77-15f9-4443-a0a7-0e8a02d2770f",
+              "card_print": "3f6ce30f-f257-4d65-adc9-6fe3a718430a",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bloodfrenzy Gloomblade</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Runeblade Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>You may play this from your banished zone.</p>\n<p><strong>Usurp</strong> <em>(As an additional cost to play this, destroy a Runechant if able. If you do, this gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>If you've dealt damage to the defending hero this turn, this gets <strong>go again</strong>. <em>(Including if this hits.)</em></p>\n<p><strong>Blood Debt</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR124.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR124.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR124.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:43.064920+12:00",
+          "updated_at": "2026-09-07T11:32:47.349770+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR124",
+          "set_number": 124,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "e7a8a908-1b0c-4371-ba7a-98ce964f4f67"
+        },
+        {
+          "id": "8d825c4a-5124-42f0-84b0-c85094f7f39e",
+          "faces": [
+            {
+              "id": "41d63e62-369e-4ffc-a83d-11e23b9b117c",
+              "created_at": "2026-07-13T19:38:43.106397+12:00",
+              "updated_at": "2026-07-13T19:38:43.106413+12:00",
+              "face_id": "IAR124-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "runeblade",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR124",
+              "printed_artist": "Mariusz Gandzel",
+              "printed_name": "Bloodfrenzy Gloomblade",
+              "printed_pitch": 2,
+              "printed_cost": "1",
+              "printed_power": "2",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "You may play this from your banished zone.{br}**Usurp** _(As an additional cost to play this, destroy a Runechant if able. If you do, this gets +2{p}.)_{br}If you've dealt damage to the defending hero this turn, this gets **go again**. _(Including if this hits.)_{br}**Blood Debt**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Runeblade Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "58e1ae77-15f9-4443-a0a7-0e8a02d2770f",
+              "card_print": "8d825c4a-5124-42f0-84b0-c85094f7f39e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bloodfrenzy Gloomblade</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Runeblade Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>You may play this from your banished zone.</p>\n<p><strong>Usurp</strong> <em>(As an additional cost to play this, destroy a Runechant if able. If you do, this gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>If you've dealt damage to the defending hero this turn, this gets <strong>go again</strong>. <em>(Including if this hits.)</em></p>\n<p><strong>Blood Debt</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR124-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR124-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR124-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:43.099770+12:00",
+          "updated_at": "2026-09-07T11:32:45.575416+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR124-RF",
+          "set_number": 124,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "e7a8a908-1b0c-4371-ba7a-98ce964f4f67"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-07-13T19:38:01.720572+12:00",
+      "updated_at": "2026-07-13T19:38:01.720581+12:00",
+      "card_id": "bloodfrenzy-gloomblade-2",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

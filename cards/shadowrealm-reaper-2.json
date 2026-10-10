@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "id": "shadowrealm-reaper-2",
+  "name": "Shadowrealm Reaper",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Shadowrealm Reaper",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 2,
+      "power": 5,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Shadow Action - Attack",
+      "traitLine": null,
+      "classes": [],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "If this was played from your banished zone, it gets +1{p} and **go again**.{br}**Blood Debt **",
+        "plain": "If this was played from your banished zone, it gets +1{p} and go again.\nBlood Debt"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "FAB512-RF",
+      "code": "FAB512",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 512,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "calling-usurp-the-shadow-throne",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-17T15:15:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB512-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Shadowrealm Reaper",
+          "typeLine": "Shadow Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If this was played from your banished zone, it gets +1{p} and **go again**. **Blood Debt**",
+            "plain": "If this was played from your banished zone, it gets +1{p} and go again. Blood Debt",
+            "html": "<p>If this was played from your banished zone, it gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>. <strong>Blood Debt</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "5",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB512",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Narendra B Adi",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB512-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB512-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB512-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR176",
+      "code": "IAR176",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 176,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR176",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Shadowrealm Reaper",
+          "typeLine": "Shadow Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If this was played from your banished zone, it gets +1{p} and **go again**.{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "plain": "If this was played from your banished zone, it gets +1{p} and go again.\nBlood Debt _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "html": "<p>If this was played from your banished zone, it gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "5",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR176",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Narendra B Adi",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR176.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR176.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR176.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR176-RF",
+      "code": "IAR176",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 176,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR176-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Shadowrealm Reaper",
+          "typeLine": "Shadow Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If this was played from your banished zone, it gets +1{p} and **go again**.{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "plain": "If this was played from your banished zone, it gets +1{p} and go again.\nBlood Debt _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+            "html": "<p>If this was played from your banished zone, it gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>.</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "5",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IAR176",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Narendra B Adi",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR176-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR176-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR176-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Blood Debt",
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T19:59:36Z",
+    "rawSha256": "3d0a56c4b11b3e1fd3df1fd5f5bdd4d9b45aaff47a0f2a1dac56e15a4fc60291",
+    "updatedAt": "2026-07-13T19:38:02.559818+12:00"
+  }
+}

@@ -1,0 +1,1236 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff",
+      "cores": [
+        {
+          "id": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+          "core_classes": [
+            {
+              "id": 11,
+              "name": "Ranger",
+              "name_en": "Ranger",
+              "name_fr": "Ranger",
+              "name_de": "Waldläufer",
+              "name_it": "Ranger",
+              "name_es": "Explorador",
+              "name_ja": "レンジャー",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 5,
+              "name": "Arrow",
+              "name_en": "Arrow",
+              "name_fr": "Flèche",
+              "name_de": "Pfeil",
+              "name_it": "Freccia",
+              "name_es": "Flecha",
+              "name_ja": "矢",
+              "is_published": true,
+              "functional": true
+            },
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:49:20.852480+12:00",
+          "updated_at": "2025-09-18T06:49:20.864342+12:00",
+          "name": "Entangling Shot",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "0",
+          "power": "4",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this is put face-up into your arsenal, you may {t} target hero.",
+          "typebox": "Ranger Action - Arrow Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 0,
+          "power_value": 4,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "123a47e4-47c1-479b-bccc-fe00af2ff67d",
+          "faces": [
+            {
+              "id": "a637abd2-1715-4422-9707-8f53ff01bfe7",
+              "created_at": "2025-09-18T06:49:20.875910+12:00",
+              "updated_at": "2025-09-18T06:49:20.875921+12:00",
+              "face_id": "FR_SEA107",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA107",
+              "printed_artist": "Widya Wang",
+              "printed_name": "Tir enchevêtrant",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte est mise face visible dans votre arsenal, vous pouvez {t} le héros ciblé.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Attaque de flèche",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+              "card_print": "123a47e4-47c1-479b-bccc-fe00af2ff67d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Tir enchevêtrant</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Attaque de flèche</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte est mise face visible dans votre arsenal, vous pouvez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> le héros ciblé.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA107.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA107.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA107.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:20.870266+12:00",
+          "updated_at": "2025-09-18T06:49:20.870277+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA107",
+          "set_number": 107,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        },
+        {
+          "id": "eea0e882-47fb-4514-b395-e7929e570faf",
+          "faces": [
+            {
+              "id": "4ed10fe2-70fc-48fa-a5fd-1187a148dcba",
+              "created_at": "2025-09-18T06:49:20.888410+12:00",
+              "updated_at": "2025-09-18T06:49:20.888420+12:00",
+              "face_id": "FR_SEA107-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA107",
+              "printed_artist": "Widya Wang",
+              "printed_name": "Tir enchevêtrant",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte est mise face visible dans votre arsenal, vous pouvez {t} le héros ciblé.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Attaque de flèche",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+              "card_print": "eea0e882-47fb-4514-b395-e7929e570faf",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Tir enchevêtrant</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Attaque de flèche</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte est mise face visible dans votre arsenal, vous pouvez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> le héros ciblé.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA107-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA107-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA107-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:20.883608+12:00",
+          "updated_at": "2025-09-18T06:49:20.883619+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA107-RF",
+          "set_number": 107,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        },
+        {
+          "id": "0c1b90e9-1ed2-4cbf-af41-2d35909a8fde",
+          "faces": [
+            {
+              "id": "c9a54e6b-bfb1-46be-97e8-3eef52928b68",
+              "created_at": "2025-09-18T06:49:20.908515+12:00",
+              "updated_at": "2025-09-18T06:49:20.908529+12:00",
+              "face_id": "JA_SEA107",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA107",
+              "printed_artist": "Widya Wang",
+              "printed_name": "絡め捕りの射撃",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これがあなたの格納庫に表向きで置かれたとき、対象のヒーロー１人を{t}してもよい。",
+              "printed_flavor_text": "",
+              "printed_typebox": "レンジャー・アクション － 矢・攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+              "card_print": "0c1b90e9-1ed2-4cbf-af41-2d35909a8fde",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>絡め捕りの射撃</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>レンジャー・アクション － 矢・攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これがあなたの格納庫に表向きで置かれたとき、対象のヒーロー１人を<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>してもよい。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA107.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA107.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA107.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:20.900674+12:00",
+          "updated_at": "2025-09-18T06:49:20.900693+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA107",
+          "set_number": 107,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        },
+        {
+          "id": "31de0476-afa0-47de-a3d0-0622f7ce2c37",
+          "faces": [
+            {
+              "id": "ff815334-e069-4fba-977c-6b13ada95e5a",
+              "created_at": "2025-09-18T06:49:20.924696+12:00",
+              "updated_at": "2025-09-18T06:49:20.924713+12:00",
+              "face_id": "JA_SEA107-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA107",
+              "printed_artist": "Widya Wang",
+              "printed_name": "絡め捕りの射撃",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これがあなたの格納庫に表向きで置かれたとき、対象のヒーロー１人を{t}してもよい。",
+              "printed_flavor_text": "",
+              "printed_typebox": "レンジャー・アクション － 矢・攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+              "card_print": "31de0476-afa0-47de-a3d0-0622f7ce2c37",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>絡め捕りの射撃</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>レンジャー・アクション － 矢・攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これがあなたの格納庫に表向きで置かれたとき、対象のヒーロー１人を<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>してもよい。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA107-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA107-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA107-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:20.917320+12:00",
+          "updated_at": "2025-09-18T06:49:20.917337+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA107-RF",
+          "set_number": 107,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        },
+        {
+          "id": "441ccab3-d37b-4599-bce6-a000ea19f5ff",
+          "faces": [
+            {
+              "id": "c6c629b3-630b-4f33-a081-cdec206f870f",
+              "created_at": "2025-09-18T06:49:20.945324+12:00",
+              "updated_at": "2025-09-18T06:49:20.945342+12:00",
+              "face_id": "SEA107",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA107",
+              "printed_artist": "Widya Wang",
+              "printed_name": "Entangling Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this is put face-up into your arsenal, you may {t} target hero.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+              "card_print": "441ccab3-d37b-4599-bce6-a000ea19f5ff",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Entangling Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this is put face-up into your arsenal, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA107.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA107.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA107.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:20.937328+12:00",
+          "updated_at": "2025-09-18T06:49:20.937348+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA107",
+          "set_number": 107,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        },
+        {
+          "id": "660e298c-24c3-4b0b-aa29-fffd277ab54b",
+          "faces": [
+            {
+              "id": "6be40bfb-9577-48ea-81ac-3a8c2145997f",
+              "created_at": "2025-09-18T06:49:20.960119+12:00",
+              "updated_at": "2025-09-18T06:49:20.960139+12:00",
+              "face_id": "SEA107-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA107",
+              "printed_artist": "Widya Wang",
+              "printed_name": "Entangling Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this is put face-up into your arsenal, you may {t} target hero.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+              "card_print": "660e298c-24c3-4b0b-aa29-fffd277ab54b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Entangling Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this is put face-up into your arsenal, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA107-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA107-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA107-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:20.953579+12:00",
+          "updated_at": "2025-09-18T06:49:20.953592+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA107-RF",
+          "set_number": 107,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        },
+        {
+          "id": "cf5de3cb-d0fb-46e7-87cb-69e7041cfd64",
+          "faces": [
+            {
+              "id": "5d417ac9-f9ab-4461-859a-00744441a170",
+              "created_at": "2025-09-18T06:49:20.972305+12:00",
+              "updated_at": "2025-09-18T06:49:20.972319+12:00",
+              "face_id": "GEM060-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM060",
+              "printed_artist": "Widya Wang",
+              "printed_name": "Entangling Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this is put face-up into your arsenal, you may {t} target hero.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+              "card_print": "cf5de3cb-d0fb-46e7-87cb-69e7041cfd64",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Entangling Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this is put face-up into your arsenal, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM060-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM060-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM060-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:20.968033+12:00",
+          "updated_at": "2025-09-18T06:49:20.968044+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM060-RF",
+          "set_number": 60,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        },
+        {
+          "id": "b8dea821-8043-410b-a299-9a110c17d717",
+          "faces": [
+            {
+              "id": "7b778f3e-4c95-4e67-9b37-e8bcb1584309",
+              "created_at": "2025-09-18T06:49:20.988805+12:00",
+              "updated_at": "2025-09-18T06:49:20.988823+12:00",
+              "face_id": "GEM060",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM060",
+              "printed_artist": "Widya Wang",
+              "printed_name": "Entangling Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this is put face-up into your arsenal, you may {t} target hero.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+              "card_print": "b8dea821-8043-410b-a299-9a110c17d717",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Entangling Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this is put face-up into your arsenal, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM060.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM060.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM060.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "02c42b9a-c274-4f33-b140-c3c952bda01c",
+            "product_group": {
+              "id": "b5df0c8b-179a-4920-bb09-6d27510c98c5",
+              "created_at": "2025-09-18T06:45:56.105627+12:00",
+              "updated_at": "2026-03-05T10:46:46.122144+13:00",
+              "group_name": "GEM - Pack 2",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "gem-pack-2"
+            },
+            "created_at": "2025-09-18T06:45:56.108370+12:00",
+            "updated_at": "2025-09-18T06:45:56.108386+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 2",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "gem-pack-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:49:20.982477+12:00",
+          "updated_at": "2025-09-18T06:49:20.982497+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM060",
+          "set_number": 60,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        },
+        {
+          "id": "7a2a0ab3-1164-4514-8ab3-0ea90db692dc",
+          "faces": [
+            {
+              "id": "4a266606-1081-4f42-b356-7fda46dd2269",
+              "created_at": "2026-01-19T19:28:39.908441+13:00",
+              "updated_at": "2026-01-19T19:28:39.908449+13:00",
+              "face_id": "FR_SAZ013",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SAZ013",
+              "printed_artist": "Widya Wang",
+              "printed_name": "Tir enchevêtrant",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte est mise face visible dans votre arsenal, vous pouvez {t} le héros ciblé.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Attaque de flèche",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+              "card_print": "7a2a0ab3-1164-4514-8ab3-0ea90db692dc",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Tir enchevêtrant</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Attaque de flèche</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte est mise face visible dans votre arsenal, vous pouvez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> le héros ciblé.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SAZ013.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SAZ013.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SAZ013.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "3e8f6ca8-e4b6-494f-b3b6-158727481305",
+            "product_group": {
+              "id": "c80fa57d-296b-411c-81c0-1c34fed39afd",
+              "created_at": "2025-10-20T10:26:44.833213+13:00",
+              "updated_at": "2026-01-28T08:26:34.043642+13:00",
+              "group_name": "Silver Age Chapter 2 - Azalea",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-2-azalea"
+            },
+            "created_at": "2025-10-20T10:26:44.316771+13:00",
+            "updated_at": "2026-01-28T08:26:34.048003+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "fr",
+            "product_name": "Silver Age Chapter 2 - Azalea [FR]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-2-azalea-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9471822f-7cef-41f0-b3ed-17c084bbc9f1",
+            "created_at": "2025-10-20T10:26:44.263924+13:00",
+            "updated_at": "2025-10-20T10:52:52.189809+13:00",
+            "set_code": "SAZ",
+            "set_name": "Silver Age Chapter 1 - Azalea",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:28:39.905423+13:00",
+          "updated_at": "2026-01-30T12:17:04.012346+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-30T12:10:00+13:00",
+          "print_id": "FR_SAZ013",
+          "set_number": 13,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        },
+        {
+          "id": "a6e3909a-45be-43c0-9773-152a3a63c808",
+          "faces": [
+            {
+              "id": "957fb321-e009-4f4a-8c46-f33c268f2d89",
+              "created_at": "2026-01-19T19:28:48.850252+13:00",
+              "updated_at": "2026-01-19T19:28:48.850259+13:00",
+              "face_id": "JA_SAZ013",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SAZ013",
+              "printed_artist": "Widya Wang",
+              "printed_name": "絡め捕りの射撃",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これがあなたの格納庫に表向きで置かれたとき、対象のヒーロー１人を{t}してもよい。",
+              "printed_flavor_text": "",
+              "printed_typebox": "レンジャー・アクション － 矢・攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+              "card_print": "a6e3909a-45be-43c0-9773-152a3a63c808",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>絡め捕りの射撃</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>レンジャー・アクション － 矢・攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これがあなたの格納庫に表向きで置かれたとき、対象のヒーロー１人を<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>してもよい。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SAZ013.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SAZ013.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SAZ013.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "f7d38ebc-ddf8-404e-b8f6-b95eb8f6d9ec",
+            "product_group": {
+              "id": "c80fa57d-296b-411c-81c0-1c34fed39afd",
+              "created_at": "2025-10-20T10:26:44.833213+13:00",
+              "updated_at": "2026-01-28T08:26:34.043642+13:00",
+              "group_name": "Silver Age Chapter 2 - Azalea",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-2-azalea"
+            },
+            "created_at": "2025-10-20T10:26:44.313613+13:00",
+            "updated_at": "2026-01-28T08:26:34.049070+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "ja",
+            "product_name": "Silver Age Chapter 2 - Azalea [JA]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-2-azalea-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9471822f-7cef-41f0-b3ed-17c084bbc9f1",
+            "created_at": "2025-10-20T10:26:44.263924+13:00",
+            "updated_at": "2025-10-20T10:52:52.189809+13:00",
+            "set_code": "SAZ",
+            "set_name": "Silver Age Chapter 1 - Azalea",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:28:48.847510+13:00",
+          "updated_at": "2026-01-30T12:20:28.202557+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-30T12:10:00+13:00",
+          "print_id": "JA_SAZ013",
+          "set_number": 13,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        },
+        {
+          "id": "07d2f08d-82af-457c-a23b-31b24c033c37",
+          "faces": [
+            {
+              "id": "33fb3fb1-d287-40a0-91e0-a2acb6cd794e",
+              "created_at": "2026-01-19T19:28:57.340383+13:00",
+              "updated_at": "2026-01-19T19:28:57.340391+13:00",
+              "face_id": "SAZ013",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SAZ013",
+              "printed_artist": "Widya Wang",
+              "printed_name": "Entangling Shot",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this is put face-up into your arsenal, you may {t} target hero.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc4c7a65-5960-49c6-84a7-ed463b745dc3",
+              "card_print": "07d2f08d-82af-457c-a23b-31b24c033c37",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Entangling Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this is put face-up into your arsenal, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAZ013.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAZ013.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAZ013.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "0d97be95-b8a4-4477-b551-b78713df9820",
+            "product_group": {
+              "id": "c80fa57d-296b-411c-81c0-1c34fed39afd",
+              "created_at": "2025-10-20T10:26:44.833213+13:00",
+              "updated_at": "2026-01-28T08:26:34.043642+13:00",
+              "group_name": "Silver Age Chapter 2 - Azalea",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-2-azalea"
+            },
+            "created_at": "2025-10-20T10:26:44.310440+13:00",
+            "updated_at": "2026-01-28T08:26:34.044947+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "en",
+            "product_name": "Silver Age Chapter 2 - Azalea",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-2-azalea",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9471822f-7cef-41f0-b3ed-17c084bbc9f1",
+            "created_at": "2025-10-20T10:26:44.263924+13:00",
+            "updated_at": "2025-10-20T10:52:52.189809+13:00",
+            "set_code": "SAZ",
+            "set_name": "Silver Age Chapter 1 - Azalea",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:28:57.337478+13:00",
+          "updated_at": "2026-01-30T12:22:28.491192+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-30T12:10:00+13:00",
+          "print_id": "SAZ013",
+          "set_number": 13,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "d26c2568-633e-4d3f-9c76-5b8afb1f52ff"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:49:20.849193+12:00",
+      "updated_at": "2025-09-18T06:49:20.850540+12:00",
+      "card_id": "entangling-shot-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

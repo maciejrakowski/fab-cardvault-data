@@ -1,0 +1,921 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "fd87df2b-8573-443b-aaec-9550e7ba844c",
+      "cores": [
+        {
+          "id": "c5e6b0b7-1202-45d2-82ff-0dbca791a082",
+          "core_classes": [
+            {
+              "id": 10,
+              "name": "Ninja",
+              "name_en": "Ninja",
+              "name_fr": "Ninja",
+              "name_de": "Ninja",
+              "name_it": "Ninja",
+              "name_es": "Ninja",
+              "name_ja": "忍者",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-11-14T13:40:32.299097+13:00",
+          "updated_at": "2025-11-14T13:40:32.299105+13:00",
+          "name": "Feign Vengeance",
+          "layout_position": 10,
+          "pitch": "3",
+          "pitch_chi": "0",
+          "color": "blue",
+          "cost": "0",
+          "power": "0",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this chain link resolves, if there is a card defending this, draw a card.{br}**Go again**",
+          "typebox": "Ninja Action - Attack",
+          "traitbox": "",
+          "pitch_value": 3,
+          "pitch_chi_value": 0,
+          "cost_value": 0,
+          "power_value": 0,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "fd87df2b-8573-443b-aaec-9550e7ba844c"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "0d2eab08-e6dc-491a-8f95-08a2782d8237",
+          "faces": [
+            {
+              "id": "fa9a6deb-d6f0-4585-afbe-2f3c50591441",
+              "created_at": "2026-01-19T09:11:55.852006+13:00",
+              "updated_at": "2026-01-19T09:11:55.852014+13:00",
+              "face_id": "JA_PEN036-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN036",
+              "printed_artist": "Ramza Ardyputra",
+              "printed_name": "偽装された復讐",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "0",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これのチェインリンクを解決したとき、これを防御しているカードがある場合、カードを１枚引く。{br}**続行**",
+              "printed_flavor_text": "",
+              "printed_typebox": "忍者・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "c5e6b0b7-1202-45d2-82ff-0dbca791a082",
+              "card_print": "0d2eab08-e6dc-491a-8f95-08a2782d8237",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>偽装された復讐</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>忍者・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これのチェインリンクを解決したとき、これを防御しているカードがある場合、カードを１枚引く。</p>\n<p><strong>続行</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_PEN036-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_PEN036-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_PEN036-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d5e242aa-362d-4efb-ac7f-2ed815c192e9",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.186868+13:00",
+            "updated_at": "2025-11-14T13:38:39.619716+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "ja",
+            "product_name": "Compendium of Rathe [JA]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:55.849220+13:00",
+          "updated_at": "2026-01-31T10:34:51.104321+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T14:45:00+13:00",
+          "print_id": "JA_PEN036-RF",
+          "set_number": 36,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "fd87df2b-8573-443b-aaec-9550e7ba844c"
+        },
+        {
+          "id": "c8dc8651-5822-45f4-a776-d5d2c0714481",
+          "faces": [
+            {
+              "id": "bc68085f-ee4d-41da-8881-21ae19818a4d",
+              "created_at": "2026-01-19T09:12:12.063737+13:00",
+              "updated_at": "2026-01-19T09:12:12.063745+13:00",
+              "face_id": "PEN036",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN036",
+              "printed_artist": "Ramza Ardyputra",
+              "printed_name": "Feign Vengeance",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "0",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this chain link resolves, if there is a card defending this, draw a card.{br}**Go again**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ninja Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "c5e6b0b7-1202-45d2-82ff-0dbca791a082",
+              "card_print": "c8dc8651-5822-45f4-a776-d5d2c0714481",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Feign Vengeance</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ninja Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this chain link resolves, if there is a card defending this, draw a card.</p>\n<p><strong>Go again</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN036.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN036.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN036.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c71765f7-37cb-49c8-9b93-319e5c6b0955",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.183675+13:00",
+            "updated_at": "2025-11-14T13:38:39.618314+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "en",
+            "product_name": "Compendium of Rathe",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:12.060772+13:00",
+          "updated_at": "2026-01-31T09:24:31.815580+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T12:45:00+13:00",
+          "print_id": "PEN036",
+          "set_number": 36,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "fd87df2b-8573-443b-aaec-9550e7ba844c"
+        },
+        {
+          "id": "db3102c0-4303-49cf-be86-328d8031b6f3",
+          "faces": [
+            {
+              "id": "0d6e1e70-30f4-48d6-bdc8-aedadabbf1b7",
+              "created_at": "2026-01-19T09:11:39.937239+13:00",
+              "updated_at": "2026-01-19T09:11:39.937247+13:00",
+              "face_id": "FR_PEN036-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN036",
+              "printed_artist": "Ramza Ardyputra",
+              "printed_name": "Feinte vengeresse",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "0",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand ce maillon de chaîne se résout, si une carte défend la Feinte vengeresse, piochez une carte.{br}**Encore une fois**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ninja Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "c5e6b0b7-1202-45d2-82ff-0dbca791a082",
+              "card_print": "db3102c0-4303-49cf-be86-328d8031b6f3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Feinte vengeresse</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ninja Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand ce maillon de chaîne se résout, si une carte défend la Feinte vengeresse, piochez une carte.</p>\n<p><strong>Encore une fois</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_PEN036-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_PEN036-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_PEN036-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d2712c7c-7d23-44ab-8945-4217afaaba97",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.189904+13:00",
+            "updated_at": "2025-11-14T13:38:39.619064+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "fr",
+            "product_name": "Compendium of Rathe [FR]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:39.934215+13:00",
+          "updated_at": "2026-01-31T11:00:08.178773+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_PEN036-RF",
+          "set_number": 36,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "fd87df2b-8573-443b-aaec-9550e7ba844c"
+        },
+        {
+          "id": "885b7306-4577-44af-a50c-8949010ccc95",
+          "faces": [
+            {
+              "id": "581b6950-03df-4d2c-8143-4b559bd3f3e5",
+              "created_at": "2026-01-27T09:45:06.266684+13:00",
+              "updated_at": "2026-01-27T09:45:06.266692+13:00",
+              "face_id": "GEM117",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM117",
+              "printed_artist": "Ramza Ardyputra",
+              "printed_name": "Feign Vengeance",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "0",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this chain link resolves, if there is a card defending this, draw a card.{br}**Go again**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ninja Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "c5e6b0b7-1202-45d2-82ff-0dbca791a082",
+              "card_print": "885b7306-4577-44af-a50c-8949010ccc95",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Feign Vengeance</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ninja Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this chain link resolves, if there is a card defending this, draw a card.</p>\n<p><strong>Go again</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM117.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM117.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM117.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8f1632c9-f623-4de9-b95a-60feb60d4f4c",
+            "product_group": {
+              "id": "e81a4cb9-4c41-449c-8d91-740e2d20cca9",
+              "created_at": "2026-03-05T10:48:33.706806+13:00",
+              "updated_at": "2026-03-05T10:48:33.706819+13:00",
+              "group_name": "GEM - Pack 4",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "gem-pack-4"
+            },
+            "created_at": "2026-01-27T09:34:13.853860+13:00",
+            "updated_at": "2026-03-05T10:48:53.562979+13:00",
+            "printed_date": "2025-09-27",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 4",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "gem-pack-4",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-27T09:45:06.263548+13:00",
+          "updated_at": "2026-02-09T14:26:36.382954+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM117",
+          "set_number": 117,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "fd87df2b-8573-443b-aaec-9550e7ba844c"
+        },
+        {
+          "id": "567e7837-2c39-4609-9023-42c12f2bb2ce",
+          "faces": [
+            {
+              "id": "1bcf48c5-035a-46e9-b049-aa8c386f8abf",
+              "created_at": "2026-01-19T09:11:39.913816+13:00",
+              "updated_at": "2026-01-19T09:11:39.913825+13:00",
+              "face_id": "FR_PEN036",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN036",
+              "printed_artist": "Ramza Ardyputra",
+              "printed_name": "Feinte vengeresse",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "0",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand ce maillon de chaîne se résout, si une carte défend la Feinte vengeresse, piochez une carte.{br}**Encore une fois**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ninja Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "c5e6b0b7-1202-45d2-82ff-0dbca791a082",
+              "card_print": "567e7837-2c39-4609-9023-42c12f2bb2ce",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Feinte vengeresse</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ninja Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand ce maillon de chaîne se résout, si une carte défend la Feinte vengeresse, piochez une carte.</p>\n<p><strong>Encore une fois</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_PEN036.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_PEN036.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_PEN036.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d2712c7c-7d23-44ab-8945-4217afaaba97",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.189904+13:00",
+            "updated_at": "2025-11-14T13:38:39.619064+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "fr",
+            "product_name": "Compendium of Rathe [FR]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:39.910759+13:00",
+          "updated_at": "2026-01-31T11:03:31.001444+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_PEN036",
+          "set_number": 36,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "fd87df2b-8573-443b-aaec-9550e7ba844c"
+        },
+        {
+          "id": "62eca1ba-a491-495f-b1f1-92ea876e2173",
+          "faces": [
+            {
+              "id": "d734470f-8e03-4659-b67c-f8d7d6657d00",
+              "created_at": "2026-01-19T09:11:55.829179+13:00",
+              "updated_at": "2026-01-19T09:11:55.829187+13:00",
+              "face_id": "JA_PEN036",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN036",
+              "printed_artist": "Ramza Ardyputra",
+              "printed_name": "偽装された復讐",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "0",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これのチェインリンクを解決したとき、これを防御しているカードがある場合、カードを１枚引く。{br}**続行**",
+              "printed_flavor_text": "",
+              "printed_typebox": "忍者・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "c5e6b0b7-1202-45d2-82ff-0dbca791a082",
+              "card_print": "62eca1ba-a491-495f-b1f1-92ea876e2173",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>偽装された復讐</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>忍者・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これのチェインリンクを解決したとき、これを防御しているカードがある場合、カードを１枚引く。</p>\n<p><strong>続行</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_PEN036.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_PEN036.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_PEN036.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d5e242aa-362d-4efb-ac7f-2ed815c192e9",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.186868+13:00",
+            "updated_at": "2025-11-14T13:38:39.619716+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "ja",
+            "product_name": "Compendium of Rathe [JA]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:55.826354+13:00",
+          "updated_at": "2026-01-31T10:34:28.443979+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T14:45:00+13:00",
+          "print_id": "JA_PEN036",
+          "set_number": 36,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "fd87df2b-8573-443b-aaec-9550e7ba844c"
+        },
+        {
+          "id": "f2e00830-23a9-41fe-acf7-fcca3a676f96",
+          "faces": [
+            {
+              "id": "e7ae750f-9abf-452c-ba48-1de242ee4473",
+              "created_at": "2026-01-27T09:45:06.702479+13:00",
+              "updated_at": "2026-01-27T09:45:06.702486+13:00",
+              "face_id": "GEM117-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM117",
+              "printed_artist": "Ramza Ardyputra",
+              "printed_name": "Feign Vengeance",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "0",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this chain link resolves, if there is a card defending this, draw a card.{br}**Go again**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ninja Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "c5e6b0b7-1202-45d2-82ff-0dbca791a082",
+              "card_print": "f2e00830-23a9-41fe-acf7-fcca3a676f96",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Feign Vengeance</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ninja Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this chain link resolves, if there is a card defending this, draw a card.</p>\n<p><strong>Go again</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM117-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM117-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM117-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8f1632c9-f623-4de9-b95a-60feb60d4f4c",
+            "product_group": {
+              "id": "e81a4cb9-4c41-449c-8d91-740e2d20cca9",
+              "created_at": "2026-03-05T10:48:33.706806+13:00",
+              "updated_at": "2026-03-05T10:48:33.706819+13:00",
+              "group_name": "GEM - Pack 4",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "gem-pack-4"
+            },
+            "created_at": "2026-01-27T09:34:13.853860+13:00",
+            "updated_at": "2026-03-05T10:48:53.562979+13:00",
+            "printed_date": "2025-09-27",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 4",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "gem-pack-4",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-27T09:45:06.699542+13:00",
+          "updated_at": "2026-02-09T14:26:28.429078+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM117-RF",
+          "set_number": 117,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "fd87df2b-8573-443b-aaec-9550e7ba844c"
+        },
+        {
+          "id": "722f8468-e8e2-4ede-841b-72165a512646",
+          "faces": [
+            {
+              "id": "be3a26bf-73ff-466c-8899-6ed427764d2c",
+              "created_at": "2026-01-19T09:12:12.086362+13:00",
+              "updated_at": "2026-01-19T09:12:12.086370+13:00",
+              "face_id": "PEN036-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "PEN036",
+              "printed_artist": "Ramza Ardyputra",
+              "printed_name": "Feign Vengeance",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "0",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this chain link resolves, if there is a card defending this, draw a card.{br}**Go again**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ninja Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "c5e6b0b7-1202-45d2-82ff-0dbca791a082",
+              "card_print": "722f8468-e8e2-4ede-841b-72165a512646",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Feign Vengeance</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ninja Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this chain link resolves, if there is a card defending this, draw a card.</p>\n<p><strong>Go again</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN036-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN036-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN036-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c71765f7-37cb-49c8-9b93-319e5c6b0955",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.183675+13:00",
+            "updated_at": "2025-11-14T13:38:39.618314+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "en",
+            "product_name": "Compendium of Rathe",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:12.083507+13:00",
+          "updated_at": "2026-01-31T09:41:22.280767+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-01-31T12:45:00+13:00",
+          "print_id": "PEN036-RF",
+          "set_number": 36,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "fd87df2b-8573-443b-aaec-9550e7ba844c"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-11-14T13:40:32.294479+13:00",
+      "updated_at": "2025-11-14T13:40:32.294487+13:00",
+      "card_id": "feign-vengeance-3",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "schemaVersion": 1,
+  "id": "turning-point-3",
+  "name": "Turning Point",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Turning Point",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": null,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Revered Guardian Block",
+      "traitLine": null,
+      "classes": [
+        "Guardian"
+      ],
+      "talents": [
+        "Revered"
+      ],
+      "types": [
+        "Block"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "When this defends, if you have less {g} than the attacking hero, **the crowd cheers** you.{br}While this is defending, if you've been cheered this turn, it gets +3{d}.",
+        "plain": "When this defends, if you have less {g} than the attacking hero, the crowd cheers you.\nWhile this is defending, if you've been cheered this turn, it gets +3{d}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "APS030",
+      "code": "APS030",
+      "language": "en",
+      "set": "APS",
+      "setNumber": 30,
+      "edition": null,
+      "rarity": "super-rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-pleiades-superstar",
+      "releaseDate": "2025-09-19",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "APS030",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Turning Point",
+          "typeLine": "Revered Guardian Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, if you have less {h} than the attacking hero, **the crowd cheers** you.{br}While this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "plain": "When this defends, if you have less {h} than the attacking hero, the crowd cheers you.\nWhile this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "html": "<p>When this defends, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than the attacking hero, <strong>the crowd cheers</strong> you.</p>\n<p>While this is defending, if you've been cheered this turn, it gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "APS030",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "FeiKang",
+          "rarityMark": "super-rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/APS030.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/APS030.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/APS030.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "APS030-CC",
+      "code": "APS030",
+      "language": "en",
+      "set": "APS",
+      "setNumber": 30,
+      "edition": null,
+      "rarity": "super-rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-pleiades-superstar",
+      "releaseDate": "2025-09-19",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "APS030-CC",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Turning Point",
+          "typeLine": "Revered Guardian Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, if you have less {h} than the attacking hero, **the crowd cheers** you.{br}While this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "plain": "When this defends, if you have less {h} than the attacking hero, the crowd cheers you.\nWhile this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "html": "<p>When this defends, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than the attacking hero, <strong>the crowd cheers</strong> you.</p>\n<p>While this is defending, if you've been cheered this turn, it gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "APS030",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "FeiKang",
+          "rarityMark": "super-rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/APS030-CC.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/APS030-CC.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/APS030-CC.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SUP015",
+      "code": "SUP015",
+      "language": "en",
+      "set": "SUP",
+      "setNumber": 15,
+      "edition": null,
+      "rarity": "super-rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "super-slam",
+      "releaseDate": "2025-09-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SUP015",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Turning Point",
+          "typeLine": "Revered Guardian Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, if you have less {g} than the attacking hero, **the crowd cheers** you.{br}While this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "plain": "When this defends, if you have less {g} than the attacking hero, the crowd cheers you.\nWhile this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "html": "<p>When this defends, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than the attacking hero, <strong>the crowd cheers</strong> you.</p>\n<p>While this is defending, if you've been cheered this turn, it gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"In the arena, a fated tale can end with a surprising twist.\" - Pleiades_",
+            "plain": "_\"In the arena, a fated tale can end with a surprising twist.\" - Pleiades_",
+            "html": "<p><em>&quot;In the arena, a fated tale can end with a surprising twist.&quot; - Pleiades</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SUP015",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "FeiKang",
+          "rarityMark": "super-rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SUP015.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SUP015.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SUP015.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SUP015-RF",
+      "code": "SUP015",
+      "language": "en",
+      "set": "SUP",
+      "setNumber": 15,
+      "edition": null,
+      "rarity": "super-rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "super-slam",
+      "releaseDate": "2025-09-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SUP015-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Turning Point",
+          "typeLine": "Revered Guardian Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, if you have less {g} than the attacking hero, **the crowd cheers** you.{br}While this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "plain": "When this defends, if you have less {g} than the attacking hero, the crowd cheers you.\nWhile this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "html": "<p>When this defends, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than the attacking hero, <strong>the crowd cheers</strong> you.</p>\n<p>While this is defending, if you've been cheered this turn, it gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"In the arena, a fated tale can end with a surprising twist.\" - Pleiades_",
+            "plain": "_\"In the arena, a fated tale can end with a surprising twist.\" - Pleiades_",
+            "html": "<p><em>&quot;In the arena, a fated tale can end with a surprising twist.&quot; - Pleiades</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SUP015",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "FeiKang",
+          "rarityMark": "super-rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SUP015-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SUP015-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SUP015-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM086",
+      "code": "GEM086",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 86,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-3",
+      "releaseDate": "2025-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM086",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Turning Point",
+          "typeLine": "Revered Guardian Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, if you have less {g} than the attacking hero, **the crowd cheers** you.{br}While this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "plain": "When this defends, if you have less {g} than the attacking hero, the crowd cheers you.\nWhile this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "html": "<p>When this defends, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than the attacking hero, <strong>the crowd cheers</strong> you.</p>\n<p>While this is defending, if you've been cheered this turn, it gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM086",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "FeiKang",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM086.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM086.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM086.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM086-RF",
+      "code": "GEM086",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 86,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-3",
+      "releaseDate": "2025-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM086-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Turning Point",
+          "typeLine": "Revered Guardian Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, if you have less {g} than the attacking hero, **the crowd cheers** you.{br}While this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "plain": "When this defends, if you have less {g} than the attacking hero, the crowd cheers you.\nWhile this is defending, if you've been cheered this turn, it gets +3{d}.",
+            "html": "<p>When this defends, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than the attacking hero, <strong>the crowd cheers</strong> you.</p>\n<p>While this is defending, if you've been cheered this turn, it gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM086",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "FeiKang",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM086-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM086-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM086-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "the crowd cheers"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:34:16Z",
+    "rawSha256": "836ed451389f4326155689216c3fe2ed25d26f29b6c42a243f932ecdba73fab9",
+    "updatedAt": "2025-09-18T06:58:21.554930+12:00"
+  }
+}

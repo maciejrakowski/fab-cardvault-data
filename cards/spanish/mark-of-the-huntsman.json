@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "mark-of-the-huntsman",
+  "language": "es",
+  "name": "Marca de caza",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Marca de caza",
+      "typeLine": "Arma de asesino - Daga (1M)",
+      "classes": [
+        "Asesino"
+      ],
+      "types": [
+        "Arma"
+      ],
+      "subtypes": [
+        "(1M)",
+        "Daga"
+      ],
+      "text": {
+        "markup": "**Acción una vez por turno** -- {r}{r}: **Ataque**. **Continuar**.{br}Cuando este ataque impacte a un héroe, puedes elegir destruir esta carta y **marcarlo**.{br}Si esta carta está atacando a un héroe **marcado**, esta carta obtiene +1{p}.",
+        "plain": "Acción una vez por turno -- {r}{r}: Ataque. Continuar.\nCuando este ataque impacte a un héroe, puedes elegir destruir esta carta y marcarlo.\nSi esta carta está atacando a un héroe marcado, esta carta obtiene +1{p}.",
+        "html": "<p><strong>Acción una vez por turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Ataque</strong>. <strong>Continuar</strong>.</p>\n<p>Cuando este ataque impacte a un héroe, puedes elegir destruir esta carta y <strong>marcarlo</strong>.</p>\n<p>Si esta carta está atacando a un héroe <strong>marcado</strong>, esta carta obtiene +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_HNT010",
+      "code": "HNT010",
+      "language": "es",
+      "set": "HNT",
+      "setNumber": 10,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted-es",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_HNT010",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Marca de caza",
+          "typeLine": "Arma de asesino - Daga (1M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Acción una vez por turno** -- {r}{r}: **Ataque**. **Continuar**.{br}Cuando este ataque impacte a un héroe, puedes elegir destruir esta carta y **marcarlo**.{br}Si esta carta está atacando a un héroe **marcado**, esta carta obtiene +1{p}.",
+            "plain": "Acción una vez por turno -- {r}{r}: Ataque. Continuar.\nCuando este ataque impacte a un héroe, puedes elegir destruir esta carta y marcarlo.\nSi esta carta está atacando a un héroe marcado, esta carta obtiene +1{p}.",
+            "html": "<p><strong>Acción una vez por turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Ataque</strong>. <strong>Continuar</strong>.</p>\n<p>Cuando este ataque impacte a un héroe, puedes elegir destruir esta carta y <strong>marcarlo</strong>.</p>\n<p>Si esta carta está atacando a un héroe <strong>marcado</strong>, esta carta obtiene +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT010",
+          "printedLanguageCode": "SP",
+          "printedYear": "2024",
+          "artist": "Marcus Reyno",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_HNT010.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_HNT010.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_HNT010.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

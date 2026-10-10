@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "id": "restless-cleric-1",
+  "name": "Restless Cleric",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Restless Cleric",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": 3,
+      "defense": null,
+      "life": 3,
+      "intellect": null,
+      "typeLine": "Shadow Necromancer Action - Zombie Ally",
+      "traitLine": null,
+      "classes": [
+        "Necromancer"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Ally",
+        "Zombie"
+      ],
+      "text": {
+        "markup": "**Action** -- {t}: Gain 1{h}. **Go again**{br}**Decay**",
+        "plain": "Action -- {t}: Gain 1{h}. Go again\nDecay"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "IAR084",
+      "code": "IAR084",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 84,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR084",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Restless Cleric",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}: Gain 1{h}. **Go again**{br}**Decay** _(At the beginning of your end phase, put a -1{h} counter on this.)_",
+            "plain": "Action -- {t}: Gain 1{h}. Go again\nDecay _(At the beginning of your end phase, put a -1{h} counter on this.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n<p><strong>Decay</strong> <em>(At the beginning of your end phase, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> counter on this.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "IAR084",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Yiian Kho",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR084.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR084.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR084.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IAR084-MV",
+      "code": "IAR084",
+      "language": "en",
+      "set": "IAR",
+      "setNumber": 84,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "usurp-the-shadow-throne",
+      "releaseDate": "2026-09-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-11T13:45:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "IAR084-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Restless Cleric",
+          "typeLine": "Shadow Necromancer Action - Zombie Ally",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}: Gain 1{h}. **Go again**{br}**Decay** _(At the beginning of your end phase, put a -1{h} counter on this.)_",
+            "plain": "Action -- {t}: Gain 1{h}. Go again\nDecay _(At the beginning of your end phase, put a -1{h} counter on this.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n<p><strong>Decay</strong> <em>(At the beginning of your end phase, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> counter on this.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "3",
+            "defense": null,
+            "life": "3",
+            "intellect": null
+          },
+          "printedCode": "IAR084",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Yiian Kho",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": null,
+          "frame": "necromancer",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR084-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR084-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR084-MV.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Decay",
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T19:50:33Z",
+    "rawSha256": "02218453c77bd6d821961e5b93ef635ac75b3f3c41899e4ddd4a5ffb034611d2",
+    "updatedAt": "2026-07-13T19:38:00.840808+12:00"
+  }
+}

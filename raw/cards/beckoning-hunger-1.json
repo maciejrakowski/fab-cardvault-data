@@ -1,0 +1,824 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "dfb8c017-5be3-4956-a1f0-41fcc7f94446",
+      "cores": [
+        {
+          "id": "0c3a6a0c-0567-4f6f-85b3-f19b3436a752",
+          "core_classes": [
+            {
+              "id": 4,
+              "name": "Brute",
+              "name_en": "Brute",
+              "name_fr": "Brute",
+              "name_de": "Rohling",
+              "name_it": "Bruto",
+              "name_es": "Bruto",
+              "name_ja": "野人",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 8,
+              "name": "Shadow",
+              "name_en": "Shadow",
+              "name_fr": "Ombre",
+              "name_de": "Schatten",
+              "name_it": "Ombra",
+              "name_es": "Sombra",
+              "name_ja": "影",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-07-13T19:37:59.291659+12:00",
+          "updated_at": "2026-07-13T19:37:59.291669+12:00",
+          "name": "Beckoning Hunger",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "3",
+          "power": "7",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this attacks, banish the top card of your deck.{br}When this hits, create a Blasmophet, the Insatiable Hunger token.{br}**Blood Debt **",
+          "typebox": "Shadow Brute Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 3,
+          "power_value": 7,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "dfb8c017-5be3-4956-a1f0-41fcc7f94446"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "22981569-9f6c-4fe8-8071-19951be2414b",
+          "faces": [
+            {
+              "id": "f42a3e56-efeb-4b5b-9966-433b67e0c9e8",
+              "created_at": "2026-07-13T19:38:57.674236+12:00",
+              "updated_at": "2026-07-13T19:38:57.674246+12:00",
+              "face_id": "JA_IAR017",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR017",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "誘う飢餓",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたのデッキの上のカードを追放する。{br}これがヒットしたとき、「飽くなき飢餓、ブラスモフェット」トークンを１つ作成する。{br}**血の債務**（これが追放されている間、あなたの終了フェイズの開始時、１{g}を失う）",
+              "printed_flavor_text": "",
+              "printed_typebox": "影・野人・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0c3a6a0c-0567-4f6f-85b3-f19b3436a752",
+              "card_print": "22981569-9f6c-4fe8-8071-19951be2414b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>誘う飢餓</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>影・野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたのデッキの上のカードを追放する。</p>\n<p>これがヒットしたとき、「飽くなき飢餓、ブラスモフェット」トークンを１つ作成する。</p>\n<p><strong>血の債務</strong>（これが追放されている間、あなたの終了フェイズの開始時、１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>を失う）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR017.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR017.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR017.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:57.668324+12:00",
+          "updated_at": "2026-07-18T08:54:20.105151+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR017",
+          "set_number": 17,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "dfb8c017-5be3-4956-a1f0-41fcc7f94446"
+        },
+        {
+          "id": "0b821ebd-c4a1-4032-9ff9-84f8c3457264",
+          "faces": [
+            {
+              "id": "987aaf68-6faf-4d67-8f82-a6cd21370b67",
+              "created_at": "2026-07-13T19:38:57.723204+12:00",
+              "updated_at": "2026-07-13T19:38:57.723220+12:00",
+              "face_id": "JA_IAR017-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR017",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "誘う飢餓",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたのデッキの上のカードを追放する。{br}これがヒットしたとき、「飽くなき飢餓、ブラスモフェット」トークンを１つ作成する。{br}**血の債務**（これが追放されている間、あなたの終了フェイズの開始時、１{g}を失う）",
+              "printed_flavor_text": "",
+              "printed_typebox": "影・野人・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0c3a6a0c-0567-4f6f-85b3-f19b3436a752",
+              "card_print": "0b821ebd-c4a1-4032-9ff9-84f8c3457264",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>誘う飢餓</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>影・野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたのデッキの上のカードを追放する。</p>\n<p>これがヒットしたとき、「飽くなき飢餓、ブラスモフェット」トークンを１つ作成する。</p>\n<p><strong>血の債務</strong>（これが追放されている間、あなたの終了フェイズの開始時、１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>を失う）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_IAR017-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_IAR017-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_IAR017-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "8949a7b5-a885-41f5-8d15-e2c36d72dea1",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.530973+12:00",
+            "updated_at": "2026-07-13T18:14:26.989814+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Usurp the Shadow Throne [JA]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:57.715385+12:00",
+          "updated_at": "2026-07-18T08:54:21.190926+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "JA_IAR017-RF",
+          "set_number": 17,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "dfb8c017-5be3-4956-a1f0-41fcc7f94446"
+        },
+        {
+          "id": "ee250ee4-d24e-47e7-bcf0-edadd74cea1a",
+          "faces": [
+            {
+              "id": "8ba4d0ce-1339-48cc-822a-c643dfa37244",
+              "created_at": "2026-07-13T19:38:33.186633+12:00",
+              "updated_at": "2026-07-13T19:38:33.186651+12:00",
+              "face_id": "IAR017",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR017",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "Beckoning Hunger",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, banish the top card of your deck.{br}When this hits, create a Blasmophet, the Insatiable Hunger token.{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0c3a6a0c-0567-4f6f-85b3-f19b3436a752",
+              "card_print": "ee250ee4-d24e-47e7-bcf0-edadd74cea1a",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Beckoning Hunger</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, banish the top card of your deck.</p>\n<p>When this hits, create a Blasmophet, the Insatiable Hunger token.</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR017.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR017.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR017.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:33.178894+12:00",
+          "updated_at": "2026-07-18T08:54:16.667307+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR017",
+          "set_number": 17,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "dfb8c017-5be3-4956-a1f0-41fcc7f94446"
+        },
+        {
+          "id": "f5e63149-fa37-4c35-a57f-8d67beadcf66",
+          "faces": [
+            {
+              "id": "61ad8ec0-123f-4a89-8eeb-ef8270d118a9",
+              "created_at": "2026-07-13T19:38:33.226986+12:00",
+              "updated_at": "2026-07-13T19:38:33.227000+12:00",
+              "face_id": "IAR017-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR017",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "Beckoning Hunger",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, banish the top card of your deck.{br}When this hits, create a Blasmophet, the Insatiable Hunger token.{br}**Blood Debt** _(While this is banished, at the beginning of your end phase, lose 1{h}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0c3a6a0c-0567-4f6f-85b3-f19b3436a752",
+              "card_print": "f5e63149-fa37-4c35-a57f-8d67beadcf66",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Beckoning Hunger</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, banish the top card of your deck.</p>\n<p>When this hits, create a Blasmophet, the Insatiable Hunger token.</p>\n<p><strong>Blood Debt</strong> <em>(While this is banished, at the beginning of your end phase, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IAR017-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IAR017-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IAR017-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2e6c930a-95aa-4f73-878e-c390371d6372",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.524641+12:00",
+            "updated_at": "2026-07-13T18:14:26.985580+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:33.219143+12:00",
+          "updated_at": "2026-07-18T08:54:16.302976+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "IAR017-RF",
+          "set_number": 17,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "dfb8c017-5be3-4956-a1f0-41fcc7f94446"
+        },
+        {
+          "id": "142dddd7-270e-49f8-aaaa-27465e1e1819",
+          "faces": [
+            {
+              "id": "266b2fdd-568b-4ee6-abe9-48d1b3314f84",
+              "created_at": "2026-07-13T19:38:08.298132+12:00",
+              "updated_at": "2026-07-13T19:38:08.298144+12:00",
+              "face_id": "FR_IAR017",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR017",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "Appétit envoûtant",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, bannissez la carte du dessus de votre deck.{br}Quand cette carte touche, créez un jeton Blasmophet, l’appétit insatiable.{br}**Dette de sang** _(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1{g}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Brute Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0c3a6a0c-0567-4f6f-85b3-f19b3436a752",
+              "card_print": "142dddd7-270e-49f8-aaaa-27465e1e1819",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Appétit envoûtant</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, bannissez la carte du dessus de votre deck.</p>\n<p>Quand cette carte touche, créez un jeton Blasmophet, l’appétit insatiable.</p>\n<p><strong>Dette de sang</strong> <em>(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR017.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR017.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR017.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:08.290345+12:00",
+          "updated_at": "2026-07-18T08:54:20.457970+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR017",
+          "set_number": 17,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "dfb8c017-5be3-4956-a1f0-41fcc7f94446"
+        },
+        {
+          "id": "c5013a7b-e632-4124-82cf-62d8f4f69600",
+          "faces": [
+            {
+              "id": "adde6dbe-e959-4ed4-8743-1a7c1f30efae",
+              "created_at": "2026-07-13T19:38:08.333761+12:00",
+              "updated_at": "2026-07-13T19:38:08.333771+12:00",
+              "face_id": "FR_IAR017-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "IAR017",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "Appétit envoûtant",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, bannissez la carte du dessus de votre deck.{br}Quand cette carte touche, créez un jeton Blasmophet, l’appétit insatiable.{br}**Dette de sang** _(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1{g}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Brute Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0c3a6a0c-0567-4f6f-85b3-f19b3436a752",
+              "card_print": "c5013a7b-e632-4124-82cf-62d8f4f69600",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Appétit envoûtant</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, bannissez la carte du dessus de votre deck.</p>\n<p>Quand cette carte touche, créez un jeton Blasmophet, l’appétit insatiable.</p>\n<p><strong>Dette de sang</strong> <em>(Tant que cette carte est bannie, au début de votre phase de fin, perdez 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_IAR017-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_IAR017-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_IAR017-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "74e66530-66a7-4b6b-9d67-f3762a8f85dd",
+            "product_group": {
+              "id": "eda75338-1b2b-4616-842d-4548bff441c8",
+              "created_at": "2026-07-13T18:14:26.981847+12:00",
+              "updated_at": "2026-07-13T18:14:26.981859+12:00",
+              "group_name": "Usurp the Shadow Throne",
+              "product_type": "booster",
+              "release_date": "2026-09-25",
+              "slug": "usurp-the-shadow-throne"
+            },
+            "created_at": "2026-07-13T18:14:26.536749+12:00",
+            "updated_at": "2026-07-13T18:14:26.987758+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Usurp the Shadow Throne [FR]",
+            "product_type": "booster",
+            "release_date": "2026-09-25",
+            "slug": "usurp-the-shadow-throne-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "581e66e8-8693-4a68-a84e-d38c9eab7790",
+            "created_at": "2026-05-22T19:18:41.064144+12:00",
+            "updated_at": "2026-07-13T17:01:50.280267+12:00",
+            "set_code": "IAR",
+            "set_name": "Usurp the Shadow Throne",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-13T19:38:08.326516+12:00",
+          "updated_at": "2026-07-18T08:54:17.708953+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-11T13:45:00+12:00",
+          "print_id": "FR_IAR017-RF",
+          "set_number": 17,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "dfb8c017-5be3-4956-a1f0-41fcc7f94446"
+        },
+        {
+          "id": "05104bb1-e289-477c-bbee-aeb869375142",
+          "faces": [
+            {
+              "id": "3496526f-4011-4159-90cd-892af778cbec",
+              "created_at": "2026-07-14T20:33:35.987688+12:00",
+              "updated_at": "2026-07-18T06:19:46.285684+12:00",
+              "face_id": "JDG088-CF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "JDG088",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "Beckoning Hunger",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, banish the top card of your deck.{br}When this hits, create a Blasmophet, the Insatiable Hunger token.{br}**Blood Debt**",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Brute Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0c3a6a0c-0567-4f6f-85b3-f19b3436a752",
+              "card_print": "05104bb1-e289-477c-bbee-aeb869375142",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Beckoning Hunger</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, banish the top card of your deck.</p>\n<p>When this hits, create a Blasmophet, the Insatiable Hunger token.</p>\n<p><strong>Blood Debt</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG088-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG088-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG088-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "eb22f1d4-c7a4-4fa1-9ec6-639f03fcce6f",
+            "product_group": null,
+            "created_at": "2026-07-13T18:14:26.628622+12:00",
+            "updated_at": "2026-07-13T18:14:26.628631+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Judge Pack - Usurp the Shadow Throne",
+            "product_type": "booster",
+            "release_date": "2026-09-11",
+            "slug": "judge-pack-usurp-the-shadow-throne",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "51193f7c-85ba-4057-bffa-2c8e4358604d",
+            "created_at": "2025-09-18T06:45:12.737365+12:00",
+            "updated_at": "2025-09-18T06:45:12.737375+12:00",
+            "set_code": "JDG",
+            "set_name": "Judge Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-14T20:33:35.980283+12:00",
+          "updated_at": "2026-08-09T17:01:04.895240+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-08-09T17:00:00+12:00",
+          "print_id": "JDG088-CF",
+          "set_number": 88,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "dfb8c017-5be3-4956-a1f0-41fcc7f94446"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-07-13T19:37:59.284966+12:00",
+      "updated_at": "2026-07-13T19:37:59.284977+12:00",
+      "card_id": "beckoning-hunger-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

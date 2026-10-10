@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "undead-grasp",
+  "language": "ja",
+  "name": "死者の掌握",
+  "cores": [
+    {
+      "position": 10,
+      "name": "死者の掌握",
+      "typeLine": "影・死霊術師・装備品 － 腕",
+      "talents": [
+        "影"
+      ],
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "腕"
+      ],
+      "text": {
+        "markup": "**アクション** -- {r}, ゾンビを１枚捨てる, これを破壊する：このターン、あなたの次のゾンビの攻撃は＋３ {p}と「これがヒットしたとき、このゾンビを破壊する」を得る。**続行**{br}**戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+        "plain": "アクション -- {r}, ゾンビを１枚捨てる, これを破壊する：このターン、あなたの次のゾンビの攻撃は＋３ {p}と「これがヒットしたとき、このゾンビを破壊する」を得る。続行\n戦傷（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+        "html": "<p><strong>アクション</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, ゾンビを１枚捨てる, これを破壊する：このターン、あなたの次のゾンビの攻撃は＋３ <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>と「これがヒットしたとき、このゾンビを破壊する」を得る。<strong>続行</strong></p>\n<p><strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_AMA005-RF",
+      "code": "AMA005",
+      "language": "ja",
+      "set": "AMA",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-malice-domina-of-the-dead-ja",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-09T10:17:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AMA005-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "死者の掌握",
+          "typeLine": "影・死霊術師・装備品 － 腕",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション** -- {r}, ゾンビを１枚捨てる, これを破壊する：このターン、あなたの次のゾンビの攻撃は＋３ {p}と「これがヒットしたとき、このゾンビを破壊する」を得る。**続行**{br}**戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+            "plain": "アクション -- {r}, ゾンビを１枚捨てる, これを破壊する：このターン、あなたの次のゾンビの攻撃は＋３ {p}と「これがヒットしたとき、このゾンビを破壊する」を得る。続行\n戦傷（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+            "html": "<p><strong>アクション</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, ゾンビを１枚捨てる, これを破壊する：このターン、あなたの次のゾンビの攻撃は＋３ <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>と「これがヒットしたとき、このゾンビを破壊する」を得る。<strong>続行</strong></p>\n<p><strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMA005",
+          "printedLanguageCode": "jp",
+          "printedYear": "2026",
+          "artist": "Brian Madya Narendra",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AMA005-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AMA005-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AMA005-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

@@ -1,0 +1,920 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "ebd71be3-b1d4-43a6-9025-e4960593b59a",
+      "cores": [
+        {
+          "id": "bc45b3ff-72e9-4676-bc92-9da18be947b5",
+          "core_classes": [
+            {
+              "id": 15,
+              "name": "Wizard",
+              "name_en": "Wizard",
+              "name_fr": "Sorcier",
+              "name_de": "Zauberer",
+              "name_it": "Mago",
+              "name_es": "Mago",
+              "name_ja": "魔術師",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 6,
+              "name": "Lightning",
+              "name_en": "Lightning",
+              "name_fr": "Foudre",
+              "name_de": "Blitz",
+              "name_it": "Fulmine",
+              "name_es": "Relámpago",
+              "name_ja": "稲妻",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 8,
+              "name": "Instant",
+              "name_en": "Instant",
+              "name_fr": "Instantané",
+              "name_de": "Spontan",
+              "name_it": "Istantaneo",
+              "name_es": "Instantáneo",
+              "name_ja": "インスタント",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [],
+          "created_at": "2026-03-03T15:44:04.127625+13:00",
+          "updated_at": "2026-03-03T15:44:04.127633+13:00",
+          "name": "Constella Contemplation",
+          "layout_position": 10,
+          "pitch": "2",
+          "pitch_chi": "0",
+          "color": "yellow",
+          "cost": "0",
+          "power": "",
+          "defense": "",
+          "intellect": "",
+          "life": "",
+          "textbox": "Create a Ponder token.{br}**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero.",
+          "typebox": "Lightning Wizard Instant",
+          "traitbox": "",
+          "pitch_value": 2,
+          "pitch_chi_value": 0,
+          "cost_value": 0,
+          "power_value": null,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "ebd71be3-b1d4-43a6-9025-e4960593b59a"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "8ecd0cf2-06fe-41ab-81ef-d7c84af48bf6",
+          "faces": [
+            {
+              "id": "326948cf-5add-4523-8144-860ec4f3fe57",
+              "created_at": "2026-03-30T10:35:53.184878+13:00",
+              "updated_at": "2026-03-30T10:35:53.184897+13:00",
+              "face_id": "GEM156",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM156",
+              "printed_artist": "Olga Tereshenko",
+              "printed_name": "Constella Contemplation",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Create a Ponder token. **Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Wizard Instant",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc45b3ff-72e9-4676-bc92-9da18be947b5",
+              "card_print": "8ecd0cf2-06fe-41ab-81ef-d7c84af48bf6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Constella Contemplation</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Wizard Instant</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Create a Ponder token. <strong>Starfall</strong> - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM156.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM156.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM156.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "a2e91bac-3a97-4d4f-bbbf-6dc4f17be9c1",
+            "product_group": {
+              "id": "f91f50c4-85c3-43fe-955e-272a1bc15184",
+              "created_at": "2026-05-25T11:24:33.149188+12:00",
+              "updated_at": "2026-05-25T11:26:08.056484+12:00",
+              "group_name": "GEM - Pack 5",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "gem-pack-5"
+            },
+            "created_at": "2026-03-29T22:50:54.743068+13:00",
+            "updated_at": "2026-05-25T11:25:38.676993+12:00",
+            "printed_date": "2025-12-29",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 5",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "gem-pack-5",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-30T10:35:53.177258+13:00",
+          "updated_at": "2026-05-25T11:22:48.027968+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM156",
+          "set_number": 156,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "ebd71be3-b1d4-43a6-9025-e4960593b59a"
+        },
+        {
+          "id": "6cf65c5f-88be-4d19-98aa-bb63a5c5d8d5",
+          "faces": [
+            {
+              "id": "07e7b182-39f6-4465-a446-9d780c00e6ea",
+              "created_at": "2026-03-30T10:35:53.218070+13:00",
+              "updated_at": "2026-03-30T10:35:53.218085+13:00",
+              "face_id": "GEM156-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM156",
+              "printed_artist": "Olga Tereshenko",
+              "printed_name": "Constella Contemplation",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Create a Ponder token. **Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Wizard Instant",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc45b3ff-72e9-4676-bc92-9da18be947b5",
+              "card_print": "6cf65c5f-88be-4d19-98aa-bb63a5c5d8d5",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Constella Contemplation</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Wizard Instant</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Create a Ponder token. <strong>Starfall</strong> - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM156-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM156-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM156-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "a2e91bac-3a97-4d4f-bbbf-6dc4f17be9c1",
+            "product_group": {
+              "id": "f91f50c4-85c3-43fe-955e-272a1bc15184",
+              "created_at": "2026-05-25T11:24:33.149188+12:00",
+              "updated_at": "2026-05-25T11:26:08.056484+12:00",
+              "group_name": "GEM - Pack 5",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "gem-pack-5"
+            },
+            "created_at": "2026-03-29T22:50:54.743068+13:00",
+            "updated_at": "2026-05-25T11:25:38.676993+12:00",
+            "printed_date": "2025-12-29",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 5",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "gem-pack-5",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-30T10:35:53.209096+13:00",
+          "updated_at": "2026-05-25T11:22:49.822186+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "GEM156-RF",
+          "set_number": 156,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "ebd71be3-b1d4-43a6-9025-e4960593b59a"
+        },
+        {
+          "id": "f3de4590-687a-45bc-b7d5-aea64482084c",
+          "faces": [
+            {
+              "id": "8e7d8fa8-d6a5-4e68-aa2d-80466de23aa4",
+              "created_at": "2026-03-03T15:44:53.106171+13:00",
+              "updated_at": "2026-03-03T15:44:53.106179+13:00",
+              "face_id": "FR_OMN130",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN130",
+              "printed_artist": "Olga Tereshenko",
+              "printed_name": "Contemplation de constellation",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Créez un jeton Contemplation.{br}**Pluie d’étoiles** - Si une carte d’instantané a été mise dans votre cimetière ce tour-ci, infligez 1 dégât arcane au héros ciblé.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Sorcier Instantané",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc45b3ff-72e9-4676-bc92-9da18be947b5",
+              "card_print": "f3de4590-687a-45bc-b7d5-aea64482084c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Contemplation de constellation</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Sorcier Instantané</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Créez un jeton Contemplation.</p>\n<p><strong>Pluie d’étoiles</strong> - Si une carte d’instantané a été mise dans votre cimetière ce tour-ci, infligez 1 dégât arcane au héros ciblé.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN130.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN130.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN130.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:53.099496+13:00",
+          "updated_at": "2026-05-22T20:02:11.967035+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "FR_OMN130",
+          "set_number": 130,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "ebd71be3-b1d4-43a6-9025-e4960593b59a"
+        },
+        {
+          "id": "f0f40950-5bb3-4272-ab21-fde7d011a03c",
+          "faces": [
+            {
+              "id": "ddcacd35-5359-458b-a22b-36f45aefbd0b",
+              "created_at": "2026-03-03T15:44:53.140636+13:00",
+              "updated_at": "2026-03-03T15:44:53.140644+13:00",
+              "face_id": "FR_OMN130-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN130",
+              "printed_artist": "Olga Tereshenko",
+              "printed_name": "Contemplation de constellation",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Créez un jeton Contemplation.{br}**Pluie d’étoiles** - Si une carte d’instantané a été mise dans votre cimetière ce tour-ci, infligez 1 dégât arcane au héros ciblé.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Sorcier Instantané",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc45b3ff-72e9-4676-bc92-9da18be947b5",
+              "card_print": "f0f40950-5bb3-4272-ab21-fde7d011a03c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Contemplation de constellation</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Sorcier Instantané</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Créez un jeton Contemplation.</p>\n<p><strong>Pluie d’étoiles</strong> - Si une carte d’instantané a été mise dans votre cimetière ce tour-ci, infligez 1 dégât arcane au héros ciblé.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN130-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN130-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN130-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:53.134056+13:00",
+          "updated_at": "2026-05-22T20:02:12.330969+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "FR_OMN130-RF",
+          "set_number": 130,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "ebd71be3-b1d4-43a6-9025-e4960593b59a"
+        },
+        {
+          "id": "b7886844-23eb-44ee-9301-e762c3982c67",
+          "faces": [
+            {
+              "id": "197715cb-502b-43f4-9853-598b843a13d0",
+              "created_at": "2026-03-03T15:44:53.173294+13:00",
+              "updated_at": "2026-03-03T15:44:53.173302+13:00",
+              "face_id": "JA_OMN130",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN130",
+              "printed_artist": "Olga Tereshenko",
+              "printed_name": "星々の瞑想",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "「熟考」トークンを１つ作成する。{br}**落星** － このターンにインスタントカードがあなたの墓地に置かれていた場合、対象のヒーロー１人に秘術ダメージを１点与える。",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・魔術師・インスタント",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc45b3ff-72e9-4676-bc92-9da18be947b5",
+              "card_print": "b7886844-23eb-44ee-9301-e762c3982c67",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>星々の瞑想</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・魔術師・インスタント</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>「熟考」トークンを１つ作成する。</p>\n<p><strong>落星</strong> － このターンにインスタントカードがあなたの墓地に置かれていた場合、対象のヒーロー１人に秘術ダメージを１点与える。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN130.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN130.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN130.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:53.166724+13:00",
+          "updated_at": "2026-05-22T20:02:13.406182+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "JA_OMN130",
+          "set_number": 130,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "ebd71be3-b1d4-43a6-9025-e4960593b59a"
+        },
+        {
+          "id": "9a353359-9ee8-4d39-b83c-87815b8d9a13",
+          "faces": [
+            {
+              "id": "39a586ec-60b1-4bc2-82cc-d7b6f4812ce1",
+              "created_at": "2026-03-03T15:44:53.207795+13:00",
+              "updated_at": "2026-03-03T15:44:53.207807+13:00",
+              "face_id": "JA_OMN130-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN130",
+              "printed_artist": "Olga Tereshenko",
+              "printed_name": "星々の瞑想",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "「熟考」トークンを１つ作成する。{br}**落星** － このターンにインスタントカードがあなたの墓地に置かれていた場合、対象のヒーロー１人に秘術ダメージを１点与える。",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・魔術師・インスタント",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc45b3ff-72e9-4676-bc92-9da18be947b5",
+              "card_print": "9a353359-9ee8-4d39-b83c-87815b8d9a13",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>星々の瞑想</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・魔術師・インスタント</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>「熟考」トークンを１つ作成する。</p>\n<p><strong>落星</strong> － このターンにインスタントカードがあなたの墓地に置かれていた場合、対象のヒーロー１人に秘術ダメージを１点与える。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN130-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN130-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN130-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:53.201109+13:00",
+          "updated_at": "2026-05-22T20:02:14.926391+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "JA_OMN130-RF",
+          "set_number": 130,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "ebd71be3-b1d4-43a6-9025-e4960593b59a"
+        },
+        {
+          "id": "a01924d6-1de3-40d4-a799-edb80b19ff9f",
+          "faces": [
+            {
+              "id": "af33c98f-5313-491a-b331-186917ffa571",
+              "created_at": "2026-03-03T15:44:53.240982+13:00",
+              "updated_at": "2026-03-03T15:44:53.240990+13:00",
+              "face_id": "OMN130",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN130",
+              "printed_artist": "Olga Tereshenko",
+              "printed_name": "Constella Contemplation",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Create a Ponder token.{br}**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Wizard Instant",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc45b3ff-72e9-4676-bc92-9da18be947b5",
+              "card_print": "a01924d6-1de3-40d4-a799-edb80b19ff9f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Constella Contemplation</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Wizard Instant</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Create a Ponder token.</p>\n<p><strong>Starfall</strong> - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN130.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN130.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN130.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:53.234309+13:00",
+          "updated_at": "2026-05-22T20:02:14.167853+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "OMN130",
+          "set_number": 130,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "ebd71be3-b1d4-43a6-9025-e4960593b59a"
+        },
+        {
+          "id": "e1513ad1-b11c-434c-9111-d0220ec9a82e",
+          "faces": [
+            {
+              "id": "2af197ad-5294-4688-a331-37c351376973",
+              "created_at": "2026-03-03T15:44:53.275452+13:00",
+              "updated_at": "2026-03-03T15:44:53.275460+13:00",
+              "face_id": "OMN130-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN130",
+              "printed_artist": "Olga Tereshenko",
+              "printed_name": "Constella Contemplation",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Create a Ponder token.{br}**Starfall** - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Wizard Instant",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bc45b3ff-72e9-4676-bc92-9da18be947b5",
+              "card_print": "e1513ad1-b11c-434c-9111-d0220ec9a82e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Constella Contemplation</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Wizard Instant</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Create a Ponder token.</p>\n<p><strong>Starfall</strong> - If an instant card has been put into your graveyard this turn, deal 1 arcane damage to target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN130-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN130-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN130-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:53.268608+13:00",
+          "updated_at": "2026-05-22T20:04:01.625407+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "OMN130-RF",
+          "set_number": 130,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "ebd71be3-b1d4-43a6-9025-e4960593b59a"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-03-03T15:44:04.119176+13:00",
+      "updated_at": "2026-03-03T15:44:04.119184+13:00",
+      "card_id": "constella-contemplation-2",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

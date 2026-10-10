@@ -1,0 +1,323 @@
+{
+  "schemaVersion": 1,
+  "id": "snarky-prick-1",
+  "name": "Snarky Prick",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Snarky Prick",
+      "pitch": 1,
+      "chi": 0,
+      "color": "red",
+      "cost": 0,
+      "power": 1,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Reviled Action - Attack",
+      "traitLine": null,
+      "classes": [],
+      "talents": [
+        "Reviled"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this attacks a hero, look at the top card of their deck. If it’s red, you may destroy it. If you do, this gets +4{p}.",
+        "plain": "When this attacks a hero, look at the top card of their deck. If it’s red, you may destroy it. If you do, this gets +4{p}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #10] Snarky Prick - card destruction is optional",
+      "description": "This card's textbox was updated to make its card destruction effect optional, so that it was not either fail-able or not depending on whether the owner of the destroyed card could verify the color of the top card of their deck.",
+      "date": "09-03-2026"
+    }
+  ],
+  "printings": [
+    {
+      "id": "GEM139",
+      "code": "GEM139",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 139,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-4",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM139",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snarky Prick",
+          "typeLine": "Reviled Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4{p}.",
+            "plain": "When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4{p}.",
+            "html": "<p>When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "1",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM139",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM139.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM139.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM139.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM139-RF",
+      "code": "GEM139",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 139,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-4",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM139-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snarky Prick",
+          "typeLine": "Reviled Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4{p}.",
+            "plain": "When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4{p}.",
+            "html": "<p>When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "1",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM139",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM139-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM139-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM139-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PEN302",
+      "code": "PEN302",
+      "language": "en",
+      "set": "PEN",
+      "setNumber": 302,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "compendium-of-rathe",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-31T12:45:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "PEN302",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snarky Prick",
+          "typeLine": "Reviled Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4{p}.",
+            "plain": "When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4{p}.",
+            "html": "<p>When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "1",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "PEN302",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN302.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN302.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN302.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PEN302-RF",
+      "code": "PEN302",
+      "language": "en",
+      "set": "PEN",
+      "setNumber": 302,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "compendium-of-rathe",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-31T12:45:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "PEN302-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snarky Prick",
+          "typeLine": "Reviled Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4{p}.",
+            "plain": "When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4{p}.",
+            "html": "<p>When this attacks a hero, look at the top card of their deck. If it's red, destroy it and this gets +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "1",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "PEN302",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN302-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN302-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN302-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:30:48Z",
+    "rawSha256": "dfc6b8794f89ce9c38ca6f8d9c66c2fb0c829185f7637a03678bba1db75f5f18",
+    "updatedAt": "2025-11-14T13:40:35.620466+13:00"
+  }
+}

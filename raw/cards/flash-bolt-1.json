@@ -1,0 +1,920 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "d573ed4a-95a6-4aeb-a9f1-b5a2f3493b0c",
+      "cores": [
+        {
+          "id": "ade4f79d-dc75-4f01-b199-87a6d1a6da35",
+          "core_classes": [
+            {
+              "id": 15,
+              "name": "Wizard",
+              "name_en": "Wizard",
+              "name_fr": "Sorcier",
+              "name_de": "Zauberer",
+              "name_it": "Mago",
+              "name_es": "Mago",
+              "name_ja": "魔術師",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 6,
+              "name": "Lightning",
+              "name_en": "Lightning",
+              "name_fr": "Foudre",
+              "name_de": "Blitz",
+              "name_it": "Fulmine",
+              "name_es": "Relámpago",
+              "name_ja": "稲妻",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 8,
+              "name": "Instant",
+              "name_en": "Instant",
+              "name_fr": "Instantané",
+              "name_de": "Spontan",
+              "name_it": "Istantaneo",
+              "name_es": "Instantáneo",
+              "name_ja": "インスタント",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [],
+          "created_at": "2026-03-03T15:44:03.590565+13:00",
+          "updated_at": "2026-03-03T15:44:03.590572+13:00",
+          "name": "Flash Bolt",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "2",
+          "color": "red",
+          "cost": "2",
+          "power": "",
+          "defense": "",
+          "intellect": "",
+          "life": "",
+          "textbox": "Deal 3 arcane damage to target hero.",
+          "typebox": "Lightning Wizard Instant",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": 2,
+          "cost_value": 2,
+          "power_value": null,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "d573ed4a-95a6-4aeb-a9f1-b5a2f3493b0c"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "ce86f815-a3c2-4aa0-be63-0f34c4d8a757",
+          "faces": [
+            {
+              "id": "4a63fac5-6ddb-4189-b49e-e53768ae7619",
+              "created_at": "2026-03-03T15:44:47.596957+13:00",
+              "updated_at": "2026-03-03T15:44:47.596970+13:00",
+              "face_id": "FR_OMN106",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN106",
+              "printed_artist": "Surya Prasetya",
+              "printed_name": "Éclair fulgurant",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Infligez 3 dégâts arcanes au héros ciblé.",
+              "printed_flavor_text": "_« La foudre purifiera les cieux de Volthavre de ces intrus. » – Reznyr Eldingsturm_",
+              "printed_typebox": "Foudre Sorcier Instantané",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ade4f79d-dc75-4f01-b199-87a6d1a6da35",
+              "card_print": "ce86f815-a3c2-4aa0-be63-0f34c4d8a757",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Éclair fulgurant</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Sorcier Instantané</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Infligez 3 dégâts arcanes au héros ciblé.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>« La foudre purifiera les cieux de Volthavre de ces intrus. » – Reznyr Eldingsturm</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN106.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN106.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN106.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:47.589424+13:00",
+          "updated_at": "2026-05-22T20:01:38.303569+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "FR_OMN106",
+          "set_number": 106,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "d573ed4a-95a6-4aeb-a9f1-b5a2f3493b0c"
+        },
+        {
+          "id": "54c1a050-5119-4e15-921e-da95391e4963",
+          "faces": [
+            {
+              "id": "2999684b-a682-4334-9394-0cc0c90b98f9",
+              "created_at": "2026-03-03T15:44:47.633362+13:00",
+              "updated_at": "2026-03-03T15:44:47.633370+13:00",
+              "face_id": "FR_OMN106-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN106",
+              "printed_artist": "Surya Prasetya",
+              "printed_name": "Éclair fulgurant",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Infligez 3 dégâts arcanes au héros ciblé.",
+              "printed_flavor_text": "_« La foudre purifiera les cieux de Volthavre de ces intrus. » – Reznyr Eldingsturm_",
+              "printed_typebox": "Foudre Sorcier Instantané",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ade4f79d-dc75-4f01-b199-87a6d1a6da35",
+              "card_print": "54c1a050-5119-4e15-921e-da95391e4963",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Éclair fulgurant</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Sorcier Instantané</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Infligez 3 dégâts arcanes au héros ciblé.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>« La foudre purifiera les cieux de Volthavre de ces intrus. » – Reznyr Eldingsturm</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN106-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN106-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN106-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:47.626414+13:00",
+          "updated_at": "2026-05-22T20:01:43.303224+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "FR_OMN106-RF",
+          "set_number": 106,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "d573ed4a-95a6-4aeb-a9f1-b5a2f3493b0c"
+        },
+        {
+          "id": "d77629c9-e25e-4393-8631-fcecbb8542bd",
+          "faces": [
+            {
+              "id": "9723d88f-d5c3-4c0c-8c66-02ca6fdff929",
+              "created_at": "2026-03-03T15:44:47.669714+13:00",
+              "updated_at": "2026-03-03T15:44:47.669722+13:00",
+              "face_id": "JA_OMN106",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN106",
+              "printed_artist": "Surya Prasetya",
+              "printed_name": "閃雷",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "対象のヒーロー１人に秘術ダメージを３点与える。",
+              "printed_flavor_text": "「稲妻の力で、侵入者どもをボルトヘイヴンの空から一掃してやる」 ― レズニル・エルディングシュトルム",
+              "printed_typebox": "稲妻・魔術師・インスタント",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ade4f79d-dc75-4f01-b199-87a6d1a6da35",
+              "card_print": "d77629c9-e25e-4393-8631-fcecbb8542bd",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>閃雷</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・魔術師・インスタント</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>対象のヒーロー１人に秘術ダメージを３点与える。</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>「稲妻の力で、侵入者どもをボルトヘイヴンの空から一掃してやる」 ― レズニル・エルディングシュトルム</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN106.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN106.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN106.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:47.662804+13:00",
+          "updated_at": "2026-05-22T20:01:37.922464+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "JA_OMN106",
+          "set_number": 106,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "d573ed4a-95a6-4aeb-a9f1-b5a2f3493b0c"
+        },
+        {
+          "id": "4e798715-0d25-43fb-b482-dd6186fc1a25",
+          "faces": [
+            {
+              "id": "853b3d31-ee96-4519-a65d-4c340f4d1e20",
+              "created_at": "2026-03-03T15:44:47.787234+13:00",
+              "updated_at": "2026-03-03T15:44:47.787242+13:00",
+              "face_id": "JA_OMN106-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN106",
+              "printed_artist": "Surya Prasetya",
+              "printed_name": "閃雷",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "対象のヒーロー１人に秘術ダメージを３点与える。",
+              "printed_flavor_text": "「稲妻の力で、侵入者どもをボルトヘイヴンの空から一掃してやる」 ― レズニル・エルディングシュトルム",
+              "printed_typebox": "稲妻・魔術師・インスタント",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ade4f79d-dc75-4f01-b199-87a6d1a6da35",
+              "card_print": "4e798715-0d25-43fb-b482-dd6186fc1a25",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>閃雷</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・魔術師・インスタント</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>対象のヒーロー１人に秘術ダメージを３点与える。</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>「稲妻の力で、侵入者どもをボルトヘイヴンの空から一掃してやる」 ― レズニル・エルディングシュトルム</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN106-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN106-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN106-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:47.780228+13:00",
+          "updated_at": "2026-05-22T20:01:44.045693+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "JA_OMN106-RF",
+          "set_number": 106,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "d573ed4a-95a6-4aeb-a9f1-b5a2f3493b0c"
+        },
+        {
+          "id": "5262175c-f65d-4da7-9cc5-51f7aa48ab1f",
+          "faces": [
+            {
+              "id": "0799cec1-8968-41c2-b84f-4d16da024ead",
+              "created_at": "2026-03-03T15:44:47.823440+13:00",
+              "updated_at": "2026-03-03T15:44:47.823448+13:00",
+              "face_id": "OMN106",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN106",
+              "printed_artist": "Surya Prasetya",
+              "printed_name": "Flash Bolt",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Deal 3 arcane damage to target hero.",
+              "printed_flavor_text": "\"With lightning we'll scour these intruders from Volthaven's skies.\" - Reznyr Eldingsturm",
+              "printed_typebox": "Lightning Wizard Instant",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ade4f79d-dc75-4f01-b199-87a6d1a6da35",
+              "card_print": "5262175c-f65d-4da7-9cc5-51f7aa48ab1f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Flash Bolt</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Wizard Instant</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Deal 3 arcane damage to target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>&quot;With lightning we'll scour these intruders from Volthaven's skies.&quot; - Reznyr Eldingsturm</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN106.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN106.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN106.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:47.816470+13:00",
+          "updated_at": "2026-05-22T20:01:43.726590+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "OMN106",
+          "set_number": 106,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "d573ed4a-95a6-4aeb-a9f1-b5a2f3493b0c"
+        },
+        {
+          "id": "bfc6dd9c-cde4-4988-b12f-169e2cb297a1",
+          "faces": [
+            {
+              "id": "3537ef07-326e-492a-abe1-41cf56a04a02",
+              "created_at": "2026-03-03T15:44:47.859842+13:00",
+              "updated_at": "2026-03-03T15:44:47.859851+13:00",
+              "face_id": "OMN106-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN106",
+              "printed_artist": "Surya Prasetya",
+              "printed_name": "Flash Bolt",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Deal 3 arcane damage to target hero.",
+              "printed_flavor_text": "\"With lightning we'll scour these intruders from Volthaven's skies.\" - Reznyr Eldingsturm",
+              "printed_typebox": "Lightning Wizard Instant",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ade4f79d-dc75-4f01-b199-87a6d1a6da35",
+              "card_print": "bfc6dd9c-cde4-4988-b12f-169e2cb297a1",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Flash Bolt</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Wizard Instant</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Deal 3 arcane damage to target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>&quot;With lightning we'll scour these intruders from Volthaven's skies.&quot; - Reznyr Eldingsturm</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN106-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN106-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN106-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:47.853078+13:00",
+          "updated_at": "2026-05-22T20:01:38.675493+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-05-22T20:00:00+12:00",
+          "print_id": "OMN106-RF",
+          "set_number": 106,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "d573ed4a-95a6-4aeb-a9f1-b5a2f3493b0c"
+        },
+        {
+          "id": "7293ddc9-b6c1-4c91-9e24-37045b5fa0e1",
+          "faces": [
+            {
+              "id": "ee00f115-6d8b-4e3b-ad1c-93e93ec9e0f0",
+              "created_at": "2026-07-14T20:33:35.354291+12:00",
+              "updated_at": "2026-07-14T20:33:35.354301+12:00",
+              "face_id": "GEM215",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM215",
+              "printed_artist": "Surya Prasetya",
+              "printed_name": "Flash Bolt",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Deal 3 arcane damage to target hero.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Wizard Instant",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ade4f79d-dc75-4f01-b199-87a6d1a6da35",
+              "card_print": "7293ddc9-b6c1-4c91-9e24-37045b5fa0e1",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Flash Bolt</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Wizard Instant</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Deal 3 arcane damage to target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM215.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM215.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM215.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "eff750c4-6ea4-4656-bce6-b497efe2491f",
+            "product_group": {
+              "id": "0fd44182-de3f-40ac-894e-ace1ca103655",
+              "created_at": "2026-09-11T13:07:08.769265+12:00",
+              "updated_at": "2026-09-11T13:07:08.769275+12:00",
+              "group_name": "GEM - Pack 6",
+              "product_type": "booster",
+              "release_date": "2026-10-01",
+              "slug": "gem-pack-6"
+            },
+            "created_at": "2026-07-13T18:14:26.634144+12:00",
+            "updated_at": "2026-09-11T13:07:26.305760+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 6",
+            "product_type": "booster",
+            "release_date": "2026-10-01",
+            "slug": "gem-pack-6",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-14T20:33:35.347001+12:00",
+          "updated_at": "2026-09-07T10:50:26.390918+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-07T10:42:00+12:00",
+          "print_id": "GEM215",
+          "set_number": 215,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "d573ed4a-95a6-4aeb-a9f1-b5a2f3493b0c"
+        },
+        {
+          "id": "e5a4344f-b53e-4710-a6a3-b5d591a69180",
+          "faces": [
+            {
+              "id": "4a548a92-8ca7-4db2-88c6-db9000f4e277",
+              "created_at": "2026-07-14T20:33:35.375471+12:00",
+              "updated_at": "2026-07-14T20:33:35.375481+12:00",
+              "face_id": "GEM215-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "GEM215",
+              "printed_artist": "Surya Prasetya",
+              "printed_name": "Flash Bolt",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Deal 3 arcane damage to target hero.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Wizard Instant",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "ade4f79d-dc75-4f01-b199-87a6d1a6da35",
+              "card_print": "e5a4344f-b53e-4710-a6a3-b5d591a69180",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Flash Bolt</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Wizard Instant</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Deal 3 arcane damage to target hero.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM215-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM215-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM215-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "eff750c4-6ea4-4656-bce6-b497efe2491f",
+            "product_group": {
+              "id": "0fd44182-de3f-40ac-894e-ace1ca103655",
+              "created_at": "2026-09-11T13:07:08.769265+12:00",
+              "updated_at": "2026-09-11T13:07:08.769275+12:00",
+              "group_name": "GEM - Pack 6",
+              "product_type": "booster",
+              "release_date": "2026-10-01",
+              "slug": "gem-pack-6"
+            },
+            "created_at": "2026-07-13T18:14:26.634144+12:00",
+            "updated_at": "2026-09-11T13:07:26.305760+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "GEM - Pack 6",
+            "product_type": "booster",
+            "release_date": "2026-10-01",
+            "slug": "gem-pack-6",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "66341c66-b739-4aa0-88e7-4323ed879842",
+            "created_at": "2025-09-18T06:45:12.675908+12:00",
+            "updated_at": "2025-09-18T06:45:12.675922+12:00",
+            "set_code": "GEM",
+            "set_name": "GEM Pack",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-07-14T20:33:35.368072+12:00",
+          "updated_at": "2026-09-07T10:50:25.992113+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-09-07T10:42:00+12:00",
+          "print_id": "GEM215-RF",
+          "set_number": 215,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "d573ed4a-95a6-4aeb-a9f1-b5a2f3493b0c"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-03-03T15:44:03.581924+13:00",
+      "updated_at": "2026-03-03T15:44:03.581932+13:00",
+      "card_id": "flash-bolt-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "schemaVersion": 1,
+  "translations": {
+    "classes": {
+      "Assassin": {
+        "de": "Assassine",
+        "es": "Asesino",
+        "fr": "Assassin",
+        "it": "Assassino",
+        "ja": "暗殺者"
+      },
+      "Brute": {
+        "de": "Rohling",
+        "es": "Bruto",
+        "fr": "Brute",
+        "it": "Bruto",
+        "ja": "野人"
+      },
+      "Generic": {
+        "de": "Allgemein",
+        "es": "Genérico/a",
+        "fr": "Générique",
+        "it": "Generico/a",
+        "ja": "汎用"
+      },
+      "Guardian": {
+        "de": "Wächter",
+        "es": "Guardián",
+        "fr": "Gardien",
+        "it": "Guardiano",
+        "ja": "守護者"
+      },
+      "Illusionist": {
+        "de": "Illusionist",
+        "es": "Ilusionista",
+        "fr": "Illusionniste",
+        "it": "Illusionista",
+        "ja": "幻術士"
+      },
+      "Mechanologist": {
+        "de": "Mechanologisch",
+        "es": "Mecanólogo",
+        "fr": "Mécanologue",
+        "it": "Meccanologo",
+        "ja": "機械技師"
+      },
+      "Ninja": {
+        "de": "Ninja",
+        "es": "Ninja",
+        "fr": "Ninja",
+        "it": "Ninja",
+        "ja": "忍者"
+      },
+      "Ranger": {
+        "de": "Waldläufer",
+        "es": "Explorador",
+        "fr": "Ranger",
+        "it": "Ranger",
+        "ja": "レンジャー"
+      },
+      "Runeblade": {
+        "de": "Runenklinge",
+        "es": "Filorruna",
+        "fr": "Lamerune",
+        "it": "Runalama",
+        "ja": "ルーン剣士"
+      },
+      "Warrior": {
+        "de": "Krieger",
+        "es": "Guerrero",
+        "fr": "Guerrier",
+        "it": "Guerriero",
+        "ja": "戦士"
+      },
+      "Wizard": {
+        "de": "Zauberer",
+        "es": "Mago",
+        "fr": "Sorcier",
+        "it": "Mago",
+        "ja": "魔術師"
+      }
+    },
+    "subtypes": {
+      "(1H)": {
+        "de": "(1H)",
+        "es": "(1M)",
+        "fr": "(1M)",
+        "it": "(1M)",
+        "ja": "（片手）"
+      },
+      "(2H)": {
+        "de": "(2H)",
+        "es": "(2M)",
+        "fr": "(2M)",
+        "it": "(2M)",
+        "ja": "（両手）"
+      },
+      "Ally": {
+        "de": "Verbündeter",
+        "es": "Aliado",
+        "fr": "Allié",
+        "it": "Alleato",
+        "ja": "盟友"
+      },
+      "Angriff": {
+        "de": "Angriff",
+        "es": "Ataque",
+        "fr": "Attaque",
+        "it": "Attacco",
+        "ja": "攻撃"
+      },
+      "Arms": {
+        "de": "Arme",
+        "es": "Brazos",
+        "fr": "Bras",
+        "it": "Braccia",
+        "ja": "腕"
+      },
+      "Arrow": {
+        "de": "Pfeil",
+        "es": "Flecha",
+        "fr": "Flèche",
+        "it": "Freccia",
+        "ja": "矢"
+      },
+      "Attack": {
+        "de": "Angriff",
+        "es": "Ataque",
+        "fr": "Attaque",
+        "it": "Attacco",
+        "ja": "攻撃"
+      },
+      "Aura": {
+        "de": "Aura",
+        "es": "Aura",
+        "fr": "Aura",
+        "it": "Aura",
+        "ja": "オーラ"
+      },
+      "Axe": {
+        "de": "Axt",
+        "es": "Hacha",
+        "fr": "Hache",
+        "it": "Ascia",
+        "ja": " 斧"
+      },
+      "Bow": {
+        "de": "Bogen",
+        "es": "Arco",
+        "fr": "Arc",
+        "it": "Arco",
+        "ja": "弓"
+      },
+      "Chest": {
+        "de": "Brust",
+        "es": "Pecho",
+        "fr": "Torse",
+        "it": "Torso",
+        "ja": "胴"
+      },
+      "Claw": {
+        "de": "Klaue",
+        "es": "Garra",
+        "fr": "Griffe",
+        "it": "Artiglio",
+        "ja": "鉤爪"
+      },
+      "Construct": {
+        "de": "Konstrukt",
+        "es": "Constructo",
+        "fr": "Construction",
+        "it": "Costrutto"
+      },
+      "Dagger": {
+        "de": "Dolch",
+        "es": "Daga",
+        "fr": "Dague",
+        "it": "Pugnale",
+        "ja": "短剣"
+      },
+      "Demon": {
+        "de": "Dämon",
+        "es": "Demonio",
+        "fr": "Démon",
+        "it": "Demone"
+      },
+      "Gem": {
+        "de": "Juwel",
+        "es": "Gema",
+        "fr": "Gemme",
+        "it": "Gemma",
+        "ja": "宝石"
+      },
+      "Gun": {
+        "de": "Schusswaffe",
+        "es": "Arma de fuego",
+        "fr": "Revolver",
+        "it": "Fucile",
+        "ja": "銃"
+      },
+      "Hammer": {
+        "de": "Hammer",
+        "es": "Martillo",
+        "fr": "Marteau",
+        "it": "Martello",
+        "ja": "鎚"
+      },
+      "Head": {
+        "de": "Kopf",
+        "es": "Cabeza",
+        "fr": "Tête",
+        "it": "Testa",
+        "ja": "頭"
+      },
+      "Item": {
+        "de": "Gegenstand",
+        "es": "Artículo",
+        "fr": "Objet",
+        "it": "Oggetto",
+        "ja": "アイテム"
+      },
+      "Legs": {
+        "de": "Beine",
+        "es": "Piernas",
+        "fr": "Jambes",
+        "it": "Gambe",
+        "ja": "足"
+      },
+      "Off-Hand": {
+        "de": "Nebenhand",
+        "es": "Mano no dominante",
+        "fr": "Main non dominante",
+        "it": "Mano secondaria",
+        "ja": "逆手"
+      },
+      "Orb": {
+        "de": "Sphäre",
+        "es": "Orbe",
+        "fr": "Sfera",
+        "it": "Orbe"
+      },
+      "Shuriken": {
+        "de": "Shuriken",
+        "es": "Shuriken",
+        "fr": "Shuriken",
+        "it": "Shuriken"
+      },
+      "Staff": {
+        "de": "Stab",
+        "es": "Báculo",
+        "fr": "Bâton",
+        "it": "Bastone",
+        "ja": "杖"
+      },
+      "Sword": {
+        "de": "Schwert",
+        "es": "Espada",
+        "fr": "Épée",
+        "it": "Spada",
+        "ja": "剣"
+      },
+      "Trap": {
+        "de": "Falle",
+        "es": "Trampa",
+        "fr": "Piège",
+        "it": "Trappola",
+        "ja": "罠"
+      },
+      "Young": {
+        "de": "Jung",
+        "es": "Joven",
+        "fr": "Jeune",
+        "it": "Giovane",
+        "ja": "若者"
+      }
+    },
+    "talents": {
+      "Chaos": {
+        "de": "Chaos",
+        "es": "Caos",
+        "fr": "Chaos",
+        "it": "Caos",
+        "ja": "混沌"
+      },
+      "Draconic": {
+        "de": "Drakon",
+        "es": "Dracónico",
+        "fr": "Draconique",
+        "it": "Draconica",
+        "ja": "竜系"
+      },
+      "Earth": {
+        "de": "Erde",
+        "es": "Tierra",
+        "fr": "Terre",
+        "it": "Terra",
+        "ja": "大地"
+      },
+      "Elemental": {
+        "de": "Elementar",
+        "es": "Elemental",
+        "fr": "Élémentaire",
+        "it": "Elementale",
+        "ja": "エレメンタル"
+      },
+      "Ice": {
+        "de": "Eis",
+        "es": "Hielo",
+        "fr": "Glace",
+        "it": "Ghiaccio",
+        "ja": "Ice"
+      },
+      "Light": {
+        "de": "Licht",
+        "es": "Luz",
+        "fr": "Lumière",
+        "it": "Luce",
+        "ja": "光"
+      },
+      "Lightning": {
+        "de": "Blitz",
+        "es": "Relámpago",
+        "fr": "Foudre",
+        "it": "Fulmine",
+        "ja": "稲妻"
+      },
+      "Schatten": {
+        "de": "Schatten",
+        "es": "Sombra",
+        "fr": "Ombre",
+        "it": "Ombra",
+        "ja": "影"
+      },
+      "Shadow": {
+        "de": "Schatten",
+        "es": "Sombra",
+        "fr": "Ombre",
+        "it": "Ombra",
+        "ja": "影"
+      }
+    },
+    "types": {
+      "Action": {
+        "de": "Aktion",
+        "es": "Acción",
+        "fr": "Action",
+        "it": "Azione",
+        "ja": "アクション"
+      },
+      "Aktion": {
+        "de": "Aktion",
+        "es": "Acción",
+        "fr": "Action",
+        "it": "Azione",
+        "ja": "アクション"
+      },
+      "Attack Reaction": {
+        "de": "Angriffsreaktion",
+        "es": "Reacción de ataque",
+        "fr": "Réaction d'attaque",
+        "it": "Reazione di Attacco",
+        "ja": "攻撃リアクション"
+      },
+      "Block": {
+        "de": "Blockade",
+        "es": "Bloqueo",
+        "fr": "Blocage",
+        "it": "Blocco",
+        "ja": "ブロック"
+      },
+      "Defense Reaction": {
+        "de": "Verteidigungsreaktion",
+        "es": "Reacción de defensa",
+        "fr": "Réaction de défense",
+        "it": "Reazione di Difesa",
+        "ja": "防御リアクション"
+      },
+      "Equipment": {
+        "de": "Ausrüstung",
+        "es": "Equipo",
+        "fr": "Équipement",
+        "it": "Equipaggiamento",
+        "ja": "装備品"
+      },
+      "Hero": {
+        "de": "Held",
+        "es": "Héroe",
+        "fr": "Héros",
+        "it": "Eroe",
+        "ja": "ヒーロー"
+      },
+      "Instant": {
+        "de": "Spontan",
+        "es": "Instantáneo",
+        "fr": "Instantané",
+        "it": "Istantaneo",
+        "ja": "インスタント"
+      },
+      "Mentor": {
+        "de": "Mentor",
+        "es": "Mentor",
+        "fr": "Mentor",
+        "it": "Mentor",
+        "ja": "Mentor"
+      },
+      "Resource": {
+        "de": "Ressource",
+        "es": "Recurso",
+        "fr": "Ressource",
+        "it": "Risorsa",
+        "ja": "リソース"
+      },
+      "Token": {
+        "de": "Spielstein",
+        "es": "Ficha",
+        "fr": "Jeton",
+        "it": "Pedina",
+        "ja": "トークン"
+      },
+      "Weapon": {
+        "de": "Waffe",
+        "es": "Arma",
+        "fr": "Arme",
+        "it": "Arma",
+        "ja": "武器"
+      }
+    }
+  },
+  "values": {
+    "artType": {
+      "extended-art": 302,
+      "full-art": 18,
+      "regular": 3511
+    },
+    "border": {
+      "black": 3671,
+      "white": 5
+    },
+    "cardType": {
+      "flip-card": 3,
+      "regular": 453
+    },
+    "color": {
+      "blue": 113,
+      "purple": 1,
+      "red": 176,
+      "yellow": 95
+    },
+    "editionPrefix": {
+      "R": 7,
+      "U": 46
+    },
+    "finish": {
+      "cold-foil": 286,
+      "gold-foil": 8,
+      "rainbow-foil": 1348,
+      "regular": 2189
+    },
+    "frame": {
+      "arena": 1,
+      "assassin": 114,
+      "assassin-ninja": 28,
+      "assassin-warrior": 32,
+      "brute": 358,
+      "chaos": 5,
+      "draconic": 104,
+      "elemental": 22,
+      "equipment": 176,
+      "fabled": 13,
+      "generic": 332,
+      "guardian": 58,
+      "illusionist": 53,
+      "judge": 1,
+      "light": 26,
+      "mechanologist": 117,
+      "mechanologist_item": 20,
+      "mentor": 1,
+      "necromancer": 368,
+      "ninja": 52,
+      "pirate": 145,
+      "ranger": 46,
+      "reviled": 7,
+      "runeblade": 404,
+      "shadow": 502,
+      "sub-elemental": 73,
+      "token": 73,
+      "warrior": 96,
+      "weapon": 149,
+      "wizard": 42,
+      "x_pits": 17
+    },
+    "frameStyle": {
+      "draconic": 65,
+      "dynasty-marvel": 2,
+      "earth": 16,
+      "earth-ice": 18,
+      "gold": 6,
+      "ice": 10,
+      "legendary": 45,
+      "light": 35,
+      "lightning": 144,
+      "necromancer": 91,
+      "ranger": 32,
+      "revered": 6,
+      "shadow": 766
+    },
+    "language": {
+      "de": 103,
+      "en": 1550,
+      "es": 103,
+      "fr": 965,
+      "it": 114,
+      "ja": 945,
+      "ko": 5
+    },
+    "layout": {
+      "double-sided": 44,
+      "regular": 3741
+    },
+    "legalityFormat": {
+      "Blitz": 456,
+      "Classic Constructed": 456,
+      "Commoner": 456,
+      "Living Legend": 456,
+      "Silver Age": 456,
+      "Ultimate Pit Fight": 456
+    },
+    "legalityReason": {
+      "programmatic_legality": 356
+    },
+    "legalityStatus": {
+      "banned": 3,
+      "legal": 2380,
+      "not-legal": 353
+    },
+    "objectType": {
+      "arena-card": 51,
+      "deck-card": 389,
+      "hero-card": 13,
+      "token": 3
+    },
+    "orientation": {
+      "vertical": 3831
+    },
+    "productType": {
+      "booster": 3420,
+      "precon": 324,
+      "promo": 41
+    },
+    "rarity": {
+      "basic": 108,
+      "common": 1568,
+      "fabled": 13,
+      "gold": 4,
+      "legendary": 48,
+      "majestic": 388,
+      "marvel": 93,
+      "promo": 425,
+      "promo-marvel": 25,
+      "rare": 979,
+      "super-rare": 42,
+      "token": 92
+    },
+    "rarityMark": {
+      "basic-dot": 114,
+      "common-circle": 91,
+      "common-dot": 1468,
+      "fabled-diamond": 5,
+      "fabled-dot": 7,
+      "gold-dot": 4,
+      "iar-marvel-dot": 1,
+      "legendary-circle": 5,
+      "legendary-dot": 43,
+      "majestic-circle": 4,
+      "majestic-dot": 386,
+      "marvel-dot": 107,
+      "promo-dot": 427,
+      "promo-marvel-dot": 25,
+      "rare-circle": 28,
+      "rare-dot": 954,
+      "super-rare-dot": 42,
+      "token-circle": 3,
+      "token-dot": 86
+    },
+    "setType": {
+      "blitz_precon": 268,
+      "classic_precon": 281,
+      "core": 2431,
+      "expansion": 262,
+      "promo": 451,
+      "reprint": 89,
+      "welcome_precon": 3
+    }
+  }
+}

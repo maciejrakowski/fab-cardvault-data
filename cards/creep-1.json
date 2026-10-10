@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "id": "creep-1",
+  "name": "Creep",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Creep",
+      "pitch": 1,
+      "chi": 0,
+      "color": "red",
+      "cost": 0,
+      "power": 3,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "**Stealth**{br}When this attacks, the next attack with stealth you play this combat chain gets **go again**.",
+        "plain": "Stealth\nWhen this attacks, the next attack with stealth you play this combat chain gets go again."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AAC009",
+      "code": "AAC009",
+      "language": "en",
+      "set": "AAC",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-arakni-5lp3d-7hru-7h3-cr4x",
+      "releaseDate": "2025-12-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AAC009",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Creep",
+          "typeLine": "Assassin Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Stealth**{br}When this attacks, the next attack with stealth you play this combat chain gets **go again**.",
+            "plain": "Stealth\nWhen this attacks, the next attack with stealth you play this combat chain gets go again.",
+            "html": "<p><strong>Stealth</strong></p>\n<p>When this attacks, the next attack with stealth you play this combat chain gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAC009",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Henrique Lindner",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AAC009.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AAC009.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AAC009.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM160",
+      "code": "GEM160",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 160,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-5",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM160",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Creep",
+          "typeLine": "Assassin Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Stealth**. When this attacks, the next attack with stealth you play this combat chain gets **go again**.",
+            "plain": "Stealth. When this attacks, the next attack with stealth you play this combat chain gets go again.",
+            "html": "<p><strong>Stealth</strong>. When this attacks, the next attack with stealth you play this combat chain gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM160",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Henrique Lindner",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM160.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM160.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM160.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "GEM160-RF",
+      "code": "GEM160",
+      "language": "en",
+      "set": "GEM",
+      "setNumber": 160,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gem-pack-5",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "GEM160-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Creep",
+          "typeLine": "Assassin Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Stealth**. When this attacks, the next attack with stealth you play this combat chain gets **go again**.",
+            "plain": "Stealth. When this attacks, the next attack with stealth you play this combat chain gets go again.",
+            "html": "<p><strong>Stealth</strong>. When this attacks, the next attack with stealth you play this combat chain gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "GEM160",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Henrique Lindner",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/GEM160-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/GEM160-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/GEM160-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Stealth",
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-10T21:09:01Z",
+    "rawSha256": "8339c9aa219971704e11d830e8b4f3a85a6d2fd7448dc7d80fd4779283d993d9",
+    "updatedAt": "2026-05-26T08:23:19.102858+12:00"
+  }
+}
