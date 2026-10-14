@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "unstable-plasma-pistol",
+  "name": "Unstable Plasma Pistol",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Unstable Plasma Pistol",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 2,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Chaos Mechanologist Weapon - Pistol (2H)",
+      "traitLine": null,
+      "classes": [
+        "Mechanologist"
+      ],
+      "talents": [
+        "Chaos"
+      ],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(2H)",
+        "Pistol"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}{r}: **Attack**{br}If you've banished a card an opponent owns from boosting this turn, this gets +2{p}.",
+        "plain": "Action -- {r}{r}: Attack\nIf you've banished a card an opponent owns from boosting this turn, this gets +2{p}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMG002-RF",
+      "code": "AMG002",
+      "language": "en",
+      "set": "AMG",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-min-genius",
+      "releaseDate": "2027-02-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-14T10:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMG002-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Unstable Plasma Pistol",
+          "typeLine": "Chaos Mechanologist Weapon - Pistol (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: **Attack**{br}If you've banished a card an opponent owns from boosting this turn, this gets +2{p}.",
+            "plain": "Action -- {r}{r}: Attack\nIf you've banished a card an opponent owns from boosting this turn, this gets +2{p}.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If you've banished a card an opponent owns from boosting this turn, this gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMG002",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Satriasa",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMG002-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMG002-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMG002-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-14T06:54:06Z",
+    "rawSha256": "62153cb3eef7bdee1544806b28e81693d992185b08c5ee5ff420ff87398b1cb9",
+    "updatedAt": "2026-10-08T16:23:39.426811+13:00"
+  }
+}

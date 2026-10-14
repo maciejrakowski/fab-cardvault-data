@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "unstable-plasma-pistol",
+  "language": "fr",
+  "name": "Pistolet à plasma instable",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Pistolet à plasma instable",
+      "typeLine": "Chaos Mécanologue Arme - Pistolet (2M)",
+      "classes": [
+        "Mécanologue"
+      ],
+      "types": [
+        "Arme"
+      ],
+      "subtypes": [
+        "(2M)",
+        "Pistolet"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}{r} : **Attaque**{br}Si vous avez banni une carte qu’un adversaire possède en boostant ce tour-ci, cette carte gagne +2{p}.",
+        "plain": "Action -- {r}{r} : Attaque\nSi vous avez banni une carte qu’un adversaire possède en boostant ce tour-ci, cette carte gagne +2{p}.",
+        "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> : <strong>Attaque</strong></p>\n<p>Si vous avez banni une carte qu’un adversaire possède en boostant ce tour-ci, cette carte gagne +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_AMG002-RF",
+      "code": "AMG002",
+      "language": "fr",
+      "set": "AMG",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-min-genius-fr",
+      "releaseDate": "2027-02-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-14T10:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_AMG002-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Pistolet à plasma instable",
+          "typeLine": "Chaos Mécanologue Arme - Pistolet (2M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r} : **Attaque**{br}Si vous avez banni une carte qu’un adversaire possède en boostant ce tour-ci, cette carte gagne +2{p}.",
+            "plain": "Action -- {r}{r} : Attaque\nSi vous avez banni une carte qu’un adversaire possède en boostant ce tour-ci, cette carte gagne +2{p}.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> : <strong>Attaque</strong></p>\n<p>Si vous avez banni une carte qu’un adversaire possède en boostant ce tour-ci, cette carte gagne +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMG002",
+          "printedLanguageCode": "fr",
+          "printedYear": "2026",
+          "artist": "Satriasa",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_AMG002-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_AMG002-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_AMG002-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

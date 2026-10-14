@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "exertion",
+  "language": "fr",
+  "name": "Fatigue",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Fatigue",
+      "typeLine": "Générique Jeton - Maladie Aura",
+      "classes": [
+        "Générique"
+      ],
+      "types": [
+        "Jeton"
+      ],
+      "text": {
+        "markup": "_(Vous êtes infecté.)_{br}À chaque fois que vous jouez une carte depuis la main, perdez 1{h}.{br}Au début de votre phase de fin, détruisez cette carte.",
+        "plain": "_(Vous êtes infecté.)_\nÀ chaque fois que vous jouez une carte depuis la main, perdez 1{h}.\nAu début de votre phase de fin, détruisez cette carte.",
+        "html": "<p><em>(Vous êtes infecté.)</em></p>\n<p>À chaque fois que vous jouez une carte depuis la main, perdez 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n<p>Au début de votre phase de fin, détruisez cette carte.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_SLV035",
+      "code": "SLV035",
+      "language": "fr",
+      "set": "SLV",
+      "setNumber": 35,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-mortimer-living-virus-fr",
+      "releaseDate": "2027-02-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_SLV035",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Fatigue",
+          "typeLine": "Générique Jeton - Maladie Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Vous êtes infecté.)_{br}À chaque fois que vous jouez une carte depuis la main, perdez 1{h}.{br}Au début de votre phase de fin, détruisez cette carte.",
+            "plain": "_(Vous êtes infecté.)_\nÀ chaque fois que vous jouez une carte depuis la main, perdez 1{h}.\nAu début de votre phase de fin, détruisez cette carte.",
+            "html": "<p><em>(Vous êtes infecté.)</em></p>\n<p>À chaque fois que vous jouez une carte depuis la main, perdez 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n<p>Au début de votre phase de fin, détruisez cette carte.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SLV035",
+          "printedLanguageCode": "fr",
+          "printedYear": "2026",
+          "artist": "Narendra B Adi",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SLV035.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SLV035.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SLV035.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

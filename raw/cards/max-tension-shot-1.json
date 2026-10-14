@@ -1,0 +1,731 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "25d53c65-a90a-4852-8bdd-3810250819f5",
+      "cores": [
+        {
+          "id": "1b88c59b-5af0-45b3-91ea-52efcc378ca3",
+          "core_classes": [
+            {
+              "id": 11,
+              "name": "Explorador",
+              "name_en": "Ranger",
+              "name_fr": "Ranger",
+              "name_de": "Waldläufer",
+              "name_it": "Ranger",
+              "name_es": "Explorador",
+              "name_ja": "レンジャー",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Acción",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Ataque",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            },
+            {
+              "id": 5,
+              "name": "Flecha",
+              "name_en": "Arrow",
+              "name_fr": "Flèche",
+              "name_de": "Pfeil",
+              "name_it": "Freccia",
+              "name_es": "Flecha",
+              "name_ja": "矢",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-10-08T15:49:36.047609+13:00",
+          "updated_at": "2026-10-13T16:37:30.273417+13:00",
+          "name": "Max-Tension Shot",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "1",
+          "power": "5",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this attacks, reveal the top card of your deck. If it's red, this gets **go again**.",
+          "typebox": "Ranger Action - Arrow Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 1,
+          "power_value": 5,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "25d53c65-a90a-4852-8bdd-3810250819f5"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "d46b02ee-0f34-4b54-a310-fa22f88889c3",
+          "faces": [
+            {
+              "id": "a6f45b31-0141-4d8e-9e8c-e05293ed2ff0",
+              "created_at": "2026-10-08T15:50:26.327285+13:00",
+              "updated_at": "2026-10-08T15:50:26.327294+13:00",
+              "face_id": "OBK207-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OBK207",
+              "printed_artist": "Reza Fachrul",
+              "printed_name": "Max-Tension Shot",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Arrows can only be played from arsenal and only if you control a bow.)_{br} When this attacks, reveal the top card of your deck. If it's red, this gets **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1b88c59b-5af0-45b3-91ea-52efcc378ca3",
+              "card_print": "d46b02ee-0f34-4b54-a310-fa22f88889c3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Max-Tension Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>When this attacks, reveal the top card of your deck. If it's red, this gets <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OBK207-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OBK207-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK207-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ae3b3a0b-d385-4ccf-a909-5ddf1715add7",
+            "product_group": {
+              "id": "64fd0824-954d-4edd-8707-29721eec489c",
+              "created_at": "2026-10-02T20:30:04.457512+13:00",
+              "updated_at": "2026-10-02T20:30:04.457521+13:00",
+              "group_name": "Outbreak",
+              "product_type": "booster",
+              "release_date": "2027-02-12",
+              "slug": "auto-8e73a6e52f18"
+            },
+            "created_at": "2026-10-02T20:30:03.950168+13:00",
+            "updated_at": "2026-10-02T20:30:04.462775+13:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Outbreak",
+            "product_type": "booster",
+            "release_date": "2027-02-12",
+            "slug": "outbreak",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "3666eaff-0d11-4e90-88ee-3c24c8830981",
+            "created_at": "2026-10-02T20:30:03.936752+13:00",
+            "updated_at": "2026-10-08T15:00:45.709236+13:00",
+            "set_code": "OBK",
+            "set_name": "Outbreak",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-10-08T15:50:26.322676+13:00",
+          "updated_at": "2026-10-14T10:11:29.614634+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-10-14T17:00:00+13:00",
+          "print_id": "OBK207-RF",
+          "set_number": 207,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "25d53c65-a90a-4852-8bdd-3810250819f5"
+        },
+        {
+          "id": "b451651a-c019-40d4-aad0-c322526c0f86",
+          "faces": [
+            {
+              "id": "23769feb-5a20-4eb3-9372-257e52a7c56d",
+              "created_at": "2026-10-08T15:50:26.299867+13:00",
+              "updated_at": "2026-10-08T15:50:26.299874+13:00",
+              "face_id": "OBK207",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OBK207",
+              "printed_artist": "Reza Fachrul",
+              "printed_name": "Max-Tension Shot",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Arrows can only be played from arsenal and only if you control a bow.)_{br} When this attacks, reveal the top card of your deck. If it's red, this gets **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1b88c59b-5af0-45b3-91ea-52efcc378ca3",
+              "card_print": "b451651a-c019-40d4-aad0-c322526c0f86",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Max-Tension Shot</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>When this attacks, reveal the top card of your deck. If it's red, this gets <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OBK207.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OBK207.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK207.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ae3b3a0b-d385-4ccf-a909-5ddf1715add7",
+            "product_group": {
+              "id": "64fd0824-954d-4edd-8707-29721eec489c",
+              "created_at": "2026-10-02T20:30:04.457512+13:00",
+              "updated_at": "2026-10-02T20:30:04.457521+13:00",
+              "group_name": "Outbreak",
+              "product_type": "booster",
+              "release_date": "2027-02-12",
+              "slug": "auto-8e73a6e52f18"
+            },
+            "created_at": "2026-10-02T20:30:03.950168+13:00",
+            "updated_at": "2026-10-02T20:30:04.462775+13:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Outbreak",
+            "product_type": "booster",
+            "release_date": "2027-02-12",
+            "slug": "outbreak",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "3666eaff-0d11-4e90-88ee-3c24c8830981",
+            "created_at": "2026-10-02T20:30:03.936752+13:00",
+            "updated_at": "2026-10-08T15:00:45.709236+13:00",
+            "set_code": "OBK",
+            "set_name": "Outbreak",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-10-08T15:50:26.295368+13:00",
+          "updated_at": "2026-10-14T10:11:37.327756+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-10-14T17:00:00+13:00",
+          "print_id": "OBK207",
+          "set_number": 207,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "25d53c65-a90a-4852-8bdd-3810250819f5"
+        },
+        {
+          "id": "b18c55fb-7ad7-4952-8b52-2f406a2be233",
+          "faces": [
+            {
+              "id": "54808919-3c0b-42a9-b920-7280282175ad",
+              "created_at": "2026-10-08T15:49:50.582993+13:00",
+              "updated_at": "2026-10-08T15:49:50.583001+13:00",
+              "face_id": "FR_OBK207",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OBK207",
+              "printed_artist": "Reza Fachrul",
+              "printed_name": "Tir à tension maximale",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Les flèches ne peuvent être jouées que depuis l’arsenal et seulement si vous contrôlez un arc.)_{br}Quand cette carte attaque, révélez la carte du dessus de votre deck. Si elle est rouge, cette carte gagne **encore une fois**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Attaque de flèche",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1b88c59b-5af0-45b3-91ea-52efcc378ca3",
+              "card_print": "b18c55fb-7ad7-4952-8b52-2f406a2be233",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Tir à tension maximale</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Attaque de flèche</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Les flèches ne peuvent être jouées que depuis l’arsenal et seulement si vous contrôlez un arc.)</em></p>\n<p>Quand cette carte attaque, révélez la carte du dessus de votre deck. Si elle est rouge, cette carte gagne <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OBK207.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OBK207.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OBK207.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6aebcdd0-ea32-4f27-9494-b4600b3ee1ad",
+            "product_group": {
+              "id": "64fd0824-954d-4edd-8707-29721eec489c",
+              "created_at": "2026-10-02T20:30:04.457512+13:00",
+              "updated_at": "2026-10-02T20:30:04.457521+13:00",
+              "group_name": "Outbreak",
+              "product_type": "booster",
+              "release_date": "2027-02-12",
+              "slug": "auto-8e73a6e52f18"
+            },
+            "created_at": "2026-10-02T20:30:03.961140+13:00",
+            "updated_at": "2026-10-02T20:30:04.465804+13:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Outbreak [FR]",
+            "product_type": "booster",
+            "release_date": "2027-02-12",
+            "slug": "outbreak-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "3666eaff-0d11-4e90-88ee-3c24c8830981",
+            "created_at": "2026-10-02T20:30:03.936752+13:00",
+            "updated_at": "2026-10-08T15:00:45.709236+13:00",
+            "set_code": "OBK",
+            "set_name": "Outbreak",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-10-08T15:49:50.578516+13:00",
+          "updated_at": "2026-10-14T10:11:37.710549+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-10-14T17:00:00+13:00",
+          "print_id": "FR_OBK207",
+          "set_number": 207,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "25d53c65-a90a-4852-8bdd-3810250819f5"
+        },
+        {
+          "id": "15455207-3cf4-4f66-a55b-ffe14a7f4906",
+          "faces": [
+            {
+              "id": "814bb449-7738-43cb-be6f-2ee8ffa7025e",
+              "created_at": "2026-10-08T15:50:09.351230+13:00",
+              "updated_at": "2026-10-08T15:50:09.351238+13:00",
+              "face_id": "JA_OBK207",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OBK207",
+              "printed_artist": "Reza Fachrul",
+              "printed_name": "最大張力の射撃",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "（矢は格納庫からのみプレイでき、あなたが弓をコントロールしている必要がある）{br}これが攻撃したとき、あなたのデッキの上のカードを公開する。それが赤の場合、これは**続行**を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "レンジャー・アクション － 矢・攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1b88c59b-5af0-45b3-91ea-52efcc378ca3",
+              "card_print": "15455207-3cf4-4f66-a55b-ffe14a7f4906",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>最大張力の射撃</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>レンジャー・アクション － 矢・攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>（矢は格納庫からのみプレイでき、あなたが弓をコントロールしている必要がある）</p>\n<p>これが攻撃したとき、あなたのデッキの上のカードを公開する。それが赤の場合、これは<strong>続行</strong>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OBK207.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OBK207.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OBK207.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "4fbbe7f3-de3c-4e6d-885b-30c05012ef00",
+            "product_group": {
+              "id": "64fd0824-954d-4edd-8707-29721eec489c",
+              "created_at": "2026-10-02T20:30:04.457512+13:00",
+              "updated_at": "2026-10-02T20:30:04.457521+13:00",
+              "group_name": "Outbreak",
+              "product_type": "booster",
+              "release_date": "2027-02-12",
+              "slug": "auto-8e73a6e52f18"
+            },
+            "created_at": "2026-10-02T20:30:03.969548+13:00",
+            "updated_at": "2026-10-02T20:30:04.468990+13:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Outbreak [JA]",
+            "product_type": "booster",
+            "release_date": "2027-02-12",
+            "slug": "outbreak-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "3666eaff-0d11-4e90-88ee-3c24c8830981",
+            "created_at": "2026-10-02T20:30:03.936752+13:00",
+            "updated_at": "2026-10-08T15:00:45.709236+13:00",
+            "set_code": "OBK",
+            "set_name": "Outbreak",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-10-08T15:50:09.346788+13:00",
+          "updated_at": "2026-10-14T10:24:54.176452+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-10-14T17:00:00+13:00",
+          "print_id": "JA_OBK207",
+          "set_number": 207,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "25d53c65-a90a-4852-8bdd-3810250819f5"
+        },
+        {
+          "id": "6f47adb4-3799-4600-8308-f0bea8804931",
+          "faces": [
+            {
+              "id": "66dd6dd1-e832-4148-bd7c-b8051fd72035",
+              "created_at": "2026-10-08T15:49:50.611996+13:00",
+              "updated_at": "2026-10-08T15:49:50.612004+13:00",
+              "face_id": "FR_OBK207-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OBK207",
+              "printed_artist": "Reza Fachrul",
+              "printed_name": "Tir à tension maximale",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Les flèches ne peuvent être jouées que depuis l’arsenal et seulement si vous contrôlez un arc.)_{br}Quand cette carte attaque, révélez la carte du dessus de votre deck. Si elle est rouge, cette carte gagne **encore une fois**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Attaque de flèche",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1b88c59b-5af0-45b3-91ea-52efcc378ca3",
+              "card_print": "6f47adb4-3799-4600-8308-f0bea8804931",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Tir à tension maximale</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Attaque de flèche</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Les flèches ne peuvent être jouées que depuis l’arsenal et seulement si vous contrôlez un arc.)</em></p>\n<p>Quand cette carte attaque, révélez la carte du dessus de votre deck. Si elle est rouge, cette carte gagne <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OBK207-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OBK207-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OBK207-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6aebcdd0-ea32-4f27-9494-b4600b3ee1ad",
+            "product_group": {
+              "id": "64fd0824-954d-4edd-8707-29721eec489c",
+              "created_at": "2026-10-02T20:30:04.457512+13:00",
+              "updated_at": "2026-10-02T20:30:04.457521+13:00",
+              "group_name": "Outbreak",
+              "product_type": "booster",
+              "release_date": "2027-02-12",
+              "slug": "auto-8e73a6e52f18"
+            },
+            "created_at": "2026-10-02T20:30:03.961140+13:00",
+            "updated_at": "2026-10-02T20:30:04.465804+13:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Outbreak [FR]",
+            "product_type": "booster",
+            "release_date": "2027-02-12",
+            "slug": "outbreak-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "3666eaff-0d11-4e90-88ee-3c24c8830981",
+            "created_at": "2026-10-02T20:30:03.936752+13:00",
+            "updated_at": "2026-10-08T15:00:45.709236+13:00",
+            "set_code": "OBK",
+            "set_name": "Outbreak",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-10-08T15:49:50.607238+13:00",
+          "updated_at": "2026-10-14T10:24:52.971810+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-10-14T17:00:00+13:00",
+          "print_id": "FR_OBK207-RF",
+          "set_number": 207,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "25d53c65-a90a-4852-8bdd-3810250819f5"
+        },
+        {
+          "id": "2853a2ac-8c3d-4a2d-8a45-819e7ad8151c",
+          "faces": [
+            {
+              "id": "26c69a2b-bbe5-407f-ba93-8e6556a35077",
+              "created_at": "2026-10-08T15:50:09.380179+13:00",
+              "updated_at": "2026-10-08T15:50:09.380186+13:00",
+              "face_id": "JA_OBK207-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OBK207",
+              "printed_artist": "Reza Fachrul",
+              "printed_name": "最大張力の射撃",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "（矢は格納庫からのみプレイでき、あなたが弓をコントロールしている必要がある）{br}これが攻撃したとき、あなたのデッキの上のカードを公開する。それが赤の場合、これは**続行**を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "レンジャー・アクション － 矢・攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "1b88c59b-5af0-45b3-91ea-52efcc378ca3",
+              "card_print": "2853a2ac-8c3d-4a2d-8a45-819e7ad8151c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>最大張力の射撃</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>レンジャー・アクション － 矢・攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>（矢は格納庫からのみプレイでき、あなたが弓をコントロールしている必要がある）</p>\n<p>これが攻撃したとき、あなたのデッキの上のカードを公開する。それが赤の場合、これは<strong>続行</strong>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OBK207-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OBK207-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OBK207-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "4fbbe7f3-de3c-4e6d-885b-30c05012ef00",
+            "product_group": {
+              "id": "64fd0824-954d-4edd-8707-29721eec489c",
+              "created_at": "2026-10-02T20:30:04.457512+13:00",
+              "updated_at": "2026-10-02T20:30:04.457521+13:00",
+              "group_name": "Outbreak",
+              "product_type": "booster",
+              "release_date": "2027-02-12",
+              "slug": "auto-8e73a6e52f18"
+            },
+            "created_at": "2026-10-02T20:30:03.969548+13:00",
+            "updated_at": "2026-10-02T20:30:04.468990+13:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Outbreak [JA]",
+            "product_type": "booster",
+            "release_date": "2027-02-12",
+            "slug": "outbreak-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "3666eaff-0d11-4e90-88ee-3c24c8830981",
+            "created_at": "2026-10-02T20:30:03.936752+13:00",
+            "updated_at": "2026-10-08T15:00:45.709236+13:00",
+            "set_code": "OBK",
+            "set_name": "Outbreak",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-10-08T15:50:09.375724+13:00",
+          "updated_at": "2026-10-14T10:24:53.743211+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-10-14T17:00:00+13:00",
+          "print_id": "JA_OBK207-RF",
+          "set_number": 207,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "25d53c65-a90a-4852-8bdd-3810250819f5"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Classic Constructed": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Living Legend": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Silver Age": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        }
+      },
+      "created_at": "2026-10-08T15:49:36.045291+13:00",
+      "updated_at": "2026-10-08T15:49:36.045299+13:00",
+      "card_id": "max-tension-shot-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

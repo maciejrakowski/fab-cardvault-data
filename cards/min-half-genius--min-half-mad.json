@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "id": "min-half-genius--min-half-mad",
+  "name": "Min, Half-Genius",
+  "objectType": "hero-card",
+  "cardType": "flip-card",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Min, Half-Genius",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Chaos Mechanologist Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "機械技師"
+      ],
+      "talents": [
+        "混沌"
+      ],
+      "types": [
+        "ヒーロー"
+      ],
+      "subtypes": [
+        "若者"
+      ],
+      "text": {
+        "markup": "Cards you own are Mechanologist.{br}At the beginning of your end phase, flip this.",
+        "plain": "Cards you own are Mechanologist.\nAt the beginning of your end phase, flip this."
+      }
+    },
+    {
+      "position": 20,
+      "name": "Min, Half-Mad",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "printedStats": {
+        "intellect": "4",
+        "life": "20"
+      },
+      "typeLine": "Chaos Mechanologist Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "機械技師"
+      ],
+      "talents": [
+        "混沌"
+      ],
+      "types": [
+        "ヒーロー"
+      ],
+      "subtypes": [
+        "若者"
+      ],
+      "text": {
+        "markup": "Cards you own lose and can't gain class and talent types.{br}At the beginning of your end phase, flip this.",
+        "plain": "Cards you own lose and can't gain class and talent types.\nAt the beginning of your end phase, flip this."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "OBK007",
+      "code": "OBK007",
+      "language": "en",
+      "set": "OBK",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "outbreak",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "OBK007",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Min, Half-Genius",
+          "typeLine": "Chaos Mechanologist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards you own are Mechanologist.{br} At the beginning of your end phase, flip this.",
+            "plain": "Cards you own are Mechanologist.\n At the beginning of your end phase, flip this.",
+            "html": "<p>Cards you own are Mechanologist.</p>\n<p>At the beginning of your end phase, flip this.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "OBK007",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OBK007.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OBK007.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK007.webp"
+          }
+        },
+        {
+          "id": "OBK007_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Min, Half-Mad",
+          "typeLine": "Chaos Mechanologist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards you own lose and can't gain class and talent types.{br} At the beginning of your end phase, flip this.",
+            "plain": "Cards you own lose and can't gain class and talent types.\n At the beginning of your end phase, flip this.",
+            "html": "<p>Cards you own lose and can't gain class and talent types.</p>\n<p>At the beginning of your end phase, flip this.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "OBK007",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "chaos",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OBK007_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OBK007_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK007_BACK.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OBK007-MV",
+      "code": "OBK007",
+      "language": "en",
+      "set": "OBK",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "outbreak",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "OBK007-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Min, Half-Genius",
+          "typeLine": "Chaos Mechanologist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards you own are Mechanologist.{br} At the beginning of your end phase, flip this.",
+            "plain": "Cards you own are Mechanologist.\n At the beginning of your end phase, flip this.",
+            "html": "<p>Cards you own are Mechanologist.</p>\n<p>At the beginning of your end phase, flip this.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "OBK007",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OBK007-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OBK007-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK007-MV.webp"
+          }
+        },
+        {
+          "id": "OBK007-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Min, Half-Mad",
+          "typeLine": "Chaos Mechanologist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards you own lose and can't gain class and talent types.{br} At the beginning of your end phase, flip this.",
+            "plain": "Cards you own lose and can't gain class and talent types.\n At the beginning of your end phase, flip this.",
+            "html": "<p>Cards you own lose and can't gain class and talent types.</p>\n<p>At the beginning of your end phase, flip this.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "OBK007",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": "chaos",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OBK007-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OBK007-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OBK007-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-14T06:58:14Z",
+    "rawSha256": "baa09334c0c0832bdb4fbbca2f65e90303c8e14a13bfc3c72b5ecea60aa11233",
+    "updatedAt": "2026-10-08T15:49:33.298076+13:00"
+  }
+}

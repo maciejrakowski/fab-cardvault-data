@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "madness-spiral-3",
+  "name": "Madness Spiral",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Madness Spiral",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 2,
+      "power": 4,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Chaos Mechanologist Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "機械技師"
+      ],
+      "talents": [
+        "混沌"
+      ],
+      "types": [
+        "アクション"
+      ],
+      "subtypes": [
+        "攻撃"
+      ],
+      "text": {
+        "markup": "**Boost**{br}If you would banish this from boosting, instead banish it and the top card of each other hero's deck to boost.",
+        "plain": "Boost\nIf you would banish this from boosting, instead banish it and the top card of each other hero's deck to boost."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMG023",
+      "code": "AMG023",
+      "language": "en",
+      "set": "AMG",
+      "setNumber": 23,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-min-genius",
+      "releaseDate": "2027-02-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-14T10:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMG023",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Madness Spiral",
+          "typeLine": "Chaos Mechanologist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Boost**{br}If you would banish this from boosting, instead banish it and the top card of each other hero's deck to boost.",
+            "plain": "Boost\nIf you would banish this from boosting, instead banish it and the top card of each other hero's deck to boost.",
+            "html": "<p><strong>Boost</strong></p>\n<p>If you would banish this from boosting, instead banish it and the top card of each other hero's deck to boost.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_Around and around he went. An everlasting loop of insanity._",
+            "plain": "_Around and around he went. An everlasting loop of insanity._",
+            "html": "<p><em>Around and around he went. An everlasting loop of insanity.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "2",
+            "power": "4",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMG023",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Carlos Cruchaga",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": "chaos",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMG023.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMG023.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMG023.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Boost"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-14T06:53:50Z",
+    "rawSha256": "6eac699872054cfb6d9c7268dd5c645ffbb0a3e99fc2445f7705d5231af8fcc4",
+    "updatedAt": "2026-10-08T16:23:39.407078+13:00"
+  }
+}

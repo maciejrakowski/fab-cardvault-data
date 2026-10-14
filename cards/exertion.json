@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "exertion",
+  "name": "Exertion",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Exertion",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Token - Disease Aura",
+      "traitLine": null,
+      "classes": [
+        "汎用"
+      ],
+      "talents": [],
+      "types": [
+        "トークン"
+      ],
+      "subtypes": [
+        "オーラ",
+        "Disease"
+      ],
+      "text": {
+        "markup": "Whenever you play a card from hand, lose 1{h}.{br}At the beginning of your end phase, destroy this.",
+        "plain": "Whenever you play a card from hand, lose 1{h}.\nAt the beginning of your end phase, destroy this."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "SLV035",
+      "code": "SLV035",
+      "language": "en",
+      "set": "SLV",
+      "setNumber": 35,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-mortimer-living-virus",
+      "releaseDate": "2027-02-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SLV035",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Exertion",
+          "typeLine": "Generic Token - Disease Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(You are infected.)_{br}Whenever you play a card from hand, lose 1{h}.{br}At the beginning of your end phase, destroy this.",
+            "plain": "_(You are infected.)_\nWhenever you play a card from hand, lose 1{h}.\nAt the beginning of your end phase, destroy this.",
+            "html": "<p><em>(You are infected.)</em></p>\n<p>Whenever you play a card from hand, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n<p>At the beginning of your end phase, destroy this.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SLV035",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Narendra B Adi",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SLV035.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SLV035.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SLV035.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB534-RF",
+      "code": "FAB534",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 534,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "calling-outbreak",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB534-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Exertion",
+          "typeLine": "Generic Token - Disease Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a card from hand, lose 1{h}.{br}At the beginning of your end phase, destroy this.",
+            "plain": "Whenever you play a card from hand, lose 1{h}.\nAt the beginning of your end phase, destroy this.",
+            "html": "<p>Whenever you play a card from hand, lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n<p>At the beginning of your end phase, destroy this.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB534",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Narendra B Adi",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB534-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB534-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB534-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-10-14T06:55:11Z",
+    "rawSha256": "d97dea865d892e556af0b246877df12c72d3d6d772fbb1c9c5f2fe8381f0bee5",
+    "updatedAt": "2026-10-08T15:49:36.726285+13:00"
+  }
+}

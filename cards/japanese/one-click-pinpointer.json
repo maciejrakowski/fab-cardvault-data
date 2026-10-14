@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "one-click-pinpointer",
+  "language": "ja",
+  "name": "ワンクリック・ピンポインター",
+  "cores": [
+    {
+      "position": 10,
+      "name": "ワンクリック・ピンポインター",
+      "typeLine": "レンジャー・武器 － 弓（片手）",
+      "classes": [
+        "レンジャー"
+      ],
+      "types": [
+        "武器"
+      ],
+      "subtypes": [
+        "（片手）",
+        "弓"
+      ],
+      "text": {
+        "markup": "**アクション** -- {t}：あなたの格納庫のカードをすべてデッキの下に置く。あなたの手札の矢を１枚格納庫に表向きで置く。あなたがタップ状態の弓をコントロールしている場合、これを起動するためのコストは{r}多くなる。**続行**",
+        "plain": "アクション -- {t}：あなたの格納庫のカードをすべてデッキの下に置く。あなたの手札の矢を１枚格納庫に表向きで置く。あなたがタップ状態の弓をコントロールしている場合、これを起動するためのコストは{r}多くなる。続行",
+        "html": "<p><strong>アクション</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：あなたの格納庫のカードをすべてデッキの下に置く。あなたの手札の矢を１枚格納庫に表向きで置く。あなたがタップ状態の弓をコントロールしている場合、これを起動するためのコストは<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>多くなる。<strong>続行</strong></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_OBK175",
+      "code": "OBK175",
+      "language": "ja",
+      "set": "OBK",
+      "setNumber": 175,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outbreak-ja",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-14T21:27:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_OBK175",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "ワンクリック・ピンポインター",
+          "typeLine": "レンジャー・武器 － 弓（片手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション** -- {t}：あなたの格納庫のカードをすべてデッキの下に置く。あなたの手札の矢を１枚格納庫に表向きで置く。あなたがタップ状態の弓をコントロールしている場合、これを起動するためのコストは{r}多くなる。**続行**",
+            "plain": "アクション -- {t}：あなたの格納庫のカードをすべてデッキの下に置く。あなたの手札の矢を１枚格納庫に表向きで置く。あなたがタップ状態の弓をコントロールしている場合、これを起動するためのコストは{r}多くなる。続行",
+            "html": "<p><strong>アクション</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：あなたの格納庫のカードをすべてデッキの下に置く。あなたの手札の矢を１枚格納庫に表向きで置く。あなたがタップ状態の弓をコントロールしている場合、これを起動するためのコストは<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>多くなる。<strong>続行</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OBK175",
+          "printedLanguageCode": "jp",
+          "printedYear": "2026",
+          "artist": "Alifka Hammam",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OBK175.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OBK175.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OBK175.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}
