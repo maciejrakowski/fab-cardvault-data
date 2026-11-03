@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "humour-plunge",
+  "name": "Humour Plunge",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Humour Plunge",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 1,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Weapon - Dagger (1H)",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(1H)",
+        "Dagger"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}{r}, {t}: **Attack**. **Go again**{br}If this is attacking an infected hero, this gets +1{p}.{br}**Piercing 1**",
+        "plain": "Action -- {r}{r}, {t}: Attack. Go again\nIf this is attacking an infected hero, this gets +1{p}.\nPiercing 1"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMO002-RF",
+      "code": "AMO002",
+      "language": "en",
+      "set": "AMO",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dr-mortimer-blight-of-the-pits",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMO002-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Humour Plunge",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}, {t}: **Attack**. **Go again**{br}If this is attacking an infected hero, this gets +1{p}. _(A hero is infected if they control a disease.)_{br}**Piercing 1** _(If this is defended by an equipment, this gets +1{p}.)_",
+            "plain": "Action -- {r}{r}, {t}: Attack. Go again\nIf this is attacking an infected hero, this gets +1{p}. _(A hero is infected if they control a disease.)_\nPiercing 1 _(If this is defended by an equipment, this gets +1{p}.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p>If this is attacking an infected hero, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <em>(A hero is infected if they control a disease.)</em></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMO002",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMO002-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMO002-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMO002-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack",
+      "Go again",
+      "Piercing 1"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-03T19:43:25Z",
+    "rawSha256": "1ead015bceaef877f7fd2ae42c2cd948e12cba520adf76336538f3fcfca16222",
+    "updatedAt": "2026-08-07T08:39:45.672762+12:00"
+  }
+}

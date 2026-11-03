@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "humour-plunge",
+  "language": "fr",
+  "name": "Plongeon d’humour",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Plongeon d’humour",
+      "typeLine": "Assassin Arme - Dague (1M)",
+      "types": [
+        "Arme"
+      ],
+      "subtypes": [
+        "(1M)",
+        "Dague"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}{r}, {t} : **Attaque**. **Encore une fois**{br}Si cette carte attaque un héros infecté, elle gagne +1{p}. _(Un héros est infecté s’il contrôle une maladie.)_{br}**Percée 1** _(Si cette carte est défendue par un équipement, elle gagne +1{p}.)_",
+        "plain": "Action -- {r}{r}, {t} : Attaque. Encore une fois\nSi cette carte attaque un héros infecté, elle gagne +1{p}. _(Un héros est infecté s’il contrôle une maladie.)_\nPercée 1 _(Si cette carte est défendue par un équipement, elle gagne +1{p}.)_",
+        "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <strong>Attaque</strong>. <strong>Encore une fois</strong></p>\n<p>Si cette carte attaque un héros infecté, elle gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <em>(Un héros est infecté s’il contrôle une maladie.)</em></p>\n<p><strong>Percée 1</strong> <em>(Si cette carte est défendue par un équipement, elle gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_AMO002-RF",
+      "code": "AMO002",
+      "language": "fr",
+      "set": "AMO",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dr-mortimer-blight-of-the-pits-fr",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_AMO002-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Plongeon d’humour",
+          "typeLine": "Assassin Arme - Dague (1M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}, {t} : **Attaque**. **Encore une fois**{br}Si cette carte attaque un héros infecté, elle gagne +1{p}. _(Un héros est infecté s’il contrôle une maladie.)_{br}**Percée 1** _(Si cette carte est défendue par un équipement, elle gagne +1{p}.)_",
+            "plain": "Action -- {r}{r}, {t} : Attaque. Encore une fois\nSi cette carte attaque un héros infecté, elle gagne +1{p}. _(Un héros est infecté s’il contrôle une maladie.)_\nPercée 1 _(Si cette carte est défendue par un équipement, elle gagne +1{p}.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <strong>Attaque</strong>. <strong>Encore une fois</strong></p>\n<p>Si cette carte attaque un héros infecté, elle gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <em>(Un héros est infecté s’il contrôle une maladie.)</em></p>\n<p><strong>Percée 1</strong> <em>(Si cette carte est défendue par un équipement, elle gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMO002",
+          "printedLanguageCode": "fr",
+          "printedYear": "2026",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_AMO002-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_AMO002-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_AMO002-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

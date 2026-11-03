@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "isolation-vestment",
+  "name": "Isolation Vestment",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Isolation Vestment",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Equipment - Chest",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Chest"
+      ],
+      "text": {
+        "markup": "**Action** -- Destroy this: Assassin attack action cards that target an infected hero cost you {r} less to play this turn. **Go again**{br}**Blade Break**",
+        "plain": "Action -- Destroy this: Assassin attack action cards that target an infected hero cost you {r} less to play this turn. Go again\nBlade Break"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMO004-RF",
+      "code": "AMO004",
+      "language": "en",
+      "set": "AMO",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dr-mortimer-blight-of-the-pits",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMO004-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Isolation Vestment",
+          "typeLine": "Assassin Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy this: Assassin attack action cards that target an infected hero cost you {r} less to play this turn. **Go again** _(A hero is infected if they control a disease.)_{br}**Blade Break** _(When the combat chain closes, if this defended, destroy it.)_",
+            "plain": "Action -- Destroy this: Assassin attack action cards that target an infected hero cost you {r} less to play this turn. Go again _(A hero is infected if they control a disease.)_\nBlade Break _(When the combat chain closes, if this defended, destroy it.)_",
+            "html": "<p><strong>Action</strong> — Destroy this: Assassin attack action cards that target an infected hero cost you <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> less to play this turn. <strong>Go again</strong> <em>(A hero is infected if they control a disease.)</em></p>\n<p><strong>Blade Break</strong> <em>(When the combat chain closes, if this defended, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMO004",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Thomas Ressuge",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMO004-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMO004-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMO004-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Blade Break",
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-03T19:43:36Z",
+    "rawSha256": "330f61f3e4c79a2a8a4e9c3601dc6aec17bb2622b4addd786aadf8feebdd278d",
+    "updatedAt": "2026-08-07T08:39:45.749940+12:00"
+  }
+}

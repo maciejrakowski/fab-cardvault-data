@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "surgical-gloves",
+  "name": "Pitch Surgical Gloves",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Pitch Surgical Gloves",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 0,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Equipment - Arms",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Arms"
+      ],
+      "text": {
+        "markup": "**Instant** -- **Cure** a disease an opponent controls: Target attack they control gets -1{p}. Destroy this at the beginning of the end phase.{br}**Arcane Barrier 1**",
+        "plain": "Instant -- Cure a disease an opponent controls: Target attack they control gets -1{p}. Destroy this at the beginning of the end phase.\nArcane Barrier 1"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMO005-RF",
+      "code": "AMO005",
+      "language": "en",
+      "set": "AMO",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dr-mortimer-blight-of-the-pits",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMO005-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Surgical Gloves",
+          "typeLine": "Assassin Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Instant** -- **Cure** a disease an opponent controls: Target attack they control gets -1{p}. Destroy this at the beginning of the end phase.{br}**Arcane Barrier 1** _(If you would be dealt arcane damage, you may pay {r} to prevent 1 of it.)_",
+            "plain": "Instant -- Cure a disease an opponent controls: Target attack they control gets -1{p}. Destroy this at the beginning of the end phase.\nArcane Barrier 1 _(If you would be dealt arcane damage, you may pay {r} to prevent 1 of it.)_",
+            "html": "<p><strong>Instant</strong> — <strong>Cure</strong> a disease an opponent controls: Target attack they control gets -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. Destroy this at the beginning of the end phase.</p>\n<p><strong>Arcane Barrier 1</strong> <em>(If you would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to prevent 1 of it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMO005",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMO005-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMO005-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMO005-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Arcane Barrier 1",
+      "Cure"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-03T19:44:25Z",
+    "rawSha256": "87277901cf823d6457f12e653f52255a7ba7e5166c001ed8ae2fb170c1c6065c",
+    "updatedAt": "2026-08-07T08:39:45.780647+12:00"
+  }
+}

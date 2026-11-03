@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "silver",
+  "language": "es",
+  "name": "Plata",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Plata",
+      "typeLine": "Ficha genérica - Artículo",
+      "classes": [
+        "Genérico/a"
+      ],
+      "types": [
+        "Ficha"
+      ],
+      "subtypes": [
+        "Artículo"
+      ],
+      "text": {
+        "markup": "**Acción** -- {r}{r}{r}, destruye Plata: Roba una carta. **Continuar**",
+        "plain": "Acción -- {r}{r}{r}, destruye Plata: Roba una carta. Continuar",
+        "html": "<p><strong>Acción</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destruye Plata: Roba una carta. <strong>Continuar</strong></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_2HP533",
+      "code": "2HP533",
+      "language": "es",
+      "set": "2HP",
+      "setNumber": 533,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-2-black-label-es",
+      "releaseDate": "2023-02-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_2HP533",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Plata",
+          "typeLine": "Ficha genérica - Artículo",
+          "traitLine": null,
+          "text": {
+            "markup": "**Acción** -- {r}{r}{r}, destruye Plata: Roba una carta. **Continuar**",
+            "plain": "Acción -- {r}{r}{r}, destruye Plata: Roba una carta. Continuar",
+            "html": "<p><strong>Acción</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destruye Plata: Roba una carta. <strong>Continuar</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "2HP533",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_2HP533.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_2HP533.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_2HP533.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

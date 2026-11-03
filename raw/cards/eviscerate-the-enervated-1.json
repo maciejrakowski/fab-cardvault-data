@@ -1,0 +1,416 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "79faac68-6e61-41c3-ba30-0a9b995a3c58",
+      "cores": [
+        {
+          "id": "cd832a25-b295-4585-8900-6b4540506671",
+          "core_classes": [
+            {
+              "id": 2,
+              "name": "Assassin",
+              "name_en": "Assassin",
+              "name_fr": "Assassin",
+              "name_de": "Assassine",
+              "name_it": "Assassino",
+              "name_es": "Asesino",
+              "name_ja": "暗殺者",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-07-20T15:35:12.852637+12:00",
+          "updated_at": "2026-07-20T15:35:12.852643+12:00",
+          "name": "Eviscerate the Enervated",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "1",
+          "power": "5",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Contract** - You are contracted to banish infected opponents' cards. Whenever you complete this contract, create a Silver token.{br}When this hits a hero, banish the top card of their deck.",
+          "typebox": "Assassin Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 1,
+          "power_value": 5,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "79faac68-6e61-41c3-ba30-0a9b995a3c58"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "204f0cd7-bce1-4019-b83a-7e57f1394498",
+          "faces": [
+            {
+              "id": "92b15b71-5a73-412e-bf03-b4c82769b9ac",
+              "created_at": "2026-08-07T08:39:46.979032+12:00",
+              "updated_at": "2026-08-07T08:39:46.979040+12:00",
+              "face_id": "FR_AMO009",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "assassin",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "AMO009",
+              "printed_artist": "Wirawan Pranoto",
+              "printed_name": "Éviscérer les affaiblis",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Contrat** - Vous êtes sous contrat pour bannir les cartes des adversaires infectés. À chaque fois que vous remplissez ce contrat, créez un jeton Argent. _(Un héros est infecté s’il contrôle une maladie.)_{br}Quand cette carte touche un héros, bannissez la carte du dessus de son deck.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Assassin Action - Attaque",
+              "printed_year": "2026",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "cd832a25-b295-4585-8900-6b4540506671",
+              "card_print": "204f0cd7-bce1-4019-b83a-7e57f1394498",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Éviscérer les affaiblis</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Assassin Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Contrat</strong> - Vous êtes sous contrat pour bannir les cartes des adversaires infectés. À chaque fois que vous remplissez ce contrat, créez un jeton Argent. <em>(Un héros est infecté s’il contrôle une maladie.)</em></p>\n<p>Quand cette carte touche un héros, bannissez la carte du dessus de son deck.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_AMO009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_AMO009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_AMO009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "3fb16668-b555-4ff3-9008-9d5a44a90ea1",
+            "product_group": {
+              "id": "a7472431-df63-427a-b31e-f419cf14816c",
+              "created_at": "2026-07-20T15:33:04.232530+12:00",
+              "updated_at": "2026-07-20T15:33:04.232540+12:00",
+              "group_name": "Armory Deck - Dr. Mortimer, Blight of the Pits",
+              "product_type": "precon",
+              "release_date": "2026-11-14",
+              "slug": "armory-deck-dr-mortimer-blight-of-the-"
+            },
+            "created_at": "2026-07-20T15:33:04.126517+12:00",
+            "updated_at": "2026-07-20T15:33:04.240482+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "fr",
+            "product_name": "Armory Deck - Dr. Mortimer, Blight of the Pits [FR]",
+            "product_type": "precon",
+            "release_date": "2026-11-14",
+            "slug": "armory-deck-dr-mortimer-blight-of-the-pits-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "3c082c14-6aee-4aa5-9429-bb38d644feba",
+            "created_at": "2026-07-20T15:33:04.094211+12:00",
+            "updated_at": "2026-07-20T15:33:04.094217+12:00",
+            "set_code": "AMO",
+            "set_name": "Armory Deck - Dr. Mortimer, Blight of the Pits",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-08-07T08:39:46.969769+12:00",
+          "updated_at": "2026-11-02T10:31:32.449792+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-11-14T17:00:00+13:00",
+          "print_id": "FR_AMO009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "79faac68-6e61-41c3-ba30-0a9b995a3c58"
+        },
+        {
+          "id": "cbfa1da9-fdaa-4c54-85cc-45acf00fb5b5",
+          "faces": [
+            {
+              "id": "c125a8ea-1179-43e6-bb6b-d195e8dcdd63",
+              "created_at": "2026-08-07T08:39:46.133930+12:00",
+              "updated_at": "2026-08-07T08:39:46.133937+12:00",
+              "face_id": "AMO009",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "assassin",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "AMO009",
+              "printed_artist": "Wirawan Pranoto",
+              "printed_name": "Eviscerate the Enervated",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Contract** - You are contracted to banish infected opponents' cards. Whenever you complete this contract, create a Silver token. _(A hero is infected if they control a disease.)_{br}When this hits a hero, banish the top card of their deck.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Assassin Action - Attack",
+              "printed_year": "2026",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "cd832a25-b295-4585-8900-6b4540506671",
+              "card_print": "cbfa1da9-fdaa-4c54-85cc-45acf00fb5b5",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Eviscerate the Enervated</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Assassin Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Contract</strong> - You are contracted to banish infected opponents' cards. Whenever you complete this contract, create a Silver token. <em>(A hero is infected if they control a disease.)</em></p>\n<p>When this hits a hero, banish the top card of their deck.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMO009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMO009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMO009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "cb71d292-1820-419a-a933-7ab2a7ea7574",
+            "product_group": {
+              "id": "a7472431-df63-427a-b31e-f419cf14816c",
+              "created_at": "2026-07-20T15:33:04.232530+12:00",
+              "updated_at": "2026-07-20T15:33:04.232540+12:00",
+              "group_name": "Armory Deck - Dr. Mortimer, Blight of the Pits",
+              "product_type": "precon",
+              "release_date": "2026-11-14",
+              "slug": "armory-deck-dr-mortimer-blight-of-the-"
+            },
+            "created_at": "2026-07-20T15:33:04.118035+12:00",
+            "updated_at": "2026-07-20T15:33:04.237479+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "en",
+            "product_name": "Armory Deck - Dr. Mortimer, Blight of the Pits",
+            "product_type": "precon",
+            "release_date": "2026-11-14",
+            "slug": "armory-deck-dr-mortimer-blight-of-the-pits",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "3c082c14-6aee-4aa5-9429-bb38d644feba",
+            "created_at": "2026-07-20T15:33:04.094211+12:00",
+            "updated_at": "2026-07-20T15:33:04.094217+12:00",
+            "set_code": "AMO",
+            "set_name": "Armory Deck - Dr. Mortimer, Blight of the Pits",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-08-07T08:39:46.124485+12:00",
+          "updated_at": "2026-11-02T10:30:19.431870+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-11-14T17:00:00+13:00",
+          "print_id": "AMO009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "79faac68-6e61-41c3-ba30-0a9b995a3c58"
+        },
+        {
+          "id": "1c293385-debb-4e80-bd2a-ae88caf89eeb",
+          "faces": [
+            {
+              "id": "6a7dcedb-3fb7-4fb2-a64a-44a6fbc0512b",
+              "created_at": "2026-08-07T08:39:47.728866+12:00",
+              "updated_at": "2026-08-07T08:39:47.728874+12:00",
+              "face_id": "JA_AMO009",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "assassin",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "AMO009",
+              "printed_artist": "Wirawan Pranoto",
+              "printed_name": "衰弱者の内臓抉り",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**契約** － 感染している相手のカードの追放を契約している。この契約を１回達成するたび、「銀貨」トークンを１つ作成する。（病気をコントロールするヒーローは感染している）{br}これがヒーローにヒットしたとき、そのヒーローのデッキの上のカードを追放する。",
+              "printed_flavor_text": "",
+              "printed_typebox": "暗殺者・アクション － 攻撃",
+              "printed_year": "2026",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "cd832a25-b295-4585-8900-6b4540506671",
+              "card_print": "1c293385-debb-4e80-bd2a-ae88caf89eeb",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>衰弱者の内臓抉り</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>暗殺者・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>契約</strong> － 感染している相手のカードの追放を契約している。この契約を１回達成するたび、「銀貨」トークンを１つ作成する。（病気をコントロールするヒーローは感染している）</p>\n<p>これがヒーローにヒットしたとき、そのヒーローのデッキの上のカードを追放する。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AMO009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AMO009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AMO009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "35cc5a7b-2fb6-46ff-a8a2-ba8a9cf320d9",
+            "product_group": {
+              "id": "a7472431-df63-427a-b31e-f419cf14816c",
+              "created_at": "2026-07-20T15:33:04.232530+12:00",
+              "updated_at": "2026-07-20T15:33:04.232540+12:00",
+              "group_name": "Armory Deck - Dr. Mortimer, Blight of the Pits",
+              "product_type": "precon",
+              "release_date": "2026-11-14",
+              "slug": "armory-deck-dr-mortimer-blight-of-the-"
+            },
+            "created_at": "2026-07-20T15:33:04.122247+12:00",
+            "updated_at": "2026-07-20T15:33:04.242449+12:00",
+            "printed_date": "2000-01-01",
+            "printed_language": "ja",
+            "product_name": "Armory Deck - Dr. Mortimer, Blight of the Pits [JA]",
+            "product_type": "precon",
+            "release_date": "2026-11-14",
+            "slug": "armory-deck-dr-mortimer-blight-of-the-pits-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "3c082c14-6aee-4aa5-9429-bb38d644feba",
+            "created_at": "2026-07-20T15:33:04.094211+12:00",
+            "updated_at": "2026-07-20T15:33:04.094217+12:00",
+            "set_code": "AMO",
+            "set_name": "Armory Deck - Dr. Mortimer, Blight of the Pits",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-08-07T08:39:47.719258+12:00",
+          "updated_at": "2026-11-02T10:32:22.447181+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-11-14T17:00:00+13:00",
+          "print_id": "JA_AMO009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "79faac68-6e61-41c3-ba30-0a9b995a3c58"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Classic Constructed": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Living Legend": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Silver Age": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        }
+      },
+      "created_at": "2026-07-20T15:35:12.847867+12:00",
+      "updated_at": "2026-07-20T15:35:12.847875+12:00",
+      "card_id": "eviscerate-the-enervated-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

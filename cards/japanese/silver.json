@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "silver",
+  "language": "ja",
+  "name": "銀貨",
+  "cores": [
+    {
+      "position": 10,
+      "name": "銀貨",
+      "typeLine": "汎用・トークン － アイテム",
+      "classes": [
+        "汎用"
+      ],
+      "types": [
+        "トークン"
+      ],
+      "subtypes": [
+        "アイテム"
+      ],
+      "text": {
+        "markup": "**アクション**\u202F--\u202F{r}{r}{r}, これを破壊する：カードを１枚引く。**続行**",
+        "plain": "アクション\u202F--\u202F{r}{r}{r}, これを破壊する：カードを１枚引く。続行",
+        "html": "<p><strong>アクション</strong>\u202F—\u202F<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, これを破壊する：カードを１枚引く。<strong>続行</strong></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_AMO033",
+      "code": "AMO033",
+      "language": "ja",
+      "set": "AMO",
+      "setNumber": 33,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dr-mortimer-blight-of-the-pits-ja",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AMO033",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "銀貨",
+          "typeLine": "汎用・トークン － アイテム",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**\u202F--\u202F{r}{r}{r}, これを破壊する：カードを１枚引く。**続行**",
+            "plain": "アクション\u202F--\u202F{r}{r}{r}, これを破壊する：カードを１枚引く。続行",
+            "html": "<p><strong>アクション</strong>\u202F—\u202F<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, これを破壊する：カードを１枚引く。<strong>続行</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMO033",
+          "printedLanguageCode": "jp",
+          "printedYear": "2026",
+          "artist": "Milivoj Ćeran",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AMO033.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AMO033.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AMO033.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

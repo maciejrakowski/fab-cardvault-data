@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "sneaking-rot-1",
+  "name": "Sneaking Rot",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Sneaking Rot",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 2,
+      "power": 6,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "If you've played or activated an attack reaction this chain link, this gets \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+        "plain": "If you've played or activated an attack reaction this chain link, this gets \"When this hits a hero, create a Bloodrot Pox token under their control.\""
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMO012",
+      "code": "AMO012",
+      "language": "en",
+      "set": "AMO",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dr-mortimer-blight-of-the-pits",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMO012",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Sneaking Rot",
+          "typeLine": "Assassin Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If you've played or activated an attack reaction this chain link, this gets \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "plain": "If you've played or activated an attack reaction this chain link, this gets \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "html": "<p>If you've played or activated an attack reaction this chain link, this gets &quot;When this hits a hero, create a Bloodrot Pox token under their control.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMO012",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Ismatulloh",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMO012.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMO012.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMO012.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-03T19:44:14Z",
+    "rawSha256": "628e5c2a66c7cae345a190ddcae62cfe2662273a666441590544555d38ad1199",
+    "updatedAt": "2026-07-20T15:35:12.421175+12:00"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "wound-extraction-1",
+  "name": "Wound Extraction",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Wound Extraction",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 1,
+      "power": 5,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "If you've hit with a dagger this combat chain, this gets \"When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control.\"",
+        "plain": "If you've hit with a dagger this combat chain, this gets \"When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control.\""
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMO013",
+      "code": "AMO013",
+      "language": "en",
+      "set": "AMO",
+      "setNumber": 13,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dr-mortimer-blight-of-the-pits",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMO013",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wound Extraction",
+          "typeLine": "Assassin Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If you've hit with a dagger this combat chain, this gets \"When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control.\"",
+            "plain": "If you've hit with a dagger this combat chain, this gets \"When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control.\"",
+            "html": "<p>If you've hit with a dagger this combat chain, this gets &quot;When this hits a hero, create a Frailty, Inertia, or Bloodrot Pox token under their control.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": "5",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMO013",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Brian Madya Narendra",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMO013.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMO013.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMO013.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-03T19:44:46Z",
+    "rawSha256": "f478339d18f7a12aaf1375470b01a8cf548e0cef8719cd0541a61aaef52c9a15",
+    "updatedAt": "2026-07-20T15:35:12.518676+12:00"
+  }
+}

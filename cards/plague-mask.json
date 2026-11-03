@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "plague-mask",
+  "name": "Plague Mask",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Plague Mask",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Equipment - Head",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Head"
+      ],
+      "text": {
+        "markup": "**Instant** -- Destroy this: Disease tokens can't be created under your control this turn.{br}**Blade Break**",
+        "plain": "Instant -- Destroy this: Disease tokens can't be created under your control this turn.\nBlade Break"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMO003-RF",
+      "code": "AMO003",
+      "language": "en",
+      "set": "AMO",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dr-mortimer-blight-of-the-pits",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMO003-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Plague Mask",
+          "typeLine": "Assassin Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "**Instant** -- Destroy this: Disease tokens can't be created under your control this turn.{br}**Blade Break** _(When the combat chain closes, if this defended, destroy it.)_",
+            "plain": "Instant -- Destroy this: Disease tokens can't be created under your control this turn.\nBlade Break _(When the combat chain closes, if this defended, destroy it.)_",
+            "html": "<p><strong>Instant</strong> — Destroy this: Disease tokens can't be created under your control this turn.</p>\n<p><strong>Blade Break</strong> <em>(When the combat chain closes, if this defended, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMO003",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Saad Irfan",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMO003-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMO003-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMO003-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Blade Break"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-03T19:43:47Z",
+    "rawSha256": "dad19e59169e08809316661b439ea05d494ddef4496b59fd7a9f711bbe4fa613",
+    "updatedAt": "2026-08-07T08:39:45.719250+12:00"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "second-salvos",
+  "name": "Second Salvos",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Second Salvos",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Equipment - Legs",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Legs"
+      ],
+      "text": {
+        "markup": "While this is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip this.{br}**Instant** -- Destroy this: {u} your hero.{br}**Blade Break**",
+        "plain": "While this is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip this.\nInstant -- Destroy this: {u} your hero.\nBlade Break"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMO006-RF",
+      "code": "AMO006",
+      "language": "en",
+      "set": "AMO",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dr-mortimer-blight-of-the-pits",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMO006-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Second Salvos",
+          "typeLine": "Assassin Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "While this is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip this.{br}**Instant** -- Destroy this: {u} your hero.{br}**Blade Break** _(When the combat chain closes, if this defended, destroy it.)_",
+            "plain": "While this is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip this.\nInstant -- Destroy this: {u} your hero.\nBlade Break _(When the combat chain closes, if this defended, destroy it.)_",
+            "html": "<p>While this is in your graveyard, at the start of your turn, you may destroy 2 Silver you control. If you do, equip this.</p>\n<p><strong>Instant</strong> — Destroy this: <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_u.webp' alt='{u}'> your hero.</p>\n<p><strong>Blade Break</strong> <em>(When the combat chain closes, if this defended, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMO006",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Christ Adiel Then",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMO006-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMO006-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMO006-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Blade Break"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-03T19:43:58Z",
+    "rawSha256": "3bf9dba4f205514a801c25b63e2f1947d759c1286b82ed0147b614278b74bc40",
+    "updatedAt": "2026-08-07T08:39:45.810980+12:00"
+  }
+}

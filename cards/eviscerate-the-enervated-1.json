@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "eviscerate-the-enervated-1",
+  "name": "Eviscerate the Enervated",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Eviscerate the Enervated",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 1,
+      "power": 5,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "**Contract** - You are contracted to banish infected opponents' cards. Whenever you complete this contract, create a Silver token.{br}When this hits a hero, banish the top card of their deck.",
+        "plain": "Contract - You are contracted to banish infected opponents' cards. Whenever you complete this contract, create a Silver token.\nWhen this hits a hero, banish the top card of their deck."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AMO009",
+      "code": "AMO009",
+      "language": "en",
+      "set": "AMO",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dr-mortimer-blight-of-the-pits",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AMO009",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Eviscerate the Enervated",
+          "typeLine": "Assassin Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Contract** - You are contracted to banish infected opponents' cards. Whenever you complete this contract, create a Silver token. _(A hero is infected if they control a disease.)_{br}When this hits a hero, banish the top card of their deck.",
+            "plain": "Contract - You are contracted to banish infected opponents' cards. Whenever you complete this contract, create a Silver token. _(A hero is infected if they control a disease.)_\nWhen this hits a hero, banish the top card of their deck.",
+            "html": "<p><strong>Contract</strong> - You are contracted to banish infected opponents' cards. Whenever you complete this contract, create a Silver token. <em>(A hero is infected if they control a disease.)</em></p>\n<p>When this hits a hero, banish the top card of their deck.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": "5",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMO009",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Wirawan Pranoto",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AMO009.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AMO009.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AMO009.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Contract"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-03T19:43:08Z",
+    "rawSha256": "8cb74121b8d55df669d709a508d1e41b8665d0d3837121b2dd2412829e763343",
+    "updatedAt": "2026-07-20T15:35:12.847875+12:00"
+  }
+}
