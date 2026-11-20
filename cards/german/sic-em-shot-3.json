@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "sic-em-shot-3",
+  "language": "de",
+  "name": "Hetzschuss",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Hetzschuss",
+      "typeLine": "Waldläufer Aktion - Pfeilattacke",
+      "classes": [
+        "Waldläufer"
+      ],
+      "types": [
+        "Aktion"
+      ],
+      "subtypes": [
+        "Pfeil",
+        "Angriff"
+      ],
+      "text": {
+        "markup": "_(Pfeile können nur aus dem Arsenal gespielt werden und nur, wenn du einen Bogen kontrollierst.)_{br}**Go again**",
+        "plain": "_(Pfeile können nur aus dem Arsenal gespielt werden und nur, wenn du einen Bogen kontrollierst.)_\nGo again",
+        "html": "<p><em>(Pfeile können nur aus dem Arsenal gespielt werden und nur, wenn du einen Bogen kontrollierst.)</em></p>\n<p><strong>Go again</strong></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "DE_1HP254",
+      "code": "1HP254",
+      "language": "de",
+      "set": "1HP",
+      "setNumber": 254,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1-black-label-de",
+      "releaseDate": "2022-07-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DE_1HP254",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "de",
+          "name": "Hetzschuss",
+          "typeLine": "Waldläufer Aktion - Pfeilattacke",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Pfeile können nur aus dem Arsenal gespielt werden und nur, wenn du einen Bogen kontrollierst.)_{br}**Go again**",
+            "plain": "_(Pfeile können nur aus dem Arsenal gespielt werden und nur, wenn du einen Bogen kontrollierst.)_\nGo again",
+            "html": "<p><em>(Pfeile können nur aus dem Arsenal gespielt werden und nur, wenn du einen Bogen kontrollierst.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "1",
+            "power": "2",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP254",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Alexandra Malygina",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_1HP254.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_1HP254.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_1HP254.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

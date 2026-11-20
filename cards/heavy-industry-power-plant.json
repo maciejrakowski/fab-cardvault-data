@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "id": "heavy-industry-power-plant",
+  "name": "Heavy Industry Power Plant",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Heavy Industry Power Plant",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Mechanologist Equipment - Chest",
+      "traitLine": null,
+      "classes": [
+        "Mechanologist"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Chest"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}, destroy this: Whenever you **boost** this turn, gain {r}. **Go again**{br}**Temper**",
+        "plain": "Action -- {r}, destroy this: Whenever you boost this turn, gain {r}. Go again\nTemper"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "JDG032-CF",
+      "code": "JDG032",
+      "language": "en",
+      "set": "JDG",
+      "setNumber": 32,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "judge-pack-season-5",
+      "releaseDate": "2024-09-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JDG032-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Heavy Industry Power Plant",
+          "typeLine": "Mechanologist Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}, destroy this: Whenever you **boost** this turn, gain {r}. **Go again**{br}**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "plain": "Action -- {r}, destroy this: Whenever you boost this turn, gain {r}. Go again\nTemper _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy this: Whenever you <strong>boost</strong> this turn, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Go again</strong></p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "JDG032",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Simon Dominic",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG032-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG032-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG032-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AIO004-RF",
+      "code": "AIO004",
+      "language": "en",
+      "set": "AIO",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dash-io",
+      "releaseDate": "2024-10-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AIO004-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Heavy Industry Power Plant",
+          "typeLine": "Mechanologist Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}, destroy this: Whenever you **boost** this turn, gain {r}. **Go again**{br}**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "plain": "Action -- {r}, destroy this: Whenever you boost this turn, gain {r}. Go again\nTemper _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy this: Whenever you <strong>boost</strong> this turn, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Go again</strong></p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AIO004",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Simon Dominic",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AIO004-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AIO004-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AIO004-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "Temper",
+      "boost"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T13:47:52Z",
+    "rawSha256": "9734efa613dccad68085616f26688126c86f706bc98ad61970c1f096af9e74e7",
+    "updatedAt": "2025-09-18T06:51:00.047556+12:00"
+  }
+}

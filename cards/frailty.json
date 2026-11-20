@@ -1,0 +1,627 @@
+{
+  "schemaVersion": 1,
+  "id": "frailty",
+  "name": "Frailty",
+  "objectType": "token",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Frailty",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Token – Disease Aura",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Token"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": {
+        "markup": "Attack action cards you've played from arsenal and your weapon attacks get -1{p}.{br}At the beginning of your end phase, destroy this.",
+        "plain": "Attack action cards you've played from arsenal and your weapon attacks get -1{p}.\nAt the beginning of your end phase, destroy this."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata IAR] Fraily, Inertia, and Bloodrot Pox - typebox update",
+      "description": "This cards typebox has been updated to \"Generic Token – Disease Aura\". This allows it to be referred to by the object identifier, \"disease\"",
+      "date": "25-09-2026"
+    }
+  ],
+  "printings": [
+    {
+      "id": "LGS126-CF",
+      "code": "LGS126",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 126,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pre-release-outsiders",
+      "releaseDate": "2023-03-17",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS126-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frailty",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "plain": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "html": "<p>Your attack action cards played from arsenal and weapon attacks have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>At the beginning of your end phase, destroy Frailty.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS126",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS126-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS126-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS126-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARA028",
+      "code": "ARA028",
+      "language": "en",
+      "set": "ARA",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arakni-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARA028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frailty",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "plain": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "html": "<p>Your attack action cards played from arsenal and weapon attacks have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>At the beginning of your end phase, destroy Frailty.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARA028",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARA028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARA028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARA028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AZL029",
+      "code": "AZL029",
+      "language": "en",
+      "set": "AZL",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "azalea-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AZL029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frailty",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "plain": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "html": "<p>Your attack action cards played from arsenal and weapon attacks have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>At the beginning of your end phase, destroy Frailty.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AZL029",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AZL029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AZL029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AZL029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUT235",
+      "code": "OUT235",
+      "language": "en",
+      "set": "OUT",
+      "setNumber": 235,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OUT235",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frailty",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "plain": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "html": "<p>Your attack action cards played from arsenal and weapon attacks have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>At the beginning of your end phase, destroy Frailty.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Alchemy draws you in with a deadly allure. The promise of deliverance, the costs yet unknown.\" - Achlys, hag of Mojire_",
+            "plain": "_\"Alchemy draws you in with a deadly allure. The promise of deliverance, the costs yet unknown.\" - Achlys, hag of Mojire_",
+            "html": "<p><em>&quot;Alchemy draws you in with a deadly allure. The promise of deliverance, the costs yet unknown.&quot; - Achlys, hag of Mojire</em></p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OUT235",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OUT235.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OUT235.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OUT235.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RIP029",
+      "code": "RIP029",
+      "language": "en",
+      "set": "RIP",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "riptide-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "RIP029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frailty",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "plain": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "html": "<p>Your attack action cards played from arsenal and weapon attacks have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>At the beginning of your end phase, destroy Frailty.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "RIP029",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/RIP029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/RIP029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/RIP029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "UZU029",
+      "code": "UZU029",
+      "language": "en",
+      "set": "UZU",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "uzuri-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "UZU029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frailty",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "plain": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "html": "<p>Your attack action cards played from arsenal and weapon attacks have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>At the beginning of your end phase, destroy Frailty.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "UZU029",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UZU029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UZU029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UZU029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB134-RF",
+      "code": "FAB134",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 134,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-baltimore-2023",
+      "releaseDate": "2023-04-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB134-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frailty",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "plain": "Your attack action cards played from arsenal and weapon attacks have -1{p}.\nAt the beginning of your end phase, destroy Frailty.",
+            "html": "<p>Your attack action cards played from arsenal and weapon attacks have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>At the beginning of your end phase, destroy Frailty.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB134",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB134-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB134-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB134-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AAZ031",
+      "code": "AAZ031",
+      "language": "en",
+      "set": "AAZ",
+      "setNumber": 31,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-azalea-ace-in-the-hole",
+      "releaseDate": "2024-08-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AAZ031",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frailty",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Attack action cards you've played from arsenal and your weapon attacks get -1{p}.{br}At the beginning of your end phase, destroy this.",
+            "plain": "Attack action cards you've played from arsenal and your weapon attacks get -1{p}.\nAt the beginning of your end phase, destroy this.",
+            "html": "<p>Attack action cards you've played from arsenal and your weapon attacks get -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>At the beginning of your end phase, destroy this.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAZ031",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AAZ031.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AAZ031.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AAZ031.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAZ035",
+      "code": "SAZ035",
+      "language": "en",
+      "set": "SAZ",
+      "setNumber": 35,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-azalea",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-30T12:10:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SAZ035",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frailty",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Attack action cards you've played from arsenal and your weapon attacks get -1{p}.{br}At the beginning of your end phase, destroy this.",
+            "plain": "Attack action cards you've played from arsenal and your weapon attacks get -1{p}.\nAt the beginning of your end phase, destroy this.",
+            "html": "<p>Attack action cards you've played from arsenal and your weapon attacks get -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>At the beginning of your end phase, destroy this.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SAZ035",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAZ035.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAZ035.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAZ035.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T13:44:37Z",
+    "rawSha256": "0117e508368d48eb172e3289f164f1898efd0def129ee9728eeb9ae075ab0c05",
+    "updatedAt": "2025-09-18T06:50:12.958121+12:00"
+  }
+}

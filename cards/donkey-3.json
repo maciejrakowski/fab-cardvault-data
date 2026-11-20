@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "id": "donkey-3",
+  "name": "Donkey",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Donkey",
+      "pitch": 3,
+      "chi": 0,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Warrior Attack Reaction",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Attack Reaction"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Target sword attack gets +1{p} and **wagers** with the defending hero. The winner destroys a card in their own arsenal.",
+        "plain": "Target sword attack gets +1{p} and wagers with the defending hero. The winner destroys a card in their own arsenal."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AOL020",
+      "code": "AOL020",
+      "language": "en",
+      "set": "AOL",
+      "setNumber": 20,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-olympia-prized-fighter",
+      "releaseDate": "2026-08-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-30T10:28:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AOL020",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Donkey",
+          "typeLine": "Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target sword attack gets +1{p} and **wagers** with the defending hero. The winner destroys a card in their own arsenal. _(If the attack hits, you win. Otherwise, they win.)_",
+            "plain": "Target sword attack gets +1{p} and wagers with the defending hero. The winner destroys a card in their own arsenal. _(If the attack hits, you win. Otherwise, they win.)_",
+            "html": "<p>Target sword attack gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>wagers</strong> with the defending hero. The winner destroys a card in their own arsenal. <em>(If the attack hits, you win. Otherwise, they win.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AOL020",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Carlos Cruchaga",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AOL020.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AOL020.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AOL020.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MPW042",
+      "code": "MPW042",
+      "language": "en",
+      "set": "MPW",
+      "setNumber": 42,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-warrior",
+      "releaseDate": "2026-08-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-29T16:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "MPW042",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Donkey",
+          "typeLine": "Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target sword attack gets +1{p} and **wagers** with the defending hero. The winner destroys a card in their own arsenal. _(If the attack hits, you win. Otherwise, they win.)_",
+            "plain": "Target sword attack gets +1{p} and wagers with the defending hero. The winner destroys a card in their own arsenal. _(If the attack hits, you win. Otherwise, they win.)_",
+            "html": "<p>Target sword attack gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>wagers</strong> with the defending hero. The winner destroys a card in their own arsenal. <em>(If the attack hits, you win. Otherwise, they win.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MPW042",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Carlos Cruchaga",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPW042.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPW042.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW042.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MPW042-RF",
+      "code": "MPW042",
+      "language": "en",
+      "set": "MPW",
+      "setNumber": 42,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-warrior",
+      "releaseDate": "2026-08-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-29T16:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "MPW042-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Donkey",
+          "typeLine": "Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target sword attack gets +1{p} and **wagers** with the defending hero. The winner destroys a card in their own arsenal. _(If the attack hits, you win. Otherwise, they win.)_",
+            "plain": "Target sword attack gets +1{p} and wagers with the defending hero. The winner destroys a card in their own arsenal. _(If the attack hits, you win. Otherwise, they win.)_",
+            "html": "<p>Target sword attack gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>wagers</strong> with the defending hero. The winner destroys a card in their own arsenal. <em>(If the attack hits, you win. Otherwise, they win.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MPW042",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Carlos Cruchaga",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPW042-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPW042-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW042-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB484-RF",
+      "code": "FAB484",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 484,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-vegas-2026",
+      "releaseDate": "2027-05-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB484-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Donkey",
+          "typeLine": "Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target sword attack gets +1{p} and **wagers** with the defending hero. The winner destroys a card in their own arsenal. _(If the attack hits, you win. Otherwise, they win.)_",
+            "plain": "Target sword attack gets +1{p} and wagers with the defending hero. The winner destroys a card in their own arsenal. _(If the attack hits, you win. Otherwise, they win.)_",
+            "html": "<p>Target sword attack gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>wagers</strong> with the defending hero. The winner destroys a card in their own arsenal. <em>(If the attack hits, you win. Otherwise, they win.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB484",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Carlos Cruchaga",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB484-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB484-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB484-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "wagers"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T13:44:09Z",
+    "rawSha256": "5c5d39a64eb9a544b7a6ab2269da808f0790d6a3146836a5057e3f03bf02084f",
+    "updatedAt": "2026-03-29T22:14:08.391514+13:00"
+  }
+}

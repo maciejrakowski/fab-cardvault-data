@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "heavy-industry-power-plant",
+  "language": "it",
+  "name": "Centrale Elettrica dell'Industria Pesante",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Centrale Elettrica dell'Industria Pesante",
+      "typeLine": "Equipaggiamento Meccanologo - Torso",
+      "classes": [
+        "Meccanologo"
+      ],
+      "types": [
+        "Equipaggiamento"
+      ],
+      "subtypes": [
+        "Torso"
+      ],
+      "text": {
+        "markup": "**Azione** -- {r}, distruggi questa carta: Ogni volta che **potenzi** in questo turno, ottieni {r}. **Continua**{br}**Tempra** _(Quando la catena di combattimento si chiude, se questa carta ha difeso, mettici un segnalino -1{d}, poi distruggila se ha 0{d}.)_",
+        "plain": "Azione -- {r}, distruggi questa carta: Ogni volta che potenzi in questo turno, ottieni {r}. Continua\nTempra _(Quando la catena di combattimento si chiude, se questa carta ha difeso, mettici un segnalino -1{d}, poi distruggila se ha 0{d}.)_",
+        "html": "<p><strong>Azione</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, distruggi questa carta: Ogni volta che <strong>potenzi</strong> in questo turno, ottieni <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Continua</strong></p>\n<p><strong>Tempra</strong> <em>(Quando la catena di combattimento si chiude, se questa carta ha difeso, mettici un segnalino -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, poi distruggila se ha 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_AIO004-RF",
+      "code": "AIO004",
+      "language": "it",
+      "set": "AIO",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dash-io-it",
+      "releaseDate": "2024-10-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_AIO004-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Centrale Elettrica dell'Industria Pesante",
+          "typeLine": "Equipaggiamento Meccanologo - Torso",
+          "traitLine": null,
+          "text": {
+            "markup": "**Azione** -- {r}, distruggi questa carta: Ogni volta che **potenzi** in questo turno, ottieni {r}. **Continua**{br}**Tempra** _(Quando la catena di combattimento si chiude, se questa carta ha difeso, mettici un segnalino -1{d}, poi distruggila se ha 0{d}.)_",
+            "plain": "Azione -- {r}, distruggi questa carta: Ogni volta che potenzi in questo turno, ottieni {r}. Continua\nTempra _(Quando la catena di combattimento si chiude, se questa carta ha difeso, mettici un segnalino -1{d}, poi distruggila se ha 0{d}.)_",
+            "html": "<p><strong>Azione</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, distruggi questa carta: Ogni volta che <strong>potenzi</strong> in questo turno, ottieni <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Continua</strong></p>\n<p><strong>Tempra</strong> <em>(Quando la catena di combattimento si chiude, se questa carta ha difeso, mettici un segnalino -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, poi distruggila se ha 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AIO004",
+          "printedLanguageCode": "IT",
+          "printedYear": "2024",
+          "artist": "Simon Dominic",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_AIO004-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_AIO004-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_AIO004-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

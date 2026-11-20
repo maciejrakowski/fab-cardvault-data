@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "lady-barthimont",
+  "name": "Lady Barthimont",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Lady Barthimont",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Brute Mentor",
+      "traitLine": null,
+      "classes": [
+        "Brute"
+      ],
+      "talents": [],
+      "types": [
+        "Mentor"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "While Barthimont is face-down in arsenal, at the start of your turn, you may turn her face-up.{br}While Barthimont is face-up in arsenal, whenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, put a lesson counter on Barthimont and the attack gets **dominate**. Then if there are 2 or more lesson counters on Barthimont, banish her, search your deck for a card with **specialization**, put it face-up into your arsenal, and shuffle.",
+        "plain": "While Barthimont is face-down in arsenal, at the start of your turn, you may turn her face-up.\nWhile Barthimont is face-up in arsenal, whenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, put a lesson counter on Barthimont and the attack gets dominate. Then if there are 2 or more lesson counters on Barthimont, banish her, search your deck for a card with specialization, put it face-up into your arsenal, and shuffle."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "FAB045-RF",
+      "code": "FAB045",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 45,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "marketing-monarch-mentors",
+      "releaseDate": "2019-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB045-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lady Barthimont",
+          "typeLine": "Brute Mentor",
+          "traitLine": null,
+          "text": {
+            "markup": "**Mentor** _(You may only have Barthimont in your deck if your hero is young.)_\nAt the start of your turn, if Barthimont is face down in your arsenal, you may turn her face up.\nWhenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, the attack gains **dominate** and put a lesson counter on Barthimont. Then if there are 2 or more lesson counters on Barthimont, banish her, search your deck a **specialization** card, put it face up into your arsenal, and shuffle your deck.",
+            "plain": "Mentor _(You may only have Barthimont in your deck if your hero is young.)_\nAt the start of your turn, if Barthimont is face down in your arsenal, you may turn her face up.\nWhenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, the attack gains dominate and put a lesson counter on Barthimont. Then if there are 2 or more lesson counters on Barthimont, banish her, search your deck a specialization card, put it face up into your arsenal, and shuffle your deck.",
+            "html": "<p><strong>Mentor</strong> <em>(You may only have Barthimont in your deck if your hero is young.)</em></p>\n<p>At the start of your turn, if Barthimont is face down in your arsenal, you may turn her face up.</p>\n<p>Whenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, the attack gains <strong>dominate</strong> and put a lesson counter on Barthimont. Then if there are 2 or more lesson counters on Barthimont, banish her, search your deck a <strong>specialization</strong> card, put it face up into your arsenal, and shuffle your deck.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB045",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Carlos Cruchaga",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "mentor",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB045-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB045-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB045-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LEV002",
+      "code": "LEV002",
+      "language": "en",
+      "set": "LEV",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "levia-blitz-deck",
+      "releaseDate": "2021-05-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LEV002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lady Barthimont",
+          "typeLine": "Brute Mentor",
+          "traitLine": null,
+          "text": {
+            "markup": "**Mentor** _(You may only have Barthimont in your deck if your hero is young.)_\nAt the start of your turn, if Barthimont is face down in your arsenal, you may turn her face up.\nWhenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, the attack gains **dominate** and put a lesson counter on Barthimont. Then if there are 2 or more lesson counters on Barthimont, banish her, search your deck for a **specialization** card, put it face up into your arsenal, and shuffle your deck.",
+            "plain": "Mentor _(You may only have Barthimont in your deck if your hero is young.)_\nAt the start of your turn, if Barthimont is face down in your arsenal, you may turn her face up.\nWhenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more {p}, the attack gains dominate and put a lesson counter on Barthimont. Then if there are 2 or more lesson counters on Barthimont, banish her, search your deck for a specialization card, put it face up into your arsenal, and shuffle your deck.",
+            "html": "<p><strong>Mentor</strong> <em>(You may only have Barthimont in your deck if your hero is young.)</em></p>\n<p>At the start of your turn, if Barthimont is face down in your arsenal, you may turn her face up.</p>\n<p>Whenever you play an attack action card, banish the top card of your deck. If the banished card has 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, the attack gains <strong>dominate</strong> and put a lesson counter on Barthimont. Then if there are 2 or more lesson counters on Barthimont, banish her, search your deck for a <strong>specialization</strong> card, put it face up into your arsenal, and shuffle your deck.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LEV002",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Carlos Cruchaga",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "mentor",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LEV002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LEV002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LEV002.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "dominate",
+      "specialization"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T13:44:48Z",
+    "rawSha256": "e3c80cf86ee8cf7811316832bf736db2cfe9ed2adf43e730932c2a4f44d7c58e",
+    "updatedAt": "2025-09-18T06:52:00.230598+12:00"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "heavy-industry-power-plant",
+  "language": "ja",
+  "name": "重工業のパワープラント",
+  "cores": [
+    {
+      "position": 10,
+      "name": "重工業のパワープラント",
+      "typeLine": "機械技師・装備品 － 胴",
+      "classes": [
+        "機械技師"
+      ],
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "胴"
+      ],
+      "text": {
+        "markup": "**アクション**--{r}, これを破壊する：このターン、あなたが**ブースト**するたび、{r}を得る。**続行**{br}**焼き戻し**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後その{d}が０の場合、破壊する）",
+        "plain": "アクション--{r}, これを破壊する：このターン、あなたがブーストするたび、{r}を得る。続行\n焼き戻し（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後その{d}が０の場合、破壊する）",
+        "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, これを破壊する：このターン、あなたが<strong>ブースト</strong>するたび、<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。<strong>続行</strong></p>\n<p><strong>焼き戻し</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置き、その後その<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>が０の場合、破壊する）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_AIO004-RF",
+      "code": "AIO004",
+      "language": "ja",
+      "set": "AIO",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dash-io-ja",
+      "releaseDate": "2024-10-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AIO004-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "重工業のパワープラント",
+          "typeLine": "機械技師・装備品 － 胴",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--{r}, これを破壊する：このターン、あなたが**ブースト**するたび、{r}を得る。**続行**{br}**焼き戻し**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後その{d}が０の場合、破壊する）",
+            "plain": "アクション--{r}, これを破壊する：このターン、あなたがブーストするたび、{r}を得る。続行\n焼き戻し（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後その{d}が０の場合、破壊する）",
+            "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, これを破壊する：このターン、あなたが<strong>ブースト</strong>するたび、<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。<strong>続行</strong></p>\n<p><strong>焼き戻し</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置き、その後その<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>が０の場合、破壊する）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AIO004",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Simon Dominic",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AIO004-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AIO004-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AIO004-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "id": "test-of-might-1",
+  "name": "Test of Might",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Test of Might",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": null,
+      "power": null,
+      "defense": 4,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Brute / Guardian Block",
+      "traitLine": null,
+      "classes": [
+        "Brute",
+        "Guardian"
+      ],
+      "talents": [],
+      "types": [
+        "Block"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "When this defends, **clash** with the attacking hero. The winner creates a Might token.",
+        "plain": "When this defends, clash with the attacking hero. The winner creates a Might token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS260-RF",
+      "code": "LGS260",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 260,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-12",
+      "releaseDate": "2024-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS260-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Might",
+          "typeLine": "Brute / Guardian Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates a Might token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates a Might token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates a Might token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS260",
+          "printedLanguageCode": "EN",
+          "printedYear": "2023",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "brute-guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS260-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS260-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS260-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY141",
+      "code": "HVY141",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 141,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY141",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Might",
+          "typeLine": "Brute / Guardian Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates a Might token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates a Might token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates a Might token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY141",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute-guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY141.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY141.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY141.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY141-RF",
+      "code": "HVY141",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 141,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY141-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Might",
+          "typeLine": "Brute / Guardian Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates a Might token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates a Might token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates a Might token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY141",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute-guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY141-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY141-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY141-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "VIC012",
+      "code": "VIC012",
+      "language": "en",
+      "set": "VIC",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "victor-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "VIC012",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Might",
+          "typeLine": "Brute / Guardian Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates a Might token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates a Might token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates a Might token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "VIC012",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute-guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/VIC012.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/VIC012.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/VIC012.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SKA020",
+      "code": "SKA020",
+      "language": "en",
+      "set": "SKA",
+      "setNumber": 20,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-kayo",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SKA020",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Might",
+          "typeLine": "Brute / Guardian Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates a Might token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates a Might token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates a Might token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SKA020",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SKA020.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SKA020.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SKA020.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "clash"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T13:47:25Z",
+    "rawSha256": "437533e84d140b9a48d9f0e44d0255f4d3078d5f115d54054ea773329bcca144",
+    "updatedAt": "2025-09-18T06:57:44.536695+12:00"
+  }
+}

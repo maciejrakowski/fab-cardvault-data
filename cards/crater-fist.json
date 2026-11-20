@@ -1,0 +1,443 @@
+{
+  "schemaVersion": 1,
+  "id": "crater-fist",
+  "name": "Crater Fist",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Crater Fist",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Guardian Equipment - Arms",
+      "traitLine": null,
+      "classes": [
+        "Guardian"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Arms"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}{r}{r}, destroy this: Your attacks with **crush** get +2{p} this turn. **Go again**{br}**Temper**",
+        "plain": "Action -- {r}{r}{r}, destroy this: Your attacks with crush get +2{p} this turn. Go again\nTemper"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "CRU025",
+      "code": "CRU025",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU025",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crater Fist",
+          "typeLine": "Guardian Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. **Go again**\n**Temper** _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "plain": "Action -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. Go again\nTemper _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Crater Fist: Your attacks with crush gain +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> this turn. <strong>Go again</strong></p>\n<p><strong>Temper</strong> <em>(If you defend with Crater Fist, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes then destroy it if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU025",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Shen Fei",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU025.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU025.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU025.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU025-CF",
+      "code": "CRU025",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU025-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crater Fist",
+          "typeLine": "Guardian Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. **Go again**\n**Temper** _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "plain": "Action -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. Go again\nTemper _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Crater Fist: Your attacks with crush gain +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> this turn. <strong>Go again</strong></p>\n<p><strong>Temper</strong> <em>(If you defend with Crater Fist, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes then destroy it if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU025",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Shen Fei",
+          "rarityMark": "majestic-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU025-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU025-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU025-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU025",
+      "code": "CRU025",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU025",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crater Fist",
+          "typeLine": "Guardian Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. **Go again**\n**Temper** _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "plain": "Action -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. Go again\nTemper _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Crater Fist: Your attacks with crush gain +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> this turn. <strong>Go again</strong></p>\n<p><strong>Temper</strong> <em>(If you defend with Crater Fist, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes then destroy it if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU025",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Shen Fei",
+          "rarityMark": "majestic-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU025.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU025.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU025.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU025-RF",
+      "code": "CRU025",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU025-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crater Fist",
+          "typeLine": "Guardian Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. **Go again**\n**Temper** _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "plain": "Action -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. Go again\nTemper _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Crater Fist: Your attacks with crush gain +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> this turn. <strong>Go again</strong></p>\n<p><strong>Temper</strong> <em>(If you defend with Crater Fist, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes then destroy it if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU025",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Shen Fei",
+          "rarityMark": "majestic-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU025-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU025-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU025-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP049",
+      "code": "1HP049",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 49,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP049",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crater Fist",
+          "typeLine": "Guardian Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. **Go again**\n**Temper** _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "plain": "Action -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. Go again\nTemper _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Crater Fist: Your attacks with crush gain +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> this turn. <strong>Go again</strong></p>\n<p><strong>Temper</strong> <em>(If you defend with Crater Fist, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes then destroy it if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP049",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Shen Fei",
+          "rarityMark": "majestic-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP049.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP049.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP049.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB107-GF",
+      "code": "FAB107",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 107,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "proquest-season-3",
+      "releaseDate": "2023-01-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB107-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crater Fist",
+          "typeLine": "Guardian Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. **Go again**\n**Temper** _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "plain": "Action -- {r}{r}{r}, destroy Crater Fist: Your attacks with crush gain +2{p} this turn. Go again\nTemper _(If you defend with Crater Fist, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Crater Fist: Your attacks with crush gain +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> this turn. <strong>Go again</strong></p>\n<p><strong>Temper</strong> <em>(If you defend with Crater Fist, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes then destroy it if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB107",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Shen Fei",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB107-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB107-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB107-GF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "Temper",
+      "crush"
+    ],
+    "editions": {
+      "U-CRU025": "unlimited",
+      "U-CRU025-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T13:44:04Z",
+    "rawSha256": "503ae95059af979384e311b512be3fc135b144d54d4854d563b394f5ba1d50a9",
+    "updatedAt": "2025-09-18T06:48:07.112309+12:00"
+  }
+}

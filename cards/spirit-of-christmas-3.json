@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "spirit-of-christmas-3",
+  "name": "Spirit of Christmas",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Spirit of Christmas",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Action",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Each hero chooses another hero. The chosen hero creates an Agility, Might, Vigor, and Gold token.{br}**Go again**",
+        "plain": "Each hero chooses another hero. The chosen hero creates an Agility, Might, Vigor, and Gold token.\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS355-CF",
+      "code": "LGS355",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 355,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-14-holiday",
+      "releaseDate": "2024-12-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS355-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spirit of Christmas",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Each hero chooses another hero. The chosen hero creates an Agility, Might, Vigor, and Gold token.{br}**Go again**",
+            "plain": "Each hero chooses another hero. The chosen hero creates an Agility, Might, Vigor, and Gold token.\nGo again",
+            "html": "<p>Each hero chooses another hero. The chosen hero creates an Agility, Might, Vigor, and Gold token.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "\"_Happy holidays 2024!_\" - _LSS team_",
+            "plain": "\"_Happy holidays 2024!_\" - _LSS team_",
+            "html": "<p>&quot;<em>Happy holidays 2024!</em>&quot; - <em>LSS team</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS355",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS355-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS355-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS355-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T13:47:19Z",
+    "rawSha256": "919072e52ac2ed0d6d1ac3899d98763c53c71283ac1ec938863537c3be284404",
+    "updatedAt": "2025-09-18T06:56:50.597667+12:00"
+  }
+}

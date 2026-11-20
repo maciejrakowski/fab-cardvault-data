@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "nom-de-plume",
+  "name": "Nom de Plume",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Nom de Plume",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 0,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Bard Equipment - Head",
+      "traitLine": null,
+      "classes": [
+        "Bard"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Head"
+      ],
+      "text": {
+        "markup": "**Action** -- Destroy this: Each hero draws a card. **Go again**",
+        "plain": "Action -- Destroy this: Each hero draws a card. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS213-RF",
+      "code": "LGS213",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 213,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "social-play-kit-melody",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS213-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nom de Plume",
+          "typeLine": "Bard Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy this: Each hero draws a card. **Go again**",
+            "plain": "Action -- Destroy this: Each hero draws a card. Go again",
+            "html": "<p><strong>Action</strong> — Destroy this: Each hero draws a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS213",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Shen Fei",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS213-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS213-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS213-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TCC051",
+      "code": "TCC051",
+      "language": "en",
+      "set": "TCC",
+      "setNumber": 51,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "round-the-table-tcc-x-lss",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TCC051",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nom de Plume",
+          "typeLine": "Bard Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy this: Each hero draws a card. **Go again**",
+            "plain": "Action -- Destroy this: Each hero draws a card. Go again",
+            "html": "<p><strong>Action</strong> — Destroy this: Each hero draws a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TCC051",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Shen Fei",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC051.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC051.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC051.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T13:46:58Z",
+    "rawSha256": "38a6ebb97ff610f25f7da9d1b190c6a3ce0ccb9884881b3344787b4d37f90cf9",
+    "updatedAt": "2025-09-18T06:52:57.866258+12:00"
+  }
+}

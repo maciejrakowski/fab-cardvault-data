@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "heavy-industry-power-plant",
+  "language": "fr",
+  "name": "Centrale industrielle lourde",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Centrale industrielle lourde",
+      "typeLine": "Mécanologue Équipement - Torse",
+      "classes": [
+        "Mécanologue"
+      ],
+      "types": [
+        "Équipement"
+      ],
+      "subtypes": [
+        "Torse"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}, détruisez cette carte : à chaque fois que vous **boostez** ce tour-ci, gagnez {r}. **Encore une fois**{br}**Tempérer** _(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1{d} sur elle, puis détruisez-la si elle a 0{d}.)_",
+        "plain": "Action -- {r}, détruisez cette carte : à chaque fois que vous boostez ce tour-ci, gagnez {r}. Encore une fois\nTempérer _(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1{d} sur elle, puis détruisez-la si elle a 0{d}.)_",
+        "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, détruisez cette carte : à chaque fois que vous <strong>boostez</strong> ce tour-ci, gagnez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Encore une fois</strong></p>\n<p><strong>Tempérer</strong> <em>(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> sur elle, puis détruisez-la si elle a 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_AIO004-RF",
+      "code": "AIO004",
+      "language": "fr",
+      "set": "AIO",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dash-io-fr",
+      "releaseDate": "2024-10-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_AIO004-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Centrale industrielle lourde",
+          "typeLine": "Mécanologue Équipement - Torse",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}, détruisez cette carte : à chaque fois que vous **boostez** ce tour-ci, gagnez {r}. **Encore une fois**{br}**Tempérer** _(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1{d} sur elle, puis détruisez-la si elle a 0{d}.)_",
+            "plain": "Action -- {r}, détruisez cette carte : à chaque fois que vous boostez ce tour-ci, gagnez {r}. Encore une fois\nTempérer _(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1{d} sur elle, puis détruisez-la si elle a 0{d}.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, détruisez cette carte : à chaque fois que vous <strong>boostez</strong> ce tour-ci, gagnez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Encore une fois</strong></p>\n<p><strong>Tempérer</strong> <em>(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> sur elle, puis détruisez-la si elle a 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AIO004",
+          "printedLanguageCode": "FR",
+          "printedYear": "2024",
+          "artist": "Simon Dominic",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_AIO004-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_AIO004-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_AIO004-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}
