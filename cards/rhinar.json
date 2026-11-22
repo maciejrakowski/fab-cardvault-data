@@ -1,0 +1,958 @@
+{
+  "schemaVersion": 1,
+  "id": "rhinar",
+  "name": "Rhinar",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Rhinar",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Brute Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Brute"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.",
+        "plain": "Whenever you discard a card with 6 or more {p} during your action phase, intimidate."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HER005-RF",
+      "code": "HER005-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER005-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "When you discard a card with 6 or more {p} during your action phase, **intimidate**.",
+            "plain": "When you discard a card with 6 or more {p} during your action phase, intimidate.",
+            "html": "<p>When you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER005-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Wisnu Tan",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER005-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER005-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER005-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RNR002",
+      "code": "RNR002-T",
+      "language": "en",
+      "set": "RNR",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rhinar-reckless-rampage-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "RNR002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "When you discard a card with 6 or more {p} during your action phase, **intimidate**. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "plain": "When you discard a card with 6 or more {p} during your action phase, intimidate. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "html": "<p>When you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate</strong>. <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "RNR002-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Wisnu Tan",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/RNR002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/RNR002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/RNR002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR002",
+      "code": "WTR002-T",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "When you discard a card with 6 or more {p} during your action phase, **intimidate**. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "plain": "When you discard a card with 6 or more {p} during your action phase, intimidate. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "html": "<p>When you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate</strong>. <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR002-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Wisnu Tan",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "XXX003",
+      "code": "XXX003",
+      "language": "en",
+      "set": "XXX",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "organized-play-support-limited-calling-2019",
+      "releaseDate": "2019-10-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "XXX003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "When you discard a card with 6 or more {p} during your action phase, **intimidate**. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "plain": "When you discard a card with 6 or more {p} during your action phase, intimidate. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "html": "<p>When you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate</strong>. <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "XXX003",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Wisnu Tan",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/XXX003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/XXX003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX003.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR002",
+      "code": "WTR002",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "When you discard a card with 6 or more {p} during your action phase, intimidate. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "plain": "When you discard a card with 6 or more {p} during your action phase, intimidate. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "html": "<p>When you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, intimidate. <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR002",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Wisnu Tan",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR002",
+      "code": "WTR002",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "When you discard a card with 6 or more {p} during your action phase, intimidate. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "plain": "When you discard a card with 6 or more {p} during your action phase, intimidate. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "html": "<p>When you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, intimidate. <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR002",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Wisnu Tan",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER054-CF",
+      "code": "HER054",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 54,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "farewell-welcome-to-rathe",
+      "releaseDate": "2022-01-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER054-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate.**",
+            "plain": "Whenever you discard a card with 6 or more {p} during your action phase, intimidate.",
+            "html": "<p>Whenever you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate.</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER054",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Wisnu Tan",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER054-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER054-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER054-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP002",
+      "code": "1HP002",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "plain": "Whenever you discard a card with 6 or more {p} during your action phase, intimidate. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_",
+            "html": "<p>Whenever you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate</strong>. <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "1HP002",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Wisnu Tan",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "white",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RVD001-CF",
+      "code": "RVD001",
+      "language": "en",
+      "set": "RVD",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "classic-battles-rhinar-vs-dorinthea",
+      "releaseDate": "2022-05-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "RVD001-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.",
+            "plain": "Whenever you discard a card with 6 or more {p} during your action phase, intimidate.",
+            "html": "<p>Whenever you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "RVD001",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Wisnu Tan",
+          "rarityMark": "majestic-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/RVD001-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/RVD001-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/RVD001-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HR001",
+      "code": "1HR001",
+      "language": "en",
+      "set": "1HR",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rhinar-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HR001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owner's hand.)_",
+            "plain": "Whenever you discard a card with 6 or more {p} during your action phase, intimidate. _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owner's hand.)_",
+            "html": "<p>Whenever you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate</strong>. <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owner's hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "1HR001",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Wisnu Tan",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HR001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HR001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HR001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY004",
+      "code": "HVY004",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY004",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**. _(Target hero banishes face-down a random card from their hand. At the beginning of the end phase, return it to its owner's hand.)_",
+            "plain": "Whenever you discard a card with 6 or more {p} during your action phase, intimidate. _(Target hero banishes face-down a random card from their hand. At the beginning of the end phase, return it to its owner's hand.)_",
+            "html": "<p>Whenever you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate</strong>. <em>(Target hero banishes face-down a random card from their hand. At the beginning of the end phase, return it to its owner's hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HVY004",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Wisnu Tan",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY004.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY004.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY004.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RHI001-RF",
+      "code": "RNR001",
+      "language": "en",
+      "set": "RHI",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rhinar-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "RHI001-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**. _(Target hero banishes face-down a random card from their hand. At the beginning of the end phase, return it to its owner's hand.)_",
+            "plain": "Whenever you discard a card with 6 or more {p} during your action phase, intimidate. _(Target hero banishes face-down a random card from their hand. At the beginning of the end phase, return it to its owner's hand.)_",
+            "html": "<p>Whenever you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate</strong>. <em>(Target hero banishes face-down a random card from their hand. At the beginning of the end phase, return it to its owner's hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "RNR001",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Wisnu Tan",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/RHI001-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/RHI001-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/RHI001-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PEN334-MV",
+      "code": "PEN334",
+      "language": "en",
+      "set": "PEN",
+      "setNumber": 334,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "compendium-of-rathe",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "PEN334-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate**.",
+            "plain": "Whenever you discard a card with 6 or more {p} during your action phase, intimidate.",
+            "html": "<p>Whenever you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "PEN334",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Wisnu Tan",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN334-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN334-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN334-MV.webp"
+          }
+        },
+        {
+          "id": "PEN334-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN334-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN334-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN334-MV_BACK.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MPB001",
+      "code": "MPB001",
+      "language": "en",
+      "set": "MPB",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-brute",
+      "releaseDate": "2027-04-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-06T08:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "MPB001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rhinar",
+          "typeLine": "Brute Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you discard a card with 6 or more {p} during your action phase, **intimidate** target hero. _(They banish a random card from their hand face-down. Return it to their hand at end of turn.)_",
+            "plain": "Whenever you discard a card with 6 or more {p} during your action phase, intimidate target hero. _(They banish a random card from their hand face-down. Return it to their hand at end of turn.)_",
+            "html": "<p>Whenever you discard a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> during your action phase, <strong>intimidate</strong> target hero. <em>(They banish a random card from their hand face-down. Return it to their hand at end of turn.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "MPB001",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Wisnu Tan",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPB001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPB001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPB001.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "intimidate"
+    ],
+    "editions": {
+      "R-WTR002": "unlimited-revised",
+      "U-WTR002": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:35:23Z",
+    "rawSha256": "cc62b2c7460a586ad230a47f85a93b6effa047ed0b0905857b69707c42294851",
+    "updatedAt": "2026-05-26T03:40:07.374178+12:00"
+  }
+}

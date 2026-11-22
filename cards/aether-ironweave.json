@@ -1,0 +1,502 @@
+{
+  "schemaVersion": 1,
+  "id": "aether-ironweave",
+  "name": "Aether Ironweave",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Aether Ironweave",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Runeblade Equipment - Chest",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Chest"
+      ],
+      "text": {
+        "markup": "**Action** -- Destroy this: Gain {r}{r}. Activate this only if you've played an attack action card and a non-attack action card this turn. **Go again**{br}**Battleworn**",
+        "plain": "Action -- Destroy this: Gain {r}{r}. Activate this only if you've played an attack action card and a non-attack action card this turn. Go again\nBattleworn"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "MON230",
+      "code": "MON230",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 230,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON230",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Aether Ironweave",
+          "typeLine": "Runeblade Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. **Go again**\n**Battleworn** _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Action -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. Go again\nBattleworn _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Action</strong> — Destroy Aether Ironweave: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Aether Ironweave, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON230",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "soyameii",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON230.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON230.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON230.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON230-CF",
+      "code": "MON230",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 230,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON230-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Aether Ironweave",
+          "typeLine": "Runeblade Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. **Go again**\n**Battleworn** _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Action -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. Go again\nBattleworn _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Action</strong> — Destroy Aether Ironweave: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Aether Ironweave, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON230",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "soyameii",
+          "rarityMark": "common-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON230-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON230-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON230-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CHN005",
+      "code": "CHN005",
+      "language": "en",
+      "set": "CHN",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "chane-blitz-deck",
+      "releaseDate": "2021-05-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CHN005",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Aether Ironweave",
+          "typeLine": "Runeblade Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. **Go again**\n**Battleworn** _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Action -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. Go again\nBattleworn _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Action</strong> — Destroy Aether Ironweave: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Aether Ironweave, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CHN005",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "soyameii",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CHN005.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CHN005.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CHN005.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON230",
+      "code": "MON230",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 230,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON230",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Aether Ironweave",
+          "typeLine": "Runeblade Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. **Go again**\n**Battleworn** _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Action -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. Go again\nBattleworn _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Action</strong> — Destroy Aether Ironweave: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Aether Ironweave, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON230",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "soyameii",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON230.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON230.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON230.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON230-RF",
+      "code": "MON230",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 230,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON230-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Aether Ironweave",
+          "typeLine": "Runeblade Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. **Go again**\n**Battleworn** _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Action -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. Go again\nBattleworn _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Action</strong> — Destroy Aether Ironweave: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Aether Ironweave, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON230",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "soyameii",
+          "rarityMark": "common-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON230-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON230-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON230-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HV004",
+      "code": "1HV004",
+      "language": "en",
+      "set": "1HV",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "viserai-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HV004",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Aether Ironweave",
+          "typeLine": "Runeblade Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action --** - Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. **Go again**\r\n**Battleworn** _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "plain": "Action -- - Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. Go again\r\nBattleworn _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "html": "<p><strong>Action —</strong> - Destroy Aether Ironweave: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HV004",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Joshua Raphael",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HV004.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HV004.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HV004.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB149-GF",
+      "code": "FAB149",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 149,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "proquest-season-4",
+      "releaseDate": "2023-10-21",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB149-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Aether Ironweave",
+          "typeLine": "Runeblade Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. **Go again**{br}**Battleworn** _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Action -- Destroy Aether Ironweave: Gain {r}{r}. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. Go again\nBattleworn _(If you defend with Aether Ironweave, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Action</strong> — Destroy Aether Ironweave: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Aether Ironweave, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB149",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "soyameii",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB149-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB149-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB149-GF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Battleworn",
+      "Go again"
+    ],
+    "editions": {
+      "U-MON230": "unlimited",
+      "U-MON230-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T13:53:26Z",
+    "rawSha256": "4ef21df31703545164f9e07518cda7142860d5f98e84371996c5ba62503ae880",
+    "updatedAt": "2025-09-18T06:45:18.711609+12:00"
+  }
+}

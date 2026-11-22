@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "proto-base-legs",
+  "language": "fr",
+  "name": "Jambes de base prototypes",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Jambes de base prototypes",
+      "typeLine": "Mécanologue Équipement - Jambes de base",
+      "classes": [
+        "Mécanologue"
+      ],
+      "types": [
+        "Équipement"
+      ],
+      "subtypes": [
+        "Base",
+        "Jambes"
+      ],
+      "text": {
+        "markup": "_(Un joueur peut ajouter des Jambes de base prototypes à sa sélection de cartes en format limité Bright Lights.)_",
+        "plain": "_(Un joueur peut ajouter des Jambes de base prototypes à sa sélection de cartes en format limité Bright Lights.)_",
+        "html": "<p><em>(Un joueur peut ajouter des Jambes de base prototypes à sa sélection de cartes en format limité Bright Lights.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_EVO025",
+      "code": "EVO025",
+      "language": "fr",
+      "set": "EVO",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-fr",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_EVO025",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Jambes de base prototypes",
+          "typeLine": "Mécanologue Équipement - Jambes de base",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Un joueur peut ajouter des Jambes de base prototypes à sa sélection de cartes en format limité Bright Lights.)_",
+            "plain": "_(Un joueur peut ajouter des Jambes de base prototypes à sa sélection de cartes en format limité Bright Lights.)_",
+            "html": "<p><em>(Un joueur peut ajouter des Jambes de base prototypes à sa sélection de cartes en format limité Bright Lights.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO025",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Revazashvili E.",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_EVO025.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_EVO025.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_EVO025.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "schemaVersion": 1,
+  "id": "spike-with-bloodrot-1",
+  "name": "Spike with Bloodrot",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Spike with Bloodrot",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 1,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Attack Reaction",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Attack Reaction"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Target attack action card with **stealth** gets +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+        "plain": "Target attack action card with stealth gets +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\""
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS130-RF",
+      "code": "LGS130",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 130,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-9",
+      "releaseDate": "2023-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS130-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spike with Bloodrot",
+          "typeLine": "Assassin Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with **stealth** gains +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "plain": "Target attack action card with stealth gains +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "html": "<p>Target attack action card with <strong>stealth</strong> gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits a hero, create a Bloodrot Pox token under their control.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS130",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS130-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS130-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS130-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARA018",
+      "code": "ARA018",
+      "language": "en",
+      "set": "ARA",
+      "setNumber": 18,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arakni-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARA018",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spike with Bloodrot",
+          "typeLine": "Assassin Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with **stealth** gains +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "plain": "Target attack action card with stealth gains +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "html": "<p>Target attack action card with <strong>stealth</strong> gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits a hero, create a Bloodrot Pox token under their control.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARA018",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARA018.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARA018.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARA018.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUT021",
+      "code": "OUT021",
+      "language": "en",
+      "set": "OUT",
+      "setNumber": 21,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OUT021",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spike with Bloodrot",
+          "typeLine": "Assassin Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with **stealth** gains +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "plain": "Target attack action card with stealth gains +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "html": "<p>Target attack action card with <strong>stealth</strong> gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits a hero, create a Bloodrot Pox token under their control.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OUT021",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OUT021.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OUT021.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OUT021.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUT021-RF",
+      "code": "OUT021",
+      "language": "en",
+      "set": "OUT",
+      "setNumber": 21,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OUT021-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spike with Bloodrot",
+          "typeLine": "Assassin Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with **stealth** gains +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "plain": "Target attack action card with stealth gains +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "html": "<p>Target attack action card with <strong>stealth</strong> gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits a hero, create a Bloodrot Pox token under their control.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OUT021",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OUT021-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OUT021-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OUT021-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB324-RF",
+      "code": "FAB324",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 324,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "marketing-team-covenant-the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB324-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spike with Bloodrot",
+          "typeLine": "Assassin Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with **stealth** gets +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "plain": "Target attack action card with stealth gets +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "html": "<p>Target attack action card with <strong>stealth</strong> gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits a hero, create a Bloodrot Pox token under their control.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB324",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB324-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB324-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB324-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AAC020",
+      "code": "AAC020",
+      "language": "en",
+      "set": "AAC",
+      "setNumber": 20,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-arakni-5lp3d-7hru-7h3-cr4x",
+      "releaseDate": "2025-12-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AAC020",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spike with Bloodrot",
+          "typeLine": "Assassin Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with stealth gains +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "plain": "Target attack action card with stealth gains +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "html": "<p>Target attack action card with stealth gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits a hero, create a Bloodrot Pox token under their control.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAC020",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AAC020.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AAC020.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AAC020.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAR020",
+      "code": "SAR020",
+      "language": "en",
+      "set": "SAR",
+      "setNumber": 20,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-arakni-web-of-deceit",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-30T13:10:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SAR020",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spike with Bloodrot",
+          "typeLine": "Assassin Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with stealth gets +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "plain": "Target attack action card with stealth gets +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "html": "<p>Target attack action card with stealth gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits a hero, create a Bloodrot Pox token under their control.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SAR020",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAR020.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAR020.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAR020.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MPA060",
+      "code": "MPA060",
+      "language": "en",
+      "set": "MPA",
+      "setNumber": 60,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-assassin",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "MPA060",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spike with Bloodrot",
+          "typeLine": "Assassin Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with stealth gets +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "plain": "Target attack action card with stealth gets +3{p} and \"When this hits a hero, create a Bloodrot Pox token under their control.\"",
+            "html": "<p>Target attack action card with stealth gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits a hero, create a Bloodrot Pox token under their control.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MPA060",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "assassin",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPA060.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPA060.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPA060.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "stealth"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:20:19Z",
+    "rawSha256": "99050517349e7846e500341472e0613eb7547d81b5dcd6f620b2eae261ee9b1c",
+    "updatedAt": "2025-09-18T06:56:47.330708+12:00"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "buccaneers-bounty",
+  "language": "ja",
+  "name": "海賊の戦利品",
+  "cores": [
+    {
+      "position": 10,
+      "name": "海賊の戦利品",
+      "typeLine": "海賊・装備品 － 胴",
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "胴"
+      ],
+      "text": {
+        "markup": "**アクション**--これを破壊する：{r}を得る。**続行**{br}**刃壊**（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+        "plain": "アクション--これを破壊する：{r}を得る。続行\n刃壊（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+        "html": "<p><strong>アクション</strong>—これを破壊する：<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。<strong>続行</strong></p>\n<p><strong>刃壊</strong>（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_SEA127",
+      "code": "SEA127",
+      "language": "ja",
+      "set": "SEA",
+      "setNumber": 127,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-ja",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_SEA127",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "海賊の戦利品",
+          "typeLine": "海賊・装備品 － 胴",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--これを破壊する：{r}を得る。**続行**{br}**刃壊**（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+            "plain": "アクション--これを破壊する：{r}を得る。続行\n刃壊（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+            "html": "<p><strong>アクション</strong>—これを破壊する：<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。<strong>続行</strong></p>\n<p><strong>刃壊</strong>（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA127",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Esty Swandana",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA127.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA127.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA127.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

@@ -1,0 +1,812 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "8bf2e6ee-5f88-457e-ad8c-96c1bc583b16",
+      "cores": [
+        {
+          "id": "426e3049-dd0f-4aef-acc8-55ca5ce86c7c",
+          "core_classes": [
+            {
+              "id": 4,
+              "name": "Brute",
+              "name_en": "Brute",
+              "name_fr": "Brute",
+              "name_de": "Rohling",
+              "name_it": "Bruto",
+              "name_es": "Bruto",
+              "name_ja": "野人",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:57:23.244379+12:00",
+          "updated_at": "2025-09-18T06:57:23.259420+12:00",
+          "name": "Swing Big",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "2",
+          "power": "8",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "When the combat chain closes, if this didn't hit, the defending hero creates a Quicken token.",
+          "typebox": "Brute Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 2,
+          "power_value": 8,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "8bf2e6ee-5f88-457e-ad8c-96c1bc583b16"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "c9786e2c-ae0f-4d83-b7d1-80c75cd00198",
+          "faces": [
+            {
+              "id": "3efa9dea-667b-42e7-b93f-59cb02676c41",
+              "created_at": "2025-09-18T06:57:23.280806+12:00",
+              "updated_at": "2025-09-18T06:57:23.280826+12:00",
+              "face_id": "EVR002-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "EVR002",
+              "printed_artist": "Phu Thieu",
+              "printed_name": "Swing Big",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "If Swing Big doesn't hit, the defending hero creates a Quicken token when the combat chain closes.",
+              "printed_flavor_text": "_Savage Lands politics is simple; those with the biggest swing, have the biggest sway._",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "426e3049-dd0f-4aef-acc8-55ca5ce86c7c",
+              "card_print": "c9786e2c-ae0f-4d83-b7d1-80c75cd00198",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Swing Big</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>If Swing Big doesn't hit, the defending hero creates a Quicken token when the combat chain closes.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Savage Lands politics is simple; those with the biggest swing, have the biggest sway.</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR002-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR002-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR002-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "df8d0826-100e-43d5-83db-4b82ef3528ca",
+            "product_group": {
+              "id": "c6dc66af-ea8c-4991-afec-bc39ffa38f25",
+              "created_at": "2025-09-18T06:45:20.704128+12:00",
+              "updated_at": "2025-09-18T06:45:20.704148+12:00",
+              "group_name": "Everfest",
+              "product_type": "booster",
+              "release_date": "2022-02-04",
+              "slug": "everfest"
+            },
+            "created_at": "2025-09-18T06:45:20.709349+12:00",
+            "updated_at": "2025-09-18T06:45:20.709376+12:00",
+            "printed_date": "2021-10-01",
+            "printed_language": "en",
+            "product_name": "Everfest",
+            "product_type": "booster",
+            "release_date": "2022-02-04",
+            "slug": "everfest",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4dca499b-cf90-484e-aaba-f0af4179b4ed",
+            "created_at": "2025-09-18T06:45:12.607895+12:00",
+            "updated_at": "2025-09-18T06:45:12.607910+12:00",
+            "set_code": "EVR",
+            "set_name": "Everfest",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:23.271062+12:00",
+          "updated_at": "2025-09-18T06:57:23.271081+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "EVR002-RF",
+          "set_number": 2,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "majestic",
+          "card": "8bf2e6ee-5f88-457e-ad8c-96c1bc583b16"
+        },
+        {
+          "id": "c617669b-55fa-442c-9c9a-ddb8e02d6b3f",
+          "faces": [
+            {
+              "id": "f067d4b9-6283-4c1d-9c38-39e132d390bb",
+              "created_at": "2025-09-18T06:57:23.305118+12:00",
+              "updated_at": "2025-09-18T06:57:23.305146+12:00",
+              "face_id": "DE_2HP296",
+              "face_language": "de",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-circle",
+              "printed_code": "2HP296",
+              "printed_artist": "Phu Thieu",
+              "printed_name": "Ausholender Schlag",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Wenn die Kampfkette geschlossen wird und falls Ausholender Schlag nicht getroffen hat, erzeugt der verteidigende Held einen Ansporn - Spielstein.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Rohling Aktion - Angriff",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "426e3049-dd0f-4aef-acc8-55ca5ce86c7c",
+              "card_print": "c617669b-55fa-442c-9c9a-ddb8e02d6b3f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Ausholender Schlag</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Rohling Aktion - Angriff</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Wenn die Kampfkette geschlossen wird und falls Ausholender Schlag nicht getroffen hat, erzeugt der verteidigende Held einen Ansporn - Spielstein.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_2HP296.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_2HP296.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_2HP296.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "462766fd-d70a-45d5-b7ac-35604650806e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.865684+12:00",
+            "updated_at": "2025-09-18T06:45:18.865697+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "de",
+            "product_name": "History Pack 2 - Black Label [DE]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-de",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:23.295582+12:00",
+          "updated_at": "2025-09-18T06:57:23.295603+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "DE_2HP296",
+          "set_number": 296,
+          "layout": "regular",
+          "print_language": "de",
+          "rarity": "majestic",
+          "card": "8bf2e6ee-5f88-457e-ad8c-96c1bc583b16"
+        },
+        {
+          "id": "42ed9b89-d558-4dc4-ba6f-da0dc3c5a687",
+          "faces": [
+            {
+              "id": "bbc20e03-3727-4492-b07d-9a4ca9a8c5c7",
+              "created_at": "2025-09-18T06:57:23.329172+12:00",
+              "updated_at": "2025-09-18T06:57:23.329196+12:00",
+              "face_id": "FR_2HP296",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-circle",
+              "printed_code": "2HP296",
+              "printed_artist": "Phu Thieu",
+              "printed_name": "Grosse menace",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand la chaîne de combat se termine, si la Grosse menace n’a pas touché, le héros défenseur crée un jeton Accélérer.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attaque",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "426e3049-dd0f-4aef-acc8-55ca5ce86c7c",
+              "card_print": "42ed9b89-d558-4dc4-ba6f-da0dc3c5a687",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Grosse menace</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand la chaîne de combat se termine, si la Grosse menace n’a pas touché, le héros défenseur crée un jeton Accélérer.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_2HP296.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_2HP296.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_2HP296.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1106e491-00fd-48b7-9490-efec9eea1d82",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.885032+12:00",
+            "updated_at": "2025-09-18T06:45:18.885049+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "fr",
+            "product_name": "History Pack 2 - Black Label [FR]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:23.319352+12:00",
+          "updated_at": "2025-09-18T06:57:23.319373+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_2HP296",
+          "set_number": 296,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "majestic",
+          "card": "8bf2e6ee-5f88-457e-ad8c-96c1bc583b16"
+        },
+        {
+          "id": "2f2aa43e-1033-44a1-9e29-90e9e03a4641",
+          "faces": [
+            {
+              "id": "e9467dcb-bc05-42f0-b274-2553b96957e3",
+              "created_at": "2025-09-18T06:57:23.352224+12:00",
+              "updated_at": "2025-09-18T06:57:23.352249+12:00",
+              "face_id": "ES_2HP296",
+              "face_language": "es",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-circle",
+              "printed_code": "2HP296",
+              "printed_artist": "Phu Thieu",
+              "printed_name": "Golpetazo",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Cuando se cierra la cadena de combate, si Golpetazo no impactó, el héroe que defiende crea una ficha de Aceleración.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Acción de bruto - Ataque",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "426e3049-dd0f-4aef-acc8-55ca5ce86c7c",
+              "card_print": "2f2aa43e-1033-44a1-9e29-90e9e03a4641",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Golpetazo</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Acción de bruto - Ataque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Cuando se cierra la cadena de combate, si Golpetazo no impactó, el héroe que defiende crea una ficha de Aceleración.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_2HP296.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_2HP296.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_2HP296.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "12d72e87-64af-4eac-b939-9424be79855e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.900596+12:00",
+            "updated_at": "2025-09-18T06:45:18.900613+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "es",
+            "product_name": "History Pack 2 - Black Label [ES]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-es",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:23.343426+12:00",
+          "updated_at": "2025-09-18T06:57:23.343445+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ES_2HP296",
+          "set_number": 296,
+          "layout": "regular",
+          "print_language": "es",
+          "rarity": "majestic",
+          "card": "8bf2e6ee-5f88-457e-ad8c-96c1bc583b16"
+        },
+        {
+          "id": "91c8a395-4184-42e8-8554-a7e4e630e89e",
+          "faces": [
+            {
+              "id": "99a2893c-c56a-482d-a41f-47907e5c64e4",
+              "created_at": "2025-09-18T06:57:23.374850+12:00",
+              "updated_at": "2025-09-18T06:57:23.374870+12:00",
+              "face_id": "IT_2HP296",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-circle",
+              "printed_code": "2HP296",
+              "printed_artist": "Phu Thieu",
+              "printed_name": "Percossa Vigorosa",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quando la catena di combattimento si chiude, se Percossa Vigorosa non ha colpito, l'eroe in difesa crea una pedina Accelera.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Azione Bruto - Attacco",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "426e3049-dd0f-4aef-acc8-55ca5ce86c7c",
+              "card_print": "91c8a395-4184-42e8-8554-a7e4e630e89e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Percossa Vigorosa</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Azione Bruto - Attacco</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quando la catena di combattimento si chiude, se Percossa Vigorosa non ha colpito, l'eroe in difesa crea una pedina Accelera.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_2HP296.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_2HP296.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_2HP296.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c24effd5-1d3d-4ed0-8f6f-c6a3c2098f91",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.923313+12:00",
+            "updated_at": "2025-09-18T06:45:18.923333+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "it",
+            "product_name": "History Pack 2 - Black Label [IT]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:23.365718+12:00",
+          "updated_at": "2025-09-18T06:57:23.365739+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_2HP296",
+          "set_number": 296,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "majestic",
+          "card": "8bf2e6ee-5f88-457e-ad8c-96c1bc583b16"
+        },
+        {
+          "id": "9ef6cbb6-4c02-40a5-a02a-3e515d18a2a7",
+          "faces": [
+            {
+              "id": "78d02532-813d-4201-aab5-8121951a1056",
+              "created_at": "2025-09-18T06:57:23.395248+12:00",
+              "updated_at": "2025-09-18T06:57:23.395264+12:00",
+              "face_id": "EVR002",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "EVR002",
+              "printed_artist": "Phu Thieu",
+              "printed_name": "Swing Big",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "If Swing Big doesn't hit, the defending hero creates a Quicken token when the combat chain closes.",
+              "printed_flavor_text": "_Savage Lands politics is simple; those with the biggest swing, have the biggest sway._",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "426e3049-dd0f-4aef-acc8-55ca5ce86c7c",
+              "card_print": "9ef6cbb6-4c02-40a5-a02a-3e515d18a2a7",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Swing Big</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>If Swing Big doesn't hit, the defending hero creates a Quicken token when the combat chain closes.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Savage Lands politics is simple; those with the biggest swing, have the biggest sway.</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR002.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR002.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR002.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "df8d0826-100e-43d5-83db-4b82ef3528ca",
+            "product_group": {
+              "id": "c6dc66af-ea8c-4991-afec-bc39ffa38f25",
+              "created_at": "2025-09-18T06:45:20.704128+12:00",
+              "updated_at": "2025-09-18T06:45:20.704148+12:00",
+              "group_name": "Everfest",
+              "product_type": "booster",
+              "release_date": "2022-02-04",
+              "slug": "everfest"
+            },
+            "created_at": "2025-09-18T06:45:20.709349+12:00",
+            "updated_at": "2025-09-18T06:45:20.709376+12:00",
+            "printed_date": "2021-10-01",
+            "printed_language": "en",
+            "product_name": "Everfest",
+            "product_type": "booster",
+            "release_date": "2022-02-04",
+            "slug": "everfest",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4dca499b-cf90-484e-aaba-f0af4179b4ed",
+            "created_at": "2025-09-18T06:45:12.607895+12:00",
+            "updated_at": "2025-09-18T06:45:12.607910+12:00",
+            "set_code": "EVR",
+            "set_name": "Everfest",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:23.388060+12:00",
+          "updated_at": "2025-09-18T06:57:23.388083+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "EVR002",
+          "set_number": 2,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "majestic",
+          "card": "8bf2e6ee-5f88-457e-ad8c-96c1bc583b16"
+        },
+        {
+          "id": "bf87d749-8663-4314-8dd2-fea08742ce16",
+          "faces": [
+            {
+              "id": "c938193f-00a3-48f5-bba0-23f09eb62797",
+              "created_at": "2025-09-18T06:57:23.413824+12:00",
+              "updated_at": "2025-09-18T06:57:23.413845+12:00",
+              "face_id": "LGS427-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS427",
+              "printed_artist": "Joāo Guilherme",
+              "printed_name": "Swing Big",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When the combat chain closes, if this didn't hit, the defending hero creates a Quicken token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "426e3049-dd0f-4aef-acc8-55ca5ce86c7c",
+              "card_print": "bf87d749-8663-4314-8dd2-fea08742ce16",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Swing Big</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When the combat chain closes, if this didn't hit, the defending hero creates a Quicken token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS427-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS427-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS427-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "eade13e8-3db7-4f23-a490-565eed079bac",
+            "product_group": null,
+            "created_at": "2025-09-18T06:53:17.120023+12:00",
+            "updated_at": "2025-09-18T06:53:17.120045+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "en",
+            "product_name": "ProQuest - Season 8",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "proquest-season-8",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:57:23.406182+12:00",
+          "updated_at": "2025-09-18T06:57:23.406202+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS427-RF",
+          "set_number": 427,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "8bf2e6ee-5f88-457e-ad8c-96c1bc583b16"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        }
+      },
+      "created_at": "2025-09-18T06:57:23.237374+12:00",
+      "updated_at": "2025-09-18T06:57:23.239642+12:00",
+      "card_id": "swing-big-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

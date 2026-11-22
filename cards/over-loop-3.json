@@ -1,0 +1,568 @@
+{
+  "schemaVersion": 1,
+  "id": "over-loop-3",
+  "name": "Over Loop",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Over Loop",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 2,
+      "power": 3,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Mechanologist Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Mechanologist"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this hits, put it on the bottom of its owner's deck.{br}**Boost**",
+        "plain": "When this hits, put it on the bottom of its owner's deck.\nBoost"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #5] Various Cards - into owner's deck",
+      "description": "This card's textbox was updated to change the a reference from the controller's deck to the owner's deck, so that cards do not accidentally end up in the wrong player's deck.",
+      "date": "03-10-2022"
+    }
+  ],
+  "printings": [
+    {
+      "id": "ARC022",
+      "code": "ARC022-C",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC022",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Over Loop",
+          "typeLine": "Mechanologist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If Over Loop hits, put it on the bottom of your deck.\n**Boost** _(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains **go again**.)_",
+            "plain": "If Over Loop hits, put it on the bottom of your deck.\nBoost _(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains go again.)_",
+            "html": "<p>If Over Loop hits, put it on the bottom of your deck.</p>\n<p><strong>Boost</strong> <em>(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains <strong>go again</strong>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "2",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC022-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Mikhail Babkin",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC022.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC022.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC022.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC022-RF",
+      "code": "ARC022-C",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC022-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Over Loop",
+          "typeLine": "Mechanologist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If Over Loop hits, put it on the bottom of your deck.\n**Boost**",
+            "plain": "If Over Loop hits, put it on the bottom of your deck.\nBoost",
+            "html": "<p>If Over Loop hits, put it on the bottom of your deck.</p>\n<p><strong>Boost</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "2",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC022-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Mikhail Babkin",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC022-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC022-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC022-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC022",
+      "code": "ARC022",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC022",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Over Loop",
+          "typeLine": "Mechanologist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If Over Loop hits, put it on the bottom of your deck when the chain link resolves.\n**Boost** _(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains **go again**.)_",
+            "plain": "If Over Loop hits, put it on the bottom of your deck when the chain link resolves.\nBoost _(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains go again.)_",
+            "html": "<p>If Over Loop hits, put it on the bottom of your deck when the chain link resolves.</p>\n<p><strong>Boost</strong> <em>(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains <strong>go again</strong>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "2",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC022",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Mikhail Babkin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC022.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC022.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC022.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC022-RF",
+      "code": "ARC022",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC022-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Over Loop",
+          "typeLine": "Mechanologist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If Over Loop hits, put it on the bottom of your deck when the chain link resolves.\n**Boost** _(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains **go again**.)_",
+            "plain": "If Over Loop hits, put it on the bottom of your deck when the chain link resolves.\nBoost _(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains go again.)_",
+            "html": "<p>If Over Loop hits, put it on the bottom of your deck when the chain link resolves.</p>\n<p><strong>Boost</strong> <em>(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains <strong>go again</strong>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "2",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC022",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Mikhail Babkin",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC022-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC022-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC022-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS034-RF",
+      "code": "LGS034",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 34,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-3",
+      "releaseDate": "2020-12-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS034-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Over Loop",
+          "typeLine": "Mechanologist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If Over Loop hits, put it on the bottom of your deck when the chain link resolves.\n**Boost** _(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains **go again**.)_",
+            "plain": "If Over Loop hits, put it on the bottom of your deck when the chain link resolves.\nBoost _(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains go again.)_",
+            "html": "<p>If Over Loop hits, put it on the bottom of your deck when the chain link resolves.</p>\n<p><strong>Boost</strong> <em>(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains <strong>go again</strong>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "2",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS034",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Mikhail Babkin",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS034-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS034-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS034-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP207",
+      "code": "1HP207",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 207,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP207",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Over Loop",
+          "typeLine": "Mechanologist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If Over Loop hits, put it on the bottom of your deck.\n**Boost** _(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains **go again**.)_",
+            "plain": "If Over Loop hits, put it on the bottom of your deck.\nBoost _(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains go again.)_",
+            "html": "<p>If Over Loop hits, put it on the bottom of your deck.</p>\n<p><strong>Boost</strong> <em>(As an additional cost to play Over Loop, you may banish the top card of your deck. If it's a Mechanologist card, Over Loop gains <strong>go again</strong>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "2",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP207",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Mikhail Babkin",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP207.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP207.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP207.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HD023",
+      "code": "1HD023",
+      "language": "en",
+      "set": "1HD",
+      "setNumber": 23,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dash-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HD023",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Over Loop",
+          "typeLine": "Mechanologist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this hits, put it on the bottom of its owner's deck.\n**Boost** _(As an additional cost to play this, you may banish the top card of your deck. If it's a Mechanologist card, this gains go again.)_",
+            "plain": "When this hits, put it on the bottom of its owner's deck.\nBoost _(As an additional cost to play this, you may banish the top card of your deck. If it's a Mechanologist card, this gains go again.)_",
+            "html": "<p>When this hits, put it on the bottom of its owner's deck.</p>\n<p><strong>Boost</strong> <em>(As an additional cost to play this, you may banish the top card of your deck. If it's a Mechanologist card, this gains go again.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "2",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HD023",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Mikhail Babkin",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HD023.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HD023.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HD023.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVO221",
+      "code": "EVO221",
+      "language": "en",
+      "set": "EVO",
+      "setNumber": 221,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVO221",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Over Loop",
+          "typeLine": "Mechanologist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Boost**{br}When this hits, put it on the bottom of its owner's deck.",
+            "plain": "Boost\nWhen this hits, put it on the bottom of its owner's deck.",
+            "html": "<p><strong>Boost</strong></p>\n<p>When this hits, put it on the bottom of its owner's deck.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "2",
+            "power": "3",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO221",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Mikhail Babkin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVO221.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVO221.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVO221.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Boost"
+    ],
+    "editions": {
+      "U-ARC022": "unlimited",
+      "U-ARC022-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:27:21Z",
+    "rawSha256": "a8750f27f02936ccf76921cb071a28cf5c2b41359a56abe861ea16f9e614fe5b",
+    "updatedAt": "2025-09-18T06:53:14.909281+12:00"
+  }
+}

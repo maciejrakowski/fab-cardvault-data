@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "sic-em-shot-1",
+  "language": "ja",
+  "name": "射撃開始",
+  "cores": [
+    {
+      "position": 10,
+      "name": "射撃開始",
+      "typeLine": "レンジャー・アクション － 矢・攻撃",
+      "classes": [
+        "レンジャー"
+      ],
+      "types": [
+        "アクション"
+      ],
+      "subtypes": [
+        "矢",
+        "攻撃"
+      ],
+      "text": {
+        "markup": "**続行**",
+        "plain": "続行",
+        "html": "<p><strong>続行</strong></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_SEA117",
+      "code": "SEA117",
+      "language": "ja",
+      "set": "SEA",
+      "setNumber": 117,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-ja",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_SEA117",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "射撃開始",
+          "typeLine": "レンジャー・アクション － 矢・攻撃",
+          "traitLine": null,
+          "text": {
+            "markup": "**続行**",
+            "plain": "続行",
+            "html": "<p><strong>続行</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": "4",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA117",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Alexandra Malygina",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA117.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA117.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA117.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

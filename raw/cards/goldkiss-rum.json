@@ -1,0 +1,661 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "e9700d69-330c-48bd-9489-7bb2f9a230ad",
+      "cores": [
+        {
+          "id": "d8e66e0c-3baf-4d4f-81e2-91e97fc175cf",
+          "core_classes": [
+            {
+              "id": 6,
+              "name": "Generic",
+              "name_en": "Generic",
+              "name_fr": "Générique",
+              "name_de": "Allgemein",
+              "name_it": "Generico/a",
+              "name_es": "Genérico/a",
+              "name_ja": "汎用",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 11,
+              "name": "Token",
+              "name_en": "Token",
+              "name_fr": "Jeton",
+              "name_de": "Spielstein",
+              "name_it": "Pedina",
+              "name_es": "Ficha",
+              "name_ja": "トークン",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 12,
+              "name": "Item",
+              "name_en": "Item",
+              "name_fr": "Objet",
+              "name_de": "Gegenstand",
+              "name_it": "Oggetto",
+              "name_es": "Artículo",
+              "name_ja": "アイテム",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:50:36.931572+12:00",
+          "updated_at": "2025-09-18T06:50:36.938002+12:00",
+          "name": "Goldkiss Rum",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "",
+          "defense": "",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Instant** -- {t} your hero, destroy this: Your next action this turn gets **go again**. Your hero can't {u} this turn unless they're a Pirate.",
+          "typebox": "Generic Token - Item",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "e9700d69-330c-48bd-9489-7bb2f9a230ad"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "8fe796e9-9556-4bb6-8cc6-73083b627097",
+          "faces": [
+            {
+              "id": "db687f92-3454-4688-afaa-fee6ba00fca5",
+              "created_at": "2025-09-18T06:50:36.952564+12:00",
+              "updated_at": "2025-09-18T06:50:36.952579+12:00",
+              "face_id": "FR_SEA245",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "",
+              "printed_rarity_symbol": "basic-dot",
+              "printed_code": "SEA245",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "Rhum Bise d’or",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané** -- {t} votre héros, détruisez ce jeton : votre prochaine action ce tour-ci gagne **encore une fois**. Votre héros ne peut pas {u} ce tour-ci à moins qu’il ne soit un Pirate.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Générique Jeton - Objet",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d8e66e0c-3baf-4d4f-81e2-91e97fc175cf",
+              "card_print": "8fe796e9-9556-4bb6-8cc6-73083b627097",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rhum Bise d’or</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Générique Jeton - Objet</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> votre héros, détruisez ce jeton : votre prochaine action ce tour-ci gagne <strong>encore une fois</strong>. Votre héros ne peut pas <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_u.webp' alt='{u}'> ce tour-ci à moins qu’il ne soit un Pirate.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA245.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA245.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA245.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:36.946826+12:00",
+          "updated_at": "2025-09-18T06:50:36.946842+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA245",
+          "set_number": 245,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "basic",
+          "card": "e9700d69-330c-48bd-9489-7bb2f9a230ad"
+        },
+        {
+          "id": "9d725a8c-6964-4e71-9194-96242ed977c9",
+          "faces": [
+            {
+              "id": "fe89aec0-dd94-4c75-a1ee-a2d0b3eed69e",
+              "created_at": "2025-09-18T06:50:36.968651+12:00",
+              "updated_at": "2025-09-18T06:50:36.968666+12:00",
+              "face_id": "JA_SEA245",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "",
+              "printed_rarity_symbol": "basic-dot",
+              "printed_code": "SEA245",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "黄金のラム酒",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**インスタント**--あなたのヒーローを{t}する, これを破壊する：このターン、あなたの次のアクションは**続行**を得る。あなたのヒーローが海賊でないかぎり、このターン、あなたのヒーローを{u}することはできない。",
+              "printed_flavor_text": "",
+              "printed_typebox": "汎用・トークン － アイテム",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d8e66e0c-3baf-4d4f-81e2-91e97fc175cf",
+              "card_print": "9d725a8c-6964-4e71-9194-96242ed977c9",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>黄金のラム酒</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>汎用・トークン － アイテム</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>インスタント</strong>—あなたのヒーローを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する, これを破壊する：このターン、あなたの次のアクションは<strong>続行</strong>を得る。あなたのヒーローが海賊でないかぎり、このターン、あなたのヒーローを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_u.webp' alt='{u}'>することはできない。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA245.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA245.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA245.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:36.962498+12:00",
+          "updated_at": "2025-09-18T06:50:36.962514+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA245",
+          "set_number": 245,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "basic",
+          "card": "e9700d69-330c-48bd-9489-7bb2f9a230ad"
+        },
+        {
+          "id": "83dd0f11-a433-4e61-a953-91645ca11f54",
+          "faces": [
+            {
+              "id": "3d9a2ad1-6840-423c-9141-0c2cf548140e",
+              "created_at": "2025-09-18T06:50:36.986884+12:00",
+              "updated_at": "2025-09-18T06:50:36.986899+12:00",
+              "face_id": "SEA245",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "",
+              "printed_rarity_symbol": "basic-dot",
+              "printed_code": "SEA245",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "Goldkiss Rum",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- {t} your hero, destroy this: Your next action this turn gets **go again**. Your hero can't {u} this turn unless they're a Pirate.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Token - Item",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d8e66e0c-3baf-4d4f-81e2-91e97fc175cf",
+              "card_print": "83dd0f11-a433-4e61-a953-91645ca11f54",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Goldkiss Rum</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Token - Item</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> your hero, destroy this: Your next action this turn gets <strong>go again</strong>. Your hero can't <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_u.webp' alt='{u}'> this turn unless they're a Pirate.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA245.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA245.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA245.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:36.980247+12:00",
+          "updated_at": "2025-09-18T06:50:36.980268+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA245",
+          "set_number": 245,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "basic",
+          "card": "e9700d69-330c-48bd-9489-7bb2f9a230ad"
+        },
+        {
+          "id": "82976749-7a23-418c-84de-b8a81e8e837b",
+          "faces": [
+            {
+              "id": "93721d49-f66a-4c32-8699-372c0283ecff",
+              "created_at": "2025-09-18T06:50:37.008722+12:00",
+              "updated_at": "2025-09-18T06:50:37.008741+12:00",
+              "face_id": "SEA245-TP",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "",
+              "frame_type": "pirate",
+              "frame_style": "gold",
+              "printed_rarity_symbol": "token-dot",
+              "printed_code": "SEA245",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "Goldkiss Rum",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- {t} your hero, destroy this: Your next action this turn gets **go again**. Your hero can't {u} this turn unless they're a Pirate.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Token - Item",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d8e66e0c-3baf-4d4f-81e2-91e97fc175cf",
+              "card_print": "82976749-7a23-418c-84de-b8a81e8e837b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Goldkiss Rum</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Token - Item</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> your hero, destroy this: Your next action this turn gets <strong>go again</strong>. Your hero can't <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_u.webp' alt='{u}'> this turn unless they're a Pirate.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA245-TP.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA245-TP.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA245-TP.webp"
+              }
+            },
+            {
+              "id": "ae8eb49a-2fe0-48d1-8ad0-de8d71187a60",
+              "created_at": "2025-09-18T06:50:37.003406+12:00",
+              "updated_at": "2025-09-18T06:50:37.003417+12:00",
+              "face_id": "SEA245-TP_BACK",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "token-dot",
+              "printed_code": "SEA245",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "Goldkiss Rum",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- {t} your hero, destroy this: Your next action this turn gets **go again**. Your hero can't {u} this turn unless they're a Pirate.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Token - Item",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 20,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": null,
+              "card_print": "82976749-7a23-418c-84de-b8a81e8e837b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Goldkiss Rum</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Token - Item</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> your hero, destroy this: Your next action this turn gets <strong>go again</strong>. Your hero can't <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_u.webp' alt='{u}'> this turn unless they're a Pirate.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA245-TP_BACK.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA245-TP_BACK.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA245-TP_BACK.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "dae8e223-1f95-4e43-b92d-83715a5fa226",
+            "product_group": {
+              "id": "36fb9260-3f44-4c77-8652-7aff50a8cdaa",
+              "created_at": "2025-09-18T06:45:25.250478+12:00",
+              "updated_at": "2025-09-18T06:45:25.250490+12:00",
+              "group_name": "High Seas - Treasure Pack",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas-treasure-pack"
+            },
+            "created_at": "2025-09-18T06:45:25.252665+12:00",
+            "updated_at": "2025-09-18T06:45:25.252675+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas - Treasure Pack",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-treasure-pack",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:36.999209+12:00",
+          "updated_at": "2025-09-18T06:50:36.999225+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA245-TP",
+          "set_number": 245,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "gold",
+          "card": "e9700d69-330c-48bd-9489-7bb2f9a230ad"
+        },
+        {
+          "id": "a1e80f09-0a06-4864-bd5b-75cd93968168",
+          "faces": [
+            {
+              "id": "7318cd51-ec56-4c49-8cd1-2f68414e1147",
+              "created_at": "2025-09-18T06:50:37.016894+12:00",
+              "updated_at": "2025-09-18T06:50:37.016902+12:00",
+              "face_id": "FAB354-CF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB354",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "Goldkiss Rum",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- {t} your hero, destroy this: Your next action this turn gets **go again**. Your hero can't {u} this turn unless they're a Pirate.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Token - Item",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d8e66e0c-3baf-4d4f-81e2-91e97fc175cf",
+              "card_print": "a1e80f09-0a06-4864-bd5b-75cd93968168",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Goldkiss Rum</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Token - Item</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> your hero, destroy this: Your next action this turn gets <strong>go again</strong>. Your hero can't <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_u.webp' alt='{u}'> this turn unless they're a Pirate.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB354-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB354-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB354-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "072b9116-f30d-43de-b069-dd555c211e2e",
+            "product_group": null,
+            "created_at": "2025-09-18T06:50:35.451810+12:00",
+            "updated_at": "2025-09-18T06:50:35.451820+12:00",
+            "printed_date": "2025-04-01",
+            "printed_language": "en",
+            "product_name": "Prize Wall - High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "prize-wall-high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:37.013683+12:00",
+          "updated_at": "2025-09-18T06:50:37.013693+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB354-CF",
+          "set_number": 354,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "e9700d69-330c-48bd-9489-7bb2f9a230ad"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:50:36.926752+12:00",
+      "updated_at": "2025-09-18T06:50:36.928614+12:00",
+      "card_id": "goldkiss-rum",
+      "card_type": "regular",
+      "object_type": "token"
+    }
+  ]
+}

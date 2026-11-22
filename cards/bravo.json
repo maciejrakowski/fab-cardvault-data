@@ -1,0 +1,723 @@
+{
+  "schemaVersion": 1,
+  "id": "bravo",
+  "name": "Bravo",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Bravo",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Guardian Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Guardian"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost 3 or more get **dominate**. **Go again**",
+        "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost 3 or more get dominate. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "BVO002",
+      "code": "BVO002-T",
+      "language": "en",
+      "set": "BVO",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bravo-showstopper-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "BVO002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo",
+          "typeLine": "Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gain dominate. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "BVO002-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/BVO002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/BVO002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/BVO002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER006-RF",
+      "code": "HER006-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER006-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo",
+          "typeLine": "Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain **dominate**. **Go again**",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gain <strong>dominate</strong>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER006-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER006-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER006-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER006-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR039",
+      "code": "WTR039-T",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 39,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR039",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo",
+          "typeLine": "Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gain dominate. Go again <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR039-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR039.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR039.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR039.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "XXX002",
+      "code": "XXX002",
+      "language": "en",
+      "set": "XXX",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "organized-play-support-limited-calling-2019",
+      "releaseDate": "2019-10-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "XXX002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo",
+          "typeLine": "Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain **dominate**. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gain <strong>dominate</strong>. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "XXX002",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/XXX002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/XXX002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR039",
+      "code": "WTR039",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 39,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR039",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gain dominate. Go again <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR039",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR039.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR039.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR039.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR039",
+      "code": "WTR039",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 39,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR039",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo",
+          "typeLine": "Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gain dominate. Go again <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR039",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR039.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR039.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR039.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER055-CF",
+      "code": "HER055",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 55,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "farewell-welcome-to-rathe",
+      "releaseDate": "2022-01-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER055-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo",
+          "typeLine": "Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action - {r}{r}:** Until end of turn, your attack action cards with cost 3 or greater gain **dominate. Go again**",
+            "plain": "Action - {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain dominate. Go again",
+            "html": "<p><strong>Action - <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>:</strong> Until end of turn, your attack action cards with cost 3 or greater gain <strong>dominate. Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER055",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER055-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER055-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER055-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP044",
+      "code": "1HP044",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 44,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP044",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo",
+          "typeLine": "Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain **dominate**. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost 3 or greater gain <strong>dominate</strong>. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "1HP044",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "white",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP044.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP044.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP044.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HB001",
+      "code": "1HB001",
+      "language": "en",
+      "set": "1HB",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bravo-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HB001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo",
+          "typeLine": "Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain **dominate**. **Go again** _(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain dominate. Go again _(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost 3 or greater gain <strong>dominate</strong>. <strong>Go again</strong> <em>(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "1HB001",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HB001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HB001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HB001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MPG129-CF",
+      "code": "MPG129",
+      "language": "en",
+      "set": "MPG",
+      "setNumber": 129,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "mastery-pack-guardian",
+      "releaseDate": "2025-08-08",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MPG129-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo",
+          "typeLine": "Guardian Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost 3 or more get **dominate**. **Go again**",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost 3 or more get dominate. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost 3 or more get <strong>dominate</strong>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "MPG129",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPG129-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPG129-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPG129-CF.webp"
+          }
+        },
+        {
+          "id": "MPG129-CF_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo",
+          "typeLine": "Guardian Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost 3 or more get **dominate**. **Go again**",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost 3 or more get dominate. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost 3 or more get <strong>dominate</strong>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "MPG129",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "soyameii",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPG129-CF_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPG129-CF_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPG129-CF_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "dominate"
+    ],
+    "editions": {
+      "R-WTR039": "unlimited-revised",
+      "U-WTR039": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:20:12Z",
+    "rawSha256": "60892c81c528b86f317cd21983bf4e5fca66999f30e47ea32021334bd64aaad5",
+    "updatedAt": "2025-09-18T06:47:01.452451+12:00"
+  }
+}

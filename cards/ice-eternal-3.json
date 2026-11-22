@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "id": "ice-eternal-3",
+  "name": "Ice Eternal",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Ice Eternal",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "printedStats": {
+        "cost": "XX"
+      },
+      "typeLine": "Elemental Wizard Action",
+      "traitLine": null,
+      "classes": [
+        "Wizard"
+      ],
+      "talents": [
+        "Elemental"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "**Iyslander Specialization**{br}**Ice Fusion**{br}Create X Frostbite tokens under target hero's control. Then if this was fused, deal arcane damage to that hero equal to the number of Frostbites they control.",
+        "plain": "Iyslander Specialization\nIce Fusion\nCreate X Frostbite tokens under target hero's control. Then if this was fused, deal arcane damage to that hero equal to the number of Frostbites they control."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS110-RF",
+      "code": "LGS110",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 110,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-7",
+      "releaseDate": "2022-06-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS110-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ice Eternal",
+          "typeLine": "Elemental Wizard Action",
+          "traitLine": null,
+          "text": {
+            "markup": "**Iyslander Specialization** _(You may only have Ice Eternal in your deck if your hero is Iyslander.)_\n**Ice Fusion** _(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)_\nCreate X Frostbite tokens under target hero's control. Then, if Ice Eternal was fused, deal arcane damage to that hero equal to the number of Frostbites they control.",
+            "plain": "Iyslander Specialization _(You may only have Ice Eternal in your deck if your hero is Iyslander.)_\nIce Fusion _(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)_\nCreate X Frostbite tokens under target hero's control. Then, if Ice Eternal was fused, deal arcane damage to that hero equal to the number of Frostbites they control.",
+            "html": "<p><strong>Iyslander Specialization</strong> <em>(You may only have Ice Eternal in your deck if your hero is Iyslander.)</em></p>\n<p><strong>Ice Fusion</strong> <em>(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)</em></p>\n<p>Create X Frostbite tokens under target hero's control. Then, if Ice Eternal was fused, deal arcane damage to that hero equal to the number of Frostbites they control.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "XX",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS110",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Federico Musetti",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "wizard",
+          "frameStyle": "elemental",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS110-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS110-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS110-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "UPR109",
+      "code": "UPR109",
+      "language": "en",
+      "set": "UPR",
+      "setNumber": 109,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "uprising",
+      "releaseDate": "2022-06-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "UPR109",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ice Eternal",
+          "typeLine": "Elemental Wizard Action",
+          "traitLine": null,
+          "text": {
+            "markup": "**Iyslander Specialization** _(You may only have Ice Eternal in your deck if your hero is Iyslander.)_\n**Ice Fusion** _(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)_\nCreate X Frostbite tokens under target hero's control. Then, if Ice Eternal was **fused**, deal arcane damage to that hero equal to the number of Frostbites they control.",
+            "plain": "Iyslander Specialization _(You may only have Ice Eternal in your deck if your hero is Iyslander.)_\nIce Fusion _(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)_\nCreate X Frostbite tokens under target hero's control. Then, if Ice Eternal was fused, deal arcane damage to that hero equal to the number of Frostbites they control.",
+            "html": "<p><strong>Iyslander Specialization</strong> <em>(You may only have Ice Eternal in your deck if your hero is Iyslander.)</em></p>\n<p><strong>Ice Fusion</strong> <em>(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)</em></p>\n<p>Create X Frostbite tokens under target hero's control. Then, if Ice Eternal was <strong>fused</strong>, deal arcane damage to that hero equal to the number of Frostbites they control.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "XX",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "UPR109",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Federico Musetti",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "wizard",
+          "frameStyle": "elemental",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UPR109.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UPR109.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UPR109.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "UPR109-RF",
+      "code": "UPR109",
+      "language": "en",
+      "set": "UPR",
+      "setNumber": 109,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "uprising",
+      "releaseDate": "2022-06-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "UPR109-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ice Eternal",
+          "typeLine": "Elemental Wizard Action",
+          "traitLine": null,
+          "text": {
+            "markup": "**Iyslander Specialization** _(You may only have Ice Eternal in your deck if your hero is Iyslander.)_\n**Ice Fusion** _(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)_\nCreate X Frostbite tokens under target hero's control. Then, if Ice Eternal was **fused**, deal arcane damage to that hero equal to the number of Frostbites they control.",
+            "plain": "Iyslander Specialization _(You may only have Ice Eternal in your deck if your hero is Iyslander.)_\nIce Fusion _(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)_\nCreate X Frostbite tokens under target hero's control. Then, if Ice Eternal was fused, deal arcane damage to that hero equal to the number of Frostbites they control.",
+            "html": "<p><strong>Iyslander Specialization</strong> <em>(You may only have Ice Eternal in your deck if your hero is Iyslander.)</em></p>\n<p><strong>Ice Fusion</strong> <em>(As an additional cost to play Ice Eternal, you may reveal an Ice card from your hand.)</em></p>\n<p>Create X Frostbite tokens under target hero's control. Then, if Ice Eternal was <strong>fused</strong>, deal arcane damage to that hero equal to the number of Frostbites they control.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "XX",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "UPR109",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Federico Musetti",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "wizard",
+          "frameStyle": "elemental",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UPR109-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UPR109-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UPR109-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SIY028",
+      "code": "SIY028",
+      "language": "en",
+      "set": "SIY",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-iyslander",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SIY028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ice Eternal",
+          "typeLine": "Elemental Wizard Action",
+          "traitLine": null,
+          "text": {
+            "markup": "**Iyslander Specialization** _(You may only have this in your deck if your hero is Iyslander.)_{br}**Ice Fusion** _(As an additional cost to play this, you may reveal an Ice card from your hand.)_{br}Create X Frostbite tokens under target hero's control. Then if this was fused, deal arcane damage to that hero equal to the number of Frostbites they control.",
+            "plain": "Iyslander Specialization _(You may only have this in your deck if your hero is Iyslander.)_\nIce Fusion _(As an additional cost to play this, you may reveal an Ice card from your hand.)_\nCreate X Frostbite tokens under target hero's control. Then if this was fused, deal arcane damage to that hero equal to the number of Frostbites they control.",
+            "html": "<p><strong>Iyslander Specialization</strong> <em>(You may only have this in your deck if your hero is Iyslander.)</em></p>\n<p><strong>Ice Fusion</strong> <em>(As an additional cost to play this, you may reveal an Ice card from your hand.)</em></p>\n<p>Create X Frostbite tokens under target hero's control. Then if this was fused, deal arcane damage to that hero equal to the number of Frostbites they control.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "XX",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SIY028",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Federico Musetti",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SIY028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SIY028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SIY028.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Ice Fusion",
+      "Iyslander Specialization"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:16:15Z",
+    "rawSha256": "d5756fd0222f0f7dfb0110412eaf6ac57ca7172682b91ebe33570f9ba44bcf64",
+    "updatedAt": "2025-09-18T06:51:27.911760+12:00"
+  }
+}

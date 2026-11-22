@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "goldkiss-rum",
+  "language": "fr",
+  "name": "Rhum Bise d’or",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Rhum Bise d’or",
+      "typeLine": "Générique Jeton - Objet",
+      "classes": [
+        "Générique"
+      ],
+      "types": [
+        "Jeton"
+      ],
+      "subtypes": [
+        "Objet"
+      ],
+      "text": {
+        "markup": "**Instantané** -- {t} votre héros, détruisez ce jeton : votre prochaine action ce tour-ci gagne **encore une fois**. Votre héros ne peut pas {u} ce tour-ci à moins qu’il ne soit un Pirate.",
+        "plain": "Instantané -- {t} votre héros, détruisez ce jeton : votre prochaine action ce tour-ci gagne encore une fois. Votre héros ne peut pas {u} ce tour-ci à moins qu’il ne soit un Pirate.",
+        "html": "<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> votre héros, détruisez ce jeton : votre prochaine action ce tour-ci gagne <strong>encore une fois</strong>. Votre héros ne peut pas <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_u.webp' alt='{u}'> ce tour-ci à moins qu’il ne soit un Pirate.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_SEA245",
+      "code": "SEA245",
+      "language": "fr",
+      "set": "SEA",
+      "setNumber": 245,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-fr",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_SEA245",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Rhum Bise d’or",
+          "typeLine": "Générique Jeton - Objet",
+          "traitLine": null,
+          "text": {
+            "markup": "**Instantané** -- {t} votre héros, détruisez ce jeton : votre prochaine action ce tour-ci gagne **encore une fois**. Votre héros ne peut pas {u} ce tour-ci à moins qu’il ne soit un Pirate.",
+            "plain": "Instantané -- {t} votre héros, détruisez ce jeton : votre prochaine action ce tour-ci gagne encore une fois. Votre héros ne peut pas {u} ce tour-ci à moins qu’il ne soit un Pirate.",
+            "html": "<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> votre héros, détruisez ce jeton : votre prochaine action ce tour-ci gagne <strong>encore une fois</strong>. Votre héros ne peut pas <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_u.webp' alt='{u}'> ce tour-ci à moins qu’il ne soit un Pirate.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA245",
+          "printedLanguageCode": "FR",
+          "printedYear": "2025",
+          "artist": "Mario Wibisono",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA245.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA245.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA245.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

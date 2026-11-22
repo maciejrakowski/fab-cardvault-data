@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "tectonic-plating",
+  "language": "ja",
+  "name": "テクトニック・プレート",
+  "cores": [
+    {
+      "position": 10,
+      "name": "テクトニック・プレート",
+      "typeLine": "守護者・装備品 － 胴",
+      "classes": [
+        "守護者"
+      ],
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "胴"
+      ],
+      "text": {
+        "markup": "**ターン１アクション**--{r}：「震激」トークンを１つ作成する。**続行** **戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+        "plain": "ターン１アクション--{r}：「震激」トークンを１つ作成する。続行 戦傷（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+        "html": "<p><strong>ターン１アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：「震激」トークンを１つ作成する。<strong>続行</strong> <strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_GAP063",
+      "code": "GAP063",
+      "language": "ja",
+      "set": "GAP",
+      "setNumber": 63,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-archive-guardian-ja",
+      "releaseDate": "2024-12-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_GAP063",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "テクトニック・プレート",
+          "typeLine": "守護者・装備品 － 胴",
+          "traitLine": null,
+          "text": {
+            "markup": "**ターン１アクション**--{r}：「震激」トークンを１つ作成する。**続行** **戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+            "plain": "ターン１アクション--{r}：「震激」トークンを１つ作成する。続行 戦傷（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+            "html": "<p><strong>ターン１アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：「震激」トークンを１つ作成する。<strong>続行</strong> <strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": "2"
+          },
+          "printedCode": "GAP063",
+          "printedLanguageCode": "JP",
+          "printedYear": "2087",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "legendary-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_GAP063.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_GAP063.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_GAP063.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

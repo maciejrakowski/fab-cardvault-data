@@ -1,0 +1,603 @@
+{
+  "schemaVersion": 1,
+  "id": "boltyn",
+  "name": "Boltyn",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Boltyn",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "printedStats": {
+        "intellect": "4",
+        "life": "20"
+      },
+      "typeLine": "Light Warrior Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [
+        "Light"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "If you've charged this turn, your attacks get +1{p} while defended by an attack action card.{br}**Attack Reaction** -- Banish a card from your soul: Target attack with {p} greater than its base gets **go again**.",
+        "plain": "If you've charged this turn, your attacks get +1{p} while defended by an attack action card.\nAttack Reaction -- Banish a card from your soul: Target attack with {p} greater than its base gets go again."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "MON030",
+      "code": "MON030",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 30,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON030",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Boltyn",
+          "typeLine": "Light Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "If you've **charged** this turn, attacks you control have +1{p} while defended by an attack action card.\n**Attack Reaction** -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**.",
+            "plain": "If you've charged this turn, attacks you control have +1{p} while defended by an attack action card.\nAttack Reaction -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains go again.",
+            "html": "<p>If you've <strong>charged</strong> this turn, attacks you control have +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> while defended by an attack action card.</p>\n<p><strong>Attack Reaction</strong> — Banish a card from Boltyn's soul: Target attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "MON030",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON030.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON030.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON030.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BOL001-RF",
+      "code": "BOL001",
+      "language": "en",
+      "set": "BOL",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "boltyn-blitz-deck",
+      "releaseDate": "2021-05-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "BOL001-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Boltyn",
+          "typeLine": "Light Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "If you've **charged** this turn, attacks you control have +1{p} while defended by an attack action card.\n**Attack Reaction** -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**.",
+            "plain": "If you've charged this turn, attacks you control have +1{p} while defended by an attack action card.\nAttack Reaction -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains go again.",
+            "html": "<p>If you've <strong>charged</strong> this turn, attacks you control have +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> while defended by an attack action card.</p>\n<p><strong>Attack Reaction</strong> — Banish a card from Boltyn's soul: Target attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "BOL001",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/BOL001-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/BOL001-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/BOL001-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON030",
+      "code": "MON030",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 30,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON030",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Boltyn",
+          "typeLine": "Light Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "If you've **charged** this turn, attacks you control have +1{p} while defended by an attack action card.\n**Attack Reaction** -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**.",
+            "plain": "If you've charged this turn, attacks you control have +1{p} while defended by an attack action card.\nAttack Reaction -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains go again.",
+            "html": "<p>If you've <strong>charged</strong> this turn, attacks you control have +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> while defended by an attack action card.</p>\n<p><strong>Attack Reaction</strong> — Banish a card from Boltyn's soul: Target attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "MON030",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON030.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON030.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON030.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER035-CF",
+      "code": "HER035",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 35,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "skirmish-season-2",
+      "releaseDate": "2021-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER035-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Boltyn",
+          "typeLine": "Light Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "If you've charged this turn, attacks you control have +1{p} while defended by an attack action card.\n**Attack Reaction** -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**.",
+            "plain": "If you've charged this turn, attacks you control have +1{p} while defended by an attack action card.\nAttack Reaction -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains go again.",
+            "html": "<p>If you've charged this turn, attacks you control have +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> while defended by an attack action card.</p>\n<p><strong>Attack Reaction</strong> — Banish a card from Boltyn's soul: Target attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER035",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER035-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER035-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER035-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DTD045",
+      "code": "DTD045",
+      "language": "en",
+      "set": "DTD",
+      "setNumber": 45,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dusk-till-dawn",
+      "releaseDate": "2023-07-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DTD045",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Boltyn",
+          "typeLine": "Light Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "If you've **charged** this turn, your attacks get +1{p} while defended by an attack action card.\n**Attack Reaction** -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base gets **go again**.",
+            "plain": "If you've charged this turn, your attacks get +1{p} while defended by an attack action card.\nAttack Reaction -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base gets go again.",
+            "html": "<p>If you've <strong>charged</strong> this turn, your attacks get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> while defended by an attack action card.</p>\n<p><strong>Attack Reaction</strong> — Banish a card from Boltyn's soul: Target attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "DTD045",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DTD045.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DTD045.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DTD045.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "XXX013",
+      "code": "XXX013",
+      "language": "en",
+      "set": "XXX",
+      "setNumber": 13,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "organized-play-support-monarch-limited-2023",
+      "releaseDate": "2023-08-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "XXX013",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Boltyn",
+          "typeLine": "Light Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "If you've **charged** this turn, attacks you control have +1{p} while defended by an attack action card.\n**Attack Reaction** -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains **go again**.",
+            "plain": "If you've charged this turn, attacks you control have +1{p} while defended by an attack action card.\nAttack Reaction -- Banish a card from Boltyn's soul: Target attack with {p} greater than its base {p} gains go again.",
+            "html": "<p>If you've <strong>charged</strong> this turn, attacks you control have +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> while defended by an attack action card.</p>\n<p><strong>Attack Reaction</strong> — Banish a card from Boltyn's soul: Target attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "XXX013",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/XXX013.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/XXX013.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX013.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBL001",
+      "code": "SBL001",
+      "language": "en",
+      "set": "SBL",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-boltyn",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBL001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Boltyn",
+          "typeLine": "Light Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "If you've charged this turn, your attacks get +1{p} while defended by an attack action card.{br}**Attack Reaction** -- Banish a card from your soul: Target attack with {p} greater than its base gets **go again**.",
+            "plain": "If you've charged this turn, your attacks get +1{p} while defended by an attack action card.\nAttack Reaction -- Banish a card from your soul: Target attack with {p} greater than its base gets go again.",
+            "html": "<p>If you've charged this turn, your attacks get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> while defended by an attack action card.</p>\n<p><strong>Attack Reaction</strong> — Banish a card from your soul: Target attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "SBL001",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBL001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBL001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBL001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER160-MV",
+      "code": "HER160",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 160,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "double-sided",
+      "product": "skirmish-season-14",
+      "releaseDate": "2027-04-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER160-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Boltyn",
+          "typeLine": "Light Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "If you've charged this turn, your attacks get +1{p} while defended by an attack action card.{br}**Attack Reaction** -- Banish a card from your soul: Target attack with {p} greater than its base gets **go again**.",
+            "plain": "If you've charged this turn, your attacks get +1{p} while defended by an attack action card.\nAttack Reaction -- Banish a card from your soul: Target attack with {p} greater than its base gets go again.",
+            "html": "<p>If you've charged this turn, your attacks get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> while defended by an attack action card.</p>\n<p><strong>Attack Reaction</strong> — Banish a card from your soul: Target attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than its base gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER160",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER160-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER160-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER160-MV.webp"
+          }
+        },
+        {
+          "id": "HER160-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Boltyn",
+          "typeLine": "Light Warrior Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER160-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER160-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER160-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "go again"
+    ],
+    "editions": {
+      "U-MON030": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:19:56Z",
+    "rawSha256": "7329f384a23a402fbb04150cd079f645265646e9e6d0d48d5432c6bfd48a8a27",
+    "updatedAt": "2025-09-18T06:46:52.082399+12:00"
+  }
+}

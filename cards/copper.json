@@ -1,0 +1,621 @@
+{
+  "schemaVersion": 1,
+  "id": "copper",
+  "name": "Copper",
+  "objectType": "token",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Copper",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Token - Item",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Token"
+      ],
+      "subtypes": [
+        "Item"
+      ],
+      "text": {
+        "markup": "**Action** -- {r}{r}{r}{r}, destroy this: Draw a card. **Go again**",
+        "plain": "Action -- {r}{r}{r}{r}, destroy this: Draw a card. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "CRU197",
+      "code": "CRU197",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 197,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU197",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Copper",
+          "typeLine": "Generic Token - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}{r}, destroy Copper: Draw a card. **Go again**",
+            "plain": "Action -- {r}{r}{r}{r}, destroy Copper: Draw a card. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Copper: Draw a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU197",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU197.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU197.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU197.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU197-RF",
+      "code": "CRU197",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 197,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU197-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Copper",
+          "typeLine": "Generic Token - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}{r}, destroy Copper: Draw a card. **Go again**",
+            "plain": "Action -- {r}{r}{r}{r}, destroy Copper: Draw a card. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Copper: Draw a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU197",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU197-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU197-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU197-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU197",
+      "code": "CRU197",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 197,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU197",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Copper",
+          "typeLine": "Generic Token - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}{r}, destroy Copper: Draw a card. **Go again**",
+            "plain": "Action -- {r}{r}{r}{r}, destroy Copper: Draw a card. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Copper: Draw a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU197",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU197.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU197.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU197.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU197-RF",
+      "code": "CRU197",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 197,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU197-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Copper",
+          "typeLine": "Generic Token - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}{r}, destroy Copper: Draw a card. **Go again**",
+            "plain": "Action -- {r}{r}{r}{r}, destroy Copper: Draw a card. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Copper: Draw a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU197",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "common-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU197-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU197-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU197-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVR194",
+      "code": "EVR194",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 194,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR194",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Copper",
+          "typeLine": "Generic Token - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}{r}, destroy Copper: Draw a card. **Go again**",
+            "plain": "Action -- {r}{r}{r}{r}, destroy Copper: Draw a card. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Copper: Draw a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR194",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR194.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR194.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR194.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB055-CF",
+      "code": "FAB055",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 55,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "skirmish-season-4",
+      "releaseDate": "2022-03-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB055-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Copper",
+          "typeLine": "Generic Token - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}{r}, destroy Copper: Draw a card. **Go again**",
+            "plain": "Action -- {r}{r}{r}{r}, destroy Copper: Draw a card. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Copper: Draw a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB055",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB055-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB055-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB055-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP426",
+      "code": "1HP426",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 426,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP426",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Copper",
+          "typeLine": "Generic Token - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}{r}, destroy Copper: Draw a card. **Go again**",
+            "plain": "Action -- {r}{r}{r}{r}, destroy Copper: Draw a card. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Copper: Draw a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP426",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP426.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP426.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP426.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TCC103",
+      "code": "TCC103",
+      "language": "en",
+      "set": "TCC",
+      "setNumber": 103,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "round-the-table-tcc-x-lss",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TCC103",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Copper",
+          "typeLine": "Generic Token - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}{r}{r}, destroy this: Draw a card. **Go again**",
+            "plain": "Action -- {r}{r}{r}{r}, destroy this: Draw a card. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy this: Draw a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TCC103",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC103.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC103.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC103.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TCC108",
+      "code": "TCC108",
+      "language": "en",
+      "set": "TCC",
+      "setNumber": 108,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "round-the-table-tcc-x-lss",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TCC108",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Copper",
+          "typeLine": "Generic Token - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "_(This represents 5 Copper tokens.)_{br}**Action** -- {r}{r}{r}{r}, destroy this: Draw a card. **Go again**",
+            "plain": "_(This represents 5 Copper tokens.)_\nAction -- {r}{r}{r}{r}, destroy this: Draw a card. Go again",
+            "html": "<p><em>(This represents 5 Copper tokens.)</em></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy this: Draw a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TCC108",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC108.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC108.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC108.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {
+      "U-CRU197": "unlimited",
+      "U-CRU197-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:13:17Z",
+    "rawSha256": "6bb6203748236d7f73ee93ca3a86c2518753bfdad2505a5ef7189e97fb2bf1c0",
+    "updatedAt": "2025-09-18T06:47:59.809529+12:00"
+  }
+}

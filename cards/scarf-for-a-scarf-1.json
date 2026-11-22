@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "scarf-for-a-scarf-1",
+  "name": "Scarf for a Scarf",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Scarf for a Scarf",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": 4,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this attacks a hero, exchange a head equipment permanent with them. If you do, this gets **go again**.",
+        "plain": "When this attacks a hero, exchange a head equipment permanent with them. If you do, this gets go again."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LSS019-RF",
+      "code": "LSS019",
+      "language": "en",
+      "set": "LSS",
+      "setNumber": 19,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "marketing-content-creators-festive-season",
+      "releaseDate": "2024-12-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LSS019-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Scarf for a Scarf",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks a hero, exchange a head equipment permanent with them. If you do, this gets **go again**.",
+            "plain": "When this attacks a hero, exchange a head equipment permanent with them. If you do, this gets go again.",
+            "html": "<p>When this attacks a hero, exchange a head equipment permanent with them. If you do, this gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LSS019",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Emanuel Dias",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LSS019-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LSS019-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS019-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:09:34Z",
+    "rawSha256": "57acf354a6719f2fa518d78b5de05ba965e9f6cf82bcc158b4ce635fe8c7396d",
+    "updatedAt": "2025-09-18T06:55:31.846405+12:00"
+  }
+}

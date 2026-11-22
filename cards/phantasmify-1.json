@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "id": "phantasmify-1",
+  "name": "Phantasmify",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Phantasmify",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 1,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Illusionist Action",
+      "traitLine": null,
+      "classes": [
+        "Illusionist"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "The next attack action card you play this turn is Illusionist and gets +5{p} and **phantasm**.{br}**Go again**",
+        "plain": "The next attack action card you play this turn is Illusionist and gets +5{p} and phantasm.\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS054-RF",
+      "code": "LGS054",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 54,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-4",
+      "releaseDate": "2021-05-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS054-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Phantasmify",
+          "typeLine": "Illusionist Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and **phantasm**.\n**Go again**",
+            "plain": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and phantasm.\nGo again",
+            "html": "<p>The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>phantasm</strong>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS054",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "bimawithpencil",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS054-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS054-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS054-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON095",
+      "code": "MON095",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 95,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON095",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Phantasmify",
+          "typeLine": "Illusionist Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and **phantasm**. _(If the attack is defended by a non-Illusionist attack action card with 6 or more {p}, destroy it and close the combat chain.)_ \n**Go again**",
+            "plain": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and phantasm. _(If the attack is defended by a non-Illusionist attack action card with 6 or more {p}, destroy it and close the combat chain.)_ \nGo again",
+            "html": "<p>The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>phantasm</strong>. <em>(If the attack is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy it and close the combat chain.)</em> </p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON095",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "bimawithpencil",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON095.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON095.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON095.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON095-RF",
+      "code": "MON095",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 95,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON095-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Phantasmify",
+          "typeLine": "Illusionist Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and **phantasm**. _(If the attack is defended by a non-Illusionist attack action card with 6 or more {p}, destroy it and close the combat chain.)_ \n**Go again**",
+            "plain": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and phantasm. _(If the attack is defended by a non-Illusionist attack action card with 6 or more {p}, destroy it and close the combat chain.)_ \nGo again",
+            "html": "<p>The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>phantasm</strong>. <em>(If the attack is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy it and close the combat chain.)</em> </p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON095",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "bimawithpencil",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON095-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON095-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON095-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PSM025",
+      "code": "PSM025",
+      "language": "en",
+      "set": "PSM",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prism-blitz-deck",
+      "releaseDate": "2021-05-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "PSM025",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Phantasmify",
+          "typeLine": "Illusionist Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and **phantasm**. _(If the attack is defended by a non-Illusionist attack action card with 6 or more {p}, destroy it and close the combat chain.)_ \n**Go again**",
+            "plain": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and phantasm. _(If the attack is defended by a non-Illusionist attack action card with 6 or more {p}, destroy it and close the combat chain.)_ \nGo again",
+            "html": "<p>The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>phantasm</strong>. <em>(If the attack is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy it and close the combat chain.)</em> </p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "PSM025",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "bimawithpencil",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PSM025.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PSM025.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PSM025.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON095",
+      "code": "MON095",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 95,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON095",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Phantasmify",
+          "typeLine": "Illusionist Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and **phantasm**. _(If the attack is defended by a non-Illusionist attack action card with 6 or more {p}, destroy it and close the combat chain.)_ \n**Go again**",
+            "plain": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and phantasm. _(If the attack is defended by a non-Illusionist attack action card with 6 or more {p}, destroy it and close the combat chain.)_ \nGo again",
+            "html": "<p>The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>phantasm</strong>. <em>(If the attack is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy it and close the combat chain.)</em> </p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON095",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "bimawithpencil",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON095.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON095.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON095.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON095-RF",
+      "code": "MON095",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 95,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON095-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Phantasmify",
+          "typeLine": "Illusionist Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and **phantasm**. _(If the attack is defended by a non-Illusionist attack action card with 6 or more {p}, destroy it and close the combat chain.)_ \n**Go again**",
+            "plain": "The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5{p} and phantasm. _(If the attack is defended by a non-Illusionist attack action card with 6 or more {p}, destroy it and close the combat chain.)_ \nGo again",
+            "html": "<p>The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>phantasm</strong>. <em>(If the attack is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy it and close the combat chain.)</em> </p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON095",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "bimawithpencil",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON095-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON095-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON095-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "phantasm"
+    ],
+    "editions": {
+      "U-MON095": "unlimited",
+      "U-MON095-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:29:09Z",
+    "rawSha256": "3f691f5e224f91868d2e1e56afd9a85277406f74f6a9241b73f94c2218caba04",
+    "updatedAt": "2025-09-18T06:53:36.180351+12:00"
+  }
+}

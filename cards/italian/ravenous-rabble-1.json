@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "id": "ravenous-rabble-1",
+  "language": "it",
+  "name": "Feccia Famelica",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Feccia Famelica",
+      "typeLine": "Azione Generica - Attacco",
+      "classes": [
+        "Generico/a"
+      ],
+      "types": [
+        "Azione"
+      ],
+      "subtypes": [
+        "Attacco"
+      ],
+      "text": {
+        "markup": "Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X{p}, dove X è il valore di pitch della carta rivelata in questo modo. \n**Continua**",
+        "plain": "Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X{p}, dove X è il valore di pitch della carta rivelata in questo modo. \nContinua",
+        "html": "<p>Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, dove X è il valore di pitch della carta rivelata in questo modo. </p>\n<p><strong>Continua</strong></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_1HP393",
+      "code": "1HP393",
+      "language": "it",
+      "set": "1HP",
+      "setNumber": 393,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1-black-label-it",
+      "releaseDate": "2022-07-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_1HP393",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Feccia Famelica",
+          "typeLine": "Generica Azione - Attacco",
+          "traitLine": null,
+          "text": {
+            "markup": "Quando attacchi con Feccia Famelica, rivela la carta in cima al tuo mazzo. Feccia Famelica ottiene -X{p}, dove X è il valore di lancio della carta rivelata in questo modo. _(Il valore di lancio si trova nell'angolo in alto a sinistra deka carta.)_{br}**Continua**",
+            "plain": "Quando attacchi con Feccia Famelica, rivela la carta in cima al tuo mazzo. Feccia Famelica ottiene -X{p}, dove X è il valore di lancio della carta rivelata in questo modo. _(Il valore di lancio si trova nell'angolo in alto a sinistra deka carta.)_\nContinua",
+            "html": "<p>Quando attacchi con Feccia Famelica, rivela la carta in cima al tuo mazzo. Feccia Famelica ottiene -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, dove X è il valore di lancio della carta rivelata in questo modo. <em>(Il valore di lancio si trova nell'angolo in alto a sinistra deka carta.)</em></p>\n<p><strong>Continua</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP393",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_1HP393.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_1HP393.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_1HP393.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IT_AZL017",
+      "code": "AZL017",
+      "language": "it",
+      "set": "AZL",
+      "setNumber": 17,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "azalea-blitz-deck-it",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_AZL017",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Feccia Famelica",
+          "typeLine": "Azione Generica - Attacco",
+          "traitLine": null,
+          "text": {
+            "markup": "Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X{p}, dove X è il valore di pitch della carta rivelata in questo modo. _(Il valore di pitch si trova nell'angolo in alto a sinistra.)_\n**Continua**",
+            "plain": "Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X{p}, dove X è il valore di pitch della carta rivelata in questo modo. _(Il valore di pitch si trova nell'angolo in alto a sinistra.)_\nContinua",
+            "html": "<p>Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, dove X è il valore di pitch della carta rivelata in questo modo. <em>(Il valore di pitch si trova nell'angolo in alto a sinistra.)</em></p>\n<p><strong>Continua</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AZL017",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_AZL017.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_AZL017.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_AZL017.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IT_OUT213",
+      "code": "OUT213",
+      "language": "it",
+      "set": "OUT",
+      "setNumber": 213,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders-it",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_OUT213",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Feccia Famelica",
+          "typeLine": "Azione Generica - Attacco",
+          "traitLine": null,
+          "text": {
+            "markup": "Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X{p}, dove X è il valore di pitch della carta rivelata in questo modo. _(Il valore di pitch si trova nell'angolo in alto a sinistra.)_\n**Continua**",
+            "plain": "Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X{p}, dove X è il valore di pitch della carta rivelata in questo modo. _(Il valore di pitch si trova nell'angolo in alto a sinistra.)_\nContinua",
+            "html": "<p>Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, dove X è il valore di pitch della carta rivelata in questo modo. <em>(Il valore di pitch si trova nell'angolo in alto a sinistra.)</em></p>\n<p><strong>Continua</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OUT213",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_OUT213.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_OUT213.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_OUT213.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IT_RIP021",
+      "code": "RIP021",
+      "language": "it",
+      "set": "RIP",
+      "setNumber": 21,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "riptide-blitz-deck-it",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_RIP021",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Feccia Famelica",
+          "typeLine": "Azione Generica - Attacco",
+          "traitLine": null,
+          "text": {
+            "markup": "Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X{p}, dove X è il valore di pitch della carta rivelata in questo modo. _(Il valore di pitch si trova nell'angolo in alto a sinistra.)_\n**Continua**",
+            "plain": "Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X{p}, dove X è il valore di pitch della carta rivelata in questo modo. _(Il valore di pitch si trova nell'angolo in alto a sinistra.)_\nContinua",
+            "html": "<p>Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, dove X è il valore di pitch della carta rivelata in questo modo. <em>(Il valore di pitch si trova nell'angolo in alto a sinistra.)</em></p>\n<p><strong>Continua</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "RIP021",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_RIP021.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_RIP021.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_RIP021.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IT_AAZ012",
+      "code": "AAZ012",
+      "language": "it",
+      "set": "AAZ",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-azalea-ace-in-the-hole-it",
+      "releaseDate": "2024-08-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_AAZ012",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Feccia Famelica",
+          "typeLine": "Azione Generica - Attacco",
+          "traitLine": null,
+          "text": {
+            "markup": "Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X{p}, dove X è il valore di pitch della carta rivelata in questo modo. \n**Continua**",
+            "plain": "Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X{p}, dove X è il valore di pitch della carta rivelata in questo modo. \nContinua",
+            "html": "<p>Quando attacca, rivela la prima carta del tuo mazzo. Questa carta prende -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, dove X è il valore di pitch della carta rivelata in questo modo. </p>\n<p><strong>Continua</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAZ012",
+          "printedLanguageCode": "IT",
+          "printedYear": "2024",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_AAZ012.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_AAZ012.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_AAZ012.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

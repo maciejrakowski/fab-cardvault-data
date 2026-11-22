@@ -1,0 +1,861 @@
+{
+  "schemaVersion": 1,
+  "id": "nullrune-boots",
+  "name": "Nullrune Boots",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Nullrune Boots",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 0,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Equipment - Legs",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Legs"
+      ],
+      "text": {
+        "markup": "**Arcane Barrier 1**",
+        "plain": "Arcane Barrier 1"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ARC158",
+      "code": "ARC158-C",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 158,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC158",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "plain": "Arcane Barrier 1 _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If your hero would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> instead. If you do, prevent 1 arcane damage that source would deal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC158-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC158.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC158.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC158.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC158-CF",
+      "code": "ARC158-C",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 158,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC158-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "plain": "Arcane Barrier 1 _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If your hero would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> instead. If you do, prevent 1 arcane damage that source would deal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC158-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC158-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC158-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC158-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC158",
+      "code": "ARC158",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 158,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC158",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "plain": "Arcane Barrier 1 _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If your hero would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> instead. If you do, prevent 1 arcane damage that source would deal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC158",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC158.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC158.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC158.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC158-RF",
+      "code": "ARC158",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 158,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC158-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "plain": "Arcane Barrier 1 _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If your hero would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> instead. If you do, prevent 1 arcane damage that source would deal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC158",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC158-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC158-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC158-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB071-GF",
+      "code": "FAB071",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 71,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "proquest-season-1-and-2",
+      "releaseDate": "2022-02-19",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB071-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "plain": "Arcane Barrier 1 _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If your hero would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> instead. If you do, prevent 1 arcane damage that source would deal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB071",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB071-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB071-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB071-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP349",
+      "code": "1HP349",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 349,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP349",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "plain": "Arcane Barrier 1 _(If your hero would be dealt arcane damage, you may pay {r} instead. If you do, prevent 1 arcane damage that source would deal.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If your hero would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> instead. If you do, prevent 1 arcane damage that source would deal.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP349",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP349.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP349.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP349.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HB006",
+      "code": "1HB006",
+      "language": "en",
+      "set": "1HB",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bravo-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HB006",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "plain": "Arcane Barrier 1 _(If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If your hero would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to prevent 1 of that damage.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HB006",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HB006.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HB006.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HB006.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HR006",
+      "code": "1HR006",
+      "language": "en",
+      "set": "1HR",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rhinar-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HR006",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "plain": "Arcane Barrier 1 _(If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If your hero would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to prevent 1 of that damage.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HR006",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HR006.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HR006.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HR006.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB248-RF",
+      "code": "FAB248",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 248,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-amsterdam-2024",
+      "releaseDate": "2024-07-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB248-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** __(If you would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)__",
+            "plain": "Arcane Barrier 1 __(If you would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)__",
+            "html": "<p><strong>Arcane Barrier 1</strong> <strong>(If you would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to prevent 1 of that damage.)</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB248",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Anastasia Chernaya",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB248-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB248-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB248-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBR011",
+      "code": "SBR011",
+      "language": "en",
+      "set": "SBR",
+      "setNumber": 11,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-bravo-flattering-showman",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBR011",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If you would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "plain": "Arcane Barrier 1 _(If you would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If you would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to prevent 1 of that damage.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBR011",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBR011.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBR011.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBR011.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SVI010",
+      "code": "SVI010",
+      "language": "en",
+      "set": "SVI",
+      "setNumber": 10,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-viserai",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SVI010",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If you would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "plain": "Arcane Barrier 1 _(If you would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If you would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to prevent 1 of that damage.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SVI010",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SVI010.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SVI010.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SVI010.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBL010",
+      "code": "SBL010",
+      "language": "en",
+      "set": "SBL",
+      "setNumber": 10,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-boltyn",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBL010",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If you would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "plain": "Arcane Barrier 1 _(If you would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If you would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to prevent 1 of that damage.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBL010",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBL010.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBL010.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBL010.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBW008",
+      "code": "SBW008",
+      "language": "en",
+      "set": "SBW",
+      "setNumber": 8,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-viserai-between-worlds",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-07T11:20:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBW008",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nullrune Boots",
+          "typeLine": "Generic Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Arcane Barrier 1** _(If you would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "plain": "Arcane Barrier 1 _(If you would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)_",
+            "html": "<p><strong>Arcane Barrier 1</strong> <em>(If you would be dealt arcane damage, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to prevent 1 of that damage.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBW008",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBW008.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBW008.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBW008.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Arcane Barrier 1"
+    ],
+    "editions": {
+      "U-ARC158": "unlimited",
+      "U-ARC158-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T15:08:29Z",
+    "rawSha256": "824f0d9e5c61dea74246f17581cbc8a57ad55c3b7cbd5d11910f79a042740885",
+    "updatedAt": "2025-09-18T06:52:59.295492+12:00"
+  }
+}

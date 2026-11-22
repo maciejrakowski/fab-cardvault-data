@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "dash-database",
+  "language": "it",
+  "cores": [
+    {
+      "position": 10,
+      "typeLine": "Eroe Meccanologo - Giovane",
+      "classes": [
+        "Meccanologo"
+      ],
+      "types": [
+        "Eroe"
+      ],
+      "subtypes": [
+        "Giovane"
+      ],
+      "text": {
+        "markup": "Puoi guardare la prima carta del tuo mazzo in qualsiasi momento.\nUna volta per turno, puoi giocare un oggetto Meccanologo con costo 0 o 1 dalla cima del tuo mazzo come se fosse un istantaneo. Costa {r} addizionale.",
+        "plain": "Puoi guardare la prima carta del tuo mazzo in qualsiasi momento.\nUna volta per turno, puoi giocare un oggetto Meccanologo con costo 0 o 1 dalla cima del tuo mazzo come se fosse un istantaneo. Costa {r} addizionale.",
+        "html": "<p>Puoi guardare la prima carta del tuo mazzo in qualsiasi momento.</p>\n<p>Una volta per turno, puoi giocare un oggetto Meccanologo con costo 0 o 1 dalla cima del tuo mazzo come se fosse un istantaneo. Costa <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> addizionale.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_EVO002",
+      "code": "EVO002",
+      "language": "it",
+      "set": "EVO",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-it",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_EVO002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Dash, Database",
+          "typeLine": "Eroe Meccanologo - Giovane",
+          "traitLine": null,
+          "text": {
+            "markup": "Puoi guardare la prima carta del tuo mazzo in qualsiasi momento.\nUna volta per turno, puoi giocare un oggetto Meccanologo con costo 0 o 1 dalla cima del tuo mazzo come se fosse un istantaneo. Costa {r} addizionale.",
+            "plain": "Puoi guardare la prima carta del tuo mazzo in qualsiasi momento.\nUna volta per turno, puoi giocare un oggetto Meccanologo con costo 0 o 1 dalla cima del tuo mazzo come se fosse un istantaneo. Costa {r} addizionale.",
+            "html": "<p>Puoi guardare la prima carta del tuo mazzo in qualsiasi momento.</p>\n<p>Una volta per turno, puoi giocare un oggetto Meccanologo con costo 0 o 1 dalla cima del tuo mazzo come se fosse un istantaneo. Costa <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> addizionale.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "18",
+            "intellect": "4"
+          },
+          "printedCode": "EVO002",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Sam Yang",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_EVO002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_EVO002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_EVO002.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

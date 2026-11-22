@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "terra",
+  "language": "es",
+  "cores": [
+    {
+      "position": 10,
+      "typeLine": "Héroe guardián elemental - Joven",
+      "classes": [
+        "Guardián"
+      ],
+      "types": [
+        "Héroe"
+      ],
+      "subtypes": [
+        "Joven"
+      ],
+      "text": {
+        "markup": "Al principio de cada fase final, si hay una carta de Tierra en tu zona de pitch, puedes pagar {r}. Si lo haces, crea una ficha de Poder.{br}**Esencia de Tierra** _(Puedes llevar cartas de Tierra en tu mazo)._",
+        "plain": "Al principio de cada fase final, si hay una carta de Tierra en tu zona de pitch, puedes pagar {r}. Si lo haces, crea una ficha de Poder.\nEsencia de Tierra _(Puedes llevar cartas de Tierra en tu mazo)._",
+        "html": "<p>Al principio de cada fase final, si hay una carta de Tierra en tu zona de pitch, puedes pagar <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Si lo haces, crea una ficha de Poder.</p>\n<p><strong>Esencia de Tierra</strong> <em>(Puedes llevar cartas de Tierra en tu mazo).</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_TER001",
+      "code": "TER001",
+      "language": "es",
+      "set": "TER",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "1st-strike-terra-es",
+      "releaseDate": "2024-08-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_TER001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Terra",
+          "typeLine": "Héroe guardián elemental - Joven",
+          "traitLine": null,
+          "text": {
+            "markup": "Al principio de cada fase final, si hay una carta de Tierra en tu zona de pitch, puedes pagar {r}. Si lo haces, crea una ficha de Poder.{br}**Esencia de Tierra** _(Puedes llevar cartas de Tierra en tu mazo)._",
+            "plain": "Al principio de cada fase final, si hay una carta de Tierra en tu zona de pitch, puedes pagar {r}. Si lo haces, crea una ficha de Poder.\nEsencia de Tierra _(Puedes llevar cartas de Tierra en tu mazo)._",
+            "html": "<p>Al principio de cada fase final, si hay una carta de Tierra en tu zona de pitch, puedes pagar <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Si lo haces, crea una ficha de Poder.</p>\n<p><strong>Esencia de Tierra</strong> <em>(Puedes llevar cartas de Tierra en tu mazo).</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "TER001",
+          "printedLanguageCode": "SP",
+          "printedYear": "2024",
+          "artist": "Federico Musetti",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": "earth",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_TER001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_TER001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_TER001.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

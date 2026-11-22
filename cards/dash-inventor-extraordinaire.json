@@ -1,0 +1,557 @@
+{
+  "schemaVersion": 1,
+  "id": "dash-inventor-extraordinaire",
+  "name": "Dash, Inventor Extraordinaire",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Dash, Inventor Extraordinaire",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 40,
+      "intellect": 4,
+      "typeLine": "Mechanologist Hero",
+      "traitLine": null,
+      "classes": [
+        "Mechanologist"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "You may start the game with a Mechanologist item with cost 2 or less in the arena.",
+        "plain": "You may start the game with a Mechanologist item with cost 2 or less in the arena."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HER009-CF",
+      "code": "HER009-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER009-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dash, Inventor Extraordinaire",
+          "typeLine": "Mechanologist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "You may start the game with a Mechanologist item with cost {r}{r} or less in the arena.",
+            "plain": "You may start the game with a Mechanologist item with cost {r}{r} or less in the arena.",
+            "html": "<p>You may start the game with a Mechanologist item with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less in the arena.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER009-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Sam Yang",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER009-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER009-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER009-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC001",
+      "code": "ARC001-T",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dash, Inventor Extraordinaire",
+          "typeLine": "Mechanologist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "You may start the game with a Mechanologist item with cost {r}{r} or less in the arena. _(It is considered to have entered the arena.)_",
+            "plain": "You may start the game with a Mechanologist item with cost {r}{r} or less in the arena. _(It is considered to have entered the arena.)_",
+            "html": "<p>You may start the game with a Mechanologist item with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less in the arena. <em>(It is considered to have entered the arena.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "ARC001-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Sam Yang",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER017-RF",
+      "code": "HER017-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 17,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "buy-a-box-arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER017-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dash, Inventor Extraordinaire",
+          "typeLine": "Mechanologist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "You may start the game with a Mechanologist item with cost {r}{r} or less in the arena. _(It's considered to have entered the arena.)_",
+            "plain": "You may start the game with a Mechanologist item with cost {r}{r} or less in the arena. _(It's considered to have entered the arena.)_",
+            "html": "<p>You may start the game with a Mechanologist item with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or less in the arena. <em>(It's considered to have entered the arena.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER017-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Sam Yang",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER017-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER017-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER017-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU098",
+      "code": "CRU098",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 98,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU098",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dash, Inventor Extraordinaire",
+          "typeLine": "Mechanologist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "You may start the game with a Mechanologist item with cost 2 or less in the arena. _(It is considered to have entered the arena.)_",
+            "plain": "You may start the game with a Mechanologist item with cost 2 or less in the arena. _(It is considered to have entered the arena.)_",
+            "html": "<p>You may start the game with a Mechanologist item with cost 2 or less in the arena. <em>(It is considered to have entered the arena.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "CRU098",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Sam Yang",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU098.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU098.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU098.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC001",
+      "code": "ARC001",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dash, Inventor Extraordinaire",
+          "typeLine": "Mechanologist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "You may start the game with a Mechanologist item with cost 2 or less in the arena. _(It's considered to have entered the arena.)_",
+            "plain": "You may start the game with a Mechanologist item with cost 2 or less in the arena. _(It's considered to have entered the arena.)_",
+            "html": "<p>You may start the game with a Mechanologist item with cost 2 or less in the arena. <em>(It's considered to have entered the arena.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "ARC001",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Sam Yang",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU098",
+      "code": "CRU098",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 98,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU098",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dash, Inventor Extraordinaire",
+          "typeLine": "Mechanologist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "You may start the game with a Mechanologist item with cost 2 or less in the arena. _(It's considered to have entered the arena.)_",
+            "plain": "You may start the game with a Mechanologist item with cost 2 or less in the arena. _(It's considered to have entered the arena.)_",
+            "html": "<p>You may start the game with a Mechanologist item with cost 2 or less in the arena. <em>(It's considered to have entered the arena.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "CRU098",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Sam Yang",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU098.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU098.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU098.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP180",
+      "code": "1HP180",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 180,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP180",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dash, Inventor Extraordinaire",
+          "typeLine": "Mechanologist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "You may start the game with a Mechanologist item with cost 2 or less in the arena. _(It is considered to have entered the arena.)_",
+            "plain": "You may start the game with a Mechanologist item with cost 2 or less in the arena. _(It is considered to have entered the arena.)_",
+            "html": "<p>You may start the game with a Mechanologist item with cost 2 or less in the arena. <em>(It is considered to have entered the arena.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "1HP180",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Sam Yang",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "white",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP180.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP180.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP180.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WIN005-CF",
+      "code": "WIN005",
+      "language": "en",
+      "set": "WIN",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-champion-cards",
+      "releaseDate": "2022-05-15",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WIN005-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dash, Inventor Extraordinaire",
+          "typeLine": "Mechanologist Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": {
+            "markup": "Pro Tour Champion",
+            "plain": "Pro Tour Champion",
+            "html": "<p>Pro Tour Champion</p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "WIN005",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Sam Yang",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WIN005-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WIN005-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WIN005-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-ARC001": "unlimited",
+      "U-CRU098": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:22:46Z",
+    "rawSha256": "1360ec9f2e92062965ed05189d5db16b243922f0556790cc502c881fc25eca41",
+    "updatedAt": "2025-09-18T06:48:20.101858+12:00"
+  }
+}

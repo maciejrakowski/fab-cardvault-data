@@ -1,0 +1,981 @@
+{
+  "schemaVersion": 1,
+  "id": "ravenous-rabble-1",
+  "name": "Ravenous Rabble",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Ravenous Rabble",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": 5,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way.{br}**Go again**",
+        "plain": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way.\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ARC191",
+      "code": "ARC191-C",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 191,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC191",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Reveal the top card of your deck. Ravenous Rabble gets -X {p}, where X is the pitch value of the card revealed this way.\n**Go again**",
+            "plain": "Reveal the top card of your deck. Ravenous Rabble gets -X {p}, where X is the pitch value of the card revealed this way.\nGo again",
+            "html": "<p>Reveal the top card of your deck. Ravenous Rabble gets -X <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC191-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Maxim Kostin",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC191.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC191.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC191.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC191-RF",
+      "code": "ARC191-C",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 191,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC191-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Reveal the top card of your deck. Ravenous Rabble gets -X {p}, where X is the pitch value of the card revealed this way.\n**Go again**",
+            "plain": "Reveal the top card of your deck. Ravenous Rabble gets -X {p}, where X is the pitch value of the card revealed this way.\nGo again",
+            "html": "<p>Reveal the top card of your deck. Ravenous Rabble gets -X <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC191-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Maxim Kostin",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC191-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC191-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC191-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC191",
+      "code": "ARC191",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 191,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC191",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Reveal the top card of your deck. Ravenous Rabble gets -X {p}, where X is the pitch value of the card revealed this way. _(The pitch value is located in the top left corner of the card.)_\n**Go again**",
+            "plain": "Reveal the top card of your deck. Ravenous Rabble gets -X {p}, where X is the pitch value of the card revealed this way. _(The pitch value is located in the top left corner of the card.)_\nGo again",
+            "html": "<p>Reveal the top card of your deck. Ravenous Rabble gets -X <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way. <em>(The pitch value is located in the top left corner of the card.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC191",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC191.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC191.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC191.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC191-RF",
+      "code": "ARC191",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 191,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC191-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Reveal the top card of your deck. Ravenous Rabble gets -X {p}, where X is the pitch value of the card revealed this way. _(The pitch value is located in the top left corner of the card.)_\n**Go again**",
+            "plain": "Reveal the top card of your deck. Ravenous Rabble gets -X {p}, where X is the pitch value of the card revealed this way. _(The pitch value is located in the top left corner of the card.)_\nGo again",
+            "html": "<p>Reveal the top card of your deck. Ravenous Rabble gets -X <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way. <em>(The pitch value is located in the top left corner of the card.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC191",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC191-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC191-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC191-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP393",
+      "code": "1HP393",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 393,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP393",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When you attack with Ravenous Rabble, reveal the top card of your deck. Ravenous Rabble gets -X{p}, where X is the pitch value of the card revealed this way. _(The pitch value is located in the top left corner of the card.)_\n**Go again**",
+            "plain": "When you attack with Ravenous Rabble, reveal the top card of your deck. Ravenous Rabble gets -X{p}, where X is the pitch value of the card revealed this way. _(The pitch value is located in the top left corner of the card.)_\nGo again",
+            "html": "<p>When you attack with Ravenous Rabble, reveal the top card of your deck. Ravenous Rabble gets -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way. <em>(The pitch value is located in the top left corner of the card.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP393",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP393.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP393.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP393.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DRO021",
+      "code": "DRO021",
+      "language": "en",
+      "set": "DRO",
+      "setNumber": 21,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dromai-blitz-deck",
+      "releaseDate": "2022-06-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DRO021",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When you attack with Ravenous Rabble, reveal the top card of your deck. Ravenous Rabble gets -X{p}, where X is the pitch value of the card revealed this way. _(The pitch value is located in the top left corner of the card.)_\n**Go again**",
+            "plain": "When you attack with Ravenous Rabble, reveal the top card of your deck. Ravenous Rabble gets -X{p}, where X is the pitch value of the card revealed this way. _(The pitch value is located in the top left corner of the card.)_\nGo again",
+            "html": "<p>When you attack with Ravenous Rabble, reveal the top card of your deck. Ravenous Rabble gets -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way. <em>(The pitch value is located in the top left corner of the card.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DRO021",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DRO021.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DRO021.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DRO021.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AZL017",
+      "code": "AZL017",
+      "language": "en",
+      "set": "AZL",
+      "setNumber": 17,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "azalea-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AZL017",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. _(Pitch value is in the top left corner.)_\n**Go again**",
+            "plain": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. _(Pitch value is in the top left corner.)_\nGo again",
+            "html": "<p>When this attacks, reveal the top card of your deck. This gets -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way. <em>(Pitch value is in the top left corner.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AZL017",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AZL017.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AZL017.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AZL017.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUT213",
+      "code": "OUT213",
+      "language": "en",
+      "set": "OUT",
+      "setNumber": 213,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OUT213",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. _(Pitch value is in the top left corner.)_\n**Go again**",
+            "plain": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. _(Pitch value is in the top left corner.)_\nGo again",
+            "html": "<p>When this attacks, reveal the top card of your deck. This gets -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way. <em>(Pitch value is in the top left corner.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OUT213",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OUT213.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OUT213.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OUT213.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RIP021",
+      "code": "RIP021",
+      "language": "en",
+      "set": "RIP",
+      "setNumber": 21,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "riptide-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "RIP021",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. _(Pitch value is in the top left corner.)_\n**Go again**",
+            "plain": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. _(Pitch value is in the top left corner.)_\nGo again",
+            "html": "<p>When this attacks, reveal the top card of your deck. This gets -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way. <em>(Pitch value is in the top left corner.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "RIP021",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/RIP021.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/RIP021.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/RIP021.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB190-RF",
+      "code": "FAB190",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 190,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "calling-heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB190-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. _(Pitch value is in the top left corner.)_{br}**Go again**",
+            "plain": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. _(Pitch value is in the top left corner.)_\nGo again",
+            "html": "<p>When this attacks, reveal the top card of your deck. This gets -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way. <em>(Pitch value is in the top left corner.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB190",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Isuardi Therianto",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB190-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB190-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB190-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AAZ012",
+      "code": "AAZ012",
+      "language": "en",
+      "set": "AAZ",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-azalea-ace-in-the-hole",
+      "releaseDate": "2024-08-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AAZ012",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. _(Pitch value is in the top left corner.)_{br}**Go again**",
+            "plain": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way. _(Pitch value is in the top left corner.)_\nGo again",
+            "html": "<p>When this attacks, reveal the top card of your deck. This gets -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way. <em>(Pitch value is in the top left corner.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAZ012",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AAZ012.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AAZ012.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AAZ012.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA219",
+      "code": "SEA219",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 219,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA219",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way.{br}**Go again**",
+            "plain": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way.\nGo again",
+            "html": "<p>When this attacks, reveal the top card of your deck. This gets -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA219",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA219.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA219.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA219.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ANQ029",
+      "code": "ANQ029",
+      "language": "en",
+      "set": "ANQ",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "gold",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "compendium-of-rathe-antiquity-pack",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ANQ029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way.{br}**Go again**",
+            "plain": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way.\nGo again",
+            "html": "<p>When this attacks, reveal the top card of your deck. This gets -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ANQ029",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Maxim Kostin",
+          "rarityMark": "gold-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ANQ029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ANQ029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ANQ029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAZ019",
+      "code": "SAZ019",
+      "language": "en",
+      "set": "SAZ",
+      "setNumber": 19,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-azalea",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-30T12:10:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SAZ019",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way.{br}**Go again**",
+            "plain": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way.\nGo again",
+            "html": "<p>When this attacks, reveal the top card of your deck. This gets -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SAZ019",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAZ019.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAZ019.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAZ019.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBA017",
+      "code": "SBA017",
+      "language": "en",
+      "set": "SBA",
+      "setNumber": 17,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-briar",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBA017",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ravenous Rabble",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way.{br}**Go again**",
+            "plain": "When this attacks, reveal the top card of your deck. This gets -X{p}, where X is the pitch value of the card revealed this way.\nGo again",
+            "html": "<p>When this attacks, reveal the top card of your deck. This gets -X<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, where X is the pitch value of the card revealed this way.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "5",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBA017",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBA017.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBA017.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBA017.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {
+      "U-ARC191": "unlimited",
+      "U-ARC191-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T15:16:44Z",
+    "rawSha256": "45004ec9f5218c58b37201499066b41ad4feda2ed1d3d4080b25ce95e577c6be",
+    "updatedAt": "2025-09-18T06:54:26.932906+12:00"
+  }
+}

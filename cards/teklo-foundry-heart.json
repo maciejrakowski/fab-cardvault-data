@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "id": "teklo-foundry-heart",
+  "name": "Teklo Foundry Heart",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Teklo Foundry Heart",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Mechanologist Equipment - Chest",
+      "traitLine": null,
+      "classes": [
+        "Mechanologist"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Chest"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this only if you have boosted this turn. **Go again**{br}**Battleworn**",
+        "plain": "Once per Turn Action -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this only if you have boosted this turn. Go again\nBattleworn"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ARC004-CF",
+      "code": "ARC004-L",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC004-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Foundry Heart",
+          "typeLine": "Mechanologist Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you have boosted this turn. **Go again**\n**Battleworn** _(If you defend with Teklo Foundry Heart, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Once per Turn Action -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you have boosted this turn. Go again\nBattleworn _(If you defend with Teklo Foundry Heart, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Banish the top 2 cards of your deck. Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> for each Mechanologist card banished this way. Activate this ability only if you have boosted this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Teklo Foundry Heart, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC004-L",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Pavel Chuvin",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC004-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC004-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC004-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB008-GF",
+      "code": "FAB008-P",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 8,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB008-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Foundry Heart",
+          "typeLine": "Mechanologist Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you have boosted this turn. **Go again**\n**Battleworn** _(If you defend with Teklo Foundry Heart, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Once per Turn Action -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you have boosted this turn. Go again\nBattleworn _(If you defend with Teklo Foundry Heart, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Banish the top 2 cards of your deck. Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> for each Mechanologist card banished this way. Activate this ability only if you have boosted this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Teklo Foundry Heart, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB008-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Pavel Chuvin",
+          "rarityMark": null,
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB008-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB008-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB008-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC004-RF",
+      "code": "ARC004",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC004-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Foundry Heart",
+          "typeLine": "Mechanologist Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you have boosted this turn. **Go again**\n**Battleworn** _(If you defend with Teklo Foundry Heart, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Once per Turn Action -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you have boosted this turn. Go again\nBattleworn _(If you defend with Teklo Foundry Heart, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Banish the top 2 cards of your deck. Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> for each Mechanologist card banished this way. Activate this ability only if you have boosted this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Teklo Foundry Heart, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC004",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Pavel Chuvin",
+          "rarityMark": "legendary-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC004-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC004-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC004-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP185",
+      "code": "1HP185",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 185,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP185",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Foundry Heart",
+          "typeLine": "Mechanologist Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you have **boosted** this turn. **Go again**\n**Battleworn** _(If you defend with Teklo Foundry Heart, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Once per Turn Action -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you have boosted this turn. Go again\nBattleworn _(If you defend with Teklo Foundry Heart, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Banish the top 2 cards of your deck. Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> for each Mechanologist card banished this way. Activate this ability only if you have <strong>boosted</strong> this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Teklo Foundry Heart, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP185",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Pavel Chuvin",
+          "rarityMark": "legendary-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP185.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP185.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP185.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVO012",
+      "code": "EVO012",
+      "language": "en",
+      "set": "EVO",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVO012",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Foundry Heart",
+          "typeLine": "Mechanologist Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you've **boosted** this turn. **Go again**{br}**Battleworn** _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "plain": "Once per Turn Action -- {r}: Banish the top 2 cards of your deck. Gain {r} for each Mechanologist card banished this way. Activate this ability only if you've boosted this turn. Go again\nBattleworn _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Banish the top 2 cards of your deck. Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> for each Mechanologist card banished this way. Activate this ability only if you've <strong>boosted</strong> this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO012",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Pavel Chuvin",
+          "rarityMark": "legendary-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVO012.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVO012.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVO012.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Battleworn",
+      "Go again"
+    ],
+    "editions": {
+      "U-ARC004-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:23:40Z",
+    "rawSha256": "d910ee2e0f3b9155938cdc2f29ea8cb42d7b7c7bbcd4710dcacdc9278e632090",
+    "updatedAt": "2025-09-18T06:57:39.344826+12:00"
+  }
+}

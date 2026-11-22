@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "pink-visor",
+  "name": "Pink Visor",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Pink Visor",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Merchant Equipment - Head",
+      "traitLine": null,
+      "classes": [
+        "Merchant"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Head"
+      ],
+      "text": {
+        "markup": "**Ruu'di Specialization**{br}**Once per Turn Action** -- {r}: The next card you reveal this turn has its grade increased by 1. **Go again**",
+        "plain": "Ruu'di Specialization\nOnce per Turn Action -- {r}: The next card you reveal this turn has its grade increased by 1. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LSS007-CF",
+      "code": "LSS007",
+      "language": "en",
+      "set": "LSS",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "marketing-alpha-investments-outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LSS007-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pink Visor",
+          "typeLine": "Merchant Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "**Ruu'di Specialization**\r\n**Once per Turn Action** -- {r}: The next card you reveal this turn has its grade increased by 1. **Go again**",
+            "plain": "Ruu'di Specialization\r\nOnce per Turn Action -- {r}: The next card you reveal this turn has its grade increased by 1. Go again",
+            "html": "<p><strong>Ruu'di Specialization</strong></p>\n<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: The next card you reveal this turn has its grade increased by 1. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Pump it Timmy\"_",
+            "plain": "_\"Pump it Timmy\"_",
+            "html": "<p><em>&quot;Pump it Timmy&quot;</em></p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LSS007",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Riordan Delmiro",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LSS007-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LSS007-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS007-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "Ruu'di Specialization"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:09:04Z",
+    "rawSha256": "89c8b0ab6cbd93e3521cf9e21e1d5d7a31fd0b101d80fb209dae13c278dc287a",
+    "updatedAt": "2025-09-18T06:53:41.963843+12:00"
+  }
+}

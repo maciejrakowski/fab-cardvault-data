@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "zane-broadly-beloved",
+  "name": "Zane, Broadly Beloved",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Zane, Broadly Beloved",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Revered Warrior Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Guerrier"
+      ],
+      "talents": [
+        "Revered"
+      ],
+      "types": [
+        "Héros"
+      ],
+      "subtypes": [
+        "Jeune"
+      ],
+      "text": {
+        "markup": "You may equip 2H swords as though they were 1H.{br}Whenever you win a wager, **the crowd cheers** you.{br}The first time the crowd cheers you each turn, each hero draws a card.",
+        "plain": "You may equip 2H swords as though they were 1H.\nWhenever you win a wager, the crowd cheers you.\nThe first time the crowd cheers you each turn, each hero draws a card."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "SPW003-RF",
+      "code": "SPW003",
+      "language": "en",
+      "set": "SPW",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "smash-palace-chorus-of-steel",
+      "releaseDate": "2026-10-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-31T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SPW003-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Zane, Broadly Beloved",
+          "typeLine": "Revered Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "You may equip 2H swords as though they were 1H.{br}Whenever you win a wager, **the crowd cheers** you.{br}The first time the crowd cheers you each turn, each hero draws a card.",
+            "plain": "You may equip 2H swords as though they were 1H.\nWhenever you win a wager, the crowd cheers you.\nThe first time the crowd cheers you each turn, each hero draws a card.",
+            "html": "<p>You may equip 2H swords as though they were 1H.</p>\n<p>Whenever you win a wager, <strong>the crowd cheers</strong> you.</p>\n<p>The first time the crowd cheers you each turn, each hero draws a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "SPW003",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Sebastian Giacobino",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "revered",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SPW003-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SPW003-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SPW003-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "the crowd cheers"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:14:44Z",
+    "rawSha256": "3faa7071f0ac592adcb69922060bb12a82bb662276ee2f4149325fa22cb75dcc",
+    "updatedAt": "2026-07-14T19:59:51.493022+12:00"
+  }
+}

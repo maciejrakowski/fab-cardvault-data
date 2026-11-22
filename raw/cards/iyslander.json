@@ -1,0 +1,976 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "24ed952a-0bdc-4c55-8e2f-ab8bb0f1d04c",
+      "cores": [
+        {
+          "id": "599cf952-e33f-40a2-89f2-d6d1c28eb821",
+          "core_classes": [
+            {
+              "id": 15,
+              "name": "Wizard",
+              "name_en": "Wizard",
+              "name_fr": "Sorcier",
+              "name_de": "Zauberer",
+              "name_it": "Mago",
+              "name_es": "Mago",
+              "name_ja": "魔術師",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 3,
+              "name": "Elemental",
+              "name_en": "Elemental",
+              "name_fr": "Élémentaire",
+              "name_de": "Elementar",
+              "name_it": "Elementale",
+              "name_es": "Elemental",
+              "name_ja": "エレメンタル",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 7,
+              "name": "Hero",
+              "name_en": "Hero",
+              "name_fr": "Héros",
+              "name_de": "Held",
+              "name_it": "Eroe",
+              "name_es": "Héroe",
+              "name_ja": "ヒーロー",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 49,
+              "name": "Young",
+              "name_en": "Young",
+              "name_fr": "Jeune",
+              "name_de": "Jung",
+              "name_it": "Giovane",
+              "name_es": "Joven",
+              "name_ja": "若者",
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-09-18T06:51:49.256300+12:00",
+          "updated_at": "2025-09-18T06:51:49.264181+12:00",
+          "name": "Iyslander",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "",
+          "defense": "",
+          "intellect": "4",
+          "life": "18",
+          "textbox": "**Essence of Ice**{br}If it's not your turn, you may play blue non-attack action cards from your arsenal as though they were instants.{br}Whenever you play an Ice card during an opponent's turn, create a Frostbite token under their control.",
+          "typebox": "Elemental Wizard Hero - Young",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": null,
+          "intellect_value": 4,
+          "life_value": 18,
+          "card": "24ed952a-0bdc-4c55-8e2f-ab8bb0f1d04c"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "75dab8fa-3df7-480e-9a2c-fafefca3b349",
+          "faces": [
+            {
+              "id": "e671be8d-d4fe-4774-b960-6b8d55230553",
+              "created_at": "2025-09-18T06:51:49.272861+12:00",
+              "updated_at": "2025-09-18T06:51:49.272871+12:00",
+              "face_id": "EVR120",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "elemental",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "EVR120",
+              "printed_artist": "Steve Argyle",
+              "printed_name": "Iyslander",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "4",
+              "printed_life": "18",
+              "printed_rules_text": "**Essence of Ice** _(You may have Ice cards in your deck.)_\nIf it's not your turn, you may play a 'non-attack' action cards with blue color strips from your arsenal as though they were an instant.\nWhenever you play an Ice card during an opponents turn, create a Frostbite token under their control.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elemental Wizard Hero - Young",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "599cf952-e33f-40a2-89f2-d6d1c28eb821",
+              "card_print": "75dab8fa-3df7-480e-9a2c-fafefca3b349",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Iyslander</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elemental Wizard Hero - Young</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Essence of Ice</strong> <em>(You may have Ice cards in your deck.)</em></p>\n<p>If it's not your turn, you may play a 'non-attack' action cards with blue color strips from your arsenal as though they were an instant.</p>\n<p>Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR120.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR120.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR120.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "df8d0826-100e-43d5-83db-4b82ef3528ca",
+            "product_group": {
+              "id": "c6dc66af-ea8c-4991-afec-bc39ffa38f25",
+              "created_at": "2025-09-18T06:45:20.704128+12:00",
+              "updated_at": "2025-09-18T06:45:20.704148+12:00",
+              "group_name": "Everfest",
+              "product_type": "booster",
+              "release_date": "2022-02-04",
+              "slug": "everfest"
+            },
+            "created_at": "2025-09-18T06:45:20.709349+12:00",
+            "updated_at": "2025-09-18T06:45:20.709376+12:00",
+            "printed_date": "2021-10-01",
+            "printed_language": "en",
+            "product_name": "Everfest",
+            "product_type": "booster",
+            "release_date": "2022-02-04",
+            "slug": "everfest",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4dca499b-cf90-484e-aaba-f0af4179b4ed",
+            "created_at": "2025-09-18T06:45:12.607895+12:00",
+            "updated_at": "2025-09-18T06:45:12.607910+12:00",
+            "set_code": "EVR",
+            "set_name": "Everfest",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:49.269266+12:00",
+          "updated_at": "2025-09-18T06:51:49.269277+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "EVR120",
+          "set_number": 120,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "majestic",
+          "card": "24ed952a-0bdc-4c55-8e2f-ab8bb0f1d04c"
+        },
+        {
+          "id": "ac9006ee-88e6-40f0-81e7-1cd36cb7a6ed",
+          "faces": [
+            {
+              "id": "9aae71da-5c37-4445-870c-243793d25c63",
+              "created_at": "2025-09-18T06:51:49.283445+12:00",
+              "updated_at": "2025-09-18T06:51:49.283455+12:00",
+              "face_id": "EVR120-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "elemental",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "EVR120",
+              "printed_artist": "Steve Argyle",
+              "printed_name": "Iyslander",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "4",
+              "printed_life": "18",
+              "printed_rules_text": "**Essence of Ice** _(You may have Ice cards in your deck.)_\nIf it's not your turn, you may play a 'non-attack' action cards with bue color strips from your arsenal as though they were an instant.\nWhenever you play an Ice card during an opponents turn, create a Frostbite token under their control.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elemental Wizard Hero - Young",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "599cf952-e33f-40a2-89f2-d6d1c28eb821",
+              "card_print": "ac9006ee-88e6-40f0-81e7-1cd36cb7a6ed",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Iyslander</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elemental Wizard Hero - Young</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Essence of Ice</strong> <em>(You may have Ice cards in your deck.)</em></p>\n<p>If it's not your turn, you may play a 'non-attack' action cards with bue color strips from your arsenal as though they were an instant.</p>\n<p>Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR120-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR120-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR120-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "df8d0826-100e-43d5-83db-4b82ef3528ca",
+            "product_group": {
+              "id": "c6dc66af-ea8c-4991-afec-bc39ffa38f25",
+              "created_at": "2025-09-18T06:45:20.704128+12:00",
+              "updated_at": "2025-09-18T06:45:20.704148+12:00",
+              "group_name": "Everfest",
+              "product_type": "booster",
+              "release_date": "2022-02-04",
+              "slug": "everfest"
+            },
+            "created_at": "2025-09-18T06:45:20.709349+12:00",
+            "updated_at": "2025-09-18T06:45:20.709376+12:00",
+            "printed_date": "2021-10-01",
+            "printed_language": "en",
+            "product_name": "Everfest",
+            "product_type": "booster",
+            "release_date": "2022-02-04",
+            "slug": "everfest",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4dca499b-cf90-484e-aaba-f0af4179b4ed",
+            "created_at": "2025-09-18T06:45:12.607895+12:00",
+            "updated_at": "2025-09-18T06:45:12.607910+12:00",
+            "set_code": "EVR",
+            "set_name": "Everfest",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:49.279811+12:00",
+          "updated_at": "2025-09-18T06:51:49.279820+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "EVR120-RF",
+          "set_number": 120,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "majestic",
+          "card": "24ed952a-0bdc-4c55-8e2f-ab8bb0f1d04c"
+        },
+        {
+          "id": "89dc6820-2b98-4cc9-8915-25df25142361",
+          "faces": [
+            {
+              "id": "8339b1c4-bc65-4a39-8c80-f8662468cb74",
+              "created_at": "2025-09-18T06:51:49.292632+12:00",
+              "updated_at": "2025-09-18T06:51:49.292641+12:00",
+              "face_id": "UPR103",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "elemental",
+              "frame_style": "ice",
+              "printed_rarity_symbol": "token-dot",
+              "printed_code": "UPR103",
+              "printed_artist": "Alexander Mokhov",
+              "printed_name": "Iyslander",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "4",
+              "printed_life": "18",
+              "printed_rules_text": "**Essence of Ice** _(You may have Ice cards in your deck.)_\nIf it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.\nWhenever you play an Ice card during an opponent's turn, create a Frostbite token under their control.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elemental Wizard Hero - Young",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "599cf952-e33f-40a2-89f2-d6d1c28eb821",
+              "card_print": "89dc6820-2b98-4cc9-8915-25df25142361",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Iyslander</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elemental Wizard Hero - Young</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Essence of Ice</strong> <em>(You may have Ice cards in your deck.)</em></p>\n<p>If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.</p>\n<p>Whenever you play an Ice card during an opponent's turn, create a Frostbite token under their control.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UPR103.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UPR103.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UPR103.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c43ba41c-3bfe-479d-a766-7c7085659120",
+            "product_group": {
+              "id": "e1f37825-5cb8-474a-92a7-77e4ab61f17a",
+              "created_at": "2025-09-18T06:45:16.505802+12:00",
+              "updated_at": "2025-09-18T06:45:16.505814+12:00",
+              "group_name": "Uprising",
+              "product_type": "booster",
+              "release_date": "2022-06-24",
+              "slug": "uprising"
+            },
+            "created_at": "2025-09-18T06:45:16.508296+12:00",
+            "updated_at": "2025-09-18T06:45:16.508308+12:00",
+            "printed_date": "2022-03-01",
+            "printed_language": "en",
+            "product_name": "Uprising",
+            "product_type": "booster",
+            "release_date": "2022-06-24",
+            "slug": "uprising",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "3a69f15b-58ec-44a1-8c50-97e6b7a5b404",
+            "created_at": "2025-09-18T06:45:12.610912+12:00",
+            "updated_at": "2025-09-18T06:45:12.610927+12:00",
+            "set_code": "UPR",
+            "set_name": "Uprising",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:49.289003+12:00",
+          "updated_at": "2025-09-18T06:51:49.289013+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "UPR103",
+          "set_number": 103,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "token",
+          "card": "24ed952a-0bdc-4c55-8e2f-ab8bb0f1d04c"
+        },
+        {
+          "id": "b1ee276a-71eb-4f29-8f0b-dfe2db7d806c",
+          "faces": [
+            {
+              "id": "2ad3e8c2-4f9c-437c-97c7-ccbdf162e135",
+              "created_at": "2025-09-18T06:51:49.302123+12:00",
+              "updated_at": "2025-09-18T06:51:49.302133+12:00",
+              "face_id": "UPR103-MV",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "elemental",
+              "frame_style": "ice",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "UPR103",
+              "printed_artist": "Alexander Mokhov",
+              "printed_name": "Iyslander",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "4",
+              "printed_life": "18",
+              "printed_rules_text": "**Essence of Ice** _(You may have Ice cards in your deck.)_\nIf it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.\nWhenever you play an Ice card during an opponent's turn, create a Frostbite token under their control.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elemental Wizard Hero - Young",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "599cf952-e33f-40a2-89f2-d6d1c28eb821",
+              "card_print": "b1ee276a-71eb-4f29-8f0b-dfe2db7d806c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Iyslander</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elemental Wizard Hero - Young</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Essence of Ice</strong> <em>(You may have Ice cards in your deck.)</em></p>\n<p>If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.</p>\n<p>Whenever you play an Ice card during an opponent's turn, create a Frostbite token under their control.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UPR103-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UPR103-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UPR103-MV.webp"
+              }
+            },
+            {
+              "id": "d0ab605a-d35a-46dd-801f-b6aa1bea2d03",
+              "created_at": "2025-09-18T06:51:49.307738+12:00",
+              "updated_at": "2025-09-18T06:51:49.307751+12:00",
+              "face_id": "UPR103-MV_BACK",
+              "face_language": "en",
+              "art_type": "full-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "",
+              "printed_code": "",
+              "printed_artist": "",
+              "printed_name": "Iyslander",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elemental Wizard Hero - Young",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 20,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": null,
+              "card_print": "b1ee276a-71eb-4f29-8f0b-dfe2db7d806c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Iyslander</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elemental Wizard Hero - Young</p>\n"
+              ],
+              "rules_text_html": [
+                ""
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UPR103-MV_BACK.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UPR103-MV_BACK.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UPR103-MV_BACK.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c43ba41c-3bfe-479d-a766-7c7085659120",
+            "product_group": {
+              "id": "e1f37825-5cb8-474a-92a7-77e4ab61f17a",
+              "created_at": "2025-09-18T06:45:16.505802+12:00",
+              "updated_at": "2025-09-18T06:45:16.505814+12:00",
+              "group_name": "Uprising",
+              "product_type": "booster",
+              "release_date": "2022-06-24",
+              "slug": "uprising"
+            },
+            "created_at": "2025-09-18T06:45:16.508296+12:00",
+            "updated_at": "2025-09-18T06:45:16.508308+12:00",
+            "printed_date": "2022-03-01",
+            "printed_language": "en",
+            "product_name": "Uprising",
+            "product_type": "booster",
+            "release_date": "2022-06-24",
+            "slug": "uprising",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "3a69f15b-58ec-44a1-8c50-97e6b7a5b404",
+            "created_at": "2025-09-18T06:45:12.610912+12:00",
+            "updated_at": "2025-09-18T06:45:12.610927+12:00",
+            "set_code": "UPR",
+            "set_name": "Uprising",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:49.298016+12:00",
+          "updated_at": "2025-09-18T06:51:49.298026+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "UPR103-MV",
+          "set_number": 103,
+          "layout": "double-sided",
+          "print_language": "en",
+          "rarity": "marvel",
+          "card": "24ed952a-0bdc-4c55-8e2f-ab8bb0f1d04c"
+        },
+        {
+          "id": "085976de-92d5-46a0-8815-6f41dd75c50a",
+          "faces": [
+            {
+              "id": "50a0dca2-550a-48c1-8422-328bd68508dc",
+              "created_at": "2025-09-18T06:51:49.320346+12:00",
+              "updated_at": "2025-09-18T06:51:49.320355+12:00",
+              "face_id": "HER052-CF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "elemental",
+              "frame_style": "ice",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "HER052",
+              "printed_artist": "Steve Argyle",
+              "printed_name": "Iyslander",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "4",
+              "printed_life": "18",
+              "printed_rules_text": "**Essence of Ice** _(You may have Ice cards in your deck.)_\nIf it's not your turn, you may play a 'non-attack' action cards with blue color strips from your arsenal as though they were an instant.\nWhenever you play an Ice card during an opponents turn, create a Frostbite token under their control.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elemental Wizard Hero - Young",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "599cf952-e33f-40a2-89f2-d6d1c28eb821",
+              "card_print": "085976de-92d5-46a0-8815-6f41dd75c50a",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Iyslander</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elemental Wizard Hero - Young</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Essence of Ice</strong> <em>(You may have Ice cards in your deck.)</em></p>\n<p>If it's not your turn, you may play a 'non-attack' action cards with blue color strips from your arsenal as though they were an instant.</p>\n<p>Whenever you play an Ice card during an opponents turn, create a Frostbite token under their control.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER052-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER052-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER052-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d6f4d481-fcf9-4abf-a810-959678a653bd",
+            "product_group": null,
+            "created_at": "2025-09-18T06:48:02.864964+12:00",
+            "updated_at": "2025-09-18T06:48:02.864984+12:00",
+            "printed_date": "2021-09-01",
+            "printed_language": "en",
+            "product_name": "Armory - Season 6",
+            "product_type": "booster",
+            "release_date": "2022-01-01",
+            "slug": "armory-season-6",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "12656087-b23a-48a0-b17f-997bc718c613",
+            "created_at": "2025-09-18T06:45:12.731759+12:00",
+            "updated_at": "2025-09-18T06:45:12.731768+12:00",
+            "set_code": "HER",
+            "set_name": "Hero Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:49.316404+12:00",
+          "updated_at": "2025-09-18T06:51:49.316413+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "HER052-CF",
+          "set_number": 52,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "24ed952a-0bdc-4c55-8e2f-ab8bb0f1d04c"
+        },
+        {
+          "id": "08b1141b-5e88-4871-a97e-4abf083de1a9",
+          "faces": [
+            {
+              "id": "b1aec82d-2b10-42ce-8229-57166521bc87",
+              "created_at": "2025-10-20T10:28:41.540818+13:00",
+              "updated_at": "2025-10-21T06:35:27.133292+13:00",
+              "face_id": "SIY001",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "elemental",
+              "frame_style": "ice",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SIY001",
+              "printed_artist": "Steve Argyle",
+              "printed_name": "Iyslander",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "4",
+              "printed_life": "18",
+              "printed_rules_text": "If it's not your turn, you may play blue non-attack action cards from your arsenal as though they were instants.{br}Whenever you play an Ice card during an opponent's turn, create a Frostbite token under their control.{br}**Essence of Ice** _(You may have Ice cards in your deck.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elemental Wizard Hero - Young",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "599cf952-e33f-40a2-89f2-d6d1c28eb821",
+              "card_print": "08b1141b-5e88-4871-a97e-4abf083de1a9",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Iyslander</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elemental Wizard Hero - Young</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>If it's not your turn, you may play blue non-attack action cards from your arsenal as though they were instants.</p>\n<p>Whenever you play an Ice card during an opponent's turn, create a Frostbite token under their control.</p>\n<p><strong>Essence of Ice</strong> <em>(You may have Ice cards in your deck.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SIY001.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SIY001.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SIY001.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "5fce1851-c548-4ab2-8103-4b0ad486838b",
+            "product_group": {
+              "id": "5eaeaf26-e0a5-48ea-b040-97a793e3a2b3",
+              "created_at": "2025-10-20T10:26:44.897929+13:00",
+              "updated_at": "2025-10-20T10:26:44.897936+13:00",
+              "group_name": "Silver Age Chapter 1 - Iyslander",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-1-iyslander"
+            },
+            "created_at": "2025-10-20T10:26:44.366556+13:00",
+            "updated_at": "2025-10-20T10:26:44.899911+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "en",
+            "product_name": "Silver Age Chapter 1 - Iyslander",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-1-iyslander",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "574ffee0-5250-4c90-8b1a-668f5306c5e0",
+            "created_at": "2025-10-20T10:26:44.284046+13:00",
+            "updated_at": "2025-10-20T10:53:11.247236+13:00",
+            "set_code": "SIY",
+            "set_name": "Silver Age Chapter 1 - Iyslander",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-10-20T10:28:41.536186+13:00",
+          "updated_at": "2025-10-20T11:46:35.918694+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SIY001",
+          "set_number": 1,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "24ed952a-0bdc-4c55-8e2f-ab8bb0f1d04c"
+        },
+        {
+          "id": "51c285c8-159d-43e3-bda7-fc8e11a7a511",
+          "faces": [
+            {
+              "id": "ec3263c7-bb15-47ec-b9e2-d3190c7e15b1",
+              "created_at": "2025-10-20T10:28:41.550566+13:00",
+              "updated_at": "2025-10-21T06:35:37.599123+13:00",
+              "face_id": "JA_SIY001",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "elemental",
+              "frame_style": "ice",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SIY001",
+              "printed_artist": "Steve Argyle",
+              "printed_name": "アイスランダー",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "4",
+              "printed_life": "18",
+              "printed_rules_text": "あなたのターンでない場合、あなたの格納庫の青の非攻撃・アクションカードを、インスタントであるかのようにプレイしてもよい。{br}あなたが対戦相手のターン中に氷・カードを１枚プレイするたび、その対戦相手のコントロール下で「凍傷」トークンを１つ作成する。{br}**氷の真髄**（あなたのデッキに氷・カードを入れてもよい）",
+              "printed_flavor_text": "",
+              "printed_typebox": "エレメンタル・魔術師・ヒーロー － 若者",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "599cf952-e33f-40a2-89f2-d6d1c28eb821",
+              "card_print": "51c285c8-159d-43e3-bda7-fc8e11a7a511",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>アイスランダー</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>エレメンタル・魔術師・ヒーロー － 若者</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>あなたのターンでない場合、あなたの格納庫の青の非攻撃・アクションカードを、インスタントであるかのようにプレイしてもよい。</p>\n<p>あなたが対戦相手のターン中に氷・カードを１枚プレイするたび、その対戦相手のコントロール下で「凍傷」トークンを１つ作成する。</p>\n<p><strong>氷の真髄</strong>（あなたのデッキに氷・カードを入れてもよい）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SIY001.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SIY001.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SIY001.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "56f54a44-1fb0-41e5-9017-2015cb73da4f",
+            "product_group": {
+              "id": "5eaeaf26-e0a5-48ea-b040-97a793e3a2b3",
+              "created_at": "2025-10-20T10:26:44.897929+13:00",
+              "updated_at": "2025-10-20T10:26:44.897936+13:00",
+              "group_name": "Silver Age Chapter 1 - Iyslander",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-1-iyslander"
+            },
+            "created_at": "2025-10-20T10:26:44.369624+13:00",
+            "updated_at": "2025-10-20T10:26:44.901322+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "ja",
+            "product_name": "Silver Age Chapter 1 - Iyslander [JA]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-1-iyslander-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "574ffee0-5250-4c90-8b1a-668f5306c5e0",
+            "created_at": "2025-10-20T10:26:44.284046+13:00",
+            "updated_at": "2025-10-20T10:53:11.247236+13:00",
+            "set_code": "SIY",
+            "set_name": "Silver Age Chapter 1 - Iyslander",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-10-20T10:28:41.549546+13:00",
+          "updated_at": "2025-10-20T11:46:28.248433+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SIY001",
+          "set_number": 1,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "24ed952a-0bdc-4c55-8e2f-ab8bb0f1d04c"
+        },
+        {
+          "id": "5d4f436b-d20f-4bb5-a60b-8228349aefb6",
+          "faces": [
+            {
+              "id": "9dcd37fc-5062-4b35-a180-9fd5c65642a0",
+              "created_at": "2025-10-20T10:28:41.558992+13:00",
+              "updated_at": "2025-10-21T06:35:50.350858+13:00",
+              "face_id": "FR_SIY001",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "elemental",
+              "frame_style": "ice",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SIY001",
+              "printed_artist": "Steve Argyle",
+              "printed_name": "Iyslander",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "4",
+              "printed_life": "18",
+              "printed_rules_text": "Si ce n’est pas votre tour, vous pouvez jouer les cartes action de non-attaque bleues de votre arsenal comme si elles étaient des instantanés.{br}À chaque fois que vous jouez une carte Glace pendant le tour d’un adversaire, créez un jeton Gelure sous son contrôle.{br}**Essence de glace** _(Vous pouvez avoir des cartes Glace dans votre deck.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Élémentaire Sorcier Héros - Jeune",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "599cf952-e33f-40a2-89f2-d6d1c28eb821",
+              "card_print": "5d4f436b-d20f-4bb5-a60b-8228349aefb6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Iyslander</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Élémentaire Sorcier Héros - Jeune</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Si ce n’est pas votre tour, vous pouvez jouer les cartes action de non-attaque bleues de votre arsenal comme si elles étaient des instantanés.</p>\n<p>À chaque fois que vous jouez une carte Glace pendant le tour d’un adversaire, créez un jeton Gelure sous son contrôle.</p>\n<p><strong>Essence de glace</strong> <em>(Vous pouvez avoir des cartes Glace dans votre deck.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SIY001.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SIY001.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SIY001.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "b29d718d-7ce8-43b4-8b5d-1b3c630cc6dc",
+            "product_group": {
+              "id": "5eaeaf26-e0a5-48ea-b040-97a793e3a2b3",
+              "created_at": "2025-10-20T10:26:44.897929+13:00",
+              "updated_at": "2025-10-20T10:26:44.897936+13:00",
+              "group_name": "Silver Age Chapter 1 - Iyslander",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-1-iyslander"
+            },
+            "created_at": "2025-10-20T10:26:44.372688+13:00",
+            "updated_at": "2025-10-20T10:26:44.900614+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "fr",
+            "product_name": "Silver Age Chapter 1 - Iyslander [FR]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-1-iyslander-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "574ffee0-5250-4c90-8b1a-668f5306c5e0",
+            "created_at": "2025-10-20T10:26:44.284046+13:00",
+            "updated_at": "2025-10-20T10:53:11.247236+13:00",
+            "set_code": "SIY",
+            "set_name": "Silver Age Chapter 1 - Iyslander",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-10-20T10:28:41.557937+13:00",
+          "updated_at": "2025-10-20T11:46:20.509930+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SIY001",
+          "set_number": 1,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "24ed952a-0bdc-4c55-8e2f-ab8bb0f1d04c"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Living Legend": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:51:49.253570+12:00",
+      "updated_at": "2025-09-18T06:51:49.254458+12:00",
+      "card_id": "iyslander",
+      "card_type": "regular",
+      "object_type": "hero-card"
+    }
+  ]
+}

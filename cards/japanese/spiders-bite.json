@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "id": "spiders-bite",
+  "language": "ja",
+  "name": "蜘蛛の鋏角",
+  "cores": [
+    {
+      "position": 10,
+      "name": "蜘蛛の鋏角",
+      "typeLine": "暗殺者・武器 － 短剣（片手）",
+      "classes": [
+        "暗殺者"
+      ],
+      "types": [
+        "武器"
+      ],
+      "subtypes": [
+        "（片手）",
+        "短剣"
+      ],
+      "text": {
+        "markup": "**ターン１アクション** -- {r}{r}：**攻撃**。**続行**{br}これがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１{d}を得る。{br}**貫通１**（これが装備品に防御されている場合、これは＋１{p}を得る）",
+        "plain": "ターン１アクション -- {r}{r}：攻撃。続行\nこれがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１{d}を得る。\n貫通１（これが装備品に防御されている場合、これは＋１{p}を得る）",
+        "html": "<p><strong>ターン１アクション</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：<strong>攻撃</strong>。<strong>続行</strong></p>\n<p>これがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>を得る。</p>\n<p><strong>貫通１</strong>（これが装備品に防御されている場合、これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_MAP006",
+      "code": "MAP006",
+      "language": "ja",
+      "set": "MAP",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "archive-pack-part-the-mistveil-ja",
+      "releaseDate": "2024-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_MAP006",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "蜘蛛の鋏角",
+          "typeLine": "暗殺者・武器 － 短剣（片手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**ターン１アクション**--{r}{r}：**攻撃**。**続行** **貫通１**（これが装備品に防御された場合、これは+１{p}を得る） これがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１{d}を得る。",
+            "plain": "ターン１アクション--{r}{r}：攻撃。続行 貫通１（これが装備品に防御された場合、これは+１{p}を得る） これがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１{d}を得る。",
+            "html": "<p><strong>ターン１アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：<strong>攻撃</strong>。<strong>続行</strong> <strong>貫通１</strong>（これが装備品に防御された場合、これは+１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る） これがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>を得る。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MAP006",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_MAP006.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_MAP006.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_MAP006.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "JA_AAC003",
+      "code": "AAC003",
+      "language": "ja",
+      "set": "AAC",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-arakni-5lp3d-7hru-7h3-cr4x-ja",
+      "releaseDate": "2025-12-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AAC003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "蜘蛛の鋏角",
+          "typeLine": "暗殺者・武器 － 短剣（片手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**ターン１アクション**--{r}{r}：**攻撃**。**続行** これがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１{d}を得る。 **貫通１**（これが装備品に防御されている場合、これは＋１{p}を得る）",
+            "plain": "ターン１アクション--{r}{r}：攻撃。続行 これがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１{d}を得る。 貫通１（これが装備品に防御されている場合、これは＋１{p}を得る）",
+            "html": "<p><strong>ターン１アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：<strong>攻撃</strong>。<strong>続行</strong> これがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>を得る。 <strong>貫通１</strong>（これが装備品に防御されている場合、これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAC003",
+          "printedLanguageCode": "jp",
+          "printedYear": "2025",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AAC003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AAC003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AAC003.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "JA_MPA005",
+      "code": "MPA005",
+      "language": "ja",
+      "set": "MPA",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-assassin-ja",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_MPA005",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "蜘蛛の鋏角",
+          "typeLine": "暗殺者・武器 － 短剣（片手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**ターン１アクション** -- {r}{r}：**攻撃**。**続行**{br}これがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１{d}を得る。{br}**貫通１**（これが装備品に防御されている場合、これは＋１{p}を得る）",
+            "plain": "ターン１アクション -- {r}{r}：攻撃。続行\nこれがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１{d}を得る。\n貫通１（これが装備品に防御されている場合、これは＋１{p}を得る）",
+            "html": "<p><strong>ターン１アクション</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：<strong>攻撃</strong>。<strong>続行</strong></p>\n<p>これがヒーローにヒットしたとき、このターン、そのヒーローが次に１枚以上の攻撃・アクションカードで防御したとき、それらは防御中－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>を得る。</p>\n<p><strong>貫通１</strong>（これが装備品に防御されている場合、これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MPA005",
+          "printedLanguageCode": "jp",
+          "printedYear": "2026",
+          "artist": "Marcus Reyno",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_MPA005.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_MPA005.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_MPA005.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

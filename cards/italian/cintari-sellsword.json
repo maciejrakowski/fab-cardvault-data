@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "cintari-sellsword",
+  "language": "it",
+  "name": "Mercante di Spade Cintari",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Mercante di Spade Cintari",
+      "typeLine": "Pedina Guerriero - Alleato Mercenario",
+      "classes": [
+        "Guerriero"
+      ],
+      "types": [
+        "Pedina"
+      ],
+      "subtypes": [
+        "Alleato",
+        "Mercenario"
+      ],
+      "text": {
+        "markup": "**Azione, una volta per turno** -- {r}: **Attacca**. **Continua**{br}Il Mercante di Spade Cintari può attaccare solo se hai attaccato con un'arma in questo turno.",
+        "plain": "Azione, una volta per turno -- {r}: Attacca. Continua\nIl Mercante di Spade Cintari può attaccare solo se hai attaccato con un'arma in questo turno.",
+        "html": "<p><strong>Azione, una volta per turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attacca</strong>. <strong>Continua</strong></p>\n<p>Il Mercante di Spade Cintari può attaccare solo se hai attaccato con un'arma in questo turno.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_HVY134",
+      "code": "HVY134",
+      "language": "it",
+      "set": "HVY",
+      "setNumber": 134,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters-it",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_HVY134",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Mercante di Spade Cintari",
+          "typeLine": "Pedina Guerriero - Alleato Mercenario",
+          "traitLine": null,
+          "text": {
+            "markup": "**Azione, una volta per turno** -- {r}: **Attacca**. **Continua**{br}Il Mercante di Spade Cintari può attaccare solo se hai attaccato con un'arma in questo turno.",
+            "plain": "Azione, una volta per turno -- {r}: Attacca. Continua\nIl Mercante di Spade Cintari può attaccare solo se hai attaccato con un'arma in questo turno.",
+            "html": "<p><strong>Azione, una volta per turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attacca</strong>. <strong>Continua</strong></p>\n<p>Il Mercante di Spade Cintari può attaccare solo se hai attaccato con un'arma in questo turno.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": "2",
+            "intellect": null
+          },
+          "printedCode": "HVY134",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Sebastian Szmyd",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_HVY134.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_HVY134.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_HVY134.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

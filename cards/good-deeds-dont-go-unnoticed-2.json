@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "good-deeds-dont-go-unnoticed-2",
+  "name": "Good Deeds Don't Go Unnoticed",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Good Deeds Don't Go Unnoticed",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 0,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Action - Aura",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": {
+        "markup": "At the start of each other hero's turn, choose 1; they draw a card, they gain {r}, they gain 1{h}, or their next attack this turn gets +1{p}.{br}At the start of your turn, destroy this. If another hero drew a card from this, you draw a card, then repeat for {r}, {h}, and {p}.",
+        "plain": "At the start of each other hero's turn, choose 1; they draw a card, they gain {r}, they gain 1{h}, or their next attack this turn gets +1{p}.\nAt the start of your turn, destroy this. If another hero drew a card from this, you draw a card, then repeat for {r}, {h}, and {p}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LSS006-RF",
+      "code": "LSS006",
+      "language": "en",
+      "set": "LSS",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "marketing-team-covenant-outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LSS006-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Good Deeds Don't Go Unnoticed",
+          "typeLine": "Generic Action - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of each other hero's turn, choose 1; they draw a card, they gain {r}, they gain 1{h}, or their next attack this turn gains +1{p}.\nAt the start of your turn, destroy this. If another hero drew a card from this, you draw a card, then repeat for {r}, {h}, and {p}.",
+            "plain": "At the start of each other hero's turn, choose 1; they draw a card, they gain {r}, they gain 1{h}, or their next attack this turn gains +1{p}.\nAt the start of your turn, destroy this. If another hero drew a card from this, you draw a card, then repeat for {r}, {h}, and {p}.",
+            "html": "<p>At the start of each other hero's turn, choose 1; they draw a card, they gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, they gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>, or their next attack this turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>At the start of your turn, destroy this. If another hero drew a card from this, you draw a card, then repeat for <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>, and <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LSS006",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Andy Aslamov",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LSS006-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LSS006-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS006-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:08:17Z",
+    "rawSha256": "e463d54ca90308e18ce0ea843e8d15de2944cedc773c622443dc0d30c61d07be",
+    "updatedAt": "2025-09-18T06:50:38.438474+12:00"
+  }
+}

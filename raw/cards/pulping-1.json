@@ -1,0 +1,2226 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "14dc30ff-210f-4e22-8d73-548d1636ee48",
+      "cores": [
+        {
+          "id": "24d69029-ee18-474a-92d3-99f9f356f72e",
+          "core_classes": [
+            {
+              "id": 4,
+              "name": "Brute",
+              "name_en": "Brute",
+              "name_fr": "Brute",
+              "name_de": "Rohling",
+              "name_it": "Bruto",
+              "name_es": "Bruto",
+              "name_ja": "野人",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:54:06.918614+12:00",
+          "updated_at": "2025-09-18T06:54:06.925076+12:00",
+          "name": "Pulping",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "2",
+          "power": "6",
+          "defense": "",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **dominate**.{br}If this is defended by fewer than 2 non-equipment cards, it gets **go again**.",
+          "typebox": "Brute Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 2,
+          "power_value": 6,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "2e5334ec-e338-4292-a967-f09f792e62c6",
+          "faces": [
+            {
+              "id": "4bbacc5e-d8aa-40fc-beba-5c464e5b1066",
+              "created_at": "2025-09-18T06:54:06.937215+12:00",
+              "updated_at": "2025-09-18T06:54:06.937230+12:00",
+              "face_id": "MON223",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MON223",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Pulping",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "2e5334ec-e338-4292-a967-f09f792e62c6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulping</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>. <em>(The defending hero can't defend Pulping with more than 1 card from their hand.)</em></p>\n<p>While Pulping is defended by less than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON223.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON223.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON223.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d67b98c4-28a5-4ba9-930e-e0184b1200e9",
+            "product_group": {
+              "id": "2afe1735-8517-4b79-8fde-ce2976518ca9",
+              "created_at": "2025-09-18T06:45:15.675414+12:00",
+              "updated_at": "2025-09-18T06:45:15.675427+12:00",
+              "group_name": "Monarch",
+              "product_type": "booster",
+              "release_date": "2021-05-07",
+              "slug": "monarch"
+            },
+            "created_at": "2025-09-18T06:45:15.677749+12:00",
+            "updated_at": "2025-09-18T06:45:15.677762+12:00",
+            "printed_date": "2021-01-01",
+            "printed_language": "en",
+            "product_name": "Monarch",
+            "product_type": "booster",
+            "release_date": "2021-05-07",
+            "slug": "monarch",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:06.931844+12:00",
+          "updated_at": "2025-09-18T06:54:06.931855+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MON223",
+          "set_number": 223,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "572ac2f4-8475-4601-95cd-a2f6fc570a6d",
+          "faces": [
+            {
+              "id": "4a730729-60a4-4e5f-8502-7e11bdd22a1d",
+              "created_at": "2025-09-18T06:54:06.954270+12:00",
+              "updated_at": "2025-09-18T06:54:06.954282+12:00",
+              "face_id": "MON223-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MON223",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Pulping",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "572ac2f4-8475-4601-95cd-a2f6fc570a6d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulping</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>. <em>(The defending hero can't defend Pulping with more than 1 card from their hand.)</em></p>\n<p>While Pulping is defended by less than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON223-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON223-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON223-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d67b98c4-28a5-4ba9-930e-e0184b1200e9",
+            "product_group": {
+              "id": "2afe1735-8517-4b79-8fde-ce2976518ca9",
+              "created_at": "2025-09-18T06:45:15.675414+12:00",
+              "updated_at": "2025-09-18T06:45:15.675427+12:00",
+              "group_name": "Monarch",
+              "product_type": "booster",
+              "release_date": "2021-05-07",
+              "slug": "monarch"
+            },
+            "created_at": "2025-09-18T06:45:15.677749+12:00",
+            "updated_at": "2025-09-18T06:45:15.677762+12:00",
+            "printed_date": "2021-01-01",
+            "printed_language": "en",
+            "product_name": "Monarch",
+            "product_type": "booster",
+            "release_date": "2021-05-07",
+            "slug": "monarch",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:06.948299+12:00",
+          "updated_at": "2025-09-18T06:54:06.948313+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MON223-RF",
+          "set_number": 223,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "68d55e3f-5b1f-497b-923b-7a88a668b30d",
+          "faces": [
+            {
+              "id": "6b104cbb-cec4-42d0-9e26-4cdc158c8898",
+              "created_at": "2025-09-18T06:54:06.974724+12:00",
+              "updated_at": "2025-09-18T06:54:06.974746+12:00",
+              "face_id": "U-MON223",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "MON223",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Pulping",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "68d55e3f-5b1f-497b-923b-7a88a668b30d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulping</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>. <em>(The defending hero can't defend Pulping with more than 1 card from their hand.)</em></p>\n<p>While Pulping is defended by less than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON223.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON223.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON223.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "9b2c55bd-b52e-4659-b7ce-1c065252bdc9",
+            "product_group": {
+              "id": "5540da88-0759-4e64-b420-24a33aa99a8c",
+              "created_at": "2025-09-18T06:45:15.705292+12:00",
+              "updated_at": "2025-09-18T06:45:15.705309+12:00",
+              "group_name": "Monarch - Unlimited",
+              "product_type": "booster",
+              "release_date": "2021-06-04",
+              "slug": "monarch-unlimited"
+            },
+            "created_at": "2025-09-18T06:45:15.707410+12:00",
+            "updated_at": "2025-09-18T06:45:15.707423+12:00",
+            "printed_date": "2021-04-01",
+            "printed_language": "en",
+            "product_name": "Monarch - Unlimited",
+            "product_type": "booster",
+            "release_date": "2021-06-04",
+            "slug": "monarch-unlimited",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:06.966239+12:00",
+          "updated_at": "2025-09-18T06:54:06.966257+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "U-MON223",
+          "set_number": 223,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "f4745e66-d031-4b78-946c-81321a356b60",
+          "faces": [
+            {
+              "id": "0090439f-076c-4515-8e70-9435e3110091",
+              "created_at": "2025-09-18T06:54:06.990343+12:00",
+              "updated_at": "2025-09-18T06:54:06.990357+12:00",
+              "face_id": "U-MON223-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "MON223",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Pulping",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "f4745e66-d031-4b78-946c-81321a356b60",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulping</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>. <em>(The defending hero can't defend Pulping with more than 1 card from their hand.)</em></p>\n<p>While Pulping is defended by less than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON223-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON223-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON223-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "9b2c55bd-b52e-4659-b7ce-1c065252bdc9",
+            "product_group": {
+              "id": "5540da88-0759-4e64-b420-24a33aa99a8c",
+              "created_at": "2025-09-18T06:45:15.705292+12:00",
+              "updated_at": "2025-09-18T06:45:15.705309+12:00",
+              "group_name": "Monarch - Unlimited",
+              "product_type": "booster",
+              "release_date": "2021-06-04",
+              "slug": "monarch-unlimited"
+            },
+            "created_at": "2025-09-18T06:45:15.707410+12:00",
+            "updated_at": "2025-09-18T06:45:15.707423+12:00",
+            "printed_date": "2021-04-01",
+            "printed_language": "en",
+            "product_name": "Monarch - Unlimited",
+            "product_type": "booster",
+            "release_date": "2021-06-04",
+            "slug": "monarch-unlimited",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:06.984806+12:00",
+          "updated_at": "2025-09-18T06:54:06.984821+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "U-MON223-RF",
+          "set_number": 223,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "d8cfdb23-168d-40d2-ab73-503f1b9508db",
+          "faces": [
+            {
+              "id": "e7149f17-577f-4dda-86d5-5029638d883e",
+              "created_at": "2025-09-18T06:54:07.004689+12:00",
+              "updated_at": "2025-09-18T06:54:07.004704+12:00",
+              "face_id": "LGS051-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS051",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Pulping",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**.\nWhile Pulping is defended by less than 2 non-equipment cards, it has **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "d8cfdb23-168d-40d2-ab73-503f1b9508db",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulping</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>.</p>\n<p>While Pulping is defended by less than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS051-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS051-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS051-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1b281c84-84e4-454c-bff5-5ccb3cbb23f6",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:31.634429+12:00",
+            "updated_at": "2025-09-18T06:46:31.634443+12:00",
+            "printed_date": "2021-01-01",
+            "printed_language": "en",
+            "product_name": "Armory - Season 4",
+            "product_type": "booster",
+            "release_date": "2021-05-01",
+            "slug": "armory-season-4",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:06.998576+12:00",
+          "updated_at": "2025-09-18T06:54:06.998597+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS051-RF",
+          "set_number": 51,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "b63b0412-6bc1-431b-b544-33e1c2ebdd65",
+          "faces": [
+            {
+              "id": "43bc2432-977e-4e99-ab9e-c7516adcd003",
+              "created_at": "2025-09-18T06:54:07.019133+12:00",
+              "updated_at": "2025-09-18T06:54:07.019154+12:00",
+              "face_id": "1HR009",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "1HR009",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Pulping",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When you attack with this, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**. _(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)_\nIf Pulping is defended by fewer than 2 non-equipment cards, it has **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "b63b0412-6bc1-431b-b544-33e1c2ebdd65",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulping</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When you attack with this, draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>. <em>(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)</em></p>\n<p>If Pulping is defended by fewer than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HR009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HR009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HR009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "0081f48c-130a-406a-a024-8495de113183",
+            "product_group": {
+              "id": "13f9c3a6-2835-4cb3-9559-5bdca4b4daeb",
+              "created_at": "2025-09-18T06:46:05.316733+12:00",
+              "updated_at": "2025-09-18T06:46:05.316743+12:00",
+              "group_name": "Rhinar - Blitz Deck",
+              "product_type": "precon",
+              "release_date": "2023-04-07",
+              "slug": "rhinar-blitz-deck"
+            },
+            "created_at": "2025-09-18T06:46:05.318508+12:00",
+            "updated_at": "2025-09-18T06:46:05.318518+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "en",
+            "product_name": "Rhinar - Blitz Deck",
+            "product_type": "booster",
+            "release_date": "2023-04-07",
+            "slug": "rhinar-blitz-deck",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "6352e6b6-c821-4ae1-9d02-f5e2c727222b",
+            "created_at": "2025-09-18T06:45:12.805310+12:00",
+            "updated_at": "2025-09-18T06:45:12.805319+12:00",
+            "set_code": "1HR",
+            "set_name": "Rhinar - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "196c1de9-df21-44f4-b802-35ad7b7bae37"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.013407+12:00",
+          "updated_at": "2025-09-18T06:54:07.013421+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "1HR009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "05cb1a9c-2e4d-49ef-8312-1b680035f09c",
+          "faces": [
+            {
+              "id": "9f6b7f7f-e31e-4147-b44f-9e742f068f28",
+              "created_at": "2025-09-18T06:54:07.036760+12:00",
+              "updated_at": "2025-09-18T06:54:07.036782+12:00",
+              "face_id": "DE_1HR009",
+              "face_language": "de",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "1HR009",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Zu Brei verarbeiten",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Wenn du mit dieser Aktion angreifst, ziehe eine Karte und wirf dann eine zufällige Karte ab. Falls auf diese Weise eine Karte mit 6{p} oder mehr abgeworfen wurde, erhält Zu Brei verarbeiten **Dominieren**. _(Der verteidigende Held kann in diesem Kettensegment aus seiner Hand max. 1 Verteidigungskarte oder Verteidigungsreaktion spielen bzw. damit verteidigen.)_\nWährend gegen Zu Brei verarbeiten mit weniger als 2 Nicht-Ausrüstung-Karten verteidigt wird, hat es **Weitermachen**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Rohling Aktion - Angriff",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "05cb1a9c-2e4d-49ef-8312-1b680035f09c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Zu Brei verarbeiten</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Rohling Aktion - Angriff</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Wenn du mit dieser Aktion angreifst, ziehe eine Karte und wirf dann eine zufällige Karte ab. Falls auf diese Weise eine Karte mit 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> oder mehr abgeworfen wurde, erhält Zu Brei verarbeiten <strong>Dominieren</strong>. <em>(Der verteidigende Held kann in diesem Kettensegment aus seiner Hand max. 1 Verteidigungskarte oder Verteidigungsreaktion spielen bzw. damit verteidigen.)</em></p>\n<p>Während gegen Zu Brei verarbeiten mit weniger als 2 Nicht-Ausrüstung-Karten verteidigt wird, hat es <strong>Weitermachen</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_1HR009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_1HR009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_1HR009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "60391c03-c413-4a75-a25f-7722059e849d",
+            "product_group": {
+              "id": "13f9c3a6-2835-4cb3-9559-5bdca4b4daeb",
+              "created_at": "2025-09-18T06:46:05.316733+12:00",
+              "updated_at": "2025-09-18T06:46:05.316743+12:00",
+              "group_name": "Rhinar - Blitz Deck",
+              "product_type": "precon",
+              "release_date": "2023-04-07",
+              "slug": "rhinar-blitz-deck"
+            },
+            "created_at": "2025-09-18T06:46:05.334264+12:00",
+            "updated_at": "2025-09-18T06:46:05.334276+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "de",
+            "product_name": "Rhinar - Blitz Deck [DE]",
+            "product_type": "booster",
+            "release_date": "2023-04-07",
+            "slug": "rhinar-blitz-deck-de",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "6352e6b6-c821-4ae1-9d02-f5e2c727222b",
+            "created_at": "2025-09-18T06:45:12.805310+12:00",
+            "updated_at": "2025-09-18T06:45:12.805319+12:00",
+            "set_code": "1HR",
+            "set_name": "Rhinar - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "196c1de9-df21-44f4-b802-35ad7b7bae37"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.029940+12:00",
+          "updated_at": "2025-09-18T06:54:07.029962+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "DE_1HR009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "de",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "dac329e3-27fd-4b8c-a93d-ce1aa9f17552",
+          "faces": [
+            {
+              "id": "cf6174f3-8df2-4e80-9dd8-437897adb6cc",
+              "created_at": "2025-09-18T06:54:07.053950+12:00",
+              "updated_at": "2025-09-18T06:54:07.053963+12:00",
+              "face_id": "FR_1HR009",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "1HR009",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Réduire en bouillie",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand vous attaquez avec Réduire en bouillie, piochez une carte puis défaussez-vous d’une carte au hasard. Si une carte avec au moins 6{p} est défaussée de cette manière, Réduire en bouillie gagne **dominer**. _(Le héros défenseur ne peut pas se défendre avec ou jouer plus d’une carte de défense ou une réaction de défense de sa main pour ce maillon de chaîne.)_\nQuand Réduire en bouillie est défendu par moins de 2 cartes de non-équipement, il a **encore une fois**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attaque",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "dac329e3-27fd-4b8c-a93d-ce1aa9f17552",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Réduire en bouillie</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand vous attaquez avec Réduire en bouillie, piochez une carte puis défaussez-vous d’une carte au hasard. Si une carte avec au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> est défaussée de cette manière, Réduire en bouillie gagne <strong>dominer</strong>. <em>(Le héros défenseur ne peut pas se défendre avec ou jouer plus d’une carte de défense ou une réaction de défense de sa main pour ce maillon de chaîne.)</em></p>\n<p>Quand Réduire en bouillie est défendu par moins de 2 cartes de non-équipement, il a <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_1HR009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_1HR009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_1HR009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "921e2b1b-85ea-410a-a806-9c4a83928e70",
+            "product_group": {
+              "id": "13f9c3a6-2835-4cb3-9559-5bdca4b4daeb",
+              "created_at": "2025-09-18T06:46:05.316733+12:00",
+              "updated_at": "2025-09-18T06:46:05.316743+12:00",
+              "group_name": "Rhinar - Blitz Deck",
+              "product_type": "precon",
+              "release_date": "2023-04-07",
+              "slug": "rhinar-blitz-deck"
+            },
+            "created_at": "2025-09-18T06:46:05.348962+12:00",
+            "updated_at": "2025-09-18T06:46:05.348977+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "fr",
+            "product_name": "Rhinar - Blitz Deck [FR]",
+            "product_type": "booster",
+            "release_date": "2023-04-07",
+            "slug": "rhinar-blitz-deck-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "6352e6b6-c821-4ae1-9d02-f5e2c727222b",
+            "created_at": "2025-09-18T06:45:12.805310+12:00",
+            "updated_at": "2025-09-18T06:45:12.805319+12:00",
+            "set_code": "1HR",
+            "set_name": "Rhinar - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "196c1de9-df21-44f4-b802-35ad7b7bae37"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.046797+12:00",
+          "updated_at": "2025-09-18T06:54:07.046809+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_1HR009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "bdb13e8f-c3b2-4e9e-add7-0c84e534e992",
+          "faces": [
+            {
+              "id": "87dd0d53-4f10-474c-b498-b82a7c326adf",
+              "created_at": "2025-09-18T06:54:07.072636+12:00",
+              "updated_at": "2025-09-18T06:54:07.072653+12:00",
+              "face_id": "IT_1HR009",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "1HR009",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Spappolare",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quando attacchi con questa carta, pesca una carta e poi scarta una carta a caso. Se una carta con {p} pari o superiore a 6 viene scartata in questo modo, Spappolare guadagna **Dominare**. _(L'eroe in difesa non può difendersi con o giocare più di 1 carta difensiva o reazione di difesa dalla sua mano in questo anello della catena.)_\nSe Spappolare viene difesa da meno di 2 carte non equipaggiamento, guadagna **Continua**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Azione Bruto - Attacco",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "bdb13e8f-c3b2-4e9e-add7-0c84e534e992",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Spappolare</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Azione Bruto - Attacco</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quando attacchi con questa carta, pesca una carta e poi scarta una carta a caso. Se una carta con <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> pari o superiore a 6 viene scartata in questo modo, Spappolare guadagna <strong>Dominare</strong>. <em>(L'eroe in difesa non può difendersi con o giocare più di 1 carta difensiva o reazione di difesa dalla sua mano in questo anello della catena.)</em></p>\n<p>Se Spappolare viene difesa da meno di 2 carte non equipaggiamento, guadagna <strong>Continua</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_1HR009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_1HR009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_1HR009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "12bdbbee-5646-4a87-932a-69f4711432e1",
+            "product_group": {
+              "id": "13f9c3a6-2835-4cb3-9559-5bdca4b4daeb",
+              "created_at": "2025-09-18T06:46:05.316733+12:00",
+              "updated_at": "2025-09-18T06:46:05.316743+12:00",
+              "group_name": "Rhinar - Blitz Deck",
+              "product_type": "precon",
+              "release_date": "2023-04-07",
+              "slug": "rhinar-blitz-deck"
+            },
+            "created_at": "2025-09-18T06:46:05.378468+12:00",
+            "updated_at": "2025-09-18T06:46:05.378485+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "it",
+            "product_name": "Rhinar - Blitz Deck [IT]",
+            "product_type": "booster",
+            "release_date": "2023-04-07",
+            "slug": "rhinar-blitz-deck-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "6352e6b6-c821-4ae1-9d02-f5e2c727222b",
+            "created_at": "2025-09-18T06:45:12.805310+12:00",
+            "updated_at": "2025-09-18T06:45:12.805319+12:00",
+            "set_code": "1HR",
+            "set_name": "Rhinar - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "196c1de9-df21-44f4-b802-35ad7b7bae37"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.065370+12:00",
+          "updated_at": "2025-09-18T06:54:07.065387+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_1HR009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "67f5082d-d7fd-458d-9c16-21313e1e4943",
+          "faces": [
+            {
+              "id": "b5a9d5b7-c51c-4150-a999-01e8c037887c",
+              "created_at": "2025-09-18T06:54:07.086653+12:00",
+              "updated_at": "2025-09-18T06:54:07.086667+12:00",
+              "face_id": "DE_2HP298",
+              "face_language": "de",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "2HP298",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Zu Brei verarbeiten",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Wenn du mit Zu Brei verarbeiten angreifst, ziehe eine Karte und wirf dann eine zufällige Karte ab. Falls auf diese Weise eine Karte mit 6{p} oder mehr verbannt wird, erhält Zu Brei verarbeiten **Dominieren**. _(Der verteidigende Held kann in diesem Kettensegment max. 1 Verteidigungskarte oder Verteidigungsreaktion aus seiner Hand spielen bzw. damit verteidigen.)_{br}Während gegen Zu Brei verarbeiten mit weniger als 2 Nicht Ausrüstungskarten verteidigt wird, hat es **Weitermachen**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Rohling Aktion - Angriff",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "67f5082d-d7fd-458d-9c16-21313e1e4943",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Zu Brei verarbeiten</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Rohling Aktion - Angriff</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Wenn du mit Zu Brei verarbeiten angreifst, ziehe eine Karte und wirf dann eine zufällige Karte ab. Falls auf diese Weise eine Karte mit 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> oder mehr verbannt wird, erhält Zu Brei verarbeiten <strong>Dominieren</strong>. <em>(Der verteidigende Held kann in diesem Kettensegment max. 1 Verteidigungskarte oder Verteidigungsreaktion aus seiner Hand spielen bzw. damit verteidigen.)</em></p>\n<p>Während gegen Zu Brei verarbeiten mit weniger als 2 Nicht Ausrüstungskarten verteidigt wird, hat es <strong>Weitermachen</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_2HP298.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_2HP298.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_2HP298.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "462766fd-d70a-45d5-b7ac-35604650806e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.865684+12:00",
+            "updated_at": "2025-09-18T06:45:18.865697+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "de",
+            "product_name": "History Pack 2 - Black Label [DE]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-de",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.081664+12:00",
+          "updated_at": "2025-09-18T06:54:07.081677+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "DE_2HP298",
+          "set_number": 298,
+          "layout": "regular",
+          "print_language": "de",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "6c217286-33e9-4a1a-834e-a5332d33c700",
+          "faces": [
+            {
+              "id": "6bd5b25d-7245-4a00-a510-6740e19c7add",
+              "created_at": "2025-09-18T06:54:07.099970+12:00",
+              "updated_at": "2025-09-18T06:54:07.099982+12:00",
+              "face_id": "FR_2HP298",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "2HP298",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Réduire en bouillie",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand vous attaquez avec Réduire en bouillie, piochez une carte puis défaussez-vous d’une carte au hasard. Si une carte avec au moins 6{p} est défaussée de cette manière, Réduire en bouillie gagne **dominer**. _(Le héros défenseur ne peut pas se défendre avec ou jouer plus d’une carte de défense ou une réaction de défense de sa main pour ce maillon de chaîne.)_{br}Quand Réduire en bouillie est défendu par moins de 2 cartes de non-équipement, il a **encore une fois**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attaque",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "6c217286-33e9-4a1a-834e-a5332d33c700",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Réduire en bouillie</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand vous attaquez avec Réduire en bouillie, piochez une carte puis défaussez-vous d’une carte au hasard. Si une carte avec au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> est défaussée de cette manière, Réduire en bouillie gagne <strong>dominer</strong>. <em>(Le héros défenseur ne peut pas se défendre avec ou jouer plus d’une carte de défense ou une réaction de défense de sa main pour ce maillon de chaîne.)</em></p>\n<p>Quand Réduire en bouillie est défendu par moins de 2 cartes de non-équipement, il a <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_2HP298.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_2HP298.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_2HP298.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1106e491-00fd-48b7-9490-efec9eea1d82",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.885032+12:00",
+            "updated_at": "2025-09-18T06:45:18.885049+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "fr",
+            "product_name": "History Pack 2 - Black Label [FR]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.094016+12:00",
+          "updated_at": "2025-09-18T06:54:07.094038+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_2HP298",
+          "set_number": 298,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "a96b16e6-57e4-446c-9599-660b7ff5fb54",
+          "faces": [
+            {
+              "id": "221f6017-5c3f-4541-bbcb-618db2d0c2d3",
+              "created_at": "2025-09-18T06:54:07.114739+12:00",
+              "updated_at": "2025-09-18T06:54:07.114756+12:00",
+              "face_id": "ES_2HP298",
+              "face_language": "es",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "2HP298",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Reventar",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Cuando atacas con Reventar, roba una carta y, a continuación, descarta una carta al azar. Si se descarta una carta con 6 o más {p} de este modo, Reventar gana **dominar**. _(El héroe que defiende no puede defender o jugar con más de 1 carta de defensa o reacción de defensa de su mano este eslabón)._{br}Si para defender de Reventar se usan menos de 2 cartas que no son de equipo, tiene **continuar**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Acción de bruto - Ataque",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "a96b16e6-57e4-446c-9599-660b7ff5fb54",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Reventar</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Acción de bruto - Ataque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Cuando atacas con Reventar, roba una carta y, a continuación, descarta una carta al azar. Si se descarta una carta con 6 o más <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de este modo, Reventar gana <strong>dominar</strong>. <em>(El héroe que defiende no puede defender o jugar con más de 1 carta de defensa o reacción de defensa de su mano este eslabón).</em></p>\n<p>Si para defender de Reventar se usan menos de 2 cartas que no son de equipo, tiene <strong>continuar</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_2HP298.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_2HP298.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_2HP298.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "12d72e87-64af-4eac-b939-9424be79855e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.900596+12:00",
+            "updated_at": "2025-09-18T06:45:18.900613+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "es",
+            "product_name": "History Pack 2 - Black Label [ES]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-es",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.107691+12:00",
+          "updated_at": "2025-09-18T06:54:07.107704+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ES_2HP298",
+          "set_number": 298,
+          "layout": "regular",
+          "print_language": "es",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "60e4ab42-e688-4b13-8709-647cb6fa26f7",
+          "faces": [
+            {
+              "id": "072f6e1b-3518-435f-914c-011e89637db4",
+              "created_at": "2025-09-18T06:54:07.128259+12:00",
+              "updated_at": "2025-09-18T06:54:07.128271+12:00",
+              "face_id": "IT_2HP298",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "2HP298",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Spappolamento",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quando attacchi con Spappolamento, pesca una carta e poi scarta una carta a caso. Se una carta con 6 o più {p} viene scartata in questo modo, Spappolamento guadagna **domina**. _(L'eroe in difesa non può difendersi con o giocare più di 1 carta difensiva o reazione difensiva dalla sua mano in questo anello della catena.)_{br}Quando Spappolamento è difesa con meno di 2 carte non equipaggiamento, ha **continua**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Azione Bruto - Attacco",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "60e4ab42-e688-4b13-8709-647cb6fa26f7",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Spappolamento</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Azione Bruto - Attacco</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quando attacchi con Spappolamento, pesca una carta e poi scarta una carta a caso. Se una carta con 6 o più <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> viene scartata in questo modo, Spappolamento guadagna <strong>domina</strong>. <em>(L'eroe in difesa non può difendersi con o giocare più di 1 carta difensiva o reazione difensiva dalla sua mano in questo anello della catena.)</em></p>\n<p>Quando Spappolamento è difesa con meno di 2 carte non equipaggiamento, ha <strong>continua</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_2HP298.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_2HP298.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_2HP298.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c24effd5-1d3d-4ed0-8f6f-c6a3c2098f91",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.923313+12:00",
+            "updated_at": "2025-09-18T06:45:18.923333+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "it",
+            "product_name": "History Pack 2 - Black Label [IT]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.122879+12:00",
+          "updated_at": "2025-09-18T06:54:07.122894+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_2HP298",
+          "set_number": 298,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "f45541e7-be22-48b2-a9d9-61ae335dc368",
+          "faces": [
+            {
+              "id": "3e9c34cb-7b1a-45ef-9ca6-8fe9d624defb",
+              "created_at": "2025-09-18T06:54:07.146681+12:00",
+              "updated_at": "2025-09-18T06:54:07.146699+12:00",
+              "face_id": "ES_1HR009",
+              "face_language": "es",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "1HR009",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Reventar",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Cuando ataques con esta carta, roba una carta y luego descarta una carta al azar. Si se descarta una carta con 6{p} o más de este modo, Reventar gana **dominar**. _(El héroe defensor no puede jugar o defender con más de 1 carta de defensa o reacción de defensa de su mano en este eslabón)._\nMientras Reventar sea defendido por menos de 2 cartas que no sean de equipo, tiene **continuar**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Acción de bruto - Ataque",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "f45541e7-be22-48b2-a9d9-61ae335dc368",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Reventar</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Acción de bruto - Ataque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Cuando ataques con esta carta, roba una carta y luego descarta una carta al azar. Si se descarta una carta con 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> o más de este modo, Reventar gana <strong>dominar</strong>. <em>(El héroe defensor no puede jugar o defender con más de 1 carta de defensa o reacción de defensa de su mano en este eslabón).</em></p>\n<p>Mientras Reventar sea defendido por menos de 2 cartas que no sean de equipo, tiene <strong>continuar</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_1HR009.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_1HR009.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_1HR009.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d0ce67a0-2f78-4103-bf35-d88b69398858",
+            "product_group": {
+              "id": "13f9c3a6-2835-4cb3-9559-5bdca4b4daeb",
+              "created_at": "2025-09-18T06:46:05.316733+12:00",
+              "updated_at": "2025-09-18T06:46:05.316743+12:00",
+              "group_name": "Rhinar - Blitz Deck",
+              "product_type": "precon",
+              "release_date": "2023-04-07",
+              "slug": "rhinar-blitz-deck"
+            },
+            "created_at": "2025-09-18T06:46:05.364107+12:00",
+            "updated_at": "2025-09-18T06:46:05.364124+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "es",
+            "product_name": "Rhinar - Blitz Deck [ES]",
+            "product_type": "booster",
+            "release_date": "2023-04-07",
+            "slug": "rhinar-blitz-deck-es",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "6352e6b6-c821-4ae1-9d02-f5e2c727222b",
+            "created_at": "2025-09-18T06:45:12.805310+12:00",
+            "updated_at": "2025-09-18T06:45:12.805319+12:00",
+            "set_code": "1HR",
+            "set_name": "Rhinar - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "196c1de9-df21-44f4-b802-35ad7b7bae37"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.138536+12:00",
+          "updated_at": "2025-09-18T06:54:07.138550+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ES_1HR009",
+          "set_number": 9,
+          "layout": "regular",
+          "print_language": "es",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "25cbd2e4-c706-44ea-8d0a-d55cfd7f9a6e",
+          "faces": [
+            {
+              "id": "02c4dc1d-93f8-4779-ba8c-b302171acc76",
+              "created_at": "2025-09-18T06:54:07.162114+12:00",
+              "updated_at": "2025-09-18T06:54:07.162134+12:00",
+              "face_id": "AKO010",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "AKO010",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Pulping",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **dominate**. _(This can't be defended by more than one card from hand.)_{br}If this is defended by fewer than 2 non-equipment cards, it gets **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "25cbd2e4-c706-44ea-8d0a-d55cfd7f9a6e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulping</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, this gets <strong>dominate</strong>. <em>(This can't be defended by more than one card from hand.)</em></p>\n<p>If this is defended by fewer than 2 non-equipment cards, it gets <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AKO010.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AKO010.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AKO010.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2025b975-e5e8-4c8b-8640-99967031002f",
+            "product_group": {
+              "id": "d995f53a-e164-4606-ad07-81e509ed42f6",
+              "created_at": "2025-09-18T06:45:23.691680+12:00",
+              "updated_at": "2025-09-18T06:45:23.691696+12:00",
+              "group_name": "Armory Deck - Kayo, Armed and Dangerous",
+              "product_type": "precon",
+              "release_date": "2024-05-03",
+              "slug": "armory-deck-kayo-armed-and-dangerous"
+            },
+            "created_at": "2025-09-18T06:45:23.694881+12:00",
+            "updated_at": "2025-09-18T06:45:23.694899+12:00",
+            "printed_date": "2024-01-01",
+            "printed_language": "en",
+            "product_name": "Armory Deck - Kayo, Armed and Dangerous",
+            "product_type": "booster",
+            "release_date": "2024-05-03",
+            "slug": "kayo-armory-deck",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "606a2657-d1ba-413d-af9f-d919d69a6245",
+            "created_at": "2025-09-18T06:45:12.627656+12:00",
+            "updated_at": "2025-09-18T06:45:12.627666+12:00",
+            "set_code": "AKO",
+            "set_name": "Armory Deck - Kayo, Armed and Dangerous",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.154997+12:00",
+          "updated_at": "2025-09-18T06:54:07.155010+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "AKO010",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "e99e3542-5c18-41b6-a714-8fcd308b14e3",
+          "faces": [
+            {
+              "id": "44af28e9-9c4b-41a7-a794-ffd5b92d6c4a",
+              "created_at": "2025-09-18T06:54:07.180796+12:00",
+              "updated_at": "2025-09-18T06:54:07.180809+12:00",
+              "face_id": "FR_AKO010",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "AKO010",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Réduire en bouillie",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, piochez une carte puis défaussez-vous d’une carte au hasard. Si une carte avec au moins 6{p} est défaussée de cette manière, cette carte gagne **dominer**. _(Cette carte ne peut pas être défendue par plus d’une carte de la main.)_{br}Si cette carte est défendue par moins de 2 cartes de non-équipement, elle gagne **encore une fois**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attaque",
+              "printed_year": "2024",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "e99e3542-5c18-41b6-a714-8fcd308b14e3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Réduire en bouillie</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, piochez une carte puis défaussez-vous d’une carte au hasard. Si une carte avec au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> est défaussée de cette manière, cette carte gagne <strong>dominer</strong>. <em>(Cette carte ne peut pas être défendue par plus d’une carte de la main.)</em></p>\n<p>Si cette carte est défendue par moins de 2 cartes de non-équipement, elle gagne <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_AKO010.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_AKO010.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_AKO010.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2aca55da-6ac7-402b-a491-64c1f22758db",
+            "product_group": {
+              "id": "d995f53a-e164-4606-ad07-81e509ed42f6",
+              "created_at": "2025-09-18T06:45:23.691680+12:00",
+              "updated_at": "2025-09-18T06:45:23.691696+12:00",
+              "group_name": "Armory Deck - Kayo, Armed and Dangerous",
+              "product_type": "precon",
+              "release_date": "2024-05-03",
+              "slug": "armory-deck-kayo-armed-and-dangerous"
+            },
+            "created_at": "2025-09-18T06:45:23.718971+12:00",
+            "updated_at": "2025-09-18T06:45:23.718989+12:00",
+            "printed_date": "2024-03-01",
+            "printed_language": "fr",
+            "product_name": "Armory Deck - Kayo, Armed and Dangerous [FR]",
+            "product_type": "booster",
+            "release_date": "2024-08-02",
+            "slug": "armory-deck-kayo-armed-and-dangerous-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "606a2657-d1ba-413d-af9f-d919d69a6245",
+            "created_at": "2025-09-18T06:45:12.627656+12:00",
+            "updated_at": "2025-09-18T06:45:12.627666+12:00",
+            "set_code": "AKO",
+            "set_name": "Armory Deck - Kayo, Armed and Dangerous",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.173276+12:00",
+          "updated_at": "2025-09-18T06:54:07.173294+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_AKO010",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "662be935-44ee-4cd8-8a1c-34a375b4c1d9",
+          "faces": [
+            {
+              "id": "68dbb650-6088-4423-8f4c-0a1c72b488b9",
+              "created_at": "2025-09-18T06:54:07.195139+12:00",
+              "updated_at": "2025-09-18T06:54:07.195152+12:00",
+              "face_id": "IT_AKO010",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "AKO010",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Spappolare",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quando attacca, pesca una carta, poi scarta una carta a caso. Se una carta con {p} pari o superiore a 6 viene scartata in questo modo, questa carta guadagna **Dominare**. _(Non può essere difesa da più di 1 carta dalla mano.)_{br}Se viene difesa da meno di 2 carte non equipaggiamento, guadagna **Continua**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Azione Bruto - Attacco",
+              "printed_year": "2024",
+              "printed_language_code": "IT",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "662be935-44ee-4cd8-8a1c-34a375b4c1d9",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Spappolare</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Azione Bruto - Attacco</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quando attacca, pesca una carta, poi scarta una carta a caso. Se una carta con <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> pari o superiore a 6 viene scartata in questo modo, questa carta guadagna <strong>Dominare</strong>. <em>(Non può essere difesa da più di 1 carta dalla mano.)</em></p>\n<p>Se viene difesa da meno di 2 carte non equipaggiamento, guadagna <strong>Continua</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_AKO010.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_AKO010.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_AKO010.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fa7a0a83-140e-455e-98c7-68e3aa29435c",
+            "product_group": {
+              "id": "d995f53a-e164-4606-ad07-81e509ed42f6",
+              "created_at": "2025-09-18T06:45:23.691680+12:00",
+              "updated_at": "2025-09-18T06:45:23.691696+12:00",
+              "group_name": "Armory Deck - Kayo, Armed and Dangerous",
+              "product_type": "precon",
+              "release_date": "2024-05-03",
+              "slug": "armory-deck-kayo-armed-and-dangerous"
+            },
+            "created_at": "2025-09-18T06:45:23.740547+12:00",
+            "updated_at": "2025-09-18T06:45:23.740559+12:00",
+            "printed_date": "2024-03-01",
+            "printed_language": "it",
+            "product_name": "Armory Deck - Kayo, Armed and Dangerous [IT]",
+            "product_type": "booster",
+            "release_date": "2024-08-02",
+            "slug": "armory-deck-kayo-armed-and-dangerous-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "606a2657-d1ba-413d-af9f-d919d69a6245",
+            "created_at": "2025-09-18T06:45:12.627656+12:00",
+            "updated_at": "2025-09-18T06:45:12.627666+12:00",
+            "set_code": "AKO",
+            "set_name": "Armory Deck - Kayo, Armed and Dangerous",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.190150+12:00",
+          "updated_at": "2025-09-18T06:54:07.190163+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_AKO010",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "4b8a559f-657d-4284-ac4c-2e3bef7bc271",
+          "faces": [
+            {
+              "id": "903df8f4-52b6-4a28-9f88-eb96ec4e79cd",
+              "created_at": "2025-09-18T06:54:07.209038+12:00",
+              "updated_at": "2025-09-18T06:54:07.209069+12:00",
+              "face_id": "JA_AKO010",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "brute",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "AKO010",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "押し潰し",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、カードを１枚引き、その後ランダムにカードを１枚捨てる。これによって{p}が６以上のカードが捨てられた場合、これは**圧倒**を得る。（これは２枚以上の手札のカードで防御されない）{br}これを防御している装備品でないカードが２枚未満の場合、これは**続行**を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "野人・アクション － 攻撃",
+              "printed_year": "2024",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "4b8a559f-657d-4284-ac4c-2e3bef7bc271",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>押し潰し</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、カードを１枚引き、その後ランダムにカードを１枚捨てる。これによって<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>が６以上のカードが捨てられた場合、これは<strong>圧倒</strong>を得る。（これは２枚以上の手札のカードで防御されない）</p>\n<p>これを防御している装備品でないカードが２枚未満の場合、これは<strong>続行</strong>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AKO010.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AKO010.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AKO010.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7186dee9-c177-41a9-8ca4-3a840c18c1b2",
+            "product_group": {
+              "id": "d995f53a-e164-4606-ad07-81e509ed42f6",
+              "created_at": "2025-09-18T06:45:23.691680+12:00",
+              "updated_at": "2025-09-18T06:45:23.691696+12:00",
+              "group_name": "Armory Deck - Kayo, Armed and Dangerous",
+              "product_type": "precon",
+              "release_date": "2024-05-03",
+              "slug": "armory-deck-kayo-armed-and-dangerous"
+            },
+            "created_at": "2025-09-18T06:45:23.753664+12:00",
+            "updated_at": "2025-09-18T06:45:23.753674+12:00",
+            "printed_date": "2024-03-01",
+            "printed_language": "ja",
+            "product_name": "Armory Deck - Kayo, Armed and Dangerous [JA]",
+            "product_type": "booster",
+            "release_date": "2024-08-02",
+            "slug": "armory-deck-kayo-armed-and-dangerous-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "606a2657-d1ba-413d-af9f-d919d69a6245",
+            "created_at": "2025-09-18T06:45:12.627656+12:00",
+            "updated_at": "2025-09-18T06:45:12.627666+12:00",
+            "set_code": "AKO",
+            "set_name": "Armory Deck - Kayo, Armed and Dangerous",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:07.203237+12:00",
+          "updated_at": "2025-09-18T06:54:07.203250+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_AKO010",
+          "set_number": 10,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "2f1abf55-f32a-4c4e-8a3d-b1bab99a7549",
+          "faces": [
+            {
+              "id": "e96f32ff-0e0f-41fe-9245-14b669cc3e14",
+              "created_at": "2026-01-19T19:28:46.129412+13:00",
+              "updated_at": "2026-01-19T19:28:46.129421+13:00",
+              "face_id": "FR_SKA015",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SKA015",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Réduire en bouillie",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, piochez une carte puis défaussez-vous d’une carte au hasard. Si une carte avec au moins 6{p} est défaussée de cette manière, Réduire en bouillie gagne **dominer**. _(Cette carte ne peut pas être défendue par plus d’une carte de la main.)_{br}Si cette carte est défendue par moins de 2 cartes de non-équipement, elle gagne **encore une fois**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "2f1abf55-f32a-4c4e-8a3d-b1bab99a7549",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Réduire en bouillie</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, piochez une carte puis défaussez-vous d’une carte au hasard. Si une carte avec au moins 6<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> est défaussée de cette manière, Réduire en bouillie gagne <strong>dominer</strong>. <em>(Cette carte ne peut pas être défendue par plus d’une carte de la main.)</em></p>\n<p>Si cette carte est défendue par moins de 2 cartes de non-équipement, elle gagne <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SKA015.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SKA015.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SKA015.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "f34ba824-60b6-41f0-b7f5-f4f55b495757",
+            "product_group": {
+              "id": "acf1939a-f736-4bc2-bb7e-b9ccdd6f7d7b",
+              "created_at": "2025-10-20T10:26:44.907285+13:00",
+              "updated_at": "2025-10-20T10:26:44.907292+13:00",
+              "group_name": "Silver Age Chapter 1 - Kayo",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-1-kayo"
+            },
+            "created_at": "2025-10-20T10:26:44.384828+13:00",
+            "updated_at": "2025-10-20T10:26:44.909975+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "fr",
+            "product_name": "Silver Age Chapter 1 - Kayo [FR]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-1-kayo-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "caa49645-6509-4b12-8900-2db6e7f6139a",
+            "created_at": "2025-10-20T10:26:44.287255+13:00",
+            "updated_at": "2025-10-20T10:53:14.249803+13:00",
+            "set_code": "SKA",
+            "set_name": "Silver Age Chapter 1 - Kayo",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:28:46.126246+13:00",
+          "updated_at": "2026-01-28T13:45:21.196951+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SKA015",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "1daf61ef-bd3c-4b05-a65d-ab4f1ac235e9",
+          "faces": [
+            {
+              "id": "3b4a4d04-72f3-48e5-961f-aa4058602602",
+              "created_at": "2026-01-19T19:28:54.534769+13:00",
+              "updated_at": "2026-01-19T19:28:54.534777+13:00",
+              "face_id": "JA_SKA015",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SKA015",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "押し潰し",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、カードを１枚引き、カードを１枚ランダムに捨てる。これにより６{p}以上のカードを捨てた場合、これは**圧倒**を得る。（これを手札のカード２枚以上で防御することはできない）{br}これを防御している非装備品カードが２枚未満の場合、これは**続行**を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "野人・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "1daf61ef-bd3c-4b05-a65d-ab4f1ac235e9",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>押し潰し</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>野人・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、カードを１枚引き、カードを１枚ランダムに捨てる。これにより６<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>以上のカードを捨てた場合、これは<strong>圧倒</strong>を得る。（これを手札のカード２枚以上で防御することはできない）</p>\n<p>これを防御している非装備品カードが２枚未満の場合、これは<strong>続行</strong>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SKA015.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SKA015.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SKA015.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "5223c994-7136-4e05-9762-503a8cd53dba",
+            "product_group": {
+              "id": "acf1939a-f736-4bc2-bb7e-b9ccdd6f7d7b",
+              "created_at": "2025-10-20T10:26:44.907285+13:00",
+              "updated_at": "2025-10-20T10:26:44.907292+13:00",
+              "group_name": "Silver Age Chapter 1 - Kayo",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-1-kayo"
+            },
+            "created_at": "2025-10-20T10:26:44.381677+13:00",
+            "updated_at": "2025-10-20T10:26:44.910651+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "ja",
+            "product_name": "Silver Age Chapter 1 - Kayo [JA]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-1-kayo-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "caa49645-6509-4b12-8900-2db6e7f6139a",
+            "created_at": "2025-10-20T10:26:44.287255+13:00",
+            "updated_at": "2025-10-20T10:53:14.249803+13:00",
+            "set_code": "SKA",
+            "set_name": "Silver Age Chapter 1 - Kayo",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:28:54.531878+13:00",
+          "updated_at": "2026-01-28T13:45:23.578858+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SKA015",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        },
+        {
+          "id": "ff5bf39a-fd85-4c98-abe8-9f160fb7d679",
+          "faces": [
+            {
+              "id": "7b72c0da-f071-488d-8813-df2919ce1cc1",
+              "created_at": "2026-01-19T19:29:03.359303+13:00",
+              "updated_at": "2026-01-19T19:29:03.359312+13:00",
+              "face_id": "SKA015",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SKA015",
+              "printed_artist": "Kevin Sidharta",
+              "printed_name": "Pulping",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **dominate**. _(This can't be defended by more than 1 card from hand.)_{br}If this is defended by fewer than 2 non-equipment cards, it gets **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Brute Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "24d69029-ee18-474a-92d3-99f9f356f72e",
+              "card_print": "ff5bf39a-fd85-4c98-abe8-9f160fb7d679",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pulping</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Brute Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, draw a card, then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, this gets <strong>dominate</strong>. <em>(This can't be defended by more than 1 card from hand.)</em></p>\n<p>If this is defended by fewer than 2 non-equipment cards, it gets <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SKA015.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SKA015.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SKA015.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "4042e1ac-d702-4636-bce3-4a28e9a3aa66",
+            "product_group": {
+              "id": "acf1939a-f736-4bc2-bb7e-b9ccdd6f7d7b",
+              "created_at": "2025-10-20T10:26:44.907285+13:00",
+              "updated_at": "2025-10-20T10:26:44.907292+13:00",
+              "group_name": "Silver Age Chapter 1 - Kayo",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-1-kayo"
+            },
+            "created_at": "2025-10-20T10:26:44.377750+13:00",
+            "updated_at": "2025-10-20T10:26:44.909211+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "en",
+            "product_name": "Silver Age Chapter 1 - Kayo",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-1-kayo",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "caa49645-6509-4b12-8900-2db6e7f6139a",
+            "created_at": "2025-10-20T10:26:44.287255+13:00",
+            "updated_at": "2025-10-20T10:53:14.249803+13:00",
+            "set_code": "SKA",
+            "set_name": "Silver Age Chapter 1 - Kayo",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:29:03.356341+13:00",
+          "updated_at": "2026-01-28T13:29:12.129480+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SKA015",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "14dc30ff-210f-4e22-8d73-548d1636ee48"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "banned",
+          "reason": "programmatic_legality"
+        }
+      },
+      "created_at": "2025-09-18T06:54:06.915884+12:00",
+      "updated_at": "2025-09-18T06:54:06.916800+12:00",
+      "card_id": "pulping-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

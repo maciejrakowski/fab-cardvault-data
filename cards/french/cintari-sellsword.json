@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "cintari-sellsword",
+  "language": "fr",
+  "name": "Mercenaire cintari",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Mercenaire cintari",
+      "typeLine": "Guerrier Jeton - Mercenaire Allié",
+      "classes": [
+        "Guerrier"
+      ],
+      "types": [
+        "Jeton"
+      ],
+      "subtypes": [
+        "Allié",
+        "Mercenaire"
+      ],
+      "text": {
+        "markup": "**Action une fois par tour** -- {r} : **Attaque**. **Encore une fois**{br}Le Mercenaire cintari ne peut attaquer que si vous avez attaqué avec une arme ce tour-ci.",
+        "plain": "Action une fois par tour -- {r} : Attaque. Encore une fois\nLe Mercenaire cintari ne peut attaquer que si vous avez attaqué avec une arme ce tour-ci.",
+        "html": "<p><strong>Action une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> : <strong>Attaque</strong>. <strong>Encore une fois</strong></p>\n<p>Le Mercenaire cintari ne peut attaquer que si vous avez attaqué avec une arme ce tour-ci.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_HVY134",
+      "code": "HVY134",
+      "language": "fr",
+      "set": "HVY",
+      "setNumber": 134,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters-fr",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_HVY134",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Mercenaire cintari",
+          "typeLine": "Guerrier Jeton - Mercenaire Allié",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action une fois par tour** -- {r} : **Attaque**. **Encore une fois**{br}Le Mercenaire cintari ne peut attaquer que si vous avez attaqué avec une arme ce tour-ci.",
+            "plain": "Action une fois par tour -- {r} : Attaque. Encore une fois\nLe Mercenaire cintari ne peut attaquer que si vous avez attaqué avec une arme ce tour-ci.",
+            "html": "<p><strong>Action une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> : <strong>Attaque</strong>. <strong>Encore une fois</strong></p>\n<p>Le Mercenaire cintari ne peut attaquer que si vous avez attaqué avec une arme ce tour-ci.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": "2",
+            "intellect": null
+          },
+          "printedCode": "HVY134",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Sebastian Szmyd",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_HVY134.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_HVY134.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_HVY134.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "be5ba83a-053b-4714-a9f5-923c2920d69b",
+      "cores": [
+        {
+          "id": "8fffaf80-4a06-42fa-aa51-0f0d09847dd7",
+          "core_classes": [
+            {
+              "id": 36,
+              "name": "Pirate",
+              "name_en": "Pirate",
+              "name_fr": null,
+              "name_de": null,
+              "name_it": null,
+              "name_es": null,
+              "name_ja": null,
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 6,
+              "name": "Equipment",
+              "name_en": "Equipment",
+              "name_fr": "Équipement",
+              "name_de": "Ausrüstung",
+              "name_it": "Equipaggiamento",
+              "name_es": "Equipo",
+              "name_ja": "装備品",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 16,
+              "name": "Arms",
+              "name_en": "Arms",
+              "name_fr": "Bras",
+              "name_de": "Arme",
+              "name_it": "Braccia",
+              "name_es": "Brazos",
+              "name_ja": "腕",
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-09-18T06:50:34.559053+12:00",
+          "updated_at": "2025-09-18T06:50:34.569852+12:00",
+          "name": "Gold-Baited Hook",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "",
+          "defense": "1",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Action** -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, **steal** a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. **Go again**{br}**Battleworn**",
+          "typebox": "Pirate Equipment - Arms",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": 1,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "be5ba83a-053b-4714-a9f5-923c2920d69b"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "57406a5c-eda7-437f-8b70-ddcc95c3cc70",
+          "faces": [
+            {
+              "id": "382a76e9-79ee-46a3-941c-db9542a3f81b",
+              "created_at": "2025-09-18T06:50:34.592299+12:00",
+              "updated_at": "2025-09-18T06:50:34.592319+12:00",
+              "face_id": "SEA125-TP",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "legendary",
+              "printed_rarity_symbol": "legendary-dot",
+              "printed_code": "SEA125",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "Gold-Baited Hook",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, **steal** a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. **Go again**{br}**Battleworn**  _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Equipment - Arms",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "8fffaf80-4a06-42fa-aa51-0f0d09847dd7",
+              "card_print": "57406a5c-eda7-437f-8b70-ddcc95c3cc70",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Gold-Baited Hook</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Equipment - Arms</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Your next Pirate attack this turn gets &quot;When this hits a hero, <strong>steal</strong> a Gold token they control, otherwise create a Gold token.&quot; At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong>  <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA125-TP.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA125-TP.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA125-TP.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "dae8e223-1f95-4e43-b92d-83715a5fa226",
+            "product_group": {
+              "id": "36fb9260-3f44-4c77-8652-7aff50a8cdaa",
+              "created_at": "2025-09-18T06:45:25.250478+12:00",
+              "updated_at": "2025-09-18T06:45:25.250490+12:00",
+              "group_name": "High Seas - Treasure Pack",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas-treasure-pack"
+            },
+            "created_at": "2025-09-18T06:45:25.252665+12:00",
+            "updated_at": "2025-09-18T06:45:25.252675+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas - Treasure Pack",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-treasure-pack",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:34.583489+12:00",
+          "updated_at": "2025-09-18T06:50:34.583508+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA125-TP",
+          "set_number": 125,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "legendary",
+          "card": "be5ba83a-053b-4714-a9f5-923c2920d69b"
+        },
+        {
+          "id": "d97fdee6-a239-44cf-ac15-af81092ec2b5",
+          "faces": [
+            {
+              "id": "ae313ea3-764a-465f-aef2-2e5f53cc5229",
+              "created_at": "2025-09-18T06:50:34.616079+12:00",
+              "updated_at": "2025-09-18T06:50:34.616181+12:00",
+              "face_id": "FR_SEA125-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "legendary",
+              "printed_rarity_symbol": "legendary-dot",
+              "printed_code": "SEA125",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "Crochet à appât doré",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t} : votre prochaine attaque Pirate ce tour-ci gagne « Quand cette carte touche un héros, **volez** un jeton Or qu’il contrôle, sinon créez un jeton Or ». Au début de votre phase de fin, si vous n’avez ni créé ni volé d’Or ce tour-ci, détruisez cette carte. **Encore une fois**{br}**Usure de guerre** _(Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1{d} sur elle.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Équipement - Bras",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "8fffaf80-4a06-42fa-aa51-0f0d09847dd7",
+              "card_print": "d97fdee6-a239-44cf-ac15-af81092ec2b5",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Crochet à appât doré</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Équipement - Bras</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : votre prochaine attaque Pirate ce tour-ci gagne « Quand cette carte touche un héros, <strong>volez</strong> un jeton Or qu’il contrôle, sinon créez un jeton Or ». Au début de votre phase de fin, si vous n’avez ni créé ni volé d’Or ce tour-ci, détruisez cette carte. <strong>Encore une fois</strong></p>\n<p><strong>Usure de guerre</strong> <em>(Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> sur elle.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA125-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA125-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA125-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:34.606006+12:00",
+          "updated_at": "2025-09-18T06:50:34.606025+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA125-RF",
+          "set_number": 125,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "legendary",
+          "card": "be5ba83a-053b-4714-a9f5-923c2920d69b"
+        },
+        {
+          "id": "85f3950d-f167-4e1a-9f86-8547fde1612a",
+          "faces": [
+            {
+              "id": "77a1a8aa-8feb-45c1-b13e-2127e0841f55",
+              "created_at": "2025-09-18T06:50:34.638866+12:00",
+              "updated_at": "2025-09-18T06:50:34.638881+12:00",
+              "face_id": "JA_SEA125-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "legendary",
+              "printed_rarity_symbol": "legendary-dot",
+              "printed_code": "SEA125",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "黄金のフック",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**アクション**--{t}：このターン、あなたの次の海賊の攻撃は「これがヒーローにヒットしたとき、そのヒーローがコントロールする『金貨』トークンを１つ**盗む**。盗めなかった場合、『金貨』トークンを１つ作成する」を得る。あなたの終了フェイズの開始時、このターン、あなたが「金貨」を作成しておらず、かつ盗んでもいない場合、これを破壊する。**続行**{br}**戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+              "printed_flavor_text": "",
+              "printed_typebox": "海賊・装備品 － 腕",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "8fffaf80-4a06-42fa-aa51-0f0d09847dd7",
+              "card_print": "85f3950d-f167-4e1a-9f86-8547fde1612a",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>黄金のフック</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>海賊・装備品 － 腕</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：このターン、あなたの次の海賊の攻撃は「これがヒーローにヒットしたとき、そのヒーローがコントロールする『金貨』トークンを１つ<strong>盗む</strong>。盗めなかった場合、『金貨』トークンを１つ作成する」を得る。あなたの終了フェイズの開始時、このターン、あなたが「金貨」を作成しておらず、かつ盗んでもいない場合、これを破壊する。<strong>続行</strong></p>\n<p><strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA125-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA125-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA125-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:34.631722+12:00",
+          "updated_at": "2025-09-18T06:50:34.631746+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA125-RF",
+          "set_number": 125,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "legendary",
+          "card": "be5ba83a-053b-4714-a9f5-923c2920d69b"
+        },
+        {
+          "id": "e7e51bce-13fc-47f9-b14c-5e86906b125b",
+          "faces": [
+            {
+              "id": "d27b2a44-5793-4652-a766-890c1f579f33",
+              "created_at": "2025-09-18T06:50:34.659994+12:00",
+              "updated_at": "2025-09-18T06:50:34.660008+12:00",
+              "face_id": "SEA125-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "legendary",
+              "printed_rarity_symbol": "legendary-dot",
+              "printed_code": "SEA125",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "Gold-Baited Hook",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, **steal** a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. **Go again**{br}**Battleworn**  _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Equipment - Arms",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "8fffaf80-4a06-42fa-aa51-0f0d09847dd7",
+              "card_print": "e7e51bce-13fc-47f9-b14c-5e86906b125b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Gold-Baited Hook</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Equipment - Arms</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Your next Pirate attack this turn gets &quot;When this hits a hero, <strong>steal</strong> a Gold token they control, otherwise create a Gold token.&quot; At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong>  <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA125-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA125-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA125-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:34.652546+12:00",
+          "updated_at": "2025-09-18T06:50:34.652568+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA125-RF",
+          "set_number": 125,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "legendary",
+          "card": "be5ba83a-053b-4714-a9f5-923c2920d69b"
+        },
+        {
+          "id": "eb5b9cc6-e646-42c9-ae4c-62ec42fed44d",
+          "faces": [
+            {
+              "id": "4abc27c8-7a67-4961-80c5-ff13c74519ad",
+              "created_at": "2025-09-18T06:50:34.672759+12:00",
+              "updated_at": "2025-09-18T06:50:34.672773+12:00",
+              "face_id": "FAB339-GF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "gold-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "gold",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB339",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "Gold-Baited Hook",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, **steal** a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. **Go again**{br}**Battleworn**  _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Equipment - Arms",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "8fffaf80-4a06-42fa-aa51-0f0d09847dd7",
+              "card_print": "eb5b9cc6-e646-42c9-ae4c-62ec42fed44d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Gold-Baited Hook</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Equipment - Arms</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Your next Pirate attack this turn gets &quot;When this hits a hero, <strong>steal</strong> a Gold token they control, otherwise create a Gold token.&quot; At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong>  <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB339-GF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB339-GF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB339-GF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "0e09e3f5-77dd-400b-97d6-25dae4b7c5a0",
+            "product_group": null,
+            "created_at": "2025-09-18T06:47:47.995608+12:00",
+            "updated_at": "2025-09-18T06:47:47.995630+12:00",
+            "printed_date": "2025-04-01",
+            "printed_language": "en",
+            "product_name": "Premier Organized Play - High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "premier-organized-play-high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:34.667065+12:00",
+          "updated_at": "2025-09-18T06:50:34.667078+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB339-GF",
+          "set_number": 339,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "be5ba83a-053b-4714-a9f5-923c2920d69b"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        }
+      },
+      "created_at": "2025-09-18T06:50:34.554311+12:00",
+      "updated_at": "2025-09-18T06:50:34.555360+12:00",
+      "card_id": "gold-baited-hook",
+      "card_type": "regular",
+      "object_type": "arena-card"
+    }
+  ]
+}

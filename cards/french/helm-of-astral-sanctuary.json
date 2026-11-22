@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "helm-of-astral-sanctuary",
+  "language": "fr",
+  "name": "Heaume de sanctuaire astral",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Heaume de sanctuaire astral",
+      "typeLine": "Générique Équipement - Tête",
+      "classes": [
+        "Générique"
+      ],
+      "types": [
+        "Équipement"
+      ],
+      "subtypes": [
+        "Tête"
+      ],
+      "text": {
+        "markup": "**Instantané** -- {t} votre héros, détruisez cette carte : prévenez le prochain dégât qui devrait vous être infligé ce tour-ci.",
+        "plain": "Instantané -- {t} votre héros, détruisez cette carte : prévenez le prochain dégât qui devrait vous être infligé ce tour-ci.",
+        "html": "<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> votre héros, détruisez cette carte : prévenez le prochain dégât qui devrait vous être infligé ce tour-ci.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_OMN209",
+      "code": "OMN209",
+      "language": "fr",
+      "set": "OMN",
+      "setNumber": 209,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "omens-of-the-third-age-fr",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_OMN209",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Heaume de sanctuaire astral",
+          "typeLine": "Générique Équipement - Tête",
+          "traitLine": null,
+          "text": {
+            "markup": "**Instantané** -- {t} votre héros, détruisez cette carte : prévenez le prochain dégât qui devrait vous être infligé ce tour-ci.",
+            "plain": "Instantané -- {t} votre héros, détruisez cette carte : prévenez le prochain dégât qui devrait vous être infligé ce tour-ci.",
+            "html": "<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> votre héros, détruisez cette carte : prévenez le prochain dégât qui devrait vous être infligé ce tour-ci.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OMN209",
+          "printedLanguageCode": "fr",
+          "printedYear": "2025",
+          "artist": "M Fakhrur Rozzi",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN209.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN209.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN209.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

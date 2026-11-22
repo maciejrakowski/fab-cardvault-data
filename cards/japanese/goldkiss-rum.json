@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "goldkiss-rum",
+  "language": "ja",
+  "name": "黄金のラム酒",
+  "cores": [
+    {
+      "position": 10,
+      "name": "黄金のラム酒",
+      "typeLine": "汎用・トークン － アイテム",
+      "classes": [
+        "汎用"
+      ],
+      "types": [
+        "トークン"
+      ],
+      "subtypes": [
+        "アイテム"
+      ],
+      "text": {
+        "markup": "**インスタント**--あなたのヒーローを{t}する, これを破壊する：このターン、あなたの次のアクションは**続行**を得る。あなたのヒーローが海賊でないかぎり、このターン、あなたのヒーローを{u}することはできない。",
+        "plain": "インスタント--あなたのヒーローを{t}する, これを破壊する：このターン、あなたの次のアクションは続行を得る。あなたのヒーローが海賊でないかぎり、このターン、あなたのヒーローを{u}することはできない。",
+        "html": "<p><strong>インスタント</strong>—あなたのヒーローを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する, これを破壊する：このターン、あなたの次のアクションは<strong>続行</strong>を得る。あなたのヒーローが海賊でないかぎり、このターン、あなたのヒーローを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_u.webp' alt='{u}'>することはできない。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_SEA245",
+      "code": "SEA245",
+      "language": "ja",
+      "set": "SEA",
+      "setNumber": 245,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-ja",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_SEA245",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "黄金のラム酒",
+          "typeLine": "汎用・トークン － アイテム",
+          "traitLine": null,
+          "text": {
+            "markup": "**インスタント**--あなたのヒーローを{t}する, これを破壊する：このターン、あなたの次のアクションは**続行**を得る。あなたのヒーローが海賊でないかぎり、このターン、あなたのヒーローを{u}することはできない。",
+            "plain": "インスタント--あなたのヒーローを{t}する, これを破壊する：このターン、あなたの次のアクションは続行を得る。あなたのヒーローが海賊でないかぎり、このターン、あなたのヒーローを{u}することはできない。",
+            "html": "<p><strong>インスタント</strong>—あなたのヒーローを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する, これを破壊する：このターン、あなたの次のアクションは<strong>続行</strong>を得る。あなたのヒーローが海賊でないかぎり、このターン、あなたのヒーローを<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_u.webp' alt='{u}'>することはできない。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA245",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Mario Wibisono",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA245.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA245.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA245.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

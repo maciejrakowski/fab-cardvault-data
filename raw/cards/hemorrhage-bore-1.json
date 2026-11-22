@@ -1,0 +1,925 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "369a9bc1-a514-444e-814f-13ec3d705ea2",
+      "cores": [
+        {
+          "id": "11eeffb0-cf35-4173-8e94-38a81482ef0c",
+          "core_classes": [
+            {
+              "id": 11,
+              "name": "Ranger",
+              "name_en": "Ranger",
+              "name_fr": "Ranger",
+              "name_de": "Waldläufer",
+              "name_it": "Ranger",
+              "name_es": "Explorador",
+              "name_ja": "レンジャー",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 5,
+              "name": "Arrow",
+              "name_en": "Arrow",
+              "name_fr": "Flèche",
+              "name_de": "Pfeil",
+              "name_it": "Freccia",
+              "name_es": "Flecha",
+              "name_ja": "矢",
+              "is_published": true,
+              "functional": true
+            },
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:51:02.554227+12:00",
+          "updated_at": "2025-09-18T06:51:02.565545+12:00",
+          "name": "Hemorrhage Bore",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "1",
+          "power": "5",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "If this has an aim counter, it gets \"When this hits a hero, destroy a card in their arsenal.\"",
+          "typebox": "Ranger Action - Arrow Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 1,
+          "power_value": 5,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "369a9bc1-a514-444e-814f-13ec3d705ea2"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "05c186a2-8fbb-4af0-86da-d2748d33e165",
+          "faces": [
+            {
+              "id": "f932daa0-98af-4fcb-b9d0-9bd3c552dd86",
+              "created_at": "2025-09-18T06:51:02.575548+12:00",
+              "updated_at": "2025-09-18T06:51:02.575593+12:00",
+              "face_id": "DYN162-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "DYN162",
+              "printed_artist": "Shen Fei",
+              "printed_name": "Hemorrhage Bore",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nIf Hemorrhage Bore has an aim counter, it has \"When this hits a hero, destroy a card in their arsenal.\"",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "11eeffb0-cf35-4173-8e94-38a81482ef0c",
+              "card_print": "05c186a2-8fbb-4af0-86da-d2748d33e165",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Hemorrhage Bore</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>If Hemorrhage Bore has an aim counter, it has &quot;When this hits a hero, destroy a card in their arsenal.&quot;</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN162-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN162-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN162-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "5db5fc1c-805e-4011-beb6-60a8afb5a790",
+            "product_group": {
+              "id": "0e4489d1-8ffa-45c0-815e-06a13d9449a9",
+              "created_at": "2025-09-18T06:45:19.021872+12:00",
+              "updated_at": "2025-09-18T06:45:19.021883+12:00",
+              "group_name": "Dynasty",
+              "product_type": "booster",
+              "release_date": "2022-11-11",
+              "slug": "dynasty"
+            },
+            "created_at": "2025-09-18T06:45:19.024068+12:00",
+            "updated_at": "2025-09-18T06:45:19.024077+12:00",
+            "printed_date": "2022-08-01",
+            "printed_language": "en",
+            "product_name": "Dynasty",
+            "product_type": "booster",
+            "release_date": "2022-11-11",
+            "slug": "dynasty",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "18c5317c-1545-4ae3-b036-e95a7407b70e",
+            "created_at": "2025-09-18T06:45:12.711458+12:00",
+            "updated_at": "2025-09-18T06:45:12.711468+12:00",
+            "set_code": "DYN",
+            "set_name": "Dynasty",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:02.570569+12:00",
+          "updated_at": "2025-09-18T06:51:02.570585+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "DYN162-RF",
+          "set_number": 162,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "369a9bc1-a514-444e-814f-13ec3d705ea2"
+        },
+        {
+          "id": "6367b634-d374-4781-b047-2fc3369392c7",
+          "faces": [
+            {
+              "id": "184b130f-d3ad-4b17-a85d-ccbccb36a30c",
+              "created_at": "2025-09-18T06:51:02.588260+12:00",
+              "updated_at": "2025-09-18T06:51:02.588275+12:00",
+              "face_id": "DYN162",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "DYN162",
+              "printed_artist": "Shen Fei",
+              "printed_name": "Hemorrhage Bore",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nIf Hemorrhage Bore has an aim counter, it has \"When this hits a hero, destroy a card in their arsenal.\"",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "11eeffb0-cf35-4173-8e94-38a81482ef0c",
+              "card_print": "6367b634-d374-4781-b047-2fc3369392c7",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Hemorrhage Bore</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>If Hemorrhage Bore has an aim counter, it has &quot;When this hits a hero, destroy a card in their arsenal.&quot;</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN162.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN162.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN162.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "5db5fc1c-805e-4011-beb6-60a8afb5a790",
+            "product_group": {
+              "id": "0e4489d1-8ffa-45c0-815e-06a13d9449a9",
+              "created_at": "2025-09-18T06:45:19.021872+12:00",
+              "updated_at": "2025-09-18T06:45:19.021883+12:00",
+              "group_name": "Dynasty",
+              "product_type": "booster",
+              "release_date": "2022-11-11",
+              "slug": "dynasty"
+            },
+            "created_at": "2025-09-18T06:45:19.024068+12:00",
+            "updated_at": "2025-09-18T06:45:19.024077+12:00",
+            "printed_date": "2022-08-01",
+            "printed_language": "en",
+            "product_name": "Dynasty",
+            "product_type": "booster",
+            "release_date": "2022-11-11",
+            "slug": "dynasty",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "18c5317c-1545-4ae3-b036-e95a7407b70e",
+            "created_at": "2025-09-18T06:45:12.711458+12:00",
+            "updated_at": "2025-09-18T06:45:12.711468+12:00",
+            "set_code": "DYN",
+            "set_name": "Dynasty",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:02.582166+12:00",
+          "updated_at": "2025-09-18T06:51:02.582177+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "DYN162",
+          "set_number": 162,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "369a9bc1-a514-444e-814f-13ec3d705ea2"
+        },
+        {
+          "id": "62e31d7d-d69d-4f1d-96c6-2deb6641c21e",
+          "faces": [
+            {
+              "id": "989a9d4e-57c2-4866-86a0-b127c773039e",
+              "created_at": "2025-09-18T06:51:02.604990+12:00",
+              "updated_at": "2025-09-18T06:51:02.605002+12:00",
+              "face_id": "LGS119-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS119",
+              "printed_artist": "Shen Fei",
+              "printed_name": "Hemorrhage Bore",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nIf Hemorrhage Bore has an aim counter, it has \"When this hits a hero, destroy a card in their arsenal.\"",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "11eeffb0-cf35-4173-8e94-38a81482ef0c",
+              "card_print": "62e31d7d-d69d-4f1d-96c6-2deb6641c21e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Hemorrhage Bore</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>If Hemorrhage Bore has an aim counter, it has &quot;When this hits a hero, destroy a card in their arsenal.&quot;</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS119-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS119-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS119-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "721bb1cf-3d49-41e5-9e05-0ae4e6debb61",
+            "product_group": null,
+            "created_at": "2025-09-18T06:45:36.244695+12:00",
+            "updated_at": "2025-09-18T06:45:36.244710+12:00",
+            "printed_date": "2022-08-01",
+            "printed_language": "en",
+            "product_name": "Armory - Season 8",
+            "product_type": "booster",
+            "release_date": "2022-10-01",
+            "slug": "armory-season-8",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:02.598042+12:00",
+          "updated_at": "2025-09-18T06:51:02.598062+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS119-RF",
+          "set_number": 119,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "369a9bc1-a514-444e-814f-13ec3d705ea2"
+        },
+        {
+          "id": "187a35d1-fbde-4913-b066-8222e5e14023",
+          "faces": [
+            {
+              "id": "3c3d86eb-dbb1-46bd-8a21-ae3c05fa86ba",
+              "created_at": "2025-09-18T06:51:02.617020+12:00",
+              "updated_at": "2025-09-18T06:51:02.617031+12:00",
+              "face_id": "DE_RIP015",
+              "face_language": "de",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "RIP015",
+              "printed_artist": "Shen Fei",
+              "printed_name": "Blutigungsbohrung",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Pfeile können nur aus dem Arsenal gespielt werden und nur, falls du einen Bogen kontrollierst.)_\nFalls Blutigungsbohrung eine Peilungsmarke hat, hat es „Wenn dies einen Helden trifft, zerstöre eine Karte in seinem Arsenal.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Waldläufer Aktion - Pfeil Angriff",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "11eeffb0-cf35-4173-8e94-38a81482ef0c",
+              "card_print": "187a35d1-fbde-4913-b066-8222e5e14023",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blutigungsbohrung</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Waldläufer Aktion - Pfeil Angriff</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Pfeile können nur aus dem Arsenal gespielt werden und nur, falls du einen Bogen kontrollierst.)</em></p>\n<p>Falls Blutigungsbohrung eine Peilungsmarke hat, hat es „Wenn dies einen Helden trifft, zerstöre eine Karte in seinem Arsenal.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_RIP015.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_RIP015.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_RIP015.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "13525146-c810-49f9-ace4-9694b374e938",
+            "product_group": {
+              "id": "cde7c655-f51c-495c-ab20-be1401fd8818",
+              "created_at": "2025-09-18T06:46:04.749628+12:00",
+              "updated_at": "2025-09-18T06:46:04.749638+12:00",
+              "group_name": "Riptide - Blitz Deck",
+              "product_type": "precon",
+              "release_date": "2023-03-24",
+              "slug": "riptide-blitz-deck"
+            },
+            "created_at": "2025-09-18T06:46:04.780521+12:00",
+            "updated_at": "2025-09-18T06:46:04.780549+12:00",
+            "printed_date": "2022-12-01",
+            "printed_language": "de",
+            "product_name": "Riptide - Blitz Deck [DE]",
+            "product_type": "booster",
+            "release_date": "2023-03-24",
+            "slug": "riptide-blitz-deck-de",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "2d53a483-f214-4ee0-86da-772f0a92dbae",
+            "created_at": "2025-09-18T06:45:12.824326+12:00",
+            "updated_at": "2025-09-18T06:45:12.824336+12:00",
+            "set_code": "RIP",
+            "set_name": "Riptide - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "10fe24b7-51b5-4cd0-99fa-871252b216d0"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:02.613021+12:00",
+          "updated_at": "2025-09-18T06:51:02.613032+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "DE_RIP015",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "de",
+          "rarity": "common",
+          "card": "369a9bc1-a514-444e-814f-13ec3d705ea2"
+        },
+        {
+          "id": "cee4ff33-d498-47bc-b037-618f93afe03c",
+          "faces": [
+            {
+              "id": "57a16e79-2b94-4b42-b262-25c6694fbe70",
+              "created_at": "2025-09-18T06:51:02.629636+12:00",
+              "updated_at": "2025-09-18T06:51:02.629648+12:00",
+              "face_id": "FR_RIP015",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "RIP015",
+              "printed_artist": "Shen Fei",
+              "printed_name": "Percée hémorragique",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Les flèches ne peuvent être jouées que depuis l’arsenal et seulement si vous contrôlez un arc.)_\nSi la Percée hémorragique a un marqueur Visée, elle a «Quand cette carte touche un héros, détruisez une carte de son arsenal».",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Attaque de flèche",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "11eeffb0-cf35-4173-8e94-38a81482ef0c",
+              "card_print": "cee4ff33-d498-47bc-b037-618f93afe03c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Percée hémorragique</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Attaque de flèche</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Les flèches ne peuvent être jouées que depuis l’arsenal et seulement si vous contrôlez un arc.)</em></p>\n<p>Si la Percée hémorragique a un marqueur Visée, elle a «Quand cette carte touche un héros, détruisez une carte de son arsenal».</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_RIP015.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_RIP015.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_RIP015.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "cb642a36-060c-459d-bc10-007c4c9be68d",
+            "product_group": {
+              "id": "cde7c655-f51c-495c-ab20-be1401fd8818",
+              "created_at": "2025-09-18T06:46:04.749628+12:00",
+              "updated_at": "2025-09-18T06:46:04.749638+12:00",
+              "group_name": "Riptide - Blitz Deck",
+              "product_type": "precon",
+              "release_date": "2023-03-24",
+              "slug": "riptide-blitz-deck"
+            },
+            "created_at": "2025-09-18T06:46:04.797592+12:00",
+            "updated_at": "2025-09-18T06:46:04.797605+12:00",
+            "printed_date": "2022-12-01",
+            "printed_language": "fr",
+            "product_name": "Riptide - Blitz Deck [FR]",
+            "product_type": "booster",
+            "release_date": "2023-03-24",
+            "slug": "riptide-blitz-deck-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "2d53a483-f214-4ee0-86da-772f0a92dbae",
+            "created_at": "2025-09-18T06:45:12.824326+12:00",
+            "updated_at": "2025-09-18T06:45:12.824336+12:00",
+            "set_code": "RIP",
+            "set_name": "Riptide - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "10fe24b7-51b5-4cd0-99fa-871252b216d0"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:02.624118+12:00",
+          "updated_at": "2025-09-18T06:51:02.624131+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_RIP015",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "369a9bc1-a514-444e-814f-13ec3d705ea2"
+        },
+        {
+          "id": "be65f80e-2524-450a-a288-2077151c6c94",
+          "faces": [
+            {
+              "id": "57825c98-859a-4a28-ab41-d60e43c0feea",
+              "created_at": "2025-09-18T06:51:02.642912+12:00",
+              "updated_at": "2025-09-18T06:51:02.642931+12:00",
+              "face_id": "ES_RIP015",
+              "face_language": "es",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "RIP015",
+              "printed_artist": "Shen Fei",
+              "printed_name": "Trepanación sangrienta",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Las flechas solo se pueden jugar desde el arsenal y solo si controlas un arco)._\nSi Trepanación sangrienta tiene un contador de puntería, tiene «Cuando este ataque impacte a un héroe, destruye una carta de su arsenal».",
+              "printed_flavor_text": "",
+              "printed_typebox": "Acción de explorador - Ataque con flecha",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "11eeffb0-cf35-4173-8e94-38a81482ef0c",
+              "card_print": "be65f80e-2524-450a-a288-2077151c6c94",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Trepanación sangrienta</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Acción de explorador - Ataque con flecha</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Las flechas solo se pueden jugar desde el arsenal y solo si controlas un arco).</em></p>\n<p>Si Trepanación sangrienta tiene un contador de puntería, tiene «Cuando este ataque impacte a un héroe, destruye una carta de su arsenal».</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_RIP015.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_RIP015.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_RIP015.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "266e247c-0b8f-44b1-ba1c-586527fb2fda",
+            "product_group": {
+              "id": "cde7c655-f51c-495c-ab20-be1401fd8818",
+              "created_at": "2025-09-18T06:46:04.749628+12:00",
+              "updated_at": "2025-09-18T06:46:04.749638+12:00",
+              "group_name": "Riptide - Blitz Deck",
+              "product_type": "precon",
+              "release_date": "2023-03-24",
+              "slug": "riptide-blitz-deck"
+            },
+            "created_at": "2025-09-18T06:46:04.829671+12:00",
+            "updated_at": "2025-09-18T06:46:04.829682+12:00",
+            "printed_date": "2022-12-01",
+            "printed_language": "es",
+            "product_name": "Riptide - Blitz Deck [ES]",
+            "product_type": "booster",
+            "release_date": "2023-03-24",
+            "slug": "riptide-blitz-deck-es",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "2d53a483-f214-4ee0-86da-772f0a92dbae",
+            "created_at": "2025-09-18T06:45:12.824326+12:00",
+            "updated_at": "2025-09-18T06:45:12.824336+12:00",
+            "set_code": "RIP",
+            "set_name": "Riptide - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "10fe24b7-51b5-4cd0-99fa-871252b216d0"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:02.636647+12:00",
+          "updated_at": "2025-09-18T06:51:02.636659+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ES_RIP015",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "es",
+          "rarity": "common",
+          "card": "369a9bc1-a514-444e-814f-13ec3d705ea2"
+        },
+        {
+          "id": "3a154d29-b398-4d95-a455-8b33c31bc409",
+          "faces": [
+            {
+              "id": "603bf3c6-270b-44a7-ac1b-cdc9fb0650d8",
+              "created_at": "2025-09-18T06:51:02.660108+12:00",
+              "updated_at": "2025-09-18T06:51:02.660123+12:00",
+              "face_id": "IT_RIP015",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "RIP015",
+              "printed_artist": "Shen Fei",
+              "printed_name": "Perforazione Emorragica",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Le frecce possono essere giocate solo dall'arsenale e solo se controlli un arco.)_\nSe la Perforazione Emorragica ha un segnalino mira, guadagna \"Quando colpisce un eroe, distruggi una carta nel suo arsenale\".",
+              "printed_flavor_text": "",
+              "printed_typebox": "Azione Ranger - Attacco Freccia",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "11eeffb0-cf35-4173-8e94-38a81482ef0c",
+              "card_print": "3a154d29-b398-4d95-a455-8b33c31bc409",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Perforazione Emorragica</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Azione Ranger - Attacco Freccia</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Le frecce possono essere giocate solo dall'arsenale e solo se controlli un arco.)</em></p>\n<p>Se la Perforazione Emorragica ha un segnalino mira, guadagna &quot;Quando colpisce un eroe, distruggi una carta nel suo arsenale&quot;.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_RIP015.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_RIP015.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_RIP015.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7aee3b7e-3608-45e7-b639-fb1f43614fd1",
+            "product_group": {
+              "id": "cde7c655-f51c-495c-ab20-be1401fd8818",
+              "created_at": "2025-09-18T06:46:04.749628+12:00",
+              "updated_at": "2025-09-18T06:46:04.749638+12:00",
+              "group_name": "Riptide - Blitz Deck",
+              "product_type": "precon",
+              "release_date": "2023-03-24",
+              "slug": "riptide-blitz-deck"
+            },
+            "created_at": "2025-09-18T06:46:04.855431+12:00",
+            "updated_at": "2025-09-18T06:46:04.855445+12:00",
+            "printed_date": "2022-12-01",
+            "printed_language": "it",
+            "product_name": "Riptide - Blitz Deck [IT]",
+            "product_type": "booster",
+            "release_date": "2023-03-24",
+            "slug": "riptide-blitz-deck-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "2d53a483-f214-4ee0-86da-772f0a92dbae",
+            "created_at": "2025-09-18T06:45:12.824326+12:00",
+            "updated_at": "2025-09-18T06:45:12.824336+12:00",
+            "set_code": "RIP",
+            "set_name": "Riptide - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "10fe24b7-51b5-4cd0-99fa-871252b216d0"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:02.654632+12:00",
+          "updated_at": "2025-09-18T06:51:02.654656+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_RIP015",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "common",
+          "card": "369a9bc1-a514-444e-814f-13ec3d705ea2"
+        },
+        {
+          "id": "374221c3-ba32-4087-b698-bf26f82c49bd",
+          "faces": [
+            {
+              "id": "b80aa441-3d08-47de-acc9-ac1cf69b388e",
+              "created_at": "2025-09-18T06:51:02.675389+12:00",
+              "updated_at": "2025-09-18T06:51:02.675401+12:00",
+              "face_id": "RIP015",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "RIP015",
+              "printed_artist": "Shen Fei",
+              "printed_name": "Hemorrhage Bore",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Arrows can only be played from arsenal and only if you control a bow.)_\nIf Hemorrhage Bore has an aim counter, it has \"When this hits a hero, destroy a card in their arsenal.\"",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Action - Arrow Attack",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "11eeffb0-cf35-4173-8e94-38a81482ef0c",
+              "card_print": "374221c3-ba32-4087-b698-bf26f82c49bd",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Hemorrhage Bore</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Action - Arrow Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Arrows can only be played from arsenal and only if you control a bow.)</em></p>\n<p>If Hemorrhage Bore has an aim counter, it has &quot;When this hits a hero, destroy a card in their arsenal.&quot;</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/RIP015.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/RIP015.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/RIP015.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "e159bba9-42a2-4c3b-aa2e-0c6e30e452da",
+            "product_group": {
+              "id": "cde7c655-f51c-495c-ab20-be1401fd8818",
+              "created_at": "2025-09-18T06:46:04.749628+12:00",
+              "updated_at": "2025-09-18T06:46:04.749638+12:00",
+              "group_name": "Riptide - Blitz Deck",
+              "product_type": "precon",
+              "release_date": "2023-03-24",
+              "slug": "riptide-blitz-deck"
+            },
+            "created_at": "2025-09-18T06:46:04.751343+12:00",
+            "updated_at": "2025-09-18T06:46:04.751353+12:00",
+            "printed_date": "2022-12-01",
+            "printed_language": "en",
+            "product_name": "Riptide - Blitz Deck",
+            "product_type": "booster",
+            "release_date": "2023-03-24",
+            "slug": "riptide-blitz-deck",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "2d53a483-f214-4ee0-86da-772f0a92dbae",
+            "created_at": "2025-09-18T06:45:12.824326+12:00",
+            "updated_at": "2025-09-18T06:45:12.824336+12:00",
+            "set_code": "RIP",
+            "set_name": "Riptide - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "10fe24b7-51b5-4cd0-99fa-871252b216d0"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:02.667630+12:00",
+          "updated_at": "2025-09-18T06:51:02.667642+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "RIP015",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "369a9bc1-a514-444e-814f-13ec3d705ea2"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:51:02.548143+12:00",
+      "updated_at": "2025-09-18T06:51:02.549953+12:00",
+      "card_id": "hemorrhage-bore-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

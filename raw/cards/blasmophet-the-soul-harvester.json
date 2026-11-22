@@ -1,0 +1,917 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "cc8e67ed-f2fd-45c6-8398-6f089c58f06a",
+      "cores": [
+        {
+          "id": "af56e699-fa44-4a19-8f95-dafbee3cdb23",
+          "core_classes": [],
+          "core_talents": [
+            {
+              "id": 8,
+              "name": "Shadow",
+              "name_en": "Shadow",
+              "name_fr": "Ombre",
+              "name_de": "Schatten",
+              "name_it": "Ombra",
+              "name_es": "Sombra",
+              "name_ja": "影",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 11,
+              "name": "Token",
+              "name_en": "Token",
+              "name_fr": "Jeton",
+              "name_de": "Spielstein",
+              "name_it": "Pedina",
+              "name_es": "Ficha",
+              "name_ja": "トークン",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 4,
+              "name": "Ally",
+              "name_en": "Ally",
+              "name_fr": "Allié",
+              "name_de": "Verbündeter",
+              "name_it": "Alleato",
+              "name_es": "Aliado",
+              "name_ja": "盟友",
+              "is_published": true,
+              "functional": true
+            },
+            {
+              "id": 25,
+              "name": "Demon",
+              "name_en": "Demon",
+              "name_fr": "Démon",
+              "name_de": "Dämon",
+              "name_it": "Demone",
+              "name_es": "Demonio",
+              "name_ja": null,
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-09-18T06:46:31.579369+12:00",
+          "updated_at": "2026-10-24T06:40:08.315735+13:00",
+          "name": "Blasmophet, the Soul Harvester",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "6",
+          "defense": "",
+          "intellect": "",
+          "life": "6",
+          "textbox": "**Once per Turn Action** -- 0: **Attack**{br}When Blasmophet attacks, you may banish a Shadow card from your hand. If you do, you may banish a card from the defending hero's soul.",
+          "typebox": "Shadow Token - Demon Ally",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": 6,
+          "card": "cc8e67ed-f2fd-45c6-8398-6f089c58f06a"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "04263cc2-72ce-439b-9de6-3451f460f765",
+          "faces": [
+            {
+              "id": "87452d90-5a8f-4669-94ae-477100869d48",
+              "created_at": "2025-09-18T06:46:31.608339+12:00",
+              "updated_at": "2026-04-02T09:54:41.040086+13:00",
+              "face_id": "MON219",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "token-dot",
+              "printed_code": "MON219",
+              "printed_artist": "Wisnu Tan",
+              "printed_name": "Blasmophet, the Soul Harvester",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Allies can be attacked and can't be defended with {d}. They are destroyed when they have taken damage equal to their {h}. At end of turn, heal all damage dealt to Blasmophet.)_\r\n**Once per Turn Action** -- 0: **Attack**\r\nWhenever Blasmophet attacks, you may banish a Shadow card from your hand. If you do, you may banish a card from the defending hero's soul.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Token - Demon Ally",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "af56e699-fa44-4a19-8f95-dafbee3cdb23",
+              "card_print": "04263cc2-72ce-439b-9de6-3451f460f765",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blasmophet, the Soul Harvester</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Token - Demon Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Allies can be attacked and can't be defended with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>. They are destroyed when they have taken damage equal to their <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. At end of turn, heal all damage dealt to Blasmophet.)</em></p>\n<p><strong>Once per Turn Action</strong> — 0: <strong>Attack</strong></p>\n<p>Whenever Blasmophet attacks, you may banish a Shadow card from your hand. If you do, you may banish a card from the defending hero's soul.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON219.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON219.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON219.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d67b98c4-28a5-4ba9-930e-e0184b1200e9",
+            "product_group": {
+              "id": "2afe1735-8517-4b79-8fde-ce2976518ca9",
+              "created_at": "2025-09-18T06:45:15.675414+12:00",
+              "updated_at": "2025-09-18T06:45:15.675427+12:00",
+              "group_name": "Monarch",
+              "product_type": "booster",
+              "release_date": "2021-05-07",
+              "slug": "monarch"
+            },
+            "created_at": "2025-09-18T06:45:15.677749+12:00",
+            "updated_at": "2025-09-18T06:45:15.677762+12:00",
+            "printed_date": "2021-01-01",
+            "printed_language": "en",
+            "product_name": "Monarch",
+            "product_type": "booster",
+            "release_date": "2021-05-07",
+            "slug": "monarch",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:31.601192+12:00",
+          "updated_at": "2025-09-18T06:46:31.601212+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MON219",
+          "set_number": 219,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "token",
+          "card": "cc8e67ed-f2fd-45c6-8398-6f089c58f06a"
+        },
+        {
+          "id": "29f9d48e-71b6-43ec-9b4b-cd183182f9f3",
+          "faces": [
+            {
+              "id": "5dbefa08-6f95-47d1-ab59-2426622724b0",
+              "created_at": "2025-09-18T06:46:31.628508+12:00",
+              "updated_at": "2026-04-02T09:54:44.469969+13:00",
+              "face_id": "U-MON219",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "token-circle",
+              "printed_code": "MON219",
+              "printed_artist": "Wisnu Tan",
+              "printed_name": "Blasmophet, the Soul Harvester",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Allies can be attacked and can't be defended with {d}. They are destroyed when they have taken damage equal to their {h}. At end of turn, heal all damage dealt to Blasmophet.)_\r\n**Once per Turn Action** -- 0: **Attack**\r\nWhenever Blasmophet attacks, you may banish a Shadow card from your hand. If you do, you may banish a card from the defending hero's soul.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Token - Demon Ally",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "af56e699-fa44-4a19-8f95-dafbee3cdb23",
+              "card_print": "29f9d48e-71b6-43ec-9b4b-cd183182f9f3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blasmophet, the Soul Harvester</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Token - Demon Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Allies can be attacked and can't be defended with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>. They are destroyed when they have taken damage equal to their <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. At end of turn, heal all damage dealt to Blasmophet.)</em></p>\n<p><strong>Once per Turn Action</strong> — 0: <strong>Attack</strong></p>\n<p>Whenever Blasmophet attacks, you may banish a Shadow card from your hand. If you do, you may banish a card from the defending hero's soul.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON219.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON219.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON219.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "9b2c55bd-b52e-4659-b7ce-1c065252bdc9",
+            "product_group": {
+              "id": "5540da88-0759-4e64-b420-24a33aa99a8c",
+              "created_at": "2025-09-18T06:45:15.705292+12:00",
+              "updated_at": "2025-09-18T06:45:15.705309+12:00",
+              "group_name": "Monarch - Unlimited",
+              "product_type": "booster",
+              "release_date": "2021-06-04",
+              "slug": "monarch-unlimited"
+            },
+            "created_at": "2025-09-18T06:45:15.707410+12:00",
+            "updated_at": "2025-09-18T06:45:15.707423+12:00",
+            "printed_date": "2021-04-01",
+            "printed_language": "en",
+            "product_name": "Monarch - Unlimited",
+            "product_type": "booster",
+            "release_date": "2021-06-04",
+            "slug": "monarch-unlimited",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:31.619627+12:00",
+          "updated_at": "2025-09-18T06:46:31.619644+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "U-MON219",
+          "set_number": 219,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "token",
+          "card": "cc8e67ed-f2fd-45c6-8398-6f089c58f06a"
+        },
+        {
+          "id": "31ff2c41-be57-4545-80e6-fbf85f94429a",
+          "faces": [
+            {
+              "id": "28103497-1abc-495f-adf8-4988a6b936e9",
+              "created_at": "2025-09-18T06:46:31.644983+12:00",
+              "updated_at": "2025-09-18T06:46:31.644995+12:00",
+              "face_id": "FAB021-CF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "shadow",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB021",
+              "printed_artist": "Wisnu Tan",
+              "printed_name": "Blasmophet, the Soul Harvester",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Allies can be attacked and can't be defended with {d}. They are destroyed when they have taken damage equal to their {h}. At end of turn, heal all damage dealt to Blasmophet.)_\n**Once per Turn Action** -- 0: **Attack**\nWhenever Blasmophet attacks, you may banish a Shadow card from yoru hand. If you do, you may banish a card from the defending hero's soul.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Token - Demon Ally",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "af56e699-fa44-4a19-8f95-dafbee3cdb23",
+              "card_print": "31ff2c41-be57-4545-80e6-fbf85f94429a",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blasmophet, the Soul Harvester</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Token - Demon Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Allies can be attacked and can't be defended with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>. They are destroyed when they have taken damage equal to their <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. At end of turn, heal all damage dealt to Blasmophet.)</em></p>\n<p><strong>Once per Turn Action</strong> — 0: <strong>Attack</strong></p>\n<p>Whenever Blasmophet attacks, you may banish a Shadow card from yoru hand. If you do, you may banish a card from the defending hero's soul.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB021-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB021-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB021-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1b281c84-84e4-454c-bff5-5ccb3cbb23f6",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:31.634429+12:00",
+            "updated_at": "2025-09-18T06:46:31.634443+12:00",
+            "printed_date": "2021-01-01",
+            "printed_language": "en",
+            "product_name": "Armory - Season 4",
+            "product_type": "booster",
+            "release_date": "2021-05-01",
+            "slug": "armory-season-4",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:31.639509+12:00",
+          "updated_at": "2025-09-18T06:46:31.639528+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB021-CF",
+          "set_number": 21,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "cc8e67ed-f2fd-45c6-8398-6f089c58f06a"
+        },
+        {
+          "id": "12c01346-c429-4af0-a037-1931701069d5",
+          "faces": [
+            {
+              "id": "e3ddd5cd-ea83-41aa-9cdb-158c91c12179",
+              "created_at": "2025-09-18T06:46:31.659412+12:00",
+              "updated_at": "2026-10-24T06:40:51.605046+13:00",
+              "face_id": "FAB041-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "shadow",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB041",
+              "printed_artist": "Wisnu Tan",
+              "printed_name": "Blasmophet, the Soul Harvester",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Allies can be attacked and can't be defended with {d}. They are destroyed when they have taken damage equal to their {h}. At end of turn, heal all damage dealt to Blasmophet.)_\r\n**Once per Turn Action** -- 0: **Attack**\r\nWhenever Blasmophet attacks, you may banish a Shadow card from yoru hand. If you do, you may banish a card from the defending hero's soul.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Token - Demon Ally",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "af56e699-fa44-4a19-8f95-dafbee3cdb23",
+              "card_print": "12c01346-c429-4af0-a037-1931701069d5",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blasmophet, the Soul Harvester</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Token - Demon Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Allies can be attacked and can't be defended with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>. They are destroyed when they have taken damage equal to their <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. At end of turn, heal all damage dealt to Blasmophet.)</em></p>\n<p><strong>Once per Turn Action</strong> — 0: <strong>Attack</strong></p>\n<p>Whenever Blasmophet attacks, you may banish a Shadow card from yoru hand. If you do, you may banish a card from the defending hero's soul.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB041-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB041-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB041-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c9094ba4-d7f1-41ac-8b22-d18b90c235dd",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:31.649137+12:00",
+            "updated_at": "2025-09-18T06:46:31.649152+12:00",
+            "printed_date": "2021-01-01",
+            "printed_language": "en",
+            "product_name": "Skirmish - Season 2",
+            "product_type": "booster",
+            "release_date": "2021-06-05",
+            "slug": "skirmish-season-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:31.653653+12:00",
+          "updated_at": "2025-09-18T06:46:31.653666+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB041-RF",
+          "set_number": 41,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "cc8e67ed-f2fd-45c6-8398-6f089c58f06a"
+        },
+        {
+          "id": "fad99983-b867-40f2-b67e-89bb73bae502",
+          "faces": [
+            {
+              "id": "c853da16-82de-4d00-beef-84bbd5136d83",
+              "created_at": "2025-09-18T06:46:31.674749+12:00",
+              "updated_at": "2025-09-18T06:46:31.674763+12:00",
+              "face_id": "DE_2HP292",
+              "face_language": "de",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP292",
+              "printed_artist": "Wisnu Tan",
+              "printed_name": "Blasphomet der Seelenernter",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Verbündete können angegriffen werden und können von dem Helden, der sie kontrolliert, nicht verteidigt werden. Sie sterben, falls sie 0{h} haben. Wenn der Zug endet, erhalten Verbündete volles Leben.)_{br}**Einmal pro Zug Aktion** -- 0: **Angriff**{br}Immer wenn Blasmophet angreift, kannst du eine Schatten Karte aus deiner Hand verbannen. Falls du dies tust, kannst du eine Karte aus der Seele des verteidigenden Helden verbannen.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Schatten Spielstein - Dämon Verbündeter",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "af56e699-fa44-4a19-8f95-dafbee3cdb23",
+              "card_print": "fad99983-b867-40f2-b67e-89bb73bae502",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blasphomet der Seelenernter</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Schatten Spielstein - Dämon Verbündeter</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Verbündete können angegriffen werden und können von dem Helden, der sie kontrolliert, nicht verteidigt werden. Sie sterben, falls sie 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> haben. Wenn der Zug endet, erhalten Verbündete volles Leben.)</em></p>\n<p><strong>Einmal pro Zug Aktion</strong> — 0: <strong>Angriff</strong></p>\n<p>Immer wenn Blasmophet angreift, kannst du eine Schatten Karte aus deiner Hand verbannen. Falls du dies tust, kannst du eine Karte aus der Seele des verteidigenden Helden verbannen.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_2HP292.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_2HP292.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_2HP292.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "462766fd-d70a-45d5-b7ac-35604650806e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.865684+12:00",
+            "updated_at": "2025-09-18T06:45:18.865697+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "de",
+            "product_name": "History Pack 2 - Black Label [DE]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-de",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:31.668523+12:00",
+          "updated_at": "2025-09-18T06:46:31.668537+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "DE_2HP292",
+          "set_number": 292,
+          "layout": "regular",
+          "print_language": "de",
+          "rarity": "common",
+          "card": "cc8e67ed-f2fd-45c6-8398-6f089c58f06a"
+        },
+        {
+          "id": "7c78ebd5-e5ae-4e47-bea9-f766263f6eba",
+          "faces": [
+            {
+              "id": "78e69e3c-778e-42ec-9c0a-8094d5336aa1",
+              "created_at": "2025-09-18T06:46:31.689696+12:00",
+              "updated_at": "2025-09-18T06:46:31.689719+12:00",
+              "face_id": "FR_2HP292",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP292",
+              "printed_artist": "Wisnu Tan",
+              "printed_name": "Blasmophet, moissonneur d’âmes",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Les alliés peuvent être attaqués et ne peuvent pas être défendus par le héros qui les contrôle. Ils meurent quand ils ont 0{g}. À la fin du tour, les points de vie des alliés sont réinitialisés.)_{br}**Action une fois par tour** -- 0: **Attaque**{br}Quand Blasmophet attaque, vous pouvez bannir une carte Ombre de votre main. Si vous le faites, vous pouvez bannir une carte de l’âme du héros défenseur.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Jeton - Démon Allié",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "af56e699-fa44-4a19-8f95-dafbee3cdb23",
+              "card_print": "7c78ebd5-e5ae-4e47-bea9-f766263f6eba",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blasmophet, moissonneur d’âmes</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Jeton - Démon Allié</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Les alliés peuvent être attaqués et ne peuvent pas être défendus par le héros qui les contrôle. Ils meurent quand ils ont 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. À la fin du tour, les points de vie des alliés sont réinitialisés.)</em></p>\n<p><strong>Action une fois par tour</strong> — 0: <strong>Attaque</strong></p>\n<p>Quand Blasmophet attaque, vous pouvez bannir une carte Ombre de votre main. Si vous le faites, vous pouvez bannir une carte de l’âme du héros défenseur.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_2HP292.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_2HP292.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_2HP292.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1106e491-00fd-48b7-9490-efec9eea1d82",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.885032+12:00",
+            "updated_at": "2025-09-18T06:45:18.885049+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "fr",
+            "product_name": "History Pack 2 - Black Label [FR]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:31.683438+12:00",
+          "updated_at": "2025-09-18T06:46:31.683453+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_2HP292",
+          "set_number": 292,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "cc8e67ed-f2fd-45c6-8398-6f089c58f06a"
+        },
+        {
+          "id": "16f884a8-16e6-42b2-95d0-62d54408d9c5",
+          "faces": [
+            {
+              "id": "ab6f66f1-e18c-4a42-a2e5-16687f96b68b",
+              "created_at": "2025-09-18T06:46:31.707187+12:00",
+              "updated_at": "2025-09-18T06:46:31.707205+12:00",
+              "face_id": "ES_2HP292",
+              "face_language": "es",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP292",
+              "printed_artist": "Wisnu Tan",
+              "printed_name": "Blasmofet, el cosechador de almas",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Los aliados pueden ser atacados y el héroe que los controla no los puede defender. Mueren cuando tienen OO. Al final del turno se reinician las vidas totales de los aliados)._{br}**Acción una vez por turno** -- 0: **Ataque**{br}Siempre que Blasmofet ataca, puedes desterrar una carta de Sombra de tu mano. Si lo haces, puedes desterrar una carta del alma del héroe que defiende.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ficha de sombra - Aliado demonio",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "af56e699-fa44-4a19-8f95-dafbee3cdb23",
+              "card_print": "16f884a8-16e6-42b2-95d0-62d54408d9c5",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blasmofet, el cosechador de almas</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ficha de sombra - Aliado demonio</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Los aliados pueden ser atacados y el héroe que los controla no los puede defender. Mueren cuando tienen OO. Al final del turno se reinician las vidas totales de los aliados).</em></p>\n<p><strong>Acción una vez por turno</strong> — 0: <strong>Ataque</strong></p>\n<p>Siempre que Blasmofet ataca, puedes desterrar una carta de Sombra de tu mano. Si lo haces, puedes desterrar una carta del alma del héroe que defiende.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_2HP292.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_2HP292.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_2HP292.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "12d72e87-64af-4eac-b939-9424be79855e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.900596+12:00",
+            "updated_at": "2025-09-18T06:45:18.900613+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "es",
+            "product_name": "History Pack 2 - Black Label [ES]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-es",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:31.700741+12:00",
+          "updated_at": "2025-09-18T06:46:31.700756+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ES_2HP292",
+          "set_number": 292,
+          "layout": "regular",
+          "print_language": "es",
+          "rarity": "common",
+          "card": "cc8e67ed-f2fd-45c6-8398-6f089c58f06a"
+        },
+        {
+          "id": "e39e27c3-6a0b-4844-89c7-2a158e643614",
+          "faces": [
+            {
+              "id": "6322b328-20d8-4d00-bb36-79d1352b0b7e",
+              "created_at": "2025-09-18T06:46:31.725345+12:00",
+              "updated_at": "2025-09-18T06:46:31.725364+12:00",
+              "face_id": "IT_2HP292",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP292",
+              "printed_artist": "Wisnu Tan",
+              "printed_name": "Blasmophet, Coglitore di Anime",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Gli alleati possono essere attaccati e non possono essere difesi dall'eroe che li controlla. Quando la loro {g} scende a 0, muoiono. Alla fine del turno, la vita degli alleati viene ripristinata.)_{br}**Azione una volta per turno** -- 0: **Attacco**{br}Ogni volta che Blasmophet attacca, puoi bandire una carta Ombra dalla tua mano. Se lo fai, puoi bandire una carta dall'anima dell'eroe in difesa.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pedina Ombra - Demone Alleato",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "af56e699-fa44-4a19-8f95-dafbee3cdb23",
+              "card_print": "e39e27c3-6a0b-4844-89c7-2a158e643614",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blasmophet, Coglitore di Anime</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pedina Ombra - Demone Alleato</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Gli alleati possono essere attaccati e non possono essere difesi dall'eroe che li controlla. Quando la loro <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> scende a 0, muoiono. Alla fine del turno, la vita degli alleati viene ripristinata.)</em></p>\n<p><strong>Azione una volta per turno</strong> — 0: <strong>Attacco</strong></p>\n<p>Ogni volta che Blasmophet attacca, puoi bandire una carta Ombra dalla tua mano. Se lo fai, puoi bandire una carta dall'anima dell'eroe in difesa.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_2HP292.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_2HP292.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_2HP292.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c24effd5-1d3d-4ed0-8f6f-c6a3c2098f91",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.923313+12:00",
+            "updated_at": "2025-09-18T06:45:18.923333+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "it",
+            "product_name": "History Pack 2 - Black Label [IT]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:31.717644+12:00",
+          "updated_at": "2025-09-18T06:46:31.717661+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_2HP292",
+          "set_number": 292,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "common",
+          "card": "cc8e67ed-f2fd-45c6-8398-6f089c58f06a"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:46:31.575078+12:00",
+      "updated_at": "2025-09-18T06:46:31.576388+12:00",
+      "card_id": "blasmophet-the-soul-harvester",
+      "card_type": "regular",
+      "object_type": "token"
+    }
+  ]
+}

@@ -1,0 +1,823 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "7562cff5-ce80-4322-b21f-8a9de9b954d8",
+      "cores": [
+        {
+          "id": "53a4ebc8-fdf4-4c59-8d09-52800998c370",
+          "core_classes": [
+            {
+              "id": 37,
+              "name": "Necromancer",
+              "name_en": "Necromancer",
+              "name_fr": null,
+              "name_de": null,
+              "name_it": null,
+              "name_es": null,
+              "name_ja": null,
+              "is_published": true
+            },
+            {
+              "id": 36,
+              "name": "Pirate",
+              "name_en": "Pirate",
+              "name_fr": null,
+              "name_de": null,
+              "name_it": null,
+              "name_es": null,
+              "name_ja": null,
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 4,
+              "name": "Ally",
+              "name_en": "Ally",
+              "name_fr": "Allié",
+              "name_de": "Verbündeter",
+              "name_it": "Alleato",
+              "name_es": "Aliado",
+              "name_ja": "盟友",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:55:32.301384+12:00",
+          "updated_at": "2025-09-18T06:55:32.316111+12:00",
+          "name": "Scooba, Salty Sea Dog",
+          "layout_position": 10,
+          "pitch": "2",
+          "pitch_chi": "",
+          "color": "yellow",
+          "cost": "0",
+          "power": "4",
+          "defense": "",
+          "intellect": "",
+          "life": "4",
+          "textbox": "**Action** -- {r}{r}{r}, {t}: **Attack**{br}When this attacks, you may put a yellow card from a graveyard on the bottom of its owner's deck. If you do, create a Gold token.{br}**Watery Grave**",
+          "typebox": "Pirate Necromancer Action - Ally",
+          "traitbox": "",
+          "pitch_value": 2,
+          "pitch_chi_value": null,
+          "cost_value": 0,
+          "power_value": 4,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": 4,
+          "card": "7562cff5-ce80-4322-b21f-8a9de9b954d8"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "f2fe2729-dbea-4871-a7d8-16577ff66252",
+          "faces": [
+            {
+              "id": "1b699d93-4d50-4109-8d9e-7e227b28d983",
+              "created_at": "2025-09-18T06:55:32.330400+12:00",
+              "updated_at": "2025-09-18T06:55:32.330414+12:00",
+              "face_id": "FR_SEA061",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA061",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "Scooba, chien de mer salé",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "4",
+              "printed_rules_text": "**Action** -- {r}{r}{r}, {t} : **Attaque**{br}Quand cette carte attaque, vous pouvez mettre une carte jaune d’un cimetière au-dessous du deck de son propriétaire. Si vous le faites, créez un jeton Or.{br}**Tombe aquatique** _(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Nécromancien Action - Allié",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "53a4ebc8-fdf4-4c59-8d09-52800998c370",
+              "card_print": "f2fe2729-dbea-4871-a7d8-16577ff66252",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Scooba, chien de mer salé</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Nécromancien Action - Allié</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <strong>Attaque</strong></p>\n<p>Quand cette carte attaque, vous pouvez mettre une carte jaune d’un cimetière au-dessous du deck de son propriétaire. Si vous le faites, créez un jeton Or.</p>\n<p><strong>Tombe aquatique</strong> <em>(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA061.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA061.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA061.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:32.324130+12:00",
+          "updated_at": "2025-09-18T06:55:32.324153+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA061",
+          "set_number": 61,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "7562cff5-ce80-4322-b21f-8a9de9b954d8"
+        },
+        {
+          "id": "5f08a0c2-9e4f-43fb-a490-09970aadf4b2",
+          "faces": [
+            {
+              "id": "739702d8-d498-4b3d-92fb-6a7c0dec219f",
+              "created_at": "2025-09-18T06:55:32.340643+12:00",
+              "updated_at": "2025-09-18T06:55:32.340653+12:00",
+              "face_id": "FR_SEA061-MV",
+              "face_language": "fr",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "SEA061",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "Scooba, chien de mer salé",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "4",
+              "printed_rules_text": "**Action** -- {r}{r}{r}, {t} : **Attaque**{br}Quand cette carte attaque, vous pouvez mettre une carte jaune d’un cimetière au-dessous du deck de son propriétaire. Si vous le faites, créez un jeton Or.{br}**Tombe aquatique** _(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Nécromancien Action - Allié",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "53a4ebc8-fdf4-4c59-8d09-52800998c370",
+              "card_print": "5f08a0c2-9e4f-43fb-a490-09970aadf4b2",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Scooba, chien de mer salé</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Nécromancien Action - Allié</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <strong>Attaque</strong></p>\n<p>Quand cette carte attaque, vous pouvez mettre une carte jaune d’un cimetière au-dessous du deck de son propriétaire. Si vous le faites, créez un jeton Or.</p>\n<p><strong>Tombe aquatique</strong> <em>(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA061-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA061-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA061-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:32.336957+12:00",
+          "updated_at": "2025-09-18T06:55:32.336967+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA061-MV",
+          "set_number": 61,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "marvel",
+          "card": "7562cff5-ce80-4322-b21f-8a9de9b954d8"
+        },
+        {
+          "id": "0aeeaa16-a1b8-44d6-aa37-3cf06a261f04",
+          "faces": [
+            {
+              "id": "f880414c-db4c-4523-b70e-0af4d31ac017",
+              "created_at": "2025-09-18T06:55:32.352625+12:00",
+              "updated_at": "2025-09-18T06:55:32.352634+12:00",
+              "face_id": "JA_SEA061",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA061",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "腐乱の海犬、スクーバ",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "4",
+              "printed_rules_text": "**アクション**--{r}{r}{r}, {t}：**攻撃**{br}これが攻撃したとき、いずれかの墓地の黄のカード１枚をオーナーのデッキの下に置いてもよい。そうした場合、「金貨」トークンを１つ作成する。{br}**溺墓**（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）",
+              "printed_flavor_text": "",
+              "printed_typebox": "海賊・死霊術師・アクション － 盟友",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "53a4ebc8-fdf4-4c59-8d09-52800998c370",
+              "card_print": "0aeeaa16-a1b8-44d6-aa37-3cf06a261f04",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>腐乱の海犬、スクーバ</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>海賊・死霊術師・アクション － 盟友</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：<strong>攻撃</strong></p>\n<p>これが攻撃したとき、いずれかの墓地の黄のカード１枚をオーナーのデッキの下に置いてもよい。そうした場合、「金貨」トークンを１つ作成する。</p>\n<p><strong>溺墓</strong>（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA061.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA061.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA061.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:32.348495+12:00",
+          "updated_at": "2025-09-18T06:55:32.348506+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA061",
+          "set_number": 61,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "7562cff5-ce80-4322-b21f-8a9de9b954d8"
+        },
+        {
+          "id": "9dd5c7fa-2217-47ee-b490-16ac58cc67a8",
+          "faces": [
+            {
+              "id": "41f98c4b-75d4-4a97-a9df-718582b47228",
+              "created_at": "2025-09-18T06:55:32.365094+12:00",
+              "updated_at": "2025-09-18T06:55:32.365106+12:00",
+              "face_id": "JA_SEA061-MV",
+              "face_language": "ja",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "SEA061",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "腐乱の海犬、スクーバ",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "4",
+              "printed_rules_text": "**アクション**--{r}{r}{r}, {t}：**攻撃**{br}これが攻撃したとき、いずれかの墓地の黄のカード１枚をオーナーのデッキの下に置いてもよい。そうした場合、「金貨」トークンを１つ作成する。{br}**溺墓**（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）",
+              "printed_flavor_text": "",
+              "printed_typebox": "海賊・死霊術師・アクション － 盟友",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "53a4ebc8-fdf4-4c59-8d09-52800998c370",
+              "card_print": "9dd5c7fa-2217-47ee-b490-16ac58cc67a8",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>腐乱の海犬、スクーバ</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>海賊・死霊術師・アクション － 盟友</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：<strong>攻撃</strong></p>\n<p>これが攻撃したとき、いずれかの墓地の黄のカード１枚をオーナーのデッキの下に置いてもよい。そうした場合、「金貨」トークンを１つ作成する。</p>\n<p><strong>溺墓</strong>（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA061-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA061-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA061-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:32.359223+12:00",
+          "updated_at": "2025-09-18T06:55:32.359240+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA061-MV",
+          "set_number": 61,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "marvel",
+          "card": "7562cff5-ce80-4322-b21f-8a9de9b954d8"
+        },
+        {
+          "id": "4ad92c02-a45e-4223-9d2e-ac439d01e346",
+          "faces": [
+            {
+              "id": "e3b22a7a-1b66-48e7-b0c8-789d86d3ddb3",
+              "created_at": "2025-09-18T06:55:32.381533+12:00",
+              "updated_at": "2025-09-18T06:55:32.381543+12:00",
+              "face_id": "SEA061",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA061",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "Scooba, Salty Sea Dog",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "4",
+              "printed_rules_text": "**Action** -- {r}{r}{r}, {t}: **Attack**{br}When this attacks, you may put a yellow card from a graveyard on the bottom of its owner's deck. If you do, create a Gold token.{br}**Watery Grave**  _(When this is put into your graveyard from the arena, turn it face-down.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Necromancer Action - Ally",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "53a4ebc8-fdf4-4c59-8d09-52800998c370",
+              "card_print": "4ad92c02-a45e-4223-9d2e-ac439d01e346",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Scooba, Salty Sea Dog</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong></p>\n<p>When this attacks, you may put a yellow card from a graveyard on the bottom of its owner's deck. If you do, create a Gold token.</p>\n<p><strong>Watery Grave</strong>  <em>(When this is put into your graveyard from the arena, turn it face-down.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA061.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA061.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA061.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:32.376552+12:00",
+          "updated_at": "2025-09-18T06:55:32.376567+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA061",
+          "set_number": 61,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "7562cff5-ce80-4322-b21f-8a9de9b954d8"
+        },
+        {
+          "id": "7f328b7b-2552-4426-9573-a230a496076e",
+          "faces": [
+            {
+              "id": "3a5a23ba-be16-466a-8f9b-f2f9a6f5e105",
+              "created_at": "2025-09-18T06:55:32.394933+12:00",
+              "updated_at": "2025-09-18T06:55:32.394946+12:00",
+              "face_id": "SEA061-MV",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "SEA061",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "Scooba, Salty Sea Dog",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "4",
+              "printed_rules_text": "**Action** -- {r}{r}{r}, {t}: **Attack**{br}When this attacks, you may put a yellow card from a graveyard on the bottom of its owner's deck. If you do, create a Gold token.{br}**Watery Grave**  _(When this is put into your graveyard from the arena, turn it face-down.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Necromancer Action - Ally",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "53a4ebc8-fdf4-4c59-8d09-52800998c370",
+              "card_print": "7f328b7b-2552-4426-9573-a230a496076e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Scooba, Salty Sea Dog</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong></p>\n<p>When this attacks, you may put a yellow card from a graveyard on the bottom of its owner's deck. If you do, create a Gold token.</p>\n<p><strong>Watery Grave</strong>  <em>(When this is put into your graveyard from the arena, turn it face-down.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA061-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA061-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA061-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:32.390094+12:00",
+          "updated_at": "2025-09-18T06:55:32.390115+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA061-MV",
+          "set_number": 61,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "marvel",
+          "card": "7562cff5-ce80-4322-b21f-8a9de9b954d8"
+        },
+        {
+          "id": "14f98a57-a6d2-4ef8-a9d3-5bd91e71d3bc",
+          "faces": [
+            {
+              "id": "2793d026-8266-4938-827a-133fb5401176",
+              "created_at": "2025-09-18T06:55:32.404097+12:00",
+              "updated_at": "2025-09-18T06:55:32.404109+12:00",
+              "face_id": "LGS407-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS407",
+              "printed_artist": "Narendra B Adi",
+              "printed_name": "Scooba, Salty Sea Dog",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "4",
+              "printed_rules_text": "**Action** -- {r}{r}{r}, {t}: **Attack**{br}When this attacks, you may put a yellow card from a graveyard on the bottom of its owner's deck. If you do, create a Gold token.{br}**Watery Grave**  _(When this is put into your graveyard from the arena, turn it face-down.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Necromancer Action - Ally",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "53a4ebc8-fdf4-4c59-8d09-52800998c370",
+              "card_print": "14f98a57-a6d2-4ef8-a9d3-5bd91e71d3bc",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Scooba, Salty Sea Dog</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong></p>\n<p>When this attacks, you may put a yellow card from a graveyard on the bottom of its owner's deck. If you do, create a Gold token.</p>\n<p><strong>Watery Grave</strong>  <em>(When this is put into your graveyard from the arena, turn it face-down.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS407-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS407-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS407-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "bfb01c53-2a00-464a-b98f-44cdf3b55bcc",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:07.202254+12:00",
+            "updated_at": "2025-09-18T06:46:07.202264+12:00",
+            "printed_date": "2024-04-01",
+            "printed_language": "en",
+            "product_name": "World Premiere - High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "world-premiere-high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:32.400394+12:00",
+          "updated_at": "2025-09-18T06:55:32.400405+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS407-RF",
+          "set_number": 407,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "7562cff5-ce80-4322-b21f-8a9de9b954d8"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:55:32.297113+12:00",
+      "updated_at": "2025-09-18T06:55:32.298495+12:00",
+      "card_id": "scooba-salty-sea-dog-2",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 1,
+  "id": "oldhim",
+  "name": "Oldhim",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Oldhim",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Elemental Guardian Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Guardian"
+      ],
+      "talents": [
+        "Elemental"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "**Essence of Earth and Ice**{br}**Once per Turn Defense Reaction** -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to you this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.",
+        "plain": "Essence of Earth and Ice\nOnce per Turn Defense Reaction -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to you this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ELE002",
+      "code": "ELE002",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ELE002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Oldhim",
+          "typeLine": "Elemental Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Essence of Earth and Ice** _(You may have Earth and Ice cards in your deck.)_\n**Once per Turn Defense Reaction** -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.",
+            "plain": "Essence of Earth and Ice _(You may have Earth and Ice cards in your deck.)_\nOnce per Turn Defense Reaction -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.",
+            "html": "<p><strong>Essence of Earth and Ice</strong> <em>(You may have Earth and Ice cards in your deck.)</em></p>\n<p><strong>Once per Turn Defense Reaction</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "ELE002",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OLD001-RF",
+      "code": "OLD001",
+      "language": "en",
+      "set": "OLD",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "oldhim-blitz-deck",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OLD001-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Oldhim",
+          "typeLine": "Elemental Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Essence of Earth and Ice** _(You may have Earth and Ice cards in your deck.)_\n**Once per Turn Defense Reaction** -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.",
+            "plain": "Essence of Earth and Ice _(You may have Earth and Ice cards in your deck.)_\nOnce per Turn Defense Reaction -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.",
+            "html": "<p><strong>Essence of Earth and Ice</strong> <em>(You may have Earth and Ice cards in your deck.)</em></p>\n<p><strong>Once per Turn Defense Reaction</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "OLD001",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OLD001-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OLD001-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OLD001-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ELE002",
+      "code": "ELE002",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria-unlimited",
+      "releaseDate": "2021-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ELE002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Oldhim",
+          "typeLine": "Elemental Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Essence of Earth and Ice** _(You may have Earth and Ice cards in your deck.)_\n**Once per Turn Defense Reaction** -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.",
+            "plain": "Essence of Earth and Ice _(You may have Earth and Ice cards in your deck.)_\nOnce per Turn Defense Reaction -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.",
+            "html": "<p><strong>Essence of Earth and Ice</strong> <em>(You may have Earth and Ice cards in your deck.)</em></p>\n<p><strong>Once per Turn Defense Reaction</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "ELE002",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER045-CF",
+      "code": "HER045",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 45,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "skirmish-season-3",
+      "releaseDate": "2021-11-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER045-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Oldhim",
+          "typeLine": "Elemental Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Essence of Earth and Ice** _(You may have Earth and Ice cards in your deck.)_\n**Once per Turn Defense Reaction** -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.",
+            "plain": "Essence of Earth and Ice _(You may have Earth and Ice cards in your deck.)_\nOnce per Turn Defense Reaction -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.",
+            "html": "<p><strong>Essence of Earth and Ice</strong> <em>(You may have Earth and Ice cards in your deck.)</em></p>\n<p><strong>Once per Turn Defense Reaction</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER045",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER045-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER045-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER045-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PEN345-MV",
+      "code": "PEN345",
+      "language": "en",
+      "set": "PEN",
+      "setNumber": 345,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "compendium-of-rathe",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "PEN345-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Oldhim",
+          "typeLine": "Elemental Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Defense Reaction** -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to you this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.{br}**Essence of Earth and Ice**",
+            "plain": "Once per Turn Defense Reaction -- {r}{r}{r}: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to you this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.\nEssence of Earth and Ice",
+            "html": "<p><strong>Once per Turn Defense Reaction</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to you this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.</p>\n<p><strong>Essence of Earth and Ice</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "PEN345",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN345-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN345-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN345-MV.webp"
+          }
+        },
+        {
+          "id": "PEN345-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Oldhim",
+          "typeLine": "Elemental Guardian Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN345-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN345-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN345-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Essence of Earth and Ice"
+    ],
+    "editions": {
+      "U-ELE002": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:32:33Z",
+    "rawSha256": "969a0a5aa4225526c0ffc83c9d1adadc4733cc2ed4621a1b64012a0b62b6d319",
+    "updatedAt": "2026-05-26T07:39:27.908707+12:00"
+  }
+}

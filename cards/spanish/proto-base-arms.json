@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "proto-base-arms",
+  "language": "es",
+  "name": "Protobrazos base",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Protobrazos base",
+      "typeLine": "Equipo de mecanólogo - Brazos base",
+      "classes": [
+        "Mecanólogo"
+      ],
+      "types": [
+        "Equipo"
+      ],
+      "subtypes": [
+        "Brazos",
+        "Base"
+      ],
+      "text": {
+        "markup": "_(Un jugador puede añadir Protobrazos base a su conjunto de cartas en un formato limitado de Bright Lights)._",
+        "plain": "_(Un jugador puede añadir Protobrazos base a su conjunto de cartas en un formato limitado de Bright Lights)._",
+        "html": "<p><em>(Un jugador puede añadir Protobrazos base a su conjunto de cartas en un formato limitado de Bright Lights).</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_EVO024",
+      "code": "EVO024",
+      "language": "es",
+      "set": "EVO",
+      "setNumber": 24,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-es",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_EVO024",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Protobrazos base",
+          "typeLine": "Equipo de mecanólogo - Brazos base",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Un jugador puede añadir Protobrazos base a su conjunto de cartas en un formato limitado de Bright Lights)._",
+            "plain": "_(Un jugador puede añadir Protobrazos base a su conjunto de cartas en un formato limitado de Bright Lights)._",
+            "html": "<p><em>(Un jugador puede añadir Protobrazos base a su conjunto de cartas en un formato limitado de Bright Lights).</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO024",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Grigoriy Parshakov",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_EVO024.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_EVO024.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_EVO024.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "id": "arakni-trap-door",
+  "name": "Arakni, Trap-Door",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Arakni, Trap-Door",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": 4,
+      "printedStats": {
+        "life": "*"
+      },
+      "typeLine": "Chaos Assassin Demi-Hero",
+      "traitLine": "Agent of Chaos",
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [
+        "Chaos"
+      ],
+      "types": [
+        "Demi-Hero"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.{br}At the beginning of your end phase, **return to the brood**.",
+        "plain": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.\nAt the beginning of your end phase, return to the brood."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HNT008",
+      "code": "HNT008",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 8,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT008",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Arakni, Trap-Door",
+          "typeLine": "Chaos Assassin Demi-Hero",
+          "traitLine": "Agent of Chaos",
+          "text": {
+            "markup": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.{br}At the beginning of your end phase, **return to the brood**. _(Revert to your base hero.)_",
+            "plain": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.\nAt the beginning of your end phase, return to the brood. _(Revert to your base hero.)_",
+            "html": "<p>When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.</p>\n<p>At the beginning of your end phase, <strong>return to the brood</strong>. <em>(Revert to your base hero.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "*",
+            "intellect": "4"
+          },
+          "printedCode": "HNT008",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "chaos",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT008.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT008.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT008.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HNT008-MV",
+      "code": "HNT008",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 8,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT008-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Arakni, Trap-Door",
+          "typeLine": "Chaos Assassin Demi-Hero",
+          "traitLine": "Agent of Chaos",
+          "text": {
+            "markup": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.{br}At the beginning of your end phase, **return to the brood**. _(Revert to your base hero.)_",
+            "plain": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.\nAt the beginning of your end phase, return to the brood. _(Revert to your base hero.)_",
+            "html": "<p>When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.</p>\n<p>At the beginning of your end phase, <strong>return to the brood</strong>. <em>(Revert to your base hero.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "*",
+            "intellect": "4"
+          },
+          "printedCode": "HNT008",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "chaos",
+          "frameStyle": "borderless",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT008-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT008-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT008-MV.webp"
+          }
+        },
+        {
+          "id": "HNT008-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Arakni, Trap-Door",
+          "typeLine": "Chaos Assassin Demi-Hero",
+          "traitLine": "Agent of Chaos",
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "EN",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT008-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT008-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT008-MV_BACK.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS381-RF",
+      "code": "LGS381",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 381,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "world-premiere-the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS381-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Arakni, Trap-Door",
+          "typeLine": "Chaos Assassin Demi-Hero",
+          "traitLine": "Agent of Chaos",
+          "text": {
+            "markup": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.{br}At the beginning of your end phase, **return to the brood**. _(Revert to your base hero.)_",
+            "plain": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.\nAt the beginning of your end phase, return to the brood. _(Revert to your base hero.)_",
+            "html": "<p>When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.</p>\n<p>At the beginning of your end phase, <strong>return to the brood</strong>. <em>(Revert to your base hero.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "*",
+            "intellect": "4"
+          },
+          "printedCode": "LGS381",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "chaos",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS381-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS381-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS381-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WOD032",
+      "code": "WOD032",
+      "language": "en",
+      "set": "WOD",
+      "setNumber": 32,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted-blitz-deck-arakni-web-of-deceit",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WOD032",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Arakni, Trap-Door",
+          "typeLine": "Chaos Assassin Demi-Hero",
+          "traitLine": "Agent of Chaos",
+          "text": {
+            "markup": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.{br}At the beginning of your end phase, **return to the brood**. _(Revert to your base hero.)_",
+            "plain": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.\nAt the beginning of your end phase, return to the brood. _(Revert to your base hero.)_",
+            "html": "<p>When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.</p>\n<p>At the beginning of your end phase, <strong>return to the brood</strong>. <em>(Revert to your base hero.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "*",
+            "intellect": "4"
+          },
+          "printedCode": "WOD032",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "chaos",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WOD032.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WOD032.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WOD032.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAR039",
+      "code": "SAR039",
+      "language": "en",
+      "set": "SAR",
+      "setNumber": 39,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-arakni-web-of-deceit",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-30T13:10:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SAR039",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Arakni, Trap-Door",
+          "typeLine": "Chaos Assassin Demi-Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.{br}At the beginning of your end phase, **return to the brood**. _(Revert to your base hero.)_",
+            "plain": "When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.\nAt the beginning of your end phase, return to the brood. _(Revert to your base hero.)_",
+            "html": "<p>When you become this, you may search your deck for a card, banish it face-down, then shuffle. If it's a trap, you may play it until the start of your next turn.</p>\n<p>At the beginning of your end phase, <strong>return to the brood</strong>. <em>(Revert to your base hero.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "*",
+            "intellect": "4"
+          },
+          "printedCode": "SAR039",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAR039.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAR039.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAR039.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "return to the brood"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:38:36Z",
+    "rawSha256": "eb09423e371d95353ff3c17b2c96cbcb98ae4a92fc7dccac2be1bc97b97bcfcc",
+    "updatedAt": "2025-09-18T06:45:38.564854+12:00"
+  }
+}

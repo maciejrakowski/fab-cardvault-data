@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "proto-base-chest",
+  "language": "it",
+  "name": "Torso Base Proto",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Torso Base Proto",
+      "typeLine": "Equipaggiamento Meccanologo - Torso Base",
+      "classes": [
+        "Meccanologo"
+      ],
+      "types": [
+        "Equipaggiamento"
+      ],
+      "subtypes": [
+        "Base",
+        "Torso"
+      ],
+      "text": {
+        "markup": "_(Puoi aggiungere un Torso Base Proto al tuo insieme di carte nel formato limited Bright Lights.)_",
+        "plain": "_(Puoi aggiungere un Torso Base Proto al tuo insieme di carte nel formato limited Bright Lights.)_",
+        "html": "<p><em>(Puoi aggiungere un Torso Base Proto al tuo insieme di carte nel formato limited Bright Lights.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_EVO023",
+      "code": "EVO023",
+      "language": "it",
+      "set": "EVO",
+      "setNumber": 23,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-it",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_EVO023",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Torso Base Proto",
+          "typeLine": "Equipaggiamento Meccanologo - Torso Base",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Puoi aggiungere un Torso Base Proto al tuo insieme di carte nel formato limited Bright Lights.)_",
+            "plain": "_(Puoi aggiungere un Torso Base Proto al tuo insieme di carte nel formato limited Bright Lights.)_",
+            "html": "<p><em>(Puoi aggiungere un Torso Base Proto al tuo insieme di carte nel formato limited Bright Lights.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO023",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Dmitriy Semyonov",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_EVO023.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_EVO023.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_EVO023.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

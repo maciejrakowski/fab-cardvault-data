@@ -1,0 +1,442 @@
+{
+  "schemaVersion": 1,
+  "id": "braveforge-bracers",
+  "name": "Braveforge Bracers",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Braveforge Bracers",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Warrior Equipment - Arms",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Arms"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}: Your next weapon attack this turn gets +1{p}. Activate this only if a weapon you control has hit this turn. **Go again**{br}**Battleworn**",
+        "plain": "Once per Turn Action -- {r}: Your next weapon attack this turn gets +1{p}. Activate this only if a weapon you control has hit this turn. Go again\nBattleworn"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "WTR116-CF",
+      "code": "WTR116-L",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 116,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR116-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Braveforge Bracers",
+          "typeLine": "Warrior Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. **Go again**\n**Battleworn** _(If you defend with Braveforge Bracers, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Once per Turn Action -- {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. Go again\nBattleworn _(If you defend with Braveforge Bracers, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Your next weapon attack this turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. Activate this ability only if a weapon you control has hit this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Braveforge Bracers, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR116-L",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR116-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR116-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR116-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB006-GF",
+      "code": "FAB006-P",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB006-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Braveforge Bracers",
+          "typeLine": "Warrior Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. **Go again**\n**Battleworn** _(If you defend with Braveforge Bracers, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Once per Turn Action -- {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. Go again\nBattleworn _(If you defend with Braveforge Bracers, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Your next weapon attack this turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. Activate this ability only if a weapon you control has hit this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Braveforge Bracers, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB006-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB006-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB006-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB006-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR116-RF",
+      "code": "WTR116",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 116,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR116-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Braveforge Bracers",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. **Go again**{br}**Battleworn** _(If you defend with Braveforge Bracers, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Once per Turn Action -- {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. Go again\nBattleworn _(If you defend with Braveforge Bracers, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Your next weapon attack this turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. Activate this ability only if a weapon you control has hit this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Braveforge Bracers, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR116",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "legendary-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR116-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR116-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR116-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR116-RF",
+      "code": "WTR116",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 116,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR116-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Braveforge Bracers",
+          "typeLine": "Warrior Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. **Go again**\n**Battleworn** _(If you defend with Braveforge Bracers, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Once per Turn Action -- {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. Go again\nBattleworn _(If you defend with Braveforge Bracers, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Your next weapon attack this turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. Activate this ability only if a weapon you control has hit this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Braveforge Bracers, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR116",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "legendary-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR116-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR116-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR116-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP144",
+      "code": "1HP144",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 144,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP144",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Braveforge Bracers",
+          "typeLine": "Warrior Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. **Go again**\n**Battleworn** _(If you defend with Braveforge Bracers, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Once per Turn Action -- {r}: Your next weapon attack this turn gains +1{p}. Activate this ability only if a weapon you control has hit this turn. Go again\nBattleworn _(If you defend with Braveforge Bracers, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Your next weapon attack this turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. Activate this ability only if a weapon you control has hit this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(If you defend with Braveforge Bracers, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP144",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "legendary-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP144.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP144.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP144.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MPW011-RF",
+      "code": "MPW011",
+      "language": "en",
+      "set": "MPW",
+      "setNumber": 11,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-warrior",
+      "releaseDate": "2026-08-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-29T16:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "MPW011-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Braveforge Bracers",
+          "typeLine": "Warrior Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: Your next weapon attack this turn gets +1{p}. Activate this only if a weapon you control has hit this turn. **Go again**{br}**Battleworn** _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "plain": "Once per Turn Action -- {r}: Your next weapon attack this turn gets +1{p}. Activate this only if a weapon you control has hit this turn. Go again\nBattleworn _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Your next weapon attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. Activate this only if a weapon you control has hit this turn. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MPW011",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "legendary-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPW011-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPW011-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW011-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Battleworn",
+      "Go again"
+    ],
+    "editions": {
+      "R-WTR116-RF": "unlimited-revised",
+      "U-WTR116-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:06:20Z",
+    "rawSha256": "7ac29c9cf7070dd0be917a81e93cb658aea9e560d7baa7c172abcb3332195cb7",
+    "updatedAt": "2025-09-18T06:47:01.276485+12:00"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "boulder-drop-2",
+  "name": "Boulder Drop",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Boulder Drop",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 3,
+      "power": 6,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Guardian Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Guardian"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.",
+        "plain": "Crush - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "TCC039",
+      "code": "TCC039",
+      "language": "en",
+      "set": "TCC",
+      "setNumber": 39,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "round-the-table-tcc-x-lss",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TCC039",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Boulder Drop",
+          "typeLine": "Guardian Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.",
+            "plain": "Crush - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.",
+            "html": "<p><strong>Crush</strong> - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "3",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TCC039",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Raphael Pinna",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC039.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC039.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC039.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TNP038-MV",
+      "code": "TNP038",
+      "language": "en",
+      "set": "TNP",
+      "setNumber": 38,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "tournament-pack",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-05-30T08:50:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "TNP038-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Boulder Drop",
+          "typeLine": "Guardian Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Crush** - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.",
+            "plain": "Crush - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.",
+            "html": "<p><strong>Crush</strong> - When this deals 4 or more damage to a hero, they put a card from their hand on top of their deck.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "3",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TNP038",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Raphael Pinna",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TNP038-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TNP038-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP038-MV.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Crush"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:55:10Z",
+    "rawSha256": "9165fa8d687b8e89a06eb26d4cdcb09b115804e8c0ca49c7dc29f4c5a9ccf303",
+    "updatedAt": "2025-09-18T06:46:58.197714+12:00"
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "id": "earthlore-bounty",
+  "name": "Earthlore Bounty",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Earthlore Bounty",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Guardian Equipment - Chest",
+      "traitLine": null,
+      "classes": [
+        "Guardian"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Chest"
+      ],
+      "text": {
+        "markup": "Whenever you draw 1 or more cards from an action card effect, create that many Seismic Surge tokens.{br}**Temper**",
+        "plain": "Whenever you draw 1 or more cards from an action card effect, create that many Seismic Surge tokens.\nTemper"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #10] Earthlore Bounty - triggers only once",
+      "description": "This card's textbox was updated to unambiguously trigger once per card draw multi-event.",
+      "date": "09-03-2026"
+    }
+  ],
+  "printings": [
+    {
+      "id": "EVR020",
+      "code": "EVR020",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 20,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR020",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Earthlore Bounty",
+          "typeLine": "Guardian  Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.\n**Temper** _(If you defend with Earthlore Bounty, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "plain": "Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.\nTemper _(If you defend with Earthlore Bounty, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "html": "<p>Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.</p>\n<p><strong>Temper</strong> <em>(If you defend with Earthlore Bounty, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes then destroy it if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR020",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR020.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR020.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR020.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVR020-CF",
+      "code": "EVR020",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 20,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR020-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Earthlore Bounty",
+          "typeLine": "Guardian  Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.\n**Temper** _(If you defend with Earthlore Bounty, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "plain": "Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.\nTemper _(If you defend with Earthlore Bounty, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "html": "<p>Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.</p>\n<p><strong>Temper</strong> <em>(If you defend with Earthlore Bounty, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes then destroy it if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR020",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "majestic-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR020-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR020-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR020-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB076-GF",
+      "code": "FAB076",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 76,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "proquest-season-1-and-2",
+      "releaseDate": "2022-02-19",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB076-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Earthlore Bounty",
+          "typeLine": "Guardian Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.\n**Temper** _(If you defend with Earthlore Bounty, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "plain": "Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.\nTemper _(If you defend with Earthlore Bounty, put a -1{d} counter on it when the combat chain closes then destroy it if it has 0{d}.)_",
+            "html": "<p>Whenever you draw a card from the effect of an action card, create a Seismic Surge token for each card drawn this way.</p>\n<p><strong>Temper</strong> <em>(If you defend with Earthlore Bounty, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes then destroy it if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB076",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB076-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB076-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB076-GF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Temper"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:21:16Z",
+    "rawSha256": "215f420de9adf0fd71c8ed0896ec22d5c56772cb19da1f5e89dea1e4896fe40b",
+    "updatedAt": "2025-09-18T06:49:00.059917+12:00"
+  }
+}

@@ -1,0 +1,568 @@
+{
+  "schemaVersion": 1,
+  "id": "herald-of-judgment-2",
+  "name": "Herald of Judgment",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Herald of Judgment",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 2,
+      "power": 6,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Light Illusionist Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Illusionist"
+      ],
+      "talents": [
+        "Light"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "**Prism Specialization**{br}When this hits, put it into your soul and the defending hero can't play cards from their banished zone until the end of their next turn.{br}**Phantasm**",
+        "plain": "Prism Specialization\nWhen this hits, put it into your soul and the defending hero can't play cards from their banished zone until the end of their next turn.\nPhantasm"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "FAB028-RF",
+      "code": "FAB028",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "judge-support-2021",
+      "releaseDate": "2019-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB028-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Herald of Judgment",
+          "typeLine": "Light Illusionist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Prism Specialization**\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase.\n**Phantasm**",
+            "plain": "Prism Specialization\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase.\nPhantasm",
+            "html": "<p><strong>Prism Specialization</strong></p>\n<p>If Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase.</p>\n<p><strong>Phantasm</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_Themis, keeper of the scales, who delivers mercy and vengeance in equal measure._",
+            "plain": "_Themis, keeper of the scales, who delivers mercy and vengeance in equal measure._",
+            "html": "<p><em>Themis, keeper of the scales, who delivers mercy and vengeance in equal measure.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB028",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": "light",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB028-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB028-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB028-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON007",
+      "code": "MON007",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON007",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Herald of Judgment",
+          "typeLine": "Light Illusionist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Prism Specialization** _(You may only have Herald of Judgment in your deck if your hero is Prism.)_\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase. _(Put this card face up under your hero card.)_\n**Phantasm** _(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Judgment and close the combat chain.)_",
+            "plain": "Prism Specialization _(You may only have Herald of Judgment in your deck if your hero is Prism.)_\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase. _(Put this card face up under your hero card.)_\nPhantasm _(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Judgment and close the combat chain.)_",
+            "html": "<p><strong>Prism Specialization</strong> <em>(You may only have Herald of Judgment in your deck if your hero is Prism.)</em></p>\n<p>If Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase. <em>(Put this card face up under your hero card.)</em></p>\n<p><strong>Phantasm</strong> <em>(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy Herald of Judgment and close the combat chain.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON007",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": "light",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON007.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON007.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON007.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON007-RF",
+      "code": "MON007",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON007-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Herald of Judgment",
+          "typeLine": "Light Illusionist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Prism Specialization** _(You may only have Herald of Judgment in your deck if your hero is Prism.)_\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase. _(Put this card face up under your hero card.)_\n**Phantasm** _(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Judgment and close the combat chain.)_",
+            "plain": "Prism Specialization _(You may only have Herald of Judgment in your deck if your hero is Prism.)_\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase. _(Put this card face up under your hero card.)_\nPhantasm _(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Judgment and close the combat chain.)_",
+            "html": "<p><strong>Prism Specialization</strong> <em>(You may only have Herald of Judgment in your deck if your hero is Prism.)</em></p>\n<p>If Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase. <em>(Put this card face up under your hero card.)</em></p>\n<p><strong>Phantasm</strong> <em>(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy Herald of Judgment and close the combat chain.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON007",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": "light",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON007-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON007-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON007-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PSM008",
+      "code": "PSM008",
+      "language": "en",
+      "set": "PSM",
+      "setNumber": 8,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prism-blitz-deck",
+      "releaseDate": "2021-05-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "PSM008",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Herald of Judgment",
+          "typeLine": "Light Illusionist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Prism Specialization** _(You may only have Herald of Judgment in your deck if your hero is Prism.)_\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone until the end of their next turn. _(Put this card face up under your hero card.)_\n**Phantasm** _(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Judgment and close the combat chain.)_",
+            "plain": "Prism Specialization _(You may only have Herald of Judgment in your deck if your hero is Prism.)_\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone until the end of their next turn. _(Put this card face up under your hero card.)_\nPhantasm _(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Judgment and close the combat chain.)_",
+            "html": "<p><strong>Prism Specialization</strong> <em>(You may only have Herald of Judgment in your deck if your hero is Prism.)</em></p>\n<p>If Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone until the end of their next turn. <em>(Put this card face up under your hero card.)</em></p>\n<p><strong>Phantasm</strong> <em>(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy Herald of Judgment and close the combat chain.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "PSM008",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": "light",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PSM008.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PSM008.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PSM008.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON007",
+      "code": "MON007",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON007",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Herald of Judgment",
+          "typeLine": "Light Illusionist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Prism Specialization** _(You may only have Herald of Judgment in your deck if your hero is Prism.)_\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone until the end of their next turn._(Put this card face up under your hero card.)_\n**Phantasm** _(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Judgment and close the combat chain.)_",
+            "plain": "Prism Specialization _(You may only have Herald of Judgment in your deck if your hero is Prism.)_\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone until the end of their next turn._(Put this card face up under your hero card.)_\nPhantasm _(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Judgment and close the combat chain.)_",
+            "html": "<p><strong>Prism Specialization</strong> <em>(You may only have Herald of Judgment in your deck if your hero is Prism.)</em></p>\n<p>If Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone until the end of their next turn.<em>(Put this card face up under your hero card.)</em></p>\n<p><strong>Phantasm</strong> <em>(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy Herald of Judgment and close the combat chain.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON007",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": "light",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON007.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON007.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON007.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON007-RF",
+      "code": "MON007",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON007-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Herald of Judgment",
+          "typeLine": "Light Illusionist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Prism Specialization** _(You may only have Herald of Judgment in your deck if your hero is Prism.)_\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone until the end of their next turn.(Put this card face up under your hero card.)\n**Phantasm** _(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Judgment and close the combat chain.)_",
+            "plain": "Prism Specialization _(You may only have Herald of Judgment in your deck if your hero is Prism.)_\nIf Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone until the end of their next turn.(Put this card face up under your hero card.)\nPhantasm _(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more {p}, destroy Herald of Judgment and close the combat chain.)_",
+            "html": "<p><strong>Prism Specialization</strong> <em>(You may only have Herald of Judgment in your deck if your hero is Prism.)</em></p>\n<p>If Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone until the end of their next turn.(Put this card face up under your hero card.)</p>\n<p><strong>Phantasm</strong> <em>(If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy Herald of Judgment and close the combat chain.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON007",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": "light",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON007-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON007-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON007-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DTD013",
+      "code": "DTD013",
+      "language": "en",
+      "set": "DTD",
+      "setNumber": 13,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dusk-till-dawn",
+      "releaseDate": "2023-07-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DTD013",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Herald of Judgment",
+          "typeLine": "Light Illusionist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Prism Specialization** _(You may only have this in your deck if your hero is Prism.)_\nWhen this hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase.\n**Phantasm** _(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)_",
+            "plain": "Prism Specialization _(You may only have this in your deck if your hero is Prism.)_\nWhen this hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase.\nPhantasm _(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)_",
+            "html": "<p><strong>Prism Specialization</strong> <em>(You may only have this in your deck if your hero is Prism.)</em></p>\n<p>When this hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase.</p>\n<p><strong>Phantasm</strong> <em>(When this is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy this and close the combat chain.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DTD013",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": "light",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DTD013.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DTD013.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DTD013.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAT018",
+      "code": "SAT018",
+      "language": "en",
+      "set": "SAT",
+      "setNumber": 18,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-prism-advent-of-thrones",
+      "releaseDate": "2026-09-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-07T11:16:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SAT018",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Herald of Judgment",
+          "typeLine": "Light Illusionist Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "**Prism Specialization** _(You may only have this in your deck if your hero is Prism.)_{br}When this hits, put it into your soul and the defending hero can't play cards from their banished zone until the end of their next turn.{br}**Phantasm** _(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this.)_",
+            "plain": "Prism Specialization _(You may only have this in your deck if your hero is Prism.)_\nWhen this hits, put it into your soul and the defending hero can't play cards from their banished zone until the end of their next turn.\nPhantasm _(When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this.)_",
+            "html": "<p><strong>Prism Specialization</strong> <em>(You may only have this in your deck if your hero is Prism.)</em></p>\n<p>When this hits, put it into your soul and the defending hero can't play cards from their banished zone until the end of their next turn.</p>\n<p><strong>Phantasm</strong> <em>(When this is defended by a non-Illusionist attack action card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, destroy this.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SAT018",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "illusionist",
+          "frameStyle": "light",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAT018.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAT018.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAT018.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Phantasm",
+      "Prism Specialization"
+    ],
+    "editions": {
+      "U-MON007": "unlimited",
+      "U-MON007-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:40:14Z",
+    "rawSha256": "fc5bae986dd5e121fd461e12a4fa3ac2a1d6388fe2ada897dd29a5f12ab1398a",
+    "updatedAt": "2025-09-18T06:51:03.156011+12:00"
+  }
+}

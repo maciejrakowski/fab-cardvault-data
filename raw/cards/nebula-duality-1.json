@@ -1,0 +1,811 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "dd0dfcbe-eff5-45e5-9dfb-2eccc95025c7",
+      "cores": [
+        {
+          "id": "62727620-28f2-42fd-a570-b461d22e559b",
+          "core_classes": [
+            {
+              "id": 15,
+              "name": "Wizard",
+              "name_en": "Wizard",
+              "name_fr": "Sorcier",
+              "name_de": "Zauberer",
+              "name_it": "Mago",
+              "name_es": "Mago",
+              "name_ja": "魔術師",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 6,
+              "name": "Lightning",
+              "name_en": "Lightning",
+              "name_fr": "Foudre",
+              "name_de": "Blitz",
+              "name_it": "Fulmine",
+              "name_es": "Relámpago",
+              "name_ja": "稲妻",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [],
+          "created_at": "2026-03-03T15:44:03.920920+13:00",
+          "updated_at": "2026-03-03T15:44:03.920928+13:00",
+          "name": "Nebula Duality",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "0",
+          "color": "red",
+          "cost": "0",
+          "power": "",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "Deal 3 arcane damage to any target.{br}**Instant** -- {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.",
+          "typebox": "Lightning Wizard Action",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": 0,
+          "cost_value": 0,
+          "power_value": null,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "dd0dfcbe-eff5-45e5-9dfb-2eccc95025c7"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "001f5f96-82a1-4f6b-8361-ff6768cb0cea",
+          "faces": [
+            {
+              "id": "b6b0c7a9-55f9-4372-a098-c7d054b45751",
+              "created_at": "2026-03-03T15:44:51.247860+13:00",
+              "updated_at": "2026-03-03T15:44:51.247868+13:00",
+              "face_id": "OMN121",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN121",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "Nebula Duality",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Deal 3 arcane damage to any target.{br}**Instant** -- {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Wizard Action",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "62727620-28f2-42fd-a570-b461d22e559b",
+              "card_print": "001f5f96-82a1-4f6b-8361-ff6768cb0cea",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Nebula Duality</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Wizard Action</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Deal 3 arcane damage to any target.</p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN121.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN121.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN121.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:51.241394+13:00",
+          "updated_at": "2026-03-04T12:04:54.384694+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "OMN121",
+          "set_number": 121,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "dd0dfcbe-eff5-45e5-9dfb-2eccc95025c7"
+        },
+        {
+          "id": "12f4b4cf-6c98-41f0-9954-dae6594b8202",
+          "faces": [
+            {
+              "id": "07a52c03-8ec1-4c2f-8205-a8da421823cd",
+              "created_at": "2026-03-03T15:44:51.280070+13:00",
+              "updated_at": "2026-03-03T15:44:51.280078+13:00",
+              "face_id": "OMN121-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN121",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "Nebula Duality",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Deal 3 arcane damage to any target.{br}**Instant** -- {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Wizard Action",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "62727620-28f2-42fd-a570-b461d22e559b",
+              "card_print": "12f4b4cf-6c98-41f0-9954-dae6594b8202",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Nebula Duality</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Wizard Action</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Deal 3 arcane damage to any target.</p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN121-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN121-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN121-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:51.273695+13:00",
+          "updated_at": "2026-03-04T12:05:01.099028+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "OMN121-RF",
+          "set_number": 121,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "dd0dfcbe-eff5-45e5-9dfb-2eccc95025c7"
+        },
+        {
+          "id": "6ae83a4a-f4d7-49ab-85db-4fc157d0a25f",
+          "faces": [
+            {
+              "id": "86f266cb-d5d7-4662-9b1e-644e7a8f2555",
+              "created_at": "2026-03-03T23:52:45.397594+13:00",
+              "updated_at": "2026-03-03T23:52:45.397602+13:00",
+              "face_id": "FAB465-MV",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "promo-marvel-dot",
+              "printed_code": "FAB465",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "Nebula Duality",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Deal 3 arcane damage to any target.{br}**Instant** -- {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Wizard Action",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "62727620-28f2-42fd-a570-b461d22e559b",
+              "card_print": "6ae83a4a-f4d7-49ab-85db-4fc157d0a25f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Nebula Duality</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Wizard Action</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Deal 3 arcane damage to any target.</p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB465-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB465-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB465-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fb9d9493-83f0-4ae7-b825-18256c1d829a",
+            "product_group": null,
+            "created_at": "2026-03-03T23:48:15.294236+13:00",
+            "updated_at": "2026-10-08T16:07:45.462623+13:00",
+            "printed_date": "2025-12-01",
+            "printed_language": "en",
+            "product_name": "World Premiere - Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "world-premiere-omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T23:52:45.389429+13:00",
+          "updated_at": "2026-03-04T12:11:08.999611+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "FAB465-MV",
+          "set_number": 465,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo-marvel",
+          "card": "dd0dfcbe-eff5-45e5-9dfb-2eccc95025c7"
+        },
+        {
+          "id": "932f4b7e-a456-43bc-93de-8ee5beea207a",
+          "faces": [
+            {
+              "id": "727872c7-e4c2-4c5b-b584-97f821517cde",
+              "created_at": "2026-03-03T15:44:51.112088+13:00",
+              "updated_at": "2026-03-03T15:44:51.112097+13:00",
+              "face_id": "FR_OMN121",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN121",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "Dualité nébuleuse",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Infligez 3 dégâts arcanes à n’importe quelle cible.{br}**Instantané** -- {r}, défaussez-vous de cette carte : infligez 1 dégât arcane au héros ciblé. Créez un jeton Flux de foudre.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Sorcier Action",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "62727620-28f2-42fd-a570-b461d22e559b",
+              "card_print": "932f4b7e-a456-43bc-93de-8ee5beea207a",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Dualité nébuleuse</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Sorcier Action</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Infligez 3 dégâts arcanes à n’importe quelle cible.</p>\n<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, défaussez-vous de cette carte : infligez 1 dégât arcane au héros ciblé. Créez un jeton Flux de foudre.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN121.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN121.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN121.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:51.105510+13:00",
+          "updated_at": "2026-03-04T12:03:31.183363+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "FR_OMN121",
+          "set_number": 121,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "dd0dfcbe-eff5-45e5-9dfb-2eccc95025c7"
+        },
+        {
+          "id": "aeffce8e-cdbe-4df6-aa2c-10e7eec57463",
+          "faces": [
+            {
+              "id": "4604494b-a060-4b61-aad9-33a808c12122",
+              "created_at": "2026-03-03T15:44:51.146306+13:00",
+              "updated_at": "2026-03-03T15:44:51.146314+13:00",
+              "face_id": "FR_OMN121-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN121",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "Dualité nébuleuse",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Infligez 3 dégâts arcanes à n’importe quelle cible.{br}**Instantané** -- {r}, défaussez-vous de cette carte : infligez 1 dégât arcane au héros ciblé. Créez un jeton Flux de foudre.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Sorcier Action",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "62727620-28f2-42fd-a570-b461d22e559b",
+              "card_print": "aeffce8e-cdbe-4df6-aa2c-10e7eec57463",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Dualité nébuleuse</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Sorcier Action</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Infligez 3 dégâts arcanes à n’importe quelle cible.</p>\n<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, défaussez-vous de cette carte : infligez 1 dégât arcane au héros ciblé. Créez un jeton Flux de foudre.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN121-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN121-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN121-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:51.139685+13:00",
+          "updated_at": "2026-03-04T12:03:37.236920+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "FR_OMN121-RF",
+          "set_number": 121,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "dd0dfcbe-eff5-45e5-9dfb-2eccc95025c7"
+        },
+        {
+          "id": "02920063-1311-4380-958b-ab37e5a0cad4",
+          "faces": [
+            {
+              "id": "1ff7688a-f219-439f-b548-d2b62ed860be",
+              "created_at": "2026-03-03T15:44:51.180021+13:00",
+              "updated_at": "2026-03-03T15:44:51.180029+13:00",
+              "face_id": "JA_OMN121",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN121",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "星雲の双対",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "任意の対象１つに秘術ダメージを３点与える。{br}**インスタント**--{r}, これを捨てる：対象のヒーロー１人に秘術ダメージを１点与える。「稲妻の流動」トークンを１つ作成する。",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・魔術師・アクション",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "62727620-28f2-42fd-a570-b461d22e559b",
+              "card_print": "02920063-1311-4380-958b-ab37e5a0cad4",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>星雲の双対</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・魔術師・アクション</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>任意の対象１つに秘術ダメージを３点与える。</p>\n<p><strong>インスタント</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, これを捨てる：対象のヒーロー１人に秘術ダメージを１点与える。「稲妻の流動」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN121.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN121.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN121.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:51.173048+13:00",
+          "updated_at": "2026-03-04T12:04:15.536005+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "JA_OMN121",
+          "set_number": 121,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "dd0dfcbe-eff5-45e5-9dfb-2eccc95025c7"
+        },
+        {
+          "id": "dc33ce9c-24a4-47d0-b6e5-87606f6eec3f",
+          "faces": [
+            {
+              "id": "8836b643-bede-4a85-99dd-9c07af53a4de",
+              "created_at": "2026-03-03T15:44:51.214350+13:00",
+              "updated_at": "2026-03-03T15:44:51.214358+13:00",
+              "face_id": "JA_OMN121-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "wizard",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN121",
+              "printed_artist": "Yiian Kho",
+              "printed_name": "星雲の双対",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "任意の対象１つに秘術ダメージを３点与える。{br}**インスタント**--{r}, これを捨てる：対象のヒーロー１人に秘術ダメージを１点与える。「稲妻の流動」トークンを１つ作成する。",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・魔術師・アクション",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "62727620-28f2-42fd-a570-b461d22e559b",
+              "card_print": "dc33ce9c-24a4-47d0-b6e5-87606f6eec3f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>星雲の双対</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・魔術師・アクション</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>任意の対象１つに秘術ダメージを３点与える。</p>\n<p><strong>インスタント</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, これを捨てる：対象のヒーロー１人に秘術ダメージを１点与える。「稲妻の流動」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN121-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN121-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN121-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:51.207846+13:00",
+          "updated_at": "2026-03-04T12:04:21.895177+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "JA_OMN121-RF",
+          "set_number": 121,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "dd0dfcbe-eff5-45e5-9dfb-2eccc95025c7"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-03-03T15:44:03.912722+13:00",
+      "updated_at": "2026-03-03T15:44:03.912730+13:00",
+      "card_id": "nebula-duality-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

@@ -1,0 +1,916 @@
+{
+  "schemaVersion": 1,
+  "id": "might",
+  "name": "Might",
+  "objectType": "token",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Might",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Token - Aura",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Token"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": {
+        "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+        "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "TCC105",
+      "code": "TCC105",
+      "language": "en",
+      "set": "TCC",
+      "setNumber": 105,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "round-the-table-tcc-x-lss",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TCC105",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TCC105",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Henrique Lindner",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC105.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC105.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC105.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS230-RF",
+      "code": "LGS230",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 230,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pre-release-heavy-hitters",
+      "releaseDate": "2024-01-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS230-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS230",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Henrique Lindner",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS230-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS230-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS230-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BET028",
+      "code": "BET028",
+      "language": "en",
+      "set": "BET",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "betsy-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "BET028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "BET028",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Henrique Lindner",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/BET028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/BET028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/BET028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB205-CF",
+      "code": "FAB205",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 205,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prize-wall-heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB205-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB205",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Henrique Lindner",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB205-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB205-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB205-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY241",
+      "code": "HVY241",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 241,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY241",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY241",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Henrique Lindner",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY241.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY241.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY241.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "KYO028",
+      "code": "KYO028",
+      "language": "en",
+      "set": "KYO",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "kayo-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "KYO028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "KYO028",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Henrique Lindner",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/KYO028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/KYO028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/KYO028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RHI028",
+      "code": "RNR028",
+      "language": "en",
+      "set": "RHI",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rhinar-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "RHI028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "RNR028",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Henrique Lindner",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/RHI028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/RHI028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/RHI028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "VIC028",
+      "code": "VIC028",
+      "language": "en",
+      "set": "VIC",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "victor-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "VIC028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "VIC028",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Henrique Lindner",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/VIC028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/VIC028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/VIC028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AKO028",
+      "code": "AKO028",
+      "language": "en",
+      "set": "AKO",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "kayo-armory-deck",
+      "releaseDate": "2024-05-03",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AKO028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AKO028",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Othon Nikolaidis",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AKO028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AKO028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AKO028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TER028",
+      "code": "TER028",
+      "language": "en",
+      "set": "TER",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "1st-strike-terra",
+      "releaseDate": "2024-08-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TER028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_{br}At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nAt the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TER028",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Henrique Lindner",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TER028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TER028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TER028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB280-CF",
+      "code": "FAB280",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 280,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prize-wall-rosetta",
+      "releaseDate": "2024-09-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB280-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB280",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Henrique Lindner",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB280-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB280-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB280-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARR030",
+      "code": "ARR030",
+      "language": "en",
+      "set": "ARR",
+      "setNumber": 30,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-rhinar-reckless-rampage",
+      "releaseDate": "2025-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARR030",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARR030",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Henrique Lindner",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARR030.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARR030.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARR030.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SKA035",
+      "code": "SKA035",
+      "language": "en",
+      "set": "SKA",
+      "setNumber": 35,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-kayo",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SKA035",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SKA035",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Henrique Lindner",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SKA035.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SKA035.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SKA035.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SLY035",
+      "code": "SLY035",
+      "language": "en",
+      "set": "SLY",
+      "setNumber": 35,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-lyath-goldmane",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SLY035",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Might",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "plain": "At the start of your turn, destroy this, then your next attack this turn gets +1{p}.",
+            "html": "<p>At the start of your turn, destroy this, then your next attack this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SLY035",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Henrique Lindner",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SLY035.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SLY035.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SLY035.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T15:06:41Z",
+    "rawSha256": "c2ae4c33d9fd364ca5dd458762dd9e57b100337ab59f7eb6f53a28ad516c1f0e",
+    "updatedAt": "2025-09-18T06:52:40.765856+12:00"
+  }
+}

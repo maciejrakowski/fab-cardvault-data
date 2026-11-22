@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "proto-base-head",
+  "language": "it",
+  "name": "Testa Base Proto",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Testa Base Proto",
+      "typeLine": "Equipaggiamento Meccanologo - Testa Base",
+      "classes": [
+        "Meccanologo"
+      ],
+      "types": [
+        "Equipaggiamento"
+      ],
+      "subtypes": [
+        "Base",
+        "Testa"
+      ],
+      "text": {
+        "markup": "_(Puoi aggiungere una Testa Base Proto al tuo insieme di carte nel formato limited Bright Lights.)_",
+        "plain": "_(Puoi aggiungere una Testa Base Proto al tuo insieme di carte nel formato limited Bright Lights.)_",
+        "html": "<p><em>(Puoi aggiungere una Testa Base Proto al tuo insieme di carte nel formato limited Bright Lights.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_EVO022",
+      "code": "EVO022",
+      "language": "it",
+      "set": "EVO",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-it",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_EVO022",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Testa Base Proto",
+          "typeLine": "Equipaggiamento Meccanologo - Testa Base",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Puoi aggiungere una Testa Base Proto al tuo insieme di carte nel formato limited Bright Lights.)_",
+            "plain": "_(Puoi aggiungere una Testa Base Proto al tuo insieme di carte nel formato limited Bright Lights.)_",
+            "html": "<p><em>(Puoi aggiungere una Testa Base Proto al tuo insieme di carte nel formato limited Bright Lights.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO022",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Vlad Tashkinov",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_EVO022.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_EVO022.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_EVO022.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

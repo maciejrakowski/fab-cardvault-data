@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "kassai-cintari-sellsword",
+  "language": "es",
+  "name": "Kassai, mercenario cintari",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Kassai, mercenario cintari",
+      "typeLine": "Héroe guerrero - Joven",
+      "classes": [
+        "Guerrero"
+      ],
+      "types": [
+        "Héroe"
+      ],
+      "subtypes": [
+        "Joven"
+      ],
+      "text": {
+        "markup": "Tu segundo ataque con espada en cada turno cuesta {r} menos.{br}Al principio de tu fase final, si has atacado 2 o más veces con armas en este turno, crea una ficha de Cobre por cada ataque con armas que haya impactado. _(Es un artículo con \"**Acción** - {r}{r}{r}{r}, destruye a Cobre: Roba una carta. **Continuar** \")._",
+        "plain": "Tu segundo ataque con espada en cada turno cuesta {r} menos.\nAl principio de tu fase final, si has atacado 2 o más veces con armas en este turno, crea una ficha de Cobre por cada ataque con armas que haya impactado. _(Es un artículo con \"Acción - {r}{r}{r}{r}, destruye a Cobre: Roba una carta. Continuar \")._",
+        "html": "<p>Tu segundo ataque con espada en cada turno cuesta <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> menos.</p>\n<p>Al principio de tu fase final, si has atacado 2 o más veces con armas en este turno, crea una ficha de Cobre por cada ataque con armas que haya impactado. <em>(Es un artículo con &quot;<strong>Acción</strong> - <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destruye a Cobre: Roba una carta. <strong>Continuar</strong> &quot;).</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_1HP140",
+      "code": "1HP140",
+      "language": "es",
+      "set": "1HP",
+      "setNumber": 140,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1-black-label-es",
+      "releaseDate": "2022-07-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_1HP140",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Kassai, mercenario cintari",
+          "typeLine": "Héroe guerrero - Joven",
+          "traitLine": null,
+          "text": {
+            "markup": "Tu segundo ataque con espada en cada turno cuesta {r} menos.{br}Al principio de tu fase final, si has atacado 2 o más veces con armas en este turno, crea una ficha de Cobre por cada ataque con armas que haya impactado. _(Es un artículo con \"**Acción** - {r}{r}{r}{r}, destruye a Cobre: Roba una carta. **Continuar** \")._",
+            "plain": "Tu segundo ataque con espada en cada turno cuesta {r} menos.\nAl principio de tu fase final, si has atacado 2 o más veces con armas en este turno, crea una ficha de Cobre por cada ataque con armas que haya impactado. _(Es un artículo con \"Acción - {r}{r}{r}{r}, destruye a Cobre: Roba una carta. Continuar \")._",
+            "html": "<p>Tu segundo ataque con espada en cada turno cuesta <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> menos.</p>\n<p>Al principio de tu fase final, si has atacado 2 o más veces con armas en este turno, crea una ficha de Cobre por cada ataque con armas que haya impactado. <em>(Es un artículo con &quot;<strong>Acción</strong> - <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destruye a Cobre: Roba una carta. <strong>Continuar</strong> &quot;).</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "1HP140",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "draconic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_1HP140.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_1HP140.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_1HP140.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

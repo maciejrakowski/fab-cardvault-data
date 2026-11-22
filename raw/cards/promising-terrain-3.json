@@ -1,0 +1,812 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "5c3c6dbe-41e4-4ce4-89d4-0e55679f8440",
+      "cores": [
+        {
+          "id": "56c5c214-ffdc-4a11-87ce-b654fa61db85",
+          "core_classes": [
+            {
+              "id": 5,
+              "name": "Guardian",
+              "name_en": "Guardian",
+              "name_fr": "Gardien",
+              "name_de": "Wächter",
+              "name_it": "Guardiano",
+              "name_es": "Guardián",
+              "name_ja": "守護者",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 8,
+              "name": "Aura",
+              "name_en": "Aura",
+              "name_fr": "Aura",
+              "name_de": "Aura",
+              "name_it": "Aura",
+              "name_es": "Aura",
+              "name_ja": "オーラ",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:54:02.546706+12:00",
+          "updated_at": "2025-09-18T06:54:02.562075+12:00",
+          "name": "Promising Terrain",
+          "layout_position": 10,
+          "pitch": "3",
+          "pitch_chi": "",
+          "color": "blue",
+          "cost": "0",
+          "power": "",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Go again**{br}If you would create 1 or more Seismic Surge tokens, instead create that many plus 1.{br}At the beginning of your action phase, destroy this, then if you control 3 or more Seismic Surge tokens, draw a card and gain 1{g}.",
+          "typebox": "Guardian Action - Aura",
+          "traitbox": "",
+          "pitch_value": 3,
+          "pitch_chi_value": null,
+          "cost_value": 0,
+          "power_value": null,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "5c3c6dbe-41e4-4ce4-89d4-0e55679f8440"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "c59953ff-5c43-471d-b312-f62109046378",
+          "faces": [
+            {
+              "id": "a6773fb1-5ed9-435d-862c-d5a2b37cca31",
+              "created_at": "2025-09-18T06:54:02.576624+12:00",
+              "updated_at": "2025-09-18T06:54:02.576639+12:00",
+              "face_id": "MPG045",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG045",
+              "printed_artist": "Simon Wong",
+              "printed_name": "Promising Terrain",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Go again**{br}If you would create 1 or more Seismic Surge tokens, instead create that many plus 1.{br}At the beginning of your action phase, destroy this, then if you control 3 or more Seismic Surge tokens, draw a card and gain 1{g}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guardian Action - Aura",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "56c5c214-ffdc-4a11-87ce-b654fa61db85",
+              "card_print": "c59953ff-5c43-471d-b312-f62109046378",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Promising Terrain</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guardian Action - Aura</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Go again</strong></p>\n<p>If you would create 1 or more Seismic Surge tokens, instead create that many plus 1.</p>\n<p>At the beginning of your action phase, destroy this, then if you control 3 or more Seismic Surge tokens, draw a card and gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPG045.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPG045.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPG045.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "dd5969da-d8f7-4416-b6d8-cce1a2061c09",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.416420+12:00",
+            "updated_at": "2025-09-18T06:45:21.416443+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "en",
+            "product_name": "Mastery Pack Guardian",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:02.572053+12:00",
+          "updated_at": "2025-09-18T06:54:02.572064+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MPG045",
+          "set_number": 45,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "5c3c6dbe-41e4-4ce4-89d4-0e55679f8440"
+        },
+        {
+          "id": "b536dd2e-aaaa-41ee-81d6-023d9f12818b",
+          "faces": [
+            {
+              "id": "140905e1-eb63-4552-a370-bae0f3222287",
+              "created_at": "2025-09-18T06:54:02.588627+12:00",
+              "updated_at": "2025-09-18T06:54:02.588639+12:00",
+              "face_id": "MPG045-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG045",
+              "printed_artist": "Simon Wong",
+              "printed_name": "Promising Terrain",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Go again**{br}If you would create 1 or more Seismic Surge tokens, instead create that many plus 1.{br}At the beginning of your action phase, destroy this, then if you control 3 or more Seismic Surge tokens, draw a card and gain 1{g}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guardian Action - Aura",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "56c5c214-ffdc-4a11-87ce-b654fa61db85",
+              "card_print": "b536dd2e-aaaa-41ee-81d6-023d9f12818b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Promising Terrain</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guardian Action - Aura</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Go again</strong></p>\n<p>If you would create 1 or more Seismic Surge tokens, instead create that many plus 1.</p>\n<p>At the beginning of your action phase, destroy this, then if you control 3 or more Seismic Surge tokens, draw a card and gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPG045-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPG045-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPG045-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "dd5969da-d8f7-4416-b6d8-cce1a2061c09",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.416420+12:00",
+            "updated_at": "2025-09-18T06:45:21.416443+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "en",
+            "product_name": "Mastery Pack Guardian",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:02.584024+12:00",
+          "updated_at": "2025-09-18T06:54:02.584036+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MPG045-RF",
+          "set_number": 45,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "5c3c6dbe-41e4-4ce4-89d4-0e55679f8440"
+        },
+        {
+          "id": "e07e6205-458c-481d-8bd6-633277f3082d",
+          "faces": [
+            {
+              "id": "2ca3cc31-74ec-45e0-8353-0f8a75b275c5",
+              "created_at": "2025-09-18T06:54:02.600705+12:00",
+              "updated_at": "2025-09-18T06:54:02.600718+12:00",
+              "face_id": "JA_MPG045",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG045",
+              "printed_artist": "Simon Wong",
+              "printed_name": "有望な地帯",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**続行**\nあなたが１つ以上の「震激」トークンを作成する場合、代わりにその数に１を足した数を作成する。\nあなたのアクションフェイズの開始時、これを破壊する。あなたが３つ以上の「震激」トークンをコントロールしている場合、カードを１枚引き、１{g}を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "守護者・アクション － オーラ",
+              "printed_year": "2024",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "56c5c214-ffdc-4a11-87ce-b654fa61db85",
+              "card_print": "e07e6205-458c-481d-8bd6-633277f3082d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>有望な地帯</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>守護者・アクション － オーラ</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>続行</strong></p>\n<p>あなたが１つ以上の「震激」トークンを作成する場合、代わりにその数に１を足した数を作成する。</p>\n<p>あなたのアクションフェイズの開始時、これを破壊する。あなたが３つ以上の「震激」トークンをコントロールしている場合、カードを１枚引き、１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_MPG045.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_MPG045.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_MPG045.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "4bb0c1f5-ef2e-4715-afda-7701ab993d8c",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.448787+12:00",
+            "updated_at": "2025-09-18T06:45:21.448804+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "ja",
+            "product_name": "Mastery Pack Guardian [JA]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:02.596250+12:00",
+          "updated_at": "2025-09-18T06:54:02.596262+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_MPG045",
+          "set_number": 45,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "5c3c6dbe-41e4-4ce4-89d4-0e55679f8440"
+        },
+        {
+          "id": "cc2e12a0-1548-4bd2-a6c2-94f4fa1ba3f4",
+          "faces": [
+            {
+              "id": "e2fab5bb-866c-4225-bdd2-1e272af611e0",
+              "created_at": "2025-09-18T06:54:02.614616+12:00",
+              "updated_at": "2025-09-18T06:54:02.614629+12:00",
+              "face_id": "JA_MPG045-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG045",
+              "printed_artist": "Simon Wong",
+              "printed_name": "有望な地帯",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**続行**\nあなたが１つ以上の「震激」トークンを作成する場合、代わりにその数に１を足した数を作成する。\nあなたのアクションフェイズの開始時、これを破壊する。あなたが３つ以上の「震激」トークンをコントロールしている場合、カードを１枚引き、１{g}を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "守護者・アクション － オーラ",
+              "printed_year": "2024",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "56c5c214-ffdc-4a11-87ce-b654fa61db85",
+              "card_print": "cc2e12a0-1548-4bd2-a6c2-94f4fa1ba3f4",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>有望な地帯</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>守護者・アクション － オーラ</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>続行</strong></p>\n<p>あなたが１つ以上の「震激」トークンを作成する場合、代わりにその数に１を足した数を作成する。</p>\n<p>あなたのアクションフェイズの開始時、これを破壊する。あなたが３つ以上の「震激」トークンをコントロールしている場合、カードを１枚引き、１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_MPG045-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_MPG045-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_MPG045-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "4bb0c1f5-ef2e-4715-afda-7701ab993d8c",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.448787+12:00",
+            "updated_at": "2025-09-18T06:45:21.448804+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "ja",
+            "product_name": "Mastery Pack Guardian [JA]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:02.608336+12:00",
+          "updated_at": "2025-09-18T06:54:02.608349+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_MPG045-RF",
+          "set_number": 45,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "5c3c6dbe-41e4-4ce4-89d4-0e55679f8440"
+        },
+        {
+          "id": "b52f11b2-f80b-48d7-9fb4-f4a6f3219b49",
+          "faces": [
+            {
+              "id": "563eafa0-d068-465b-abce-d329eecb1b6b",
+              "created_at": "2025-09-18T06:54:02.632356+12:00",
+              "updated_at": "2025-09-18T06:54:02.632369+12:00",
+              "face_id": "FR_MPG045",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG045",
+              "printed_artist": "Simon Wong",
+              "printed_name": "Terrain prometteur",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Encore une fois**\nSi vous deviez créer au moins 1 jeton Poussée sismique, créez-en autant plus 1 à la place.\nAu début de votre phase d’action, détruisez cette carte, puis si vous contrôlez au moins 3 jetons Poussée sismique, piochez une carte et gagnez 1{g}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Gardien Action - Aura",
+              "printed_year": "2024",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "56c5c214-ffdc-4a11-87ce-b654fa61db85",
+              "card_print": "b52f11b2-f80b-48d7-9fb4-f4a6f3219b49",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Terrain prometteur</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Gardien Action - Aura</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Encore une fois</strong></p>\n<p>Si vous deviez créer au moins 1 jeton Poussée sismique, créez-en autant plus 1 à la place.</p>\n<p>Au début de votre phase d’action, détruisez cette carte, puis si vous contrôlez au moins 3 jetons Poussée sismique, piochez une carte et gagnez 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_MPG045.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_MPG045.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_MPG045.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fb9655d8-8fcb-42f1-b8cb-393a459053d9",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.482959+12:00",
+            "updated_at": "2025-09-18T06:45:21.482981+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "fr",
+            "product_name": "Mastery Pack Guardian [FR]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:02.625559+12:00",
+          "updated_at": "2025-09-18T06:54:02.625580+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_MPG045",
+          "set_number": 45,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "5c3c6dbe-41e4-4ce4-89d4-0e55679f8440"
+        },
+        {
+          "id": "d0b04054-98d0-4d66-837f-7628597aae8e",
+          "faces": [
+            {
+              "id": "1035a23c-ac5a-4272-bacd-2c1f6c45f5e2",
+              "created_at": "2025-09-18T06:54:02.648260+12:00",
+              "updated_at": "2025-09-18T06:54:02.648275+12:00",
+              "face_id": "FR_MPG045-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG045",
+              "printed_artist": "Simon Wong",
+              "printed_name": "Terrain prometteur",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Encore une fois**\nSi vous deviez créer au moins 1 jeton Poussée sismique, créez-en autant plus 1 à la place.\nAu début de votre phase d’action, détruisez cette carte, puis si vous contrôlez au moins 3 jetons Poussée sismique, piochez une carte et gagnez 1{g}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Gardien Action - Aura",
+              "printed_year": "2024",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "56c5c214-ffdc-4a11-87ce-b654fa61db85",
+              "card_print": "d0b04054-98d0-4d66-837f-7628597aae8e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Terrain prometteur</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Gardien Action - Aura</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Encore une fois</strong></p>\n<p>Si vous deviez créer au moins 1 jeton Poussée sismique, créez-en autant plus 1 à la place.</p>\n<p>Au début de votre phase d’action, détruisez cette carte, puis si vous contrôlez au moins 3 jetons Poussée sismique, piochez une carte et gagnez 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_MPG045-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_MPG045-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_MPG045-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fb9655d8-8fcb-42f1-b8cb-393a459053d9",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.482959+12:00",
+            "updated_at": "2025-09-18T06:45:21.482981+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "fr",
+            "product_name": "Mastery Pack Guardian [FR]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:02.640716+12:00",
+          "updated_at": "2025-09-18T06:54:02.640729+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_MPG045-RF",
+          "set_number": 45,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "5c3c6dbe-41e4-4ce4-89d4-0e55679f8440"
+        },
+        {
+          "id": "017b3535-8ae7-45a7-a8ce-0d88470051fd",
+          "faces": [
+            {
+              "id": "c4d70b67-16a5-4aea-82a8-61be39a49c03",
+              "created_at": "2025-09-18T06:54:02.662181+12:00",
+              "updated_at": "2025-09-18T06:54:02.662195+12:00",
+              "face_id": "LGS390-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS390",
+              "printed_artist": "Simon Wong",
+              "printed_name": "Promising Terrain",
+              "printed_pitch": 3,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Go again** If you would create 1 or more Seismic Surge tokens, instead create that many plus 1. At the beginning of your action phase, destroy this, then if you control 3 or more Seismic Surge tokens, draw a card and gain 1{g}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guardian Action - Aura",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "56c5c214-ffdc-4a11-87ce-b654fa61db85",
+              "card_print": "017b3535-8ae7-45a7-a8ce-0d88470051fd",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Promising Terrain</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guardian Action - Aura</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Go again</strong> If you would create 1 or more Seismic Surge tokens, instead create that many plus 1. At the beginning of your action phase, destroy this, then if you control 3 or more Seismic Surge tokens, draw a card and gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS390-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS390-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS390-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "757f09ec-b899-4609-bc2d-ce73106d4ca9",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:10.333346+12:00",
+            "updated_at": "2025-09-18T06:46:10.333361+12:00",
+            "printed_date": "2024-12-01",
+            "printed_language": "en",
+            "product_name": "ProQuest - Season 7",
+            "product_type": "booster",
+            "release_date": "2025-04-19",
+            "slug": "proquest-season-7",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:02.655754+12:00",
+          "updated_at": "2025-09-18T06:54:02.655770+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS390-RF",
+          "set_number": 390,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "5c3c6dbe-41e4-4ce4-89d4-0e55679f8440"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:54:02.540548+12:00",
+      "updated_at": "2025-09-18T06:54:02.542307+12:00",
+      "card_id": "promising-terrain-3",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

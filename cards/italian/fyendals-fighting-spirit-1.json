@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "fyendals-fighting-spirit-1",
+  "language": "it",
+  "name": "Spirito Combattivo di Fyendal",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Spirito Combattivo di Fyendal",
+      "typeLine": "Azione Generica - Attacco",
+      "classes": [
+        "Generico/a"
+      ],
+      "types": [
+        "Azione"
+      ],
+      "subtypes": [
+        "Attacco"
+      ],
+      "text": {
+        "markup": "Quando attacca o difende, se hai meno {g} di un eroe avversario, guadagni 1{g}.",
+        "plain": "Quando attacca o difende, se hai meno {g} di un eroe avversario, guadagni 1{g}.",
+        "html": "<p>Quando attacca o difende, se hai meno <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> di un eroe avversario, guadagni 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_ROS227",
+      "code": "ROS227",
+      "language": "it",
+      "set": "ROS",
+      "setNumber": 227,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rosetta-it",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_ROS227",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Spirito Combattivo di Fyendal",
+          "typeLine": "Azione Generica - Attacco",
+          "traitLine": null,
+          "text": {
+            "markup": "Quando attacca o difende, se hai meno {g} di un eroe avversario, guadagni 1{g}.",
+            "plain": "Quando attacca o difende, se hai meno {g} di un eroe avversario, guadagni 1{g}.",
+            "html": "<p>Quando attacca o difende, se hai meno <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> di un eroe avversario, guadagni 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "3",
+            "power": "7",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ROS227",
+          "printedLanguageCode": "IT",
+          "printedYear": "2024",
+          "artist": "Joseph Qiu",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_ROS227.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_ROS227.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_ROS227.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

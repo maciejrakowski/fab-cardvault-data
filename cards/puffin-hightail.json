@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "id": "puffin-hightail",
+  "name": "Puffin, Hightail",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Puffin, Hightail",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 40,
+      "intellect": 4,
+      "typeLine": "Pirate Mechanologist Hero",
+      "traitLine": null,
+      "classes": [
+        "Mechanologist",
+        "Pirate"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "**Action** -- {t}, destroy a Gold you control: Create a Golden Cog token.{br}The second time you crank each turn, draw a card.",
+        "plain": "Action -- {t}, destroy a Gold you control: Create a Golden Cog token.\nThe second time you crank each turn, draw a card."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HER137-RF",
+      "code": "HER137",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 137,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "calling-high-seas",
+      "releaseDate": "2025-05-23",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER137-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Puffin, Hightail",
+          "typeLine": "Pirate Mechanologist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}, destroy a Gold you control: Create a Golden Cog token.{br}The second time you crank each turn, draw a card.",
+            "plain": "Action -- {t}, destroy a Gold you control: Create a Golden Cog token.\nThe second time you crank each turn, draw a card.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, destroy a Gold you control: Create a Golden Cog token.</p>\n<p>The second time you crank each turn, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER137",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Arif Wijaya",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER137-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER137-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER137-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA001",
+      "code": "SEA001",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Puffin, Hightail",
+          "typeLine": "Pirate Mechanologist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}, destroy a Gold you control: Create a Golden Cog token.{br}The second time you crank each turn, draw a card.",
+            "plain": "Action -- {t}, destroy a Gold you control: Create a Golden Cog token.\nThe second time you crank each turn, draw a card.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, destroy a Gold you control: Create a Golden Cog token.</p>\n<p>The second time you crank each turn, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "SEA001",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Arif Wijaya",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA001-MV",
+      "code": "SEA001",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA001-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Puffin, Hightail",
+          "typeLine": "Pirate Mechanologist Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}, destroy a Gold you control: Create a Golden Cog token.{br}The second time you crank each turn, draw a card.",
+            "plain": "Action -- {t}, destroy a Gold you control: Create a Golden Cog token.\nThe second time you crank each turn, draw a card.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, destroy a Gold you control: Create a Golden Cog token.</p>\n<p>The second time you crank each turn, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "SEA001",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Arif Wijaya",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "pirate",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA001-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA001-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA001-MV.webp"
+          }
+        },
+        {
+          "id": "SEA001-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Puffin, Hightail",
+          "typeLine": "Pirate Mechanologist Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": null,
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA001-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA001-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA001-MV_BACK.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WIN047-CF",
+      "code": "WIN047",
+      "language": "en",
+      "set": "WIN",
+      "setNumber": 47,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-champion-cards-high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WIN047-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Puffin, Hightail",
+          "typeLine": "Pirate Mechanologist Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "WIN047",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Arif Wijaya",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "mechanologist",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WIN047-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WIN047-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WIN047-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:35:07Z",
+    "rawSha256": "88375139f9f7e958bca37c9d627930957961fd9d14badaef350eeeda9cd49fad",
+    "updatedAt": "2025-09-18T06:54:06.695445+12:00"
+  }
+}

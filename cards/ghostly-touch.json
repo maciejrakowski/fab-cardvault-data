@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "id": "ghostly-touch",
+  "name": "Ghostly Touch",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Ghostly Touch",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 0,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Illusionist Equipment - Arms",
+      "traitLine": null,
+      "classes": [
+        "Illusionist"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Arms"
+      ],
+      "text": {
+        "markup": "Whenever an Illusionist attack you control is destroyed by **phantasm**, put a haunt counter on this.{br}**Once per Turn Action** -- Remove a haunt counter from this: Until end of turn, this becomes an Illusionist ally with **phantasm**, base {p} and {h} equal to the number of haunt counters on it, and \"**Once per Turn Action** -- {r}{r}{r}: Attack\". **Go again**",
+        "plain": "Whenever an Illusionist attack you control is destroyed by phantasm, put a haunt counter on this.\nOnce per Turn Action -- Remove a haunt counter from this: Until end of turn, this becomes an Illusionist ally with phantasm, base {p} and {h} equal to the number of haunt counters on it, and \"Once per Turn Action -- {r}{r}{r}: Attack\". Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "FAB085-GF",
+      "code": "FAB085",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 85,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-uprising",
+      "releaseDate": "2022-06-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB085-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ghostly Touch",
+          "typeLine": "Illusionist Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever an Illusionist attack you control is destroyed by phantasm, put a haunt counter on Ghostly Touch.\n**Once per Turn Action** -- Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with **phantasm**, base {p} and {g} equal to the number of haunt counters on it, and \"**Once per Turn Action** -- {r}{r}{r}: Attack\". **Go again**",
+            "plain": "Whenever an Illusionist attack you control is destroyed by phantasm, put a haunt counter on Ghostly Touch.\nOnce per Turn Action -- Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with phantasm, base {p} and {g} equal to the number of haunt counters on it, and \"Once per Turn Action -- {r}{r}{r}: Attack\". Go again",
+            "html": "<p>Whenever an Illusionist attack you control is destroyed by phantasm, put a haunt counter on Ghostly Touch.</p>\n<p><strong>Once per Turn Action</strong> — Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with <strong>phantasm</strong>, base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> equal to the number of haunt counters on it, and &quot;<strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Attack&quot;. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB085",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB085-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB085-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB085-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "UPR151-CF",
+      "code": "UPR151",
+      "language": "en",
+      "set": "UPR",
+      "setNumber": 151,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "uprising",
+      "releaseDate": "2022-06-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "UPR151-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ghostly Touch",
+          "typeLine": "Illusionist Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever an Illusionist attack you control is destroyed by phantasm, put a haunt counter on Ghostly Touch.\n**Once per Turn Action** -- Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with **phantasm**, base {p} and {g} equal to the number of haunt counters on it, and \"**Once per Turn Action** -- {r}{r}{r}: Attack\". **Go again**",
+            "plain": "Whenever an Illusionist attack you control is destroyed by phantasm, put a haunt counter on Ghostly Touch.\nOnce per Turn Action -- Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with phantasm, base {p} and {g} equal to the number of haunt counters on it, and \"Once per Turn Action -- {r}{r}{r}: Attack\". Go again",
+            "html": "<p>Whenever an Illusionist attack you control is destroyed by phantasm, put a haunt counter on Ghostly Touch.</p>\n<p><strong>Once per Turn Action</strong> — Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with <strong>phantasm</strong>, base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> equal to the number of haunt counters on it, and &quot;<strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Attack&quot;. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "UPR151",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "legendary-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UPR151-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UPR151-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UPR151-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "UPR151-RF",
+      "code": "UPR151",
+      "language": "en",
+      "set": "UPR",
+      "setNumber": 151,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "uprising",
+      "releaseDate": "2022-06-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "UPR151-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ghostly Touch",
+          "typeLine": "Illusionist Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever an Illusionist attack you control is destroyed by phantasm, put a haunt counter on Ghostly Touch.\n**Once per Turn Action** -- Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with **phantasm**, base {p} and {g} equal to the number of haunt counters on it, and \"**Once per Turn Action** -- {r}{r}{r}: Attack\". **Go again**",
+            "plain": "Whenever an Illusionist attack you control is destroyed by phantasm, put a haunt counter on Ghostly Touch.\nOnce per Turn Action -- Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with phantasm, base {p} and {g} equal to the number of haunt counters on it, and \"Once per Turn Action -- {r}{r}{r}: Attack\". Go again",
+            "html": "<p>Whenever an Illusionist attack you control is destroyed by phantasm, put a haunt counter on Ghostly Touch.</p>\n<p><strong>Once per Turn Action</strong> — Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with <strong>phantasm</strong>, base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> equal to the number of haunt counters on it, and &quot;<strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Attack&quot;. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "UPR151",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "legendary-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UPR151-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UPR151-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UPR151-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "phantasm"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:34:05Z",
+    "rawSha256": "7d60122a6de60a0052817f2af9ece2658d1eb4698c9f52644742c1a4ef079160",
+    "updatedAt": "2025-09-18T06:50:28.104118+12:00"
+  }
+}

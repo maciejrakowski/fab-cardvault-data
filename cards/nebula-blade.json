@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "id": "nebula-blade",
+  "name": "Nebula Blade",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Nebula Blade",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 1,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Runeblade Weapon - Sword (2H)",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(2H)",
+        "Sword"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}{r}: **Attack**{br}When this hits, create a Runechant token.{br}If you've played a non-attack action card this turn, this gets +3{p}.",
+        "plain": "Once per Turn Action -- {r}{r}: Attack\nWhen this hits, create a Runechant token.\nIf you've played a non-attack action card this turn, this gets +3{p}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS011-CF",
+      "code": "LGS011-P",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 11,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-2",
+      "releaseDate": "2020-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS011-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nebula Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**\nIf Nebula Blade hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.\"",
+            "plain": "Once per Turn Action -- {r}{r}: Attack\nIf Nebula Blade hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.\"",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If Nebula Blade hits, create a Runechant token.</p>\n<p>If you have played a 'non-attack' action card this turn, Nebula Blade gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS011-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Steve Argyle",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS011-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS011-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS011-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC077",
+      "code": "ARC077-T",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 77,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC077",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nebula Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**\nIf Nebula Blade hits, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack\nIf Nebula Blade hits, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If Nebula Blade hits, create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n<p>If you have played a 'non-attack' action card this turn, Nebula Blade gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC077-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Steve Argyle",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC077.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC077.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC077.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU139",
+      "code": "CRU139",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 139,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU139",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nebula Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "Once per Turn Action - {r}{r}: Attack\nIf Nebula Blade hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.",
+            "plain": "Once per Turn Action - {r}{r}: Attack\nIf Nebula Blade hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.",
+            "html": "<p>Once per Turn Action - <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Attack</p>\n<p>If Nebula Blade hits, create a Runechant token.</p>\n<p>If you have played a 'non-attack' action card this turn, Nebula Blade gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU139",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Steve Argyle",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU139.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU139.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU139.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC077",
+      "code": "ARC077",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 77,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC077",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nebula Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**\nIf Nebula Blade hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack\nIf Nebula Blade hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If Nebula Blade hits, create a Runechant token.</p>\n<p>If you have played a 'non-attack' action card this turn, Nebula Blade gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC077",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Steve Argyle",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC077.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC077.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC077.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU139-RF",
+      "code": "CRU139",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 139,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU139-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nebula Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "Once per Turn Action - {r}{r}: Attack\nIf Nebula Blade hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.",
+            "plain": "Once per Turn Action - {r}{r}: Attack\nIf Nebula Blade hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.",
+            "html": "<p>Once per Turn Action - <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Attack</p>\n<p>If Nebula Blade hits, create a Runechant token.</p>\n<p>If you have played a 'non-attack' action card this turn, Nebula Blade gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU139",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Steve Argyle",
+          "rarityMark": "common-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU139-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU139-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU139-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP260",
+      "code": "1HP260",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 260,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP260",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nebula Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**\nIf Nebula Blade hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack\nIf Nebula Blade hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade gains +3{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If Nebula Blade hits, create a Runechant token.</p>\n<p>If you have played a 'non-attack' action card this turn, Nebula Blade gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP260",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Steve Argyle",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP260.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP260.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP260.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HV002",
+      "code": "1HV002",
+      "language": "en",
+      "set": "1HV",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "viserai-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HV002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nebula Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**\nWhen this hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade has +3{p}.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack\nWhen this hits, create a Runechant token.\nIf you have played a 'non-attack' action card this turn, Nebula Blade has +3{p}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this hits, create a Runechant token.</p>\n<p>If you have played a 'non-attack' action card this turn, Nebula Blade has +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HV002",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Steve Argyle",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HV002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HV002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HV002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AVS002",
+      "code": "AVS002",
+      "language": "en",
+      "set": "AVS",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "amory-deck-legends-viserai-rune-blood",
+      "releaseDate": "2025-07-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AVS002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Nebula Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**{br}When this hits, create a Runechant token.{br}If you've played a non-attack action card this turn, this gets +3{p}.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack\nWhen this hits, create a Runechant token.\nIf you've played a non-attack action card this turn, this gets +3{p}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this hits, create a Runechant token.</p>\n<p>If you've played a non-attack action card this turn, this gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AVS002",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Steve Argyle",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AVS002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AVS002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AVS002.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack"
+    ],
+    "editions": {
+      "U-ARC077": "unlimited",
+      "U-CRU139-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:26:03Z",
+    "rawSha256": "57ff23b23c4080d772c8779710a549bd37f44e0a8bf501a9d7784c4ff4c2aee2",
+    "updatedAt": "2025-09-18T06:52:52.684199+12:00"
+  }
+}

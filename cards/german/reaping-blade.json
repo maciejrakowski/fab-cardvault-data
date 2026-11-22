@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "reaping-blade",
+  "language": "de",
+  "name": "Ernteklinge",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Ernteklinge",
+      "typeLine": "Runenklinge Waffe - Schwert (2H)",
+      "classes": [
+        "Runenklinge"
+      ],
+      "types": [
+        "Waffe"
+      ],
+      "subtypes": [
+        "(2H)",
+        "Schwert"
+      ],
+      "text": {
+        "markup": "**Einmalige Aktion pro Zug** -- {r}: **Attacke**{br}Wenn ein Held mehr {h} als irgendeiner der anderen Helden hat, kann er kein {h} erhalten.",
+        "plain": "Einmalige Aktion pro Zug -- {r}: Attacke\nWenn ein Held mehr {h} als irgendeiner der anderen Helden hat, kann er kein {h} erhalten.",
+        "html": "<p><strong>Einmalige Aktion pro Zug</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attacke</strong></p>\n<p>Wenn ein Held mehr <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> als irgendeiner der anderen Helden hat, kann er kein <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> erhalten.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "DE_1HP261",
+      "code": "1HP261",
+      "language": "de",
+      "set": "1HP",
+      "setNumber": 261,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1-black-label-de",
+      "releaseDate": "2022-07-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DE_1HP261",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "de",
+          "name": "Ernteklinge",
+          "typeLine": "Runenklinge Waffe - Schwert (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Einmalige Aktion pro Zug** -- {r}: **Attacke**{br}Wenn ein Held mehr {h} als irgendeiner der anderen Helden hat, kann er kein {h} erhalten.",
+            "plain": "Einmalige Aktion pro Zug -- {r}: Attacke\nWenn ein Held mehr {h} als irgendeiner der anderen Helden hat, kann er kein {h} erhalten.",
+            "html": "<p><strong>Einmalige Aktion pro Zug</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attacke</strong></p>\n<p>Wenn ein Held mehr <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> als irgendeiner der anderen Helden hat, kann er kein <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> erhalten.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP261",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Alexandra Malygina",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_1HP261.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_1HP261.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_1HP261.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

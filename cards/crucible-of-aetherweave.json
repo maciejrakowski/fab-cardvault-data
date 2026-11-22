@@ -1,0 +1,680 @@
+{
+  "schemaVersion": 1,
+  "id": "crucible-of-aetherweave",
+  "name": "Crucible of Aetherweave",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Crucible of Aetherweave",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Wizard Weapon - Staff (2H)",
+      "traitLine": null,
+      "classes": [
+        "Wizard"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(2H)",
+        "Staff"
+      ],
+      "text": {
+        "markup": "**Once per Turn Instant** -- {r}: The next card you play this turn with an arcane damage effect, instead deals that much arcane damage plus 1.",
+        "plain": "Once per Turn Instant -- {r}: The next card you play this turn with an arcane damage effect, instead deals that much arcane damage plus 1."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS012-CF",
+      "code": "LGS012-P",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-2",
+      "releaseDate": "2020-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS012-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crucible of Aetherweave",
+          "typeLine": "Wizard Weapon - Staff (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "plain": "Once per Turn Instant -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS012-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Kate Fox",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS012-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS012-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS012-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC115",
+      "code": "ARC115-T",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 115,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC115",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crucible of Aetherweave",
+          "typeLine": "Wizard Weapon - Staff (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "plain": "Once per Turn Instant -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC115-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Kate Fox",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC115.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC115.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC115.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU159",
+      "code": "CRU159",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 159,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU159",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crucible of Aetherweave",
+          "typeLine": "Wizard Weapon - Staff (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "plain": "Once per Turn Instant -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU159",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Kate Fox",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU159.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU159.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU159.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC115",
+      "code": "ARC115",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 115,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC115",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crucible of Aetherweave",
+          "typeLine": "Wizard Weapon - Staff (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "plain": "Once per Turn Instant -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC115",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Kate Fox",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC115.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC115.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC115.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU159-RF",
+      "code": "CRU159",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 159,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU159-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crucible of Aetherweave",
+          "typeLine": "Wizard Weapon - Staff (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "plain": "Once per Turn Instant -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU159",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Kate Fox",
+          "rarityMark": "common-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU159-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU159-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU159-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP303",
+      "code": "1HP303",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 303,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP303",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crucible of Aetherweave",
+          "typeLine": "Wizard Weapon - Staff (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "plain": "Once per Turn Instant -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP303",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Kate Fox",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP303.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP303.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP303.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB097-GF",
+      "code": "FAB097",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 97,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "proquest-season-3",
+      "releaseDate": "2023-01-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB097-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crucible of Aetherweave",
+          "typeLine": "Wizard Weapon - Staff (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "plain": "Once per Turn Instant -- {r}: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB097",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Kate Fox",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB097-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB097-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB097-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HK002",
+      "code": "1HK002",
+      "language": "en",
+      "set": "1HK",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "kano-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HK002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crucible of Aetherweave",
+          "typeLine": "Wizard Weapon - Staff (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: The next card you play this turn with an arcane damage effect, instead deals that much arcane damage plus 1.",
+            "plain": "Once per Turn Instant -- {r}: The next card you play this turn with an arcane damage effect, instead deals that much arcane damage plus 1.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: The next card you play this turn with an arcane damage effect, instead deals that much arcane damage plus 1.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HK002",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Kate Fox",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HK002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HK002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HK002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SIY002",
+      "code": "SIY002",
+      "language": "en",
+      "set": "SIY",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-iyslander",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SIY002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crucible of Aetherweave",
+          "typeLine": "Wizard Weapon - Staff (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: The next card you play this turn with an arcane damage effect, instead deals that much arcane damage plus 1.",
+            "plain": "Once per Turn Instant -- {r}: The next card you play this turn with an arcane damage effect, instead deals that much arcane damage plus 1.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: The next card you play this turn with an arcane damage effect, instead deals that much arcane damage plus 1.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SIY002",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Kate Fox",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SIY002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SIY002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SIY002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBZ002",
+      "code": "SBZ002",
+      "language": "en",
+      "set": "SBZ",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-blaze-firemind",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBZ002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crucible of Aetherweave",
+          "typeLine": "Wizard Weapon - Staff (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: The next card you play this turn with an arcane damage effect, instead deals that much arcane damage plus 1.",
+            "plain": "Once per Turn Instant -- {r}: The next card you play this turn with an arcane damage effect, instead deals that much arcane damage plus 1.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: The next card you play this turn with an arcane damage effect, instead deals that much arcane damage plus 1.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBZ002",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Kate Fox",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBZ002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBZ002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBZ002.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-ARC115": "unlimited",
+      "U-CRU159-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:16:07Z",
+    "rawSha256": "20903c473d981e1a70ec887e015d7f49670555b9a4464fda0cfd7dcbdc81d823",
+    "updatedAt": "2025-09-18T06:48:10.244056+12:00"
+  }
+}

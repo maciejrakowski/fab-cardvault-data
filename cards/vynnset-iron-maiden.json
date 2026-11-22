@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "id": "vynnset-iron-maiden",
+  "name": "Vynnset, Iron Maiden",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Vynnset, Iron Maiden",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 40,
+      "intellect": 4,
+      "typeLine": "Shadow Runeblade Hero",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "At the start of your turn, banish a card from your hand. If you do, create a Runechant token.{br}Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented.",
+        "plain": "At the start of your turn, banish a card from your hand. If you do, create a Runechant token.\nWhenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "DTD133",
+      "code": "DTD133",
+      "language": "en",
+      "set": "DTD",
+      "setNumber": 133,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dusk-till-dawn",
+      "releaseDate": "2023-07-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DTD133",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vynnset, Iron Maiden",
+          "typeLine": "Shadow Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, banish a card from your hand. If you do, create a Runechant token.\nWhenever you play a Shadow non-attack action card, you may pay {g}. If you do, the next Runechant effect that would deal damage this turn can't be prevented.",
+            "plain": "At the start of your turn, banish a card from your hand. If you do, create a Runechant token.\nWhenever you play a Shadow non-attack action card, you may pay {g}. If you do, the next Runechant effect that would deal damage this turn can't be prevented.",
+            "html": "<p>At the start of your turn, banish a card from your hand. If you do, create a Runechant token.</p>\n<p>Whenever you play a Shadow non-attack action card, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. If you do, the next Runechant effect that would deal damage this turn can't be prevented.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "DTD133",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Federico Musetti",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DTD133.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DTD133.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DTD133.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WIN024-CF",
+      "code": "WIN024",
+      "language": "en",
+      "set": "WIN",
+      "setNumber": 24,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-champion-cards-dusk-till-dawn",
+      "releaseDate": "2023-07-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WIN024-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vynnset, Iron Maiden",
+          "typeLine": "Shadow Runeblade Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": {
+            "markup": "Pro Tour Champion",
+            "plain": "Pro Tour Champion",
+            "html": "<p>Pro Tour Champion</p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "WIN024",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Federico Musetti",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WIN024-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WIN024-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WIN024-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER087-CF",
+      "code": "HER087",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 87,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "judge-pack-season-2",
+      "releaseDate": "2023-10-21",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER087-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vynnset, Iron Maiden",
+          "typeLine": "Shadow Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, banish a card from your hand. If you do, create a Runechant token.\nWhenever you play a Shadow non-attack action card, you may pay {g}. If you do, the next Runechant effect that would deal damage this turn can't be prevented.",
+            "plain": "At the start of your turn, banish a card from your hand. If you do, create a Runechant token.\nWhenever you play a Shadow non-attack action card, you may pay {g}. If you do, the next Runechant effect that would deal damage this turn can't be prevented.",
+            "html": "<p>At the start of your turn, banish a card from your hand. If you do, create a Runechant token.</p>\n<p>Whenever you play a Shadow non-attack action card, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. If you do, the next Runechant effect that would deal damage this turn can't be prevented.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER087",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Federico Musetti",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER087-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER087-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER087-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CON007-MV",
+      "code": "CON007",
+      "language": "en",
+      "set": "CON",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "double-sided",
+      "product": "conventions-faith-and-torment",
+      "releaseDate": "2026-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-18T12:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "CON007-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vynnset, Iron Maiden",
+          "typeLine": "Shadow Runeblade Heo",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, banish a card from your hand. If you do, create a Runechant token.{br}Whenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented.",
+            "plain": "At the start of your turn, banish a card from your hand. If you do, create a Runechant token.\nWhenever you play a Shadow non-attack action card, you may pay {h}. If you do, the next Runechant effect that would deal damage this turn can't be prevented.",
+            "html": "<p>At the start of your turn, banish a card from your hand. If you do, create a Runechant token.</p>\n<p>Whenever you play a Shadow non-attack action card, you may pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. If you do, the next Runechant effect that would deal damage this turn can't be prevented.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "CON007",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Dominik Mayer",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CON007-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CON007-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CON007-MV.webp"
+          }
+        },
+        {
+          "id": "CON007-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vynnset, Iron Maiden",
+          "typeLine": "Shadow Runeblade Heo",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CON007-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CON007-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CON007-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:12:40Z",
+    "rawSha256": "9cc968f1f4396638be4120afbdf6484289508da2320b5f57b8c8d8ad3d508de4",
+    "updatedAt": "2025-09-18T06:58:55.813497+12:00"
+  }
+}

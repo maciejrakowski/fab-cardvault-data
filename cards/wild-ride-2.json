@@ -1,0 +1,446 @@
+{
+  "schemaVersion": 1,
+  "id": "wild-ride-2",
+  "name": "Wild Ride",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Wild Ride",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 2,
+      "power": 5,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Brute Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Brute"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.",
+        "plain": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets go again."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "EVR012",
+      "code": "EVR012",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR012",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wild Ride",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.",
+            "plain": "When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains go again.",
+            "html": "<p>When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Wild Ride gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_Everyone who knows how to have a good time is welcome in Aria._",
+            "plain": "_Everyone who knows how to have a good time is welcome in Aria._",
+            "html": "<p><em>Everyone who knows how to have a good time is welcome in Aria.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "5",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR012",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Federico Musetti",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR012.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR012.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR012.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVR012-RF",
+      "code": "EVR012",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR012-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wild Ride",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains **go again**.",
+            "plain": "When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Wild Ride gains go again.",
+            "html": "<p>When you attack with Wild Ride, draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Wild Ride gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_Everyone who knows how to have a good time is welcome in Aria._",
+            "plain": "_Everyone who knows how to have a good time is welcome in Aria._",
+            "html": "<p><em>Everyone who knows how to have a good time is welcome in Aria.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "5",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR012",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Federico Musetti",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR012-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR012-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR012-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY039",
+      "code": "HVY039",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 39,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY039",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wild Ride",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.",
+            "plain": "When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets go again.",
+            "html": "<p>When this attacks, draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, this gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "5",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY039",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Federico Musetti",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY039.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY039.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY039.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "KYO021",
+      "code": "KYO021",
+      "language": "en",
+      "set": "KYO",
+      "setNumber": 21,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "kayo-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "KYO021",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wild Ride",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.",
+            "plain": "When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets go again.",
+            "html": "<p>When this attacks, draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, this gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "5",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "KYO021",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Federico Musetti",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/KYO021.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/KYO021.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/KYO021.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SKA024",
+      "code": "SKA024",
+      "language": "en",
+      "set": "SKA",
+      "setNumber": 24,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-kayo",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SKA024",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wild Ride",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.",
+            "plain": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets go again.",
+            "html": "<p>When this attacks, draw a card, then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, this gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "5",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SKA024",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Federico Musetti",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SKA024.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SKA024.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SKA024.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TNP002-MV",
+      "code": "TNP002",
+      "language": "en",
+      "set": "TNP",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "tournament-pack",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TNP002-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wild Ride",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **go again**.",
+            "plain": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets go again.",
+            "html": "<p>When this attacks, draw a card, then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, this gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": "5",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TNP002",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Federico Musetti",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TNP002-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TNP002-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP002-MV.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:04:42Z",
+    "rawSha256": "ab1870c06cc3cd4783299cd06f1b2dfed5ccc08d6408cf6fac56fc2d308f2773",
+    "updatedAt": "2025-09-18T06:59:22.516472+12:00"
+  }
+}

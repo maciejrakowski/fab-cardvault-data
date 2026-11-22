@@ -1,0 +1,682 @@
+{
+  "schemaVersion": 1,
+  "id": "barraging-beatdown-3",
+  "name": "Barraging Beatdown",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Barraging Beatdown",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Brute Action",
+      "traitLine": null,
+      "classes": [
+        "Brute"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Your next Brute attack this turn gets \"If this is defended by fewer than 2 non-equipment cards, it gets +2{p}.\"{br}**Intimidate**{br}**Go again**",
+        "plain": "Your next Brute attack this turn gets \"If this is defended by fewer than 2 non-equipment cards, it gets +2{p}.\"\nIntimidate\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "RNR025",
+      "code": "RNR025-R",
+      "language": "en",
+      "set": "RNR",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rhinar-reckless-rampage-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "RNR025",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Barraging Beatdown",
+          "typeLine": "Brute Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\n**Intimidate** _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\n**Go again**",
+            "plain": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\nIntimidate _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\nGo again",
+            "html": "<p>Your next Brute attack this turn gains &quot;If this attack is defended by less than 2 non-equipment cards, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.&quot;</p>\n<p><strong>Intimidate</strong> <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "RNR025-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Olga Khariton",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/RNR025.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/RNR025.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/RNR025.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR019",
+      "code": "WTR019-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 19,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR019",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Barraging Beatdown",
+          "typeLine": "Brute Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\n**Intimidate** _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\n**Go again**",
+            "plain": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\nIntimidate _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\nGo again",
+            "html": "<p>Your next Brute attack this turn gains &quot;If this attack is defended by less than 2 non-equipment cards, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.&quot;</p>\n<p><strong>Intimidate</strong> <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR019-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Olga Khariton",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR019.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR019.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR019.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR019-RF",
+      "code": "WTR019-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 19,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR019-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Barraging Beatdown",
+          "typeLine": "Brute Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\n**Intimidate** _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\n**Go again**",
+            "plain": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\nIntimidate _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\nGo again",
+            "html": "<p>Your next Brute attack this turn gains &quot;If this attack is defended by less than 2 non-equipment cards, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.&quot;</p>\n<p><strong>Intimidate</strong> <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR019-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Olga Khariton",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR019-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR019-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR019-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR019",
+      "code": "WTR019",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 19,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR019",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Barraging Beatdown",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"{br}**Intimidate** _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_{br}**Go again**",
+            "plain": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\nIntimidate _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\nGo again",
+            "html": "<p>Your next Brute attack this turn gains &quot;If this attack is defended by less than 2 non-equipment cards, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.&quot;</p>\n<p><strong>Intimidate</strong> <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR019",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Olga Khariton",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR019.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR019.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR019.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR019-RF",
+      "code": "WTR019",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 19,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR019-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Barraging Beatdown",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"{br}**Intimidate** _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_{br}**Go again**",
+            "plain": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\nIntimidate _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\nGo again",
+            "html": "<p>Your next Brute attack this turn gains &quot;If this attack is defended by less than 2 non-equipment cards, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.&quot;</p>\n<p><strong>Intimidate</strong> <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR019",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Olga Khariton",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR019-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR019-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR019-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR019",
+      "code": "WTR019",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 19,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR019",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Barraging Beatdown",
+          "typeLine": "Brute Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\n**Intimidate** _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\n**Go again**",
+            "plain": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\nIntimidate _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\nGo again",
+            "html": "<p>Your next Brute attack this turn gains &quot;If this attack is defended by less than 2 non-equipment cards, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.&quot;</p>\n<p><strong>Intimidate</strong> <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR019",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Olga Khariton",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR019.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR019.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR019.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR019-RF",
+      "code": "WTR019",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 19,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR019-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Barraging Beatdown",
+          "typeLine": "Brute Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\n**Intimidate** _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\n**Go again**",
+            "plain": "Your next Brute attack this turn gains \"If this attack is defended by less than 2 non-equipment cards, it gains +2{p}.\"\nIntimidate _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_\nGo again",
+            "html": "<p>Your next Brute attack this turn gains &quot;If this attack is defended by less than 2 non-equipment cards, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.&quot;</p>\n<p><strong>Intimidate</strong> <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR019",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Olga Khariton",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR019-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR019-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR019-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP024",
+      "code": "1HP024",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 24,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP024",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Barraging Beatdown",
+          "typeLine": "Brute Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Brute attack this turn gains \"While this attack is defended by less than 2 non-equipment cards, it has +2{p}.\"\n**Intimidate** _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_ \n**Go again**",
+            "plain": "Your next Brute attack this turn gains \"While this attack is defended by less than 2 non-equipment cards, it has +2{p}.\"\nIntimidate _(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)_ \nGo again",
+            "html": "<p>Your next Brute attack this turn gains &quot;While this attack is defended by less than 2 non-equipment cards, it has +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.&quot;</p>\n<p><strong>Intimidate</strong> <em>(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owners hand.)</em> </p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP024",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Olga Khariton",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP024.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP024.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP024.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARR024",
+      "code": "ARR024",
+      "language": "en",
+      "set": "ARR",
+      "setNumber": 24,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-rhinar-reckless-rampage",
+      "releaseDate": "2025-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARR024",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Barraging Beatdown",
+          "typeLine": "Brute Action",
+          "traitLine": null,
+          "text": {
+            "markup": "**Intimidate**, then your next Brute attack this turn gets \"If this is defended by fewer than 2 non-equipment cards, it gets +2{p}.\"{br}**Go again**",
+            "plain": "Intimidate, then your next Brute attack this turn gets \"If this is defended by fewer than 2 non-equipment cards, it gets +2{p}.\"\nGo again",
+            "html": "<p><strong>Intimidate</strong>, then your next Brute attack this turn gets &quot;If this is defended by fewer than 2 non-equipment cards, it gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARR024",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Olga Khariton",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARR024.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARR024.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARR024.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TNP036-MV",
+      "code": "TNP036",
+      "language": "en",
+      "set": "TNP",
+      "setNumber": 36,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "tournament-pack",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-05-30T08:50:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "TNP036-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Barraging Beatdown",
+          "typeLine": "Brute Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next Brute attack this turn gets \"If this is defended by fewer than 2 non-equipment cards, it gets +2{p}.\" **Intimidate**. **Go again**",
+            "plain": "Your next Brute attack this turn gets \"If this is defended by fewer than 2 non-equipment cards, it gets +2{p}.\" Intimidate. Go again",
+            "html": "<p>Your next Brute attack this turn gets &quot;If this is defended by fewer than 2 non-equipment cards, it gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.&quot; <strong>Intimidate</strong>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TNP036",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Olga Khariton",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TNP036-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TNP036-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP036-MV.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "Intimidate"
+    ],
+    "editions": {
+      "R-WTR019": "unlimited-revised",
+      "R-WTR019-RF": "unlimited-revised",
+      "U-WTR019": "unlimited",
+      "U-WTR019-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:54:09Z",
+    "rawSha256": "aa8dd70ebdb81c983eafc476fe11cfe2a70dfdce4e9355b30f1c478102e68b0b",
+    "updatedAt": "2025-09-18T06:46:07.798165+12:00"
+  }
+}

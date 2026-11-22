@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "id": "helm-of-sharp-eye",
+  "name": "Helm of Sharp Eye",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Helm of Sharp Eye",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Warrior Equipment - Head",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Head"
+      ],
+      "text": {
+        "markup": "**Attack Reaction** -- {r}, destroy this: Banish the top card of your deck. You may play it this combat chain. Activate this only if you control a weapon attack with {p} greater than twice its base.{br}**Battleworn**",
+        "plain": "Attack Reaction -- {r}, destroy this: Banish the top card of your deck. You may play it this combat chain. Activate this only if you control a weapon attack with {p} greater than twice its base.\nBattleworn"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #10] Specifying weapon attacks instead of weapons",
+      "description": "This card's textbox was updated to refer to a weapon's attack {p} instead of weapon {p}, aligning it with changes to separate weapons from their attacks.",
+      "date": "09-03-2026"
+    }
+  ],
+  "printings": [
+    {
+      "id": "EVR053",
+      "code": "EVR053",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 53,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR053",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Helm of Sharp Eye",
+          "typeLine": "Warrior Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "**Attack Reaction** -- {r}, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with {p} greater than twice it's base {p}.\n**Battleworn** _(If you defend with Helm of Sharp Eye, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Attack Reaction -- {r}, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with {p} greater than twice it's base {p}.\nBattleworn _(If you defend with Helm of Sharp Eye, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Attack Reaction</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than twice it's base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Battleworn</strong> <em>(If you defend with Helm of Sharp Eye, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR053",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Federico Musetti",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR053.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR053.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR053.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVR053-CF",
+      "code": "EVR053",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 53,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR053-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Helm of Sharp Eye",
+          "typeLine": "Warrior Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "**Attack Reaction** -- {r}, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with {p} greater than twice it's base {p}.\n**Battleworn** _(If you defend with Helm of Sharp Eye, put a -1{d} counter on it when the combat chain closes.)_",
+            "plain": "Attack Reaction -- {r}, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with {p} greater than twice it's base {p}.\nBattleworn _(If you defend with Helm of Sharp Eye, put a -1{d} counter on it when the combat chain closes.)_",
+            "html": "<p><strong>Attack Reaction</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Helm of Sharp Eye: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than twice it's base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Battleworn</strong> <em>(If you defend with Helm of Sharp Eye, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR053",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Federico Musetti",
+          "rarityMark": "majestic-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR053-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR053-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR053-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB303-GF",
+      "code": "FAB303",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 303,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "in-store-qualifiers-the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB303-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Helm of Sharp Eye",
+          "typeLine": "Warrior Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "**Attack Reaction** -- {r}, destroy this: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon attack with {p} greater than twice it's base.{br}**Battleworn** _(When the combat chain closes, this this defended, put a -1{d} counter on it.)_",
+            "plain": "Attack Reaction -- {r}, destroy this: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon attack with {p} greater than twice it's base.\nBattleworn _(When the combat chain closes, this this defended, put a -1{d} counter on it.)_",
+            "html": "<p><strong>Attack Reaction</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy this: Banish the top card of your deck. You may play it this combat chain. Activate this ability only if you control a weapon attack with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than twice it's base.</p>\n<p><strong>Battleworn</strong> <em>(When the combat chain closes, this this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB303",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Federico Musetti",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB303-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB303-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB303-GF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Battleworn"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:39:59Z",
+    "rawSha256": "6e3999d6e621a75e8da11e42f54c77423b2fb9d4f72daabb00d81ee370ec7893",
+    "updatedAt": "2025-09-18T06:51:02.172321+12:00"
+  }
+}

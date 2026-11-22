@@ -1,0 +1,502 @@
+{
+  "schemaVersion": 1,
+  "id": "reaping-blade",
+  "name": "Reaping Blade",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Reaping Blade",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 3,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Runeblade Weapon - Sword (2H)",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(2H)",
+        "Sword"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If a hero has more {h} than each other hero, they can't gain {h}.",
+        "plain": "Once per Turn Action -- {r}: Attack\nIf a hero has more {h} than each other hero, they can't gain {h}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "CRU140",
+      "code": "CRU140",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 140,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU140",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reaping Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf a hero has more {h} than any other hero, they can't gain {h}.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf a hero has more {h} than any other hero, they can't gain {h}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU140",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Alexandra Malygina",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU140.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU140.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU140.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU140-CF",
+      "code": "CRU140",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 140,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU140-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reaping Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf a hero has more {h} than any other hero, they can't gain {h}.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf a hero has more {h} than any other hero, they can't gain {h}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU140",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Alexandra Malygina",
+          "rarityMark": "rare-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU140-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU140-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU140-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU140",
+      "code": "CRU140",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 140,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU140",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reaping Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf a hero has more {h} than any other hero, they can't gain {h}.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf a hero has more {h} than any other hero, they can't gain {h}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU140",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexandra Malygina",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU140.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU140.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU140.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU140-RF",
+      "code": "CRU140",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 140,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU140-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reaping Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf a hero has more {h} than any other hero, they can't gain {h}.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf a hero has more {h} than any other hero, they can't gain {h}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU140",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexandra Malygina",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU140-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU140-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU140-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP261",
+      "code": "1HP261",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 261,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP261",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reaping Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\r\nIf a hero has more {g} than any other hero, they can't gain {g}.",
+            "plain": "Once per Turn Action -- {r}: Attack\r\nIf a hero has more {g} than any other hero, they can't gain {g}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP261",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexandra Malygina",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP261.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP261.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP261.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SVI002",
+      "code": "SVI002",
+      "language": "en",
+      "set": "SVI",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-viserai",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SVI002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reaping Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If a hero has more {g} than each other hero, they can't gain {g}.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf a hero has more {g} than each other hero, they can't gain {g}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than each other hero, they can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SVI002",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Alexandra Malygina",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SVI002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SVI002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SVI002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CON003-RF",
+      "code": "CON003",
+      "language": "en",
+      "set": "CON",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "conventions-light-and-shadow",
+      "releaseDate": "2027-05-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CON003-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reaping Blade",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If a hero has more {h} than any other hero, they can't gain {h}.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf a hero has more {h} than any other hero, they can't gain {h}.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CON003",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Alief Rusdiatama",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CON003-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CON003-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CON003-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack"
+    ],
+    "editions": {
+      "U-CRU140": "unlimited",
+      "U-CRU140-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:11:53Z",
+    "rawSha256": "df7493e2241119a1701c38879de5805bd61a1685d9bbc02df87ccc3485a80ded",
+    "updatedAt": "2025-09-18T06:54:36.540673+12:00"
+  }
+}

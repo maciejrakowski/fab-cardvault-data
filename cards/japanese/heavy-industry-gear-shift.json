@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "heavy-industry-gear-shift",
+  "language": "ja",
+  "name": "重工業のギアシフト",
+  "cores": [
+    {
+      "position": 10,
+      "name": "重工業のギアシフト",
+      "typeLine": "機械技師・装備品 － 足",
+      "classes": [
+        "機械技師"
+      ],
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "足"
+      ],
+      "text": {
+        "markup": "**アクション**--これを破壊する：あなたのデッキの上からカードを２枚追放する。これにより追放した機械技師のカード１枚につき、アクションポイントを１得る。{br}**戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+        "plain": "アクション--これを破壊する：あなたのデッキの上からカードを２枚追放する。これにより追放した機械技師のカード１枚につき、アクションポイントを１得る。\n戦傷（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+        "html": "<p><strong>アクション</strong>—これを破壊する：あなたのデッキの上からカードを２枚追放する。これにより追放した機械技師のカード１枚につき、アクションポイントを１得る。</p>\n<p><strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_AIO006-RF",
+      "code": "AIO006",
+      "language": "ja",
+      "set": "AIO",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dash-io-ja",
+      "releaseDate": "2024-10-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AIO006-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "重工業のギアシフト",
+          "typeLine": "機械技師・装備品 － 足",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--これを破壊する：あなたのデッキの上からカードを２枚追放する。これにより追放した機械技師のカード１枚につき、アクションポイントを１得る。{br}**戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+            "plain": "アクション--これを破壊する：あなたのデッキの上からカードを２枚追放する。これにより追放した機械技師のカード１枚につき、アクションポイントを１得る。\n戦傷（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+            "html": "<p><strong>アクション</strong>—これを破壊する：あなたのデッキの上からカードを２枚追放する。これにより追放した機械技師のカード１枚につき、アクションポイントを１得る。</p>\n<p><strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AIO006",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Simon Dominic",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AIO006-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AIO006-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AIO006-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

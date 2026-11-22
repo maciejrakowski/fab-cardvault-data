@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "gesture-of-goodwill-3",
+  "name": "Gesture of Goodwill",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Gesture of Goodwill",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": null,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Block",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Block"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "**Protect**{br}When this **protects** another hero, they may give you a token they control.",
+        "plain": "Protect\nWhen this protects another hero, they may give you a token they control."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS361-RF",
+      "code": "LGS361",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 361,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "social-play-kit-mastery-pack-guardian",
+      "releaseDate": "2019-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS361-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Gesture of Goodwill",
+          "typeLine": "Generic Block",
+          "traitLine": null,
+          "text": {
+            "markup": "**Protect** _(You may defend any hero attacked by an opponent with this.)_{br}When this **protects** another hero, they may give you a token they control.",
+            "plain": "Protect _(You may defend any hero attacked by an opponent with this.)_\nWhen this protects another hero, they may give you a token they control.",
+            "html": "<p><strong>Protect</strong> <em>(You may defend any hero attacked by an opponent with this.)</em></p>\n<p>When this <strong>protects</strong> another hero, they may give you a token they control.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": null,
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS361",
+          "printedLanguageCode": "en",
+          "printedYear": "2024",
+          "artist": "Tanapon Wachirakul",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS361-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS361-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS361-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Protect",
+      "protects"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:04:51Z",
+    "rawSha256": "99fac98c7434a964761433197bc1b9b6ece2c26474ba843efd5223b89478adbe",
+    "updatedAt": "2025-11-04T21:19:16.342975+13:00"
+  }
+}

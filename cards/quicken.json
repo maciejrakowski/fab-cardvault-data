@@ -1,0 +1,1169 @@
+{
+  "schemaVersion": 1,
+  "id": "quicken",
+  "name": "Quicken",
+  "objectType": "token",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Quicken",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Token - Aura",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Token"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": {
+        "markup": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets **go again**.",
+        "plain": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets go again."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #5] Runechant/Quicken - trigger on activate",
+      "description": "This card's textbox was updated to change a effect to trigger on the activation of a weapon attack rather than when the weapon becomes attacking, so that would be consistent in trigger timing with playing an attack action card.",
+      "date": "03-10-2022"
+    }
+  ],
+  "printings": [
+    {
+      "id": "RNR031",
+      "code": "RNR031-T",
+      "language": "en",
+      "set": "RNR",
+      "setNumber": 31,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rhinar-reckless-rampage-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "RNR031",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken and the attack gains **go again**.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken and the attack gains go again.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Quicken and the attack gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "RNR031-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "King Fung Ng",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/RNR031.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/RNR031.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/RNR031.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TEA030",
+      "code": "TEA030-T",
+      "language": "en",
+      "set": "TEA",
+      "setNumber": 30,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dorinthea-ironsong-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TEA030",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\r\nWhen you play an attack action card or attack with a weapon, destroy Quicken and the attack gains **go again**.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\r\nWhen you play an attack action card or attack with a weapon, destroy Quicken and the attack gains go again.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Quicken and the attack gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TEA030-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "King Fung Ng",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TEA030.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TEA030.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TEA030.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR225",
+      "code": "WTR225-T",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 225,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR225",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken then the attack gains go again.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken then the attack gains go again.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Quicken then the attack gains go again.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR225-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "King Fung Ng",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR225.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR225.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR225.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "XXX009",
+      "code": "XXX009",
+      "language": "en",
+      "set": "XXX",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "organized-play-support-limited-calling-2019",
+      "releaseDate": "2019-10-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "XXX009",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken then the attack gains **go again**.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken then the attack gains go again.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Quicken then the attack gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "XXX009",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "King Fung Ng",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/XXX009.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/XXX009.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX009.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU196-RF",
+      "code": "CRU196",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 196,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU196-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or attack with a weapon, destroy Quicken and the attack gains **go again**.",
+            "plain": "When you play an attack action card or attack with a weapon, destroy Quicken and the attack gains go again.",
+            "html": "<p>When you play an attack action card or attack with a weapon, destroy Quicken and the attack gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU196",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "King Fung Ng",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU196-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU196-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU196-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR225",
+      "code": "WTR225",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 225,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR225",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_{br}When you play an attack action card or attack with a weapon, destroy Quicken then the attack gains go again.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken then the attack gains go again.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Quicken then the attack gains go again.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR225",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "King Fung Ng",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR225.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR225.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR225.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR225",
+      "code": "WTR225",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 225,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR225",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken then the attack gains go again.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken then the attack gains go again.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Quicken then the attack gains go again.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR225",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "King Fung Ng",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR225.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR225.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR225.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU196-RF",
+      "code": "CRU196",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 196,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU196-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_ When you play an attack action card or attack with a weapon, destroy Quicken and the attack gains **go again**.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_ When you play an attack action card or attack with a weapon, destroy Quicken and the attack gains go again.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em> When you play an attack action card or attack with a weapon, destroy Quicken and the attack gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU196",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "King Fung Ng",
+          "rarityMark": "common-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU196-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU196-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU196-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVR196",
+      "code": "EVR196",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 196,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR196",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken and the attack gains **go again**.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken and the attack gains go again.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Quicken and the attack gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR196",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "King Fung Ng",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR196.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR196.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR196.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP427",
+      "code": "1HP427",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 427,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP427",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Aura's stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken and the attack gains **go again**.",
+            "plain": "_(Aura's stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken and the attack gains go again.",
+            "html": "<p><em>(Aura's stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Quicken and the attack gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP427",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "King Fung Ng",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP427.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP427.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP427.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DVR028",
+      "code": "DVR028",
+      "language": "en",
+      "set": "DVR",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "classic-battles-rhinar-vs-dorinthea",
+      "releaseDate": "2022-05-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DVR028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken and the attack gains **go again**.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or attack with a weapon, destroy Quicken and the attack gains go again.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or attack with a weapon, destroy Quicken and the attack gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DVR028",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "King Fung Ng",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DVR028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DVR028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DVR028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HT027",
+      "code": "1HT027",
+      "language": "en",
+      "set": "1HT",
+      "setNumber": 27,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dorinthea-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HT027",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or activate a weapon attack, destroy Quicken and the attack gains **go again**.",
+            "plain": "_(Auras stay in the arena until they are destroyed.)_\nWhen you play an attack action card or activate a weapon attack, destroy Quicken and the attack gains go again.",
+            "html": "<p><em>(Auras stay in the arena until they are destroyed.)</em></p>\n<p>When you play an attack action card or activate a weapon attack, destroy Quicken and the attack gains <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HT027",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "King Fung Ng",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HT027.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HT027.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HT027.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DTD234",
+      "code": "DTD234",
+      "language": "en",
+      "set": "DTD",
+      "setNumber": 234,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dusk-till-dawn",
+      "releaseDate": "2023-07-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DTD234",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets **go again**.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets go again.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and the attack gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DTD234",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "King Fung Ng",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DTD234.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DTD234.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DTD234.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TCC106",
+      "code": "TCC106",
+      "language": "en",
+      "set": "TCC",
+      "setNumber": 106,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "round-the-table-tcc-x-lss",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TCC106",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets **go again**.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets go again.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and the attack gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TCC106",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC106.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC106.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC106.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVO250",
+      "code": "EVO250",
+      "language": "en",
+      "set": "EVO",
+      "setNumber": 250,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVO250",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets **go again**.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets go again.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and the attack gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO250",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVO250.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVO250.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVO250.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ASB028",
+      "code": "ASB028",
+      "language": "en",
+      "set": "ASB",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-ser-boltyn-breaker-of-dawn",
+      "releaseDate": "2024-07-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ASB028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets **go again**.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets go again.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and the attack gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ASB028",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ASB028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ASB028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ASB028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB281-CF",
+      "code": "FAB281",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 281,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prize-wall-rosetta",
+      "releaseDate": "2024-09-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB281-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets **go again**.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets go again.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and the attack gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB281",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "King Fung Ng",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB281-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB281-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB281-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB282-CF",
+      "code": "FAB282",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 282,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prize-wall-rosetta",
+      "releaseDate": "2024-09-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB282-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicken",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets **go again**.",
+            "plain": "When you play an attack action card or activate a weapon attack, destroy this and the attack gets go again.",
+            "html": "<p>When you play an attack action card or activate a weapon attack, destroy this and the attack gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB282",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB282-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB282-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB282-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "go again"
+    ],
+    "editions": {
+      "R-WTR225": "unlimited-revised",
+      "U-CRU196-RF": "unlimited",
+      "U-WTR225": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T15:15:42Z",
+    "rawSha256": "7661f20aec07557a1bd659d3da61e152bad9ea80d200fec33269611df30a9909",
+    "updatedAt": "2025-09-18T06:54:15.415773+12:00"
+  }
+}

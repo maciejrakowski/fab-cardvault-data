@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "cutpurse-rapier",
+  "name": "Cutpurse Rapier",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Cutpurse Rapier",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 3,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Warrior Thief Weapon - Sword (2H)",
+      "traitLine": null,
+      "classes": [
+        "Thief",
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(2H)",
+        "Sword"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}: **Attack**{br}When this hits a hero, **steal** a Gold token they control. ",
+        "plain": "Once per Turn Action -- {r}: Attack\nWhen this hits a hero, steal a Gold token they control."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "SPW002-RF",
+      "code": "SPW002",
+      "language": "en",
+      "set": "SPW",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "smash-palace-chorus-of-steel",
+      "releaseDate": "2026-10-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-31T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SPW002-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cutpurse Rapier",
+          "typeLine": "Warrior Thief Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}When this hits a hero, **steal** a Gold token they control. _(Gain control of it.)_",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhen this hits a hero, steal a Gold token they control. _(Gain control of it.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this hits a hero, <strong>steal</strong> a Gold token they control. <em>(Gain control of it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SPW002",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Mariusz Gandzel",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SPW002-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SPW002-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SPW002-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack",
+      "steal"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:14:14Z",
+    "rawSha256": "995b89c213097bd97ab96b229aa3bf90eaacdcd0693b8dacdf9da63b91aa8f74",
+    "updatedAt": "2026-07-14T19:59:51.465214+12:00"
+  }
+}

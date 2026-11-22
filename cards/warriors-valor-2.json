@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "id": "warriors-valor-2",
+  "name": "Warrior's Valor",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Warrior's Valor",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 1,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Warrior Action",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Your next weapon attack this turn gets +2{p} and \"When this hits, it gets **go again**.\"{br}**Go again**",
+        "plain": "Your next weapon attack this turn gets +2{p} and \"When this hits, it gets go again.\"\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "TEA018",
+      "code": "TEA018-R",
+      "language": "en",
+      "set": "TEA",
+      "setNumber": 18,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dorinthea-ironsong-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TEA018",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Warrior's Valor",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains **go again**.\"\r\n**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains go again.\"\r\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The Magistor's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "plain": "_The Magistor's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "html": "<p><em>The Magistor's voice filled the departure halls, as the blessing of Sol washed over them.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TEA018-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TEA018.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TEA018.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TEA018.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR130",
+      "code": "WTR130-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 130,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR130",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Warrior's Valor",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains **go again**.\"\n**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains go again.\"\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "plain": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "html": "<p><em>The Magister's voice filled the departure halls, as the blessing of Sol washed over them.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR130-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR130.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR130.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR130.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR130-RF",
+      "code": "WTR130-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 130,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR130-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Warrior's Valor",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains **go again**.\"\n**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains go again.\"\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "plain": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "html": "<p><em>The Magister's voice filled the departure halls, as the blessing of Sol washed over them.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR130-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR130-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR130-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR130-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR130",
+      "code": "WTR130",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 130,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR130",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Warrior's Valor",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains **go again**.\"{br}**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains go again.\"\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "plain": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "html": "<p><em>The Magister's voice filled the departure halls, as the blessing of Sol washed over them.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR130",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR130.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR130.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR130.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR130-RF",
+      "code": "WTR130",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 130,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR130-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Warrior's Valor",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains **go again**.\"{br}**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains go again.\"\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "plain": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "html": "<p><em>The Magister's voice filled the departure halls, as the blessing of Sol washed over them.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR130",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR130-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR130-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR130-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR130",
+      "code": "WTR130",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 130,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR130",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Warrior's Valor",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains **go again**.\"\n**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains go again.\"\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "plain": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "html": "<p><em>The Magister's voice filled the departure halls, as the blessing of Sol washed over them.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR130",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR130.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR130.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR130.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR130-RF",
+      "code": "WTR130",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 130,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR130-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Warrior's Valor",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains **go again**.\"\n**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, this attack gains go again.\"\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, this attack gains <strong>go again</strong>.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "plain": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "html": "<p><em>The Magister's voice filled the departure halls, as the blessing of Sol washed over them.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR130",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR130-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR130-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR130-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP160",
+      "code": "1HP160",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 160,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP160",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Warrior's Valor",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"When this attack hits, it gains **go again**.\"\n**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"When this attack hits, it gains go again.\"\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this attack hits, it gains <strong>go again</strong>.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "plain": "_The Magister's voice filled the departure halls, as the blessing of Sol washed over them._",
+            "html": "<p><em>The Magister's voice filled the departure halls, as the blessing of Sol washed over them.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP160",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP160.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP160.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP160.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SDO024",
+      "code": "SDO024",
+      "language": "en",
+      "set": "SDO",
+      "setNumber": 24,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-dorinthea",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SDO024",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Warrior's Valor",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gets +2{p} and \"When this hits, it gets **go again**.\"{br}**Go again**",
+            "plain": "Your next weapon attack this turn gets +2{p} and \"When this hits, it gets go again.\"\nGo again",
+            "html": "<p>Your next weapon attack this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits, it gets <strong>go again</strong>.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SDO024",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SDO024.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SDO024.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SDO024.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TNP011-MV",
+      "code": "TNP011",
+      "language": "en",
+      "set": "TNP",
+      "setNumber": 11,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "tournament-pack",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TNP011-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Warrior's Valor",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gets +2{p} and \"When this hits, it gets **go again**.\"{br}**Go again**",
+            "plain": "Your next weapon attack this turn gets +2{p} and \"When this hits, it gets go again.\"\nGo again",
+            "html": "<p>Your next weapon attack this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits, it gets <strong>go again</strong>.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TNP011",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TNP011-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TNP011-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP011-MV.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "go again"
+    ],
+    "editions": {
+      "R-WTR130": "unlimited-revised",
+      "R-WTR130-RF": "unlimited-revised",
+      "U-WTR130": "unlimited",
+      "U-WTR130-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:03:55Z",
+    "rawSha256": "36f9989765cd2e9435631881a033658bead15b04eafd2062fb0ac23f74ba663f",
+    "updatedAt": "2025-09-18T06:59:05.370805+12:00"
+  }
+}

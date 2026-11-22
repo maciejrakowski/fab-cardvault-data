@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "terra",
+  "language": "ja",
+  "name": "テラ",
+  "cores": [
+    {
+      "position": 10,
+      "name": "テラ",
+      "typeLine": "エレメンタル・守護者・ヒーロー － 若者",
+      "classes": [
+        "守護者"
+      ],
+      "talents": [
+        "エレメンタル"
+      ],
+      "types": [
+        "ヒーロー"
+      ],
+      "subtypes": [
+        "若者"
+      ],
+      "text": {
+        "markup": "各終了フェイズの開始時、あなたのピッチゾーンに大地・カードがある場合、あなたは{r}を支払ってもよい。そうした場合、「剛力」トークンを１つ作成する。{br}**大地の真髄**（あなたのデッキに大地・カードを入れてもよい）",
+        "plain": "各終了フェイズの開始時、あなたのピッチゾーンに大地・カードがある場合、あなたは{r}を支払ってもよい。そうした場合、「剛力」トークンを１つ作成する。\n大地の真髄（あなたのデッキに大地・カードを入れてもよい）",
+        "html": "<p>各終了フェイズの開始時、あなたのピッチゾーンに大地・カードがある場合、あなたは<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を支払ってもよい。そうした場合、「剛力」トークンを１つ作成する。</p>\n<p><strong>大地の真髄</strong>（あなたのデッキに大地・カードを入れてもよい）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_TER001",
+      "code": "TER001",
+      "language": "ja",
+      "set": "TER",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "1st-strike-terra-ja",
+      "releaseDate": "2024-08-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_TER001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "テラ",
+          "typeLine": "エレメンタル・守護者・ヒーロー － 若者",
+          "traitLine": null,
+          "text": {
+            "markup": "各終了フェイズの開始時、あなたのピッチゾーンに大地・カードがある場合、あなたは{r}を支払ってもよい。そうした場合、「剛力」トークンを１つ作成する。{br}**大地の真髄**（あなたのデッキに大地・カードを入れてもよい）",
+            "plain": "各終了フェイズの開始時、あなたのピッチゾーンに大地・カードがある場合、あなたは{r}を支払ってもよい。そうした場合、「剛力」トークンを１つ作成する。\n大地の真髄（あなたのデッキに大地・カードを入れてもよい）",
+            "html": "<p>各終了フェイズの開始時、あなたのピッチゾーンに大地・カードがある場合、あなたは<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を支払ってもよい。そうした場合、「剛力」トークンを１つ作成する。</p>\n<p><strong>大地の真髄</strong>（あなたのデッキに大地・カードを入れてもよい）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "TER001",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Federico Musetti",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": "earth",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_TER001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_TER001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_TER001.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

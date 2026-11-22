@@ -1,0 +1,330 @@
+{
+  "schemaVersion": 1,
+  "id": "spiders-bite",
+  "language": "fr",
+  "name": "Morsure de l’araignée",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Morsure de l’araignée",
+      "typeLine": "Assassin Arme - Dague (1M)",
+      "types": [
+        "Arme"
+      ],
+      "subtypes": [
+        "(1M)",
+        "Dague"
+      ],
+      "text": {
+        "markup": "**Action une fois par tour** -- {r}{r} : **Attaque**. **Encore une fois**{br}Quand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes gagnent -1{d} en défendant.{br}**Percée 1** _(Si cette carte est défendue par un équipement, elle gagne +1{p}.)_",
+        "plain": "Action une fois par tour -- {r}{r} : Attaque. Encore une fois\nQuand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes gagnent -1{d} en défendant.\nPercée 1 _(Si cette carte est défendue par un équipement, elle gagne +1{p}.)_",
+        "html": "<p><strong>Action une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> : <strong>Attaque</strong>. <strong>Encore une fois</strong></p>\n<p>Quand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes gagnent -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> en défendant.</p>\n<p><strong>Percée 1</strong> <em>(Si cette carte est défendue par un équipement, elle gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_ARA002",
+      "code": "ARA002",
+      "language": "fr",
+      "set": "ARA",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arakni-blitz-deck-fr",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_ARA002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Morsure de l’araignée",
+          "typeLine": "Assassin Arme - Dague (1M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action une fois par tour** -- {r}{r} : **Attaque**. **Encore une fois**\n**Percée 1** _(Si cette carte est défendue par un équipement, elle a +1{p}.)_\nQuand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes ont -1{d} quand elles défendent.",
+            "plain": "Action une fois par tour -- {r}{r} : Attaque. Encore une fois\nPercée 1 _(Si cette carte est défendue par un équipement, elle a +1{p}.)_\nQuand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes ont -1{d} quand elles défendent.",
+            "html": "<p><strong>Action une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> : <strong>Attaque</strong>. <strong>Encore une fois</strong></p>\n<p><strong>Percée 1</strong> <em>(Si cette carte est défendue par un équipement, elle a +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>Quand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes ont -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> quand elles défendent.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARA002",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_ARA002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_ARA002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_ARA002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FR_OUT004",
+      "code": "OUT004",
+      "language": "fr",
+      "set": "OUT",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders-fr",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_OUT004",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Morsure de l’araignée",
+          "typeLine": "Assassin Arme - Dague (1M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action une fois par tour** -- {r}{r} : **Attaque**. **Encore une fois**\n**Percée 1** _(Si cette carte est défendue par un équipement, elle a +1{p}.)_\nQuand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes ont -1{d} quand elles défendent.",
+            "plain": "Action une fois par tour -- {r}{r} : Attaque. Encore une fois\nPercée 1 _(Si cette carte est défendue par un équipement, elle a +1{p}.)_\nQuand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes ont -1{d} quand elles défendent.",
+            "html": "<p><strong>Action une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> : <strong>Attaque</strong>. <strong>Encore une fois</strong></p>\n<p><strong>Percée 1</strong> <em>(Si cette carte est défendue par un équipement, elle a +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>Quand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes ont -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> quand elles défendent.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OUT004",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OUT004.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OUT004.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OUT004.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FR_UZU002",
+      "code": "UZU002",
+      "language": "fr",
+      "set": "UZU",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "uzuri-blitz-deck-fr",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_UZU002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Morsure de l’araignée",
+          "typeLine": "Assassin Arme - Dague (1M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action une fois par tour** -- {r}{r} : **Attaque**. **Encore une fois**\n**Percée 1** _(Si cette carte est défendue par un équipement, elle a +1{p}.)_\nQuand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes ont -1{d} quand elles défendent.",
+            "plain": "Action une fois par tour -- {r}{r} : Attaque. Encore une fois\nPercée 1 _(Si cette carte est défendue par un équipement, elle a +1{p}.)_\nQuand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes ont -1{d} quand elles défendent.",
+            "html": "<p><strong>Action une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> : <strong>Attaque</strong>. <strong>Encore une fois</strong></p>\n<p><strong>Percée 1</strong> <em>(Si cette carte est défendue par un équipement, elle a +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>Quand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes ont -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> quand elles défendent.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "UZU002",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_UZU002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_UZU002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_UZU002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FR_AAC003",
+      "code": "AAC003",
+      "language": "fr",
+      "set": "AAC",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-arakni-5lp3d-7hru-7h3-cr4x-fr",
+      "releaseDate": "2025-12-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_AAC003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Morsure de l’araignée",
+          "typeLine": "Assassin Arme - Dague (1M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action une fois par tour** -- {r}{r}\u00A0: **Attaque**. **Encore une fois** Quand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes gagnent -1{d} en défendant. **Percée 1** _(Si cette carte est défendue par un équipement, elle gagne +1{p}.)_",
+            "plain": "Action une fois par tour -- {r}{r}\u00A0: Attaque. Encore une fois Quand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes gagnent -1{d} en défendant. Percée 1 _(Si cette carte est défendue par un équipement, elle gagne +1{p}.)_",
+            "html": "<p><strong>Action une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>\u00A0: <strong>Attaque</strong>. <strong>Encore une fois</strong> Quand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes gagnent -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> en défendant. <strong>Percée 1</strong> <em>(Si cette carte est défendue par un équipement, elle gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAC003",
+          "printedLanguageCode": "fr",
+          "printedYear": "2025",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_AAC003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_AAC003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_AAC003.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FR_MPA005",
+      "code": "MPA005",
+      "language": "fr",
+      "set": "MPA",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-assassin-fr",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_MPA005",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Morsure de l’araignée",
+          "typeLine": "Assassin Arme - Dague (1M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action une fois par tour** -- {r}{r} : **Attaque**. **Encore une fois**{br}Quand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes gagnent -1{d} en défendant.{br}**Percée 1** _(Si cette carte est défendue par un équipement, elle gagne +1{p}.)_",
+            "plain": "Action une fois par tour -- {r}{r} : Attaque. Encore une fois\nQuand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes gagnent -1{d} en défendant.\nPercée 1 _(Si cette carte est défendue par un équipement, elle gagne +1{p}.)_",
+            "html": "<p><strong>Action une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> : <strong>Attaque</strong>. <strong>Encore une fois</strong></p>\n<p>Quand cette carte touche un héros, la prochaine fois qu’il défend avec au moins 1 carte action d’attaque ce tour-ci, ces cartes gagnent -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> en défendant.</p>\n<p><strong>Percée 1</strong> <em>(Si cette carte est défendue par un équipement, elle gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MPA005",
+          "printedLanguageCode": "fr",
+          "printedYear": "2026",
+          "artist": "Marcus Reyno",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_MPA005.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_MPA005.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_MPA005.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "schemaVersion": 1,
+  "id": "read-the-runes-3",
+  "name": "Read the Runes",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Read the Runes",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Runeblade Action",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Create a Runechant token.",
+        "plain": "Create a Runechant token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ARC111",
+      "code": "ARC111-C",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC111",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Read the Runes",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Create 1 Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Create 1 Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Create 1 Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC111-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Maxim Kostin",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC111.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC111.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC111.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC111-RF",
+      "code": "ARC111-C",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC111-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Read the Runes",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Create 1 Runechant token.",
+            "plain": "Create 1 Runechant token.",
+            "html": "<p>Create 1 Runechant token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC111-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Maxim Kostin",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC111-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC111-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC111-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC111",
+      "code": "ARC111",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC111",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Read the Runes",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Create 1 Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Create 1 Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Create 1 Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC111",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC111.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC111.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC111.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC111-RF",
+      "code": "ARC111",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC111-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Read the Runes",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Create 1 Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Create 1 Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Create 1 Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC111",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC111-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC111-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC111-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP296",
+      "code": "1HP296",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 296,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP296",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Read the Runes",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Create a Runechant tokens. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Create a Runechant tokens. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Create a Runechant tokens. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP296",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP296.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP296.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP296.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TNP054-MV",
+      "code": "TNP054",
+      "language": "en",
+      "set": "TNP",
+      "setNumber": 54,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "tournament-pack",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-05-30T08:50:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "TNP054-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Read the Runes",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Create a Runechant token.",
+            "plain": "Create a Runechant token.",
+            "html": "<p>Create a Runechant token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TNP054",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Maxim Kostin",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TNP054-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TNP054-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP054-MV.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-ARC111": "unlimited",
+      "U-ARC111-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:59:17Z",
+    "rawSha256": "6a5b6210a0fc290473c36aa2ed2e5502b2d1ab8357bd38b27ad639df5c8b678b",
+    "updatedAt": "2025-09-18T06:54:35.148506+12:00"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "peg-leg",
+  "language": "ja",
+  "name": "義足",
+  "cores": [
+    {
+      "position": 10,
+      "name": "義足",
+      "typeLine": "海賊・装備品 － 足",
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "足"
+      ],
+      "text": {
+        "markup": "**アクション**--{r}{r}{r}, これを破壊する：このターン、あなたの次の攻撃は**続行**を得る。**続行**{br}**刃壊**（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+        "plain": "アクション--{r}{r}{r}, これを破壊する：このターン、あなたの次の攻撃は続行を得る。続行\n刃壊（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+        "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, これを破壊する：このターン、あなたの次の攻撃は<strong>続行</strong>を得る。<strong>続行</strong></p>\n<p><strong>刃壊</strong>（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_SEA129",
+      "code": "SEA129",
+      "language": "ja",
+      "set": "SEA",
+      "setNumber": 129,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-ja",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_SEA129",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "義足",
+          "typeLine": "海賊・装備品 － 足",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--{r}{r}{r}, これを破壊する：このターン、あなたの次の攻撃は**続行**を得る。**続行**{br}**刃壊**（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+            "plain": "アクション--{r}{r}{r}, これを破壊する：このターン、あなたの次の攻撃は続行を得る。続行\n刃壊（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+            "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, これを破壊する：このターン、あなたの次の攻撃は<strong>続行</strong>を得る。<strong>続行</strong></p>\n<p><strong>刃壊</strong>（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA129",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Nailsen Ivanderlie",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA129.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA129.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA129.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

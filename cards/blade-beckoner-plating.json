@@ -1,0 +1,378 @@
+{
+  "schemaVersion": 1,
+  "id": "blade-beckoner-plating",
+  "name": "Blade Beckoner Plating",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Blade Beckoner Plating",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Equipment - Chest",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Chest"
+      ],
+      "text": {
+        "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell**",
+        "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "CIN004",
+      "code": "CIN004",
+      "language": "en",
+      "set": "CIN",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted-blitz-deck-cindra",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CIN004",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Plating",
+          "typeLine": "Generic Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell**_ (When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell_ (When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong>_ (When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)_</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CIN004",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CIN004.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CIN004.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CIN004.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HNT217",
+      "code": "HNT217",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 217,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT217",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Plating",
+          "typeLine": "Generic Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT217",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT217.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT217.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT217.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HNT217-CF",
+      "code": "HNT217",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 217,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT217-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Plating",
+          "typeLine": "Generic Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT217",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT217-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT217-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT217-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB421-GF",
+      "code": "FAB421",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 421,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-compendium-of-rathe",
+      "releaseDate": "2025-02-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB421-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Plating",
+          "typeLine": "Generic Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell**",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB421",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB421-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB421-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB421-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SLY007",
+      "code": "SLY007",
+      "language": "en",
+      "set": "SLY",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-lyath-goldmane",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SLY007",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Plating",
+          "typeLine": "Generic Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SLY007",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SLY007.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SLY007.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SLY007.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Guardwell"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:03:14Z",
+    "rawSha256": "43e0f669fae6d2d2426644e75fdacfaa1fa9d38022c869b7630e794f9a4464a5",
+    "updatedAt": "2025-09-18T06:46:29.217428+12:00"
+  }
+}

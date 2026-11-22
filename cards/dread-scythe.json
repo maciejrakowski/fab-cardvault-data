@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "id": "dread-scythe",
+  "name": "Dread Scythe",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Dread Scythe",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 3,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Runeblade Weapon - Scythe (2H)",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(2H)",
+        "Scythe"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}{r}{r}: **Attack**{br}When this attacks a hero, deal 1 arcane damage to them.{br}When this deals damage to a hero, they can't gain {h} during their next action phase.",
+        "plain": "Once per Turn Action -- {r}{r}{r}: Attack\nWhen this attacks a hero, deal 1 arcane damage to them.\nWhen this deals damage to a hero, they can't gain {h} during their next action phase."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "MON229",
+      "code": "MON229",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 229,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON229",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dread Scythe",
+          "typeLine": "Runeblade Weapon - Scythe (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: **Attack**\nWhenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.\nA hero dealt damage by Dread Scythe can't gain {h} during their next action phase.",
+            "plain": "Once per Turn Action -- {r}{r}{r}: Attack\nWhenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.\nA hero dealt damage by Dread Scythe can't gain {h} during their next action phase.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>Whenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.</p>\n<p>A hero dealt damage by Dread Scythe can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> during their next action phase.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON229",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Marcus Reyno",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON229.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON229.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON229.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON229-CF",
+      "code": "MON229",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 229,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON229-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dread Scythe",
+          "typeLine": "Runeblade Weapon - Scythe (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: **Attack**\nWhenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.\nA hero dealt damage by Dread Scythe can't gain {h} during their next action phase.",
+            "plain": "Once per Turn Action -- {r}{r}{r}: Attack\nWhenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.\nA hero dealt damage by Dread Scythe can't gain {h} during their next action phase.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>Whenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.</p>\n<p>A hero dealt damage by Dread Scythe can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> during their next action phase.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON229",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Marcus Reyno",
+          "rarityMark": "majestic-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON229-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON229-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON229-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON229",
+      "code": "MON229",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 229,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON229",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dread Scythe",
+          "typeLine": "Runeblade Weapon - Scythe (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: **Attack**\nWhenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.\nA hero dealt damage by Dread Scythe can't gain {h} during their next action phase.",
+            "plain": "Once per Turn Action -- {r}{r}{r}: Attack\nWhenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.\nA hero dealt damage by Dread Scythe can't gain {h} during their next action phase.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>Whenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.</p>\n<p>A hero dealt damage by Dread Scythe can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> during their next action phase.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON229",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Marcus Reyno",
+          "rarityMark": "majestic-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON229.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON229.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON229.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON229-RF",
+      "code": "MON229",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 229,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON229-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dread Scythe",
+          "typeLine": "Runeblade Weapon - Scythe (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: **Attack**\nWhenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.\nA hero dealt damage by Dread Scythe can't gain {h} during their next action phase.",
+            "plain": "Once per Turn Action -- {r}{r}{r}: Attack\nWhenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.\nA hero dealt damage by Dread Scythe can't gain {h} during their next action phase.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>Whenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.</p>\n<p>A hero dealt damage by Dread Scythe can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> during their next action phase.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON229",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Marcus Reyno",
+          "rarityMark": "majestic-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON229-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON229-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON229-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB255-GF",
+      "code": "FAB255",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 255,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "proquest-season-6",
+      "releaseDate": "2024-10-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB255-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dread Scythe",
+          "typeLine": "Runeblade Weapon - Scythe (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: **Attack**{br}When this attacks a hero, deal 1 arcane damage to them.{br}When this deals damage to a hero, they can't gain {h} during their next action phase.",
+            "plain": "Once per Turn Action -- {r}{r}{r}: Attack\nWhen this attacks a hero, deal 1 arcane damage to them.\nWhen this deals damage to a hero, they can't gain {h} during their next action phase.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this attacks a hero, deal 1 arcane damage to them.</p>\n<p>When this deals damage to a hero, they can't gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> during their next action phase.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB255",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Marcus Reyno",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB255-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB255-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB255-GF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack"
+    ],
+    "editions": {
+      "U-MON229": "unlimited",
+      "U-MON229-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:20:45Z",
+    "rawSha256": "b65fbc3505a4703b84a41dfbade749b9d1bbfd570e64e9bb28d91ae72db036f8",
+    "updatedAt": "2025-09-18T06:48:51.320063+12:00"
+  }
+}

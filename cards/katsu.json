@@ -1,0 +1,681 @@
+{
+  "schemaVersion": 1,
+  "id": "katsu",
+  "name": "Katsu",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Katsu",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Ninja Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Ninja"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.",
+        "plain": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it, then shuffle. You may play it this turn."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HER007-RF",
+      "code": "HER007-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER007-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Katsu",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn.",
+            "plain": "Once per Turn Effect - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with <strong>combo</strong>, banish it face up, then shuffle your deck. You may play it this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER007-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER007-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER007-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER007-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "KSU002",
+      "code": "KSU002-T",
+      "language": "en",
+      "set": "KSU",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "katsu-the-wanderer-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "KSU002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Katsu",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "plain": "Once per Turn Effect - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "KSU002-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/KSU002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/KSU002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/KSU002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR077",
+      "code": "WTR077-T",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 77,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR077",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Katsu",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "plain": "Once per Turn Effect - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR077-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR077.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR077.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR077.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "XXX004",
+      "code": "XXX004",
+      "language": "en",
+      "set": "XXX",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "organized-play-support-limited-calling-2019",
+      "releaseDate": "2019-10-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "XXX004",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Katsu",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn.",
+            "plain": "Once per Turn Effect - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with <strong>combo</strong>, banish it face up, then shuffle your deck. You may play it this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "XXX004",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_savage",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/XXX004.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/XXX004.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX004.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR077",
+      "code": "WTR077",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 77,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR077",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Katsu",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "plain": "Once per Turn Effect - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR077",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR077.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR077.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR077.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR077",
+      "code": "WTR077",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 77,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR077",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Katsu",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "plain": "Once per Turn Effect - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR077",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR077.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR077.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR077.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER056-CF",
+      "code": "HER056",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 56,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "farewell-welcome-to-rathe",
+      "releaseDate": "2022-01-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER056-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Katsu",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "plain": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "html": "<p>The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER056",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER056-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER056-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER056-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP087",
+      "code": "1HP087",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 87,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP087",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Katsu",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "plain": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.",
+            "html": "<p>The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it face up, then shuffle your deck. You may play it this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "1HP087",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "white",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP087.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP087.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP087.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "KAT001",
+      "code": "KAT001",
+      "language": "en",
+      "set": "KAT",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "katsu-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "KAT001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Katsu",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.",
+            "plain": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it, then shuffle. You may play it this turn.",
+            "html": "<p>The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with <strong>combo</strong>, banish it, then shuffle. You may play it this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "KAT001",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/KAT001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/KAT001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/KAT001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUT046",
+      "code": "OUT046",
+      "language": "en",
+      "set": "OUT",
+      "setNumber": 46,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OUT046",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Katsu",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it, then shuffle. You may play it this turn.",
+            "plain": "The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with combo, banish it, then shuffle. You may play it this turn.",
+            "html": "<p>The first time an attack action card you control hits each turn, you may discard a card with cost 0. If you do, search your deck for a card with <strong>combo</strong>, banish it, then shuffle. You may play it this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "OUT046",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OUT046.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OUT046.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OUT046.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "combo"
+    ],
+    "editions": {
+      "R-WTR077": "unlimited-revised",
+      "U-WTR077": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:28:10Z",
+    "rawSha256": "a48fb2d18754e93a8d7ccd13957b4a75f323f890fff153a6a5d57aab658c6446",
+    "updatedAt": "2025-09-18T06:51:54.570972+12:00"
+  }
+}

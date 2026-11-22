@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "scurv-stowaway",
+  "language": "fr",
+  "name": "Scorb, passager clandestin",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Scorb, passager clandestin",
+      "typeLine": "Pirate Voleur Héros - Jeune",
+      "types": [
+        "Héros"
+      ],
+      "subtypes": [
+        "Jeune"
+      ],
+      "text": {
+        "markup": "**Action** -- {t}, détruisez un Or que vous contrôlez : créez un jeton Rhum Bise d’or. **Encore une fois**{br}À chaque fois que vous activez un Rhum Bise d’or, gagnez {r}.",
+        "plain": "Action -- {t}, détruisez un Or que vous contrôlez : créez un jeton Rhum Bise d’or. Encore une fois\nÀ chaque fois que vous activez un Rhum Bise d’or, gagnez {r}.",
+        "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, détruisez un Or que vous contrôlez : créez un jeton Rhum Bise d’or. <strong>Encore une fois</strong></p>\n<p>À chaque fois que vous activez un Rhum Bise d’or, gagnez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_SEA123",
+      "code": "SEA123",
+      "language": "fr",
+      "set": "SEA",
+      "setNumber": 123,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-fr",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_SEA123",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Scorb, passager clandestin",
+          "typeLine": "Pirate Voleur Héros - Jeune",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}, détruisez un Or que vous contrôlez : créez un jeton Rhum Bise d’or. **Encore une fois**{br}À chaque fois que vous activez un Rhum Bise d’or, gagnez {r}.",
+            "plain": "Action -- {t}, détruisez un Or que vous contrôlez : créez un jeton Rhum Bise d’or. Encore une fois\nÀ chaque fois que vous activez un Rhum Bise d’or, gagnez {r}.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, détruisez un Or que vous contrôlez : créez un jeton Rhum Bise d’or. <strong>Encore une fois</strong></p>\n<p>À chaque fois que vous activez un Rhum Bise d’or, gagnez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "SEA123",
+          "printedLanguageCode": "FR",
+          "printedYear": "2025",
+          "artist": "Sam Yang",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA123.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA123.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA123.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

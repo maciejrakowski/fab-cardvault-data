@@ -1,0 +1,610 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "249a944f-557c-4dc8-99a9-b0d09416375d",
+      "cores": [
+        {
+          "id": "fd881994-e58f-4833-98a8-39f2fb6363a4",
+          "core_classes": [
+            {
+              "id": 11,
+              "name": "Ranger",
+              "name_en": "Ranger",
+              "name_fr": "Ranger",
+              "name_de": "Waldläufer",
+              "name_it": "Ranger",
+              "name_es": "Explorador",
+              "name_ja": "レンジャー",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 6,
+              "name": "Equipment",
+              "name_en": "Equipment",
+              "name_fr": "Équipement",
+              "name_de": "Ausrüstung",
+              "name_it": "Equipaggiamento",
+              "name_es": "Equipo",
+              "name_ja": "装備品",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 16,
+              "name": "Arms",
+              "name_en": "Arms",
+              "name_fr": "Bras",
+              "name_de": "Arme",
+              "name_it": "Braccia",
+              "name_es": "Brazos",
+              "name_ja": "腕",
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-09-18T06:55:55.585265+12:00",
+          "updated_at": "2025-09-18T06:55:55.596343+12:00",
+          "name": "Sharp Shooters",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "",
+          "defense": "1",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Action** -- Destroy this: Put an arrow from your hand face-up into your arsenal with an aim counter. **Go again**{br}**Battleworn**",
+          "typebox": "Ranger Equipment - Arms",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": 1,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "249a944f-557c-4dc8-99a9-b0d09416375d"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "dce544ce-e83d-491f-b6fa-b5bc3e7a61be",
+          "faces": [
+            {
+              "id": "77be6834-9a79-4209-b761-dd51e68a3ef4",
+              "created_at": "2025-09-18T06:55:55.619655+12:00",
+              "updated_at": "2025-09-18T06:55:55.619676+12:00",
+              "face_id": "AAZ006-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "AAZ006",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "Sharp Shooters",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- Destroy this: Put an arrow from your hand face-up into your arsenal with an aim counter. **Go again**{br}**Battleworn** _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Equipment - Arms",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fd881994-e58f-4833-98a8-39f2fb6363a4",
+              "card_print": "dce544ce-e83d-491f-b6fa-b5bc3e7a61be",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Sharp Shooters</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Equipment - Arms</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — Destroy this: Put an arrow from your hand face-up into your arsenal with an aim counter. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AAZ006-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AAZ006-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AAZ006-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c73e3e42-f3bd-4ce6-8cc6-0d1e6939d5e4",
+            "product_group": {
+              "id": "92fb9d46-a983-4d1b-8bea-abcd80a3c5b4",
+              "created_at": "2025-09-18T06:45:57.733480+12:00",
+              "updated_at": "2025-09-18T06:45:57.733495+12:00",
+              "group_name": "Armory Deck - Azalea, Ace in the Hole",
+              "product_type": "precon",
+              "release_date": "2024-08-02",
+              "slug": "armory-deck-azalea-ace-in-the-hole"
+            },
+            "created_at": "2025-09-18T06:45:57.735683+12:00",
+            "updated_at": "2025-09-18T06:45:57.735694+12:00",
+            "printed_date": "2024-06-01",
+            "printed_language": "en",
+            "product_name": "Armory Deck - Azalea, Ace in the Hole",
+            "product_type": "booster",
+            "release_date": "2024-08-02",
+            "slug": "armory-deck-azalea-ace-in-the-hole",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "eefe0b95-208c-444b-b531-cf2dfe087956",
+            "created_at": "2025-09-18T06:45:12.650930+12:00",
+            "updated_at": "2025-09-18T06:45:12.650949+12:00",
+            "set_code": "AAZ",
+            "set_name": "Armory Deck - Azalea, Ace in the Hole",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:55.608848+12:00",
+          "updated_at": "2025-09-18T06:55:55.608876+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "AAZ006-RF",
+          "set_number": 6,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "majestic",
+          "card": "249a944f-557c-4dc8-99a9-b0d09416375d"
+        },
+        {
+          "id": "a468df3d-816a-43b3-a85f-c5f99ea5cae3",
+          "faces": [
+            {
+              "id": "d234e3d4-a5a9-45ca-9b92-923067a13aef",
+              "created_at": "2025-09-18T06:55:55.637521+12:00",
+              "updated_at": "2025-09-18T06:55:55.637536+12:00",
+              "face_id": "FR_AAZ006-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "AAZ006",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "Flingues de tireur",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- Détruisez cette carte : mettez une flèche de votre main face visible dans votre arsenal avec un marqueur Visée. **Encore une fois**\n**Usure de guerre** __(Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1{d} sur elle.)__",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Équipement - Bras",
+              "printed_year": "2024",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fd881994-e58f-4833-98a8-39f2fb6363a4",
+              "card_print": "a468df3d-816a-43b3-a85f-c5f99ea5cae3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Flingues de tireur</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Équipement - Bras</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — Détruisez cette carte : mettez une flèche de votre main face visible dans votre arsenal avec un marqueur Visée. <strong>Encore une fois</strong></p>\n<p><strong>Usure de guerre</strong> <strong>(Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> sur elle.)</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_AAZ006-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_AAZ006-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_AAZ006-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "06bd10b3-db64-468f-8142-150c88a2a076",
+            "product_group": {
+              "id": "92fb9d46-a983-4d1b-8bea-abcd80a3c5b4",
+              "created_at": "2025-09-18T06:45:57.733480+12:00",
+              "updated_at": "2025-09-18T06:45:57.733495+12:00",
+              "group_name": "Armory Deck - Azalea, Ace in the Hole",
+              "product_type": "precon",
+              "release_date": "2024-08-02",
+              "slug": "armory-deck-azalea-ace-in-the-hole"
+            },
+            "created_at": "2025-09-18T06:45:57.750058+12:00",
+            "updated_at": "2025-09-18T06:45:57.750070+12:00",
+            "printed_date": "2024-06-01",
+            "printed_language": "fr",
+            "product_name": "Armory Deck - Azalea, Ace in the Hole [FR]",
+            "product_type": "booster",
+            "release_date": "2024-08-02",
+            "slug": "armory-deck-azalea-ace-in-the-hole-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "eefe0b95-208c-444b-b531-cf2dfe087956",
+            "created_at": "2025-09-18T06:45:12.650930+12:00",
+            "updated_at": "2025-09-18T06:45:12.650949+12:00",
+            "set_code": "AAZ",
+            "set_name": "Armory Deck - Azalea, Ace in the Hole",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:55.631876+12:00",
+          "updated_at": "2025-09-18T06:55:55.631890+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_AAZ006-RF",
+          "set_number": 6,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "majestic",
+          "card": "249a944f-557c-4dc8-99a9-b0d09416375d"
+        },
+        {
+          "id": "04b59db4-be85-4c7f-b1d3-ea2ef241b259",
+          "faces": [
+            {
+              "id": "7019aaa0-e510-46e4-b4b6-c9f4eef0b80d",
+              "created_at": "2025-09-18T06:55:55.658394+12:00",
+              "updated_at": "2025-09-18T06:55:55.658416+12:00",
+              "face_id": "IT_AAZ006-RF",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "AAZ006",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "Tiratori Scelti",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Azione** -- Distruggi questa carta: Metti una freccia dalla tua mano a faccia in su nell'arsenale con un segnalino mira. **Continua**\n**Usura in battaglia** __(Quando la catena di combattimento si chiude, se questa carta ha difeso, mettici un segnalino -1{d}.)__",
+              "printed_flavor_text": "",
+              "printed_typebox": "Equipaggiamento Ranger - Braccia",
+              "printed_year": "2024",
+              "printed_language_code": "IT",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fd881994-e58f-4833-98a8-39f2fb6363a4",
+              "card_print": "04b59db4-be85-4c7f-b1d3-ea2ef241b259",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Tiratori Scelti</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Equipaggiamento Ranger - Braccia</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Azione</strong> — Distruggi questa carta: Metti una freccia dalla tua mano a faccia in su nell'arsenale con un segnalino mira. <strong>Continua</strong></p>\n<p><strong>Usura in battaglia</strong> <strong>(Quando la catena di combattimento si chiude, se questa carta ha difeso, mettici un segnalino -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</strong></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_AAZ006-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_AAZ006-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_AAZ006-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "81a1ada3-5c1c-44da-8650-7451d06ceae5",
+            "product_group": {
+              "id": "92fb9d46-a983-4d1b-8bea-abcd80a3c5b4",
+              "created_at": "2025-09-18T06:45:57.733480+12:00",
+              "updated_at": "2025-09-18T06:45:57.733495+12:00",
+              "group_name": "Armory Deck - Azalea, Ace in the Hole",
+              "product_type": "precon",
+              "release_date": "2024-08-02",
+              "slug": "armory-deck-azalea-ace-in-the-hole"
+            },
+            "created_at": "2025-09-18T06:45:57.763081+12:00",
+            "updated_at": "2025-09-18T06:45:57.763103+12:00",
+            "printed_date": "2024-06-01",
+            "printed_language": "it",
+            "product_name": "Armory Deck - Azalea, Ace in the Hole [IT]",
+            "product_type": "booster",
+            "release_date": "2024-08-02",
+            "slug": "armory-deck-azalea-ace-in-the-hole-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "eefe0b95-208c-444b-b531-cf2dfe087956",
+            "created_at": "2025-09-18T06:45:12.650930+12:00",
+            "updated_at": "2025-09-18T06:45:12.650949+12:00",
+            "set_code": "AAZ",
+            "set_name": "Armory Deck - Azalea, Ace in the Hole",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:55.650664+12:00",
+          "updated_at": "2025-09-18T06:55:55.650687+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_AAZ006-RF",
+          "set_number": 6,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "majestic",
+          "card": "249a944f-557c-4dc8-99a9-b0d09416375d"
+        },
+        {
+          "id": "ebcbd8a9-3e1c-4e2f-8192-6dd6d39fc323",
+          "faces": [
+            {
+              "id": "f4d309d6-4417-44f4-a748-0628f1e5b612",
+              "created_at": "2025-09-18T06:55:55.676239+12:00",
+              "updated_at": "2025-09-18T06:55:55.676260+12:00",
+              "face_id": "JA_AAZ006-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "AAZ006",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "正確無比の狙撃手",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**アクション**--これを破壊する ：あなたの手札の矢を１枚、照準カウンターを置いた状態で格納庫に表向きに置く。**続行**\n**戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+              "printed_flavor_text": "",
+              "printed_typebox": "レンジャー・装備品 － 腕",
+              "printed_year": "2024",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fd881994-e58f-4833-98a8-39f2fb6363a4",
+              "card_print": "ebcbd8a9-3e1c-4e2f-8192-6dd6d39fc323",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>正確無比の狙撃手</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>レンジャー・装備品 － 腕</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong>—これを破壊する ：あなたの手札の矢を１枚、照準カウンターを置いた状態で格納庫に表向きに置く。<strong>続行</strong></p>\n<p><strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AAZ006-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AAZ006-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AAZ006-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fa7d654a-9139-45a6-ac3d-ce00718cfcc8",
+            "product_group": {
+              "id": "92fb9d46-a983-4d1b-8bea-abcd80a3c5b4",
+              "created_at": "2025-09-18T06:45:57.733480+12:00",
+              "updated_at": "2025-09-18T06:45:57.733495+12:00",
+              "group_name": "Armory Deck - Azalea, Ace in the Hole",
+              "product_type": "precon",
+              "release_date": "2024-08-02",
+              "slug": "armory-deck-azalea-ace-in-the-hole"
+            },
+            "created_at": "2025-09-18T06:45:57.780670+12:00",
+            "updated_at": "2025-09-18T06:45:57.780680+12:00",
+            "printed_date": "2024-06-01",
+            "printed_language": "ja",
+            "product_name": "Armory Deck - Azalea, Ace in the Hole [JA]",
+            "product_type": "booster",
+            "release_date": "2024-08-02",
+            "slug": "armory-deck-azalea-ace-in-the-hole-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "eefe0b95-208c-444b-b531-cf2dfe087956",
+            "created_at": "2025-09-18T06:45:12.650930+12:00",
+            "updated_at": "2025-09-18T06:45:12.650949+12:00",
+            "set_code": "AAZ",
+            "set_name": "Armory Deck - Azalea, Ace in the Hole",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:55.669012+12:00",
+          "updated_at": "2025-09-18T06:55:55.669031+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_AAZ006-RF",
+          "set_number": 6,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "majestic",
+          "card": "249a944f-557c-4dc8-99a9-b0d09416375d"
+        },
+        {
+          "id": "85d4b48d-3f1a-43e6-972e-0244a9f4bab4",
+          "faces": [
+            {
+              "id": "1a10e37a-0812-4e9d-8bb2-a66f4fe9cbc6",
+              "created_at": "2025-09-18T06:55:55.692675+12:00",
+              "updated_at": "2025-09-18T06:55:55.692692+12:00",
+              "face_id": "JDG033-CF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "JDG033",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "Sharp Shooters",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action** -- Destroy this: Put an arrow from your hand face-up into your arsenal with an aim counter. **Go again**{br}**Battleworn** _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ranger Equipment - Arms",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fd881994-e58f-4833-98a8-39f2fb6363a4",
+              "card_print": "85d4b48d-3f1a-43e6-972e-0244a9f4bab4",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Sharp Shooters</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Equipment - Arms</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — Destroy this: Put an arrow from your hand face-up into your arsenal with an aim counter. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG033-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG033-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG033-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "82d71e2f-6fa4-41de-8897-5a0283b012f4",
+            "product_group": null,
+            "created_at": "2025-09-18T06:47:07.995347+12:00",
+            "updated_at": "2025-09-18T06:47:07.995363+12:00",
+            "printed_date": "2024-07-01",
+            "printed_language": "en",
+            "product_name": "Judge Pack - Season 5",
+            "product_type": "booster",
+            "release_date": "2024-09-06",
+            "slug": "judge-pack-season-5",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "51193f7c-85ba-4057-bffa-2c8e4358604d",
+            "created_at": "2025-09-18T06:45:12.737365+12:00",
+            "updated_at": "2025-09-18T06:45:12.737375+12:00",
+            "set_code": "JDG",
+            "set_name": "Judge Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:55.685541+12:00",
+          "updated_at": "2025-09-18T06:55:55.685560+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JDG033-CF",
+          "set_number": 33,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "249a944f-557c-4dc8-99a9-b0d09416375d"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        }
+      },
+      "created_at": "2025-09-18T06:55:55.580124+12:00",
+      "updated_at": "2025-09-18T06:55:55.581862+12:00",
+      "card_id": "sharp-shooters",
+      "card_type": "regular",
+      "object_type": "arena-card"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "id": "gold-baited-hook",
+  "name": "Gold-Baited Hook",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Gold-Baited Hook",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Pirate Equipment - Arms",
+      "traitLine": null,
+      "classes": [
+        "Pirate"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Arms"
+      ],
+      "text": {
+        "markup": "**Action** -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, **steal** a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. **Go again**{br}**Battleworn**",
+        "plain": "Action -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, steal a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. Go again\nBattleworn"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "FAB339-GF",
+      "code": "FAB339",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 339,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB339-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Gold-Baited Hook",
+          "typeLine": "Pirate Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, **steal** a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. **Go again**{br}**Battleworn**  _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "plain": "Action -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, steal a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. Go again\nBattleworn  _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Your next Pirate attack this turn gets &quot;When this hits a hero, <strong>steal</strong> a Gold token they control, otherwise create a Gold token.&quot; At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong>  <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB339",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB339-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB339-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB339-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA125-RF",
+      "code": "SEA125",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 125,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA125-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Gold-Baited Hook",
+          "typeLine": "Pirate Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, **steal** a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. **Go again**{br}**Battleworn**  _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "plain": "Action -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, steal a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. Go again\nBattleworn  _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Your next Pirate attack this turn gets &quot;When this hits a hero, <strong>steal</strong> a Gold token they control, otherwise create a Gold token.&quot; At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong>  <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA125",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "legendary-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA125-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA125-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA125-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA125-TP",
+      "code": "SEA125",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 125,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-treasure-pack",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA125-TP",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Gold-Baited Hook",
+          "typeLine": "Pirate Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, **steal** a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. **Go again**{br}**Battleworn**  _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "plain": "Action -- {t}: Your next Pirate attack this turn gets \"When this hits a hero, steal a Gold token they control, otherwise create a Gold token.\" At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. Go again\nBattleworn  _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: Your next Pirate attack this turn gets &quot;When this hits a hero, <strong>steal</strong> a Gold token they control, otherwise create a Gold token.&quot; At the beginning of your end phase, if you haven't created or stolen a Gold this turn, destroy this. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong>  <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA125",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "legendary-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA125-TP.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA125-TP.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA125-TP.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Battleworn",
+      "Go again",
+      "steal"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:35:07Z",
+    "rawSha256": "f7ca0303ccd882f9698605ea75bf3e8c60fb78a0660af6134057308098ae6fcd",
+    "updatedAt": "2025-09-18T06:50:34.555360+12:00"
+  }
+}

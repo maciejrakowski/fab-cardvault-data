@@ -1,0 +1,713 @@
+{
+  "schemaVersion": 1,
+  "id": "ponder",
+  "name": "Ponder",
+  "objectType": "token",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Ponder",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Token - Aura",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Token"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": {
+        "markup": "At the beginning of your end phase, destroy this and draw a card.",
+        "plain": "At the beginning of your end phase, destroy this and draw a card."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "DYN244",
+      "code": "DYN244",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 244,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN244",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ponder",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the beginning of your end phase, destroy Ponder and draw a card.",
+            "plain": "At the beginning of your end phase, destroy Ponder and draw a card.",
+            "html": "<p>At the beginning of your end phase, destroy Ponder and draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN244",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Henrique Lindner",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN244.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN244.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN244.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS128-CF",
+      "code": "LGS128",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 128,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pre-release-outsiders",
+      "releaseDate": "2023-03-17",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS128-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ponder",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the beginning of your end phase, destroy Ponder and draw a card.",
+            "plain": "At the beginning of your end phase, destroy Ponder and draw a card.",
+            "html": "<p>At the beginning of your end phase, destroy Ponder and draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS128",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Henrique Lindner",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS128-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS128-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS128-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUT237",
+      "code": "OUT237",
+      "language": "en",
+      "set": "OUT",
+      "setNumber": 237,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OUT237",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ponder",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the beginning of your end phase, destroy Ponder and draw a card.",
+            "plain": "At the beginning of your end phase, destroy Ponder and draw a card.",
+            "html": "<p>At the beginning of your end phase, destroy Ponder and draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OUT237",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Henrique Lindner",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OUT237.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OUT237.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OUT237.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "UZU031",
+      "code": "UZU031",
+      "language": "en",
+      "set": "UZU",
+      "setNumber": 31,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "uzuri-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "UZU031",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ponder",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the beginning of your end phase, destroy Ponder and draw a card.",
+            "plain": "At the beginning of your end phase, destroy Ponder and draw a card.",
+            "html": "<p>At the beginning of your end phase, destroy Ponder and draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "UZU031",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Henrique Lindner",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UZU031.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UZU031.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UZU031.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OSC029",
+      "code": "OSC029",
+      "language": "en",
+      "set": "OSC",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rosetta-blitz-deck-oscilio",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OSC029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ponder",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the beginning of your end phase, destroy this and draw a card.",
+            "plain": "At the beginning of your end phase, destroy this and draw a card.",
+            "html": "<p>At the beginning of your end phase, destroy this and draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OSC029",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Henrique Lindner",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OSC029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OSC029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OSC029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ROS237",
+      "code": "ROS237",
+      "language": "en",
+      "set": "ROS",
+      "setNumber": 237,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rosetta",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ROS237",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ponder",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the beginning of your end phase, destroy this and draw a card.",
+            "plain": "At the beginning of your end phase, destroy this and draw a card.",
+            "html": "<p>At the beginning of your end phase, destroy this and draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ROS237",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Henrique Lindner",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ROS237.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ROS237.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ROS237.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AZS031",
+      "code": "AZS031",
+      "language": "en",
+      "set": "AZS",
+      "setNumber": 31,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-zyggy-starlight",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-05-19T10:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "AZS031",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ponder",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the beginning of your end phase, destroy this and draw a card.",
+            "plain": "At the beginning of your end phase, destroy this and draw a card.",
+            "html": "<p>At the beginning of your end phase, destroy this and draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AZS031",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Henrique Lindner",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AZS031.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AZS031.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AZS031.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OMN225",
+      "code": "OMN225",
+      "language": "en",
+      "set": "OMN",
+      "setNumber": 225,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "omens-of-the-third-age",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-05-22T20:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "OMN225",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ponder",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the beginning of your end phase, destroy this and draw a card.",
+            "plain": "At the beginning of your end phase, destroy this and draw a card.",
+            "html": "<p>At the beginning of your end phase, destroy this and draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OMN225",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tomi Ong",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN225.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN225.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN225.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBZ033",
+      "code": "SBZ033",
+      "language": "en",
+      "set": "SBZ",
+      "setNumber": 33,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-blaze-firemind",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBZ033",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ponder",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the beginning of your end phase, destroy this and draw a card.",
+            "plain": "At the beginning of your end phase, destroy this and draw a card.",
+            "html": "<p>At the beginning of your end phase, destroy this and draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBZ033",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Henrique Lindner",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBZ033.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBZ033.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBZ033.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB489-MV",
+      "code": "FAB489",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 489,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "double-sided",
+      "product": "prize-wall-omens-of-the-third-age",
+      "releaseDate": "2027-05-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB489-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ponder",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the beginning of your end phase, destroy this and draw a card.",
+            "plain": "At the beginning of your end phase, destroy this and draw a card.",
+            "html": "<p>At the beginning of your end phase, destroy this and draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB489",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tomi Ong",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB489-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB489-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB489-MV.webp"
+          }
+        },
+        {
+          "id": "FAB489-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ponder",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB489-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB489-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB489-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T15:13:08Z",
+    "rawSha256": "b145d3cde324f2930ae5bcbe7e2aba1077a87465ebf253ca747908d4215e683f",
+    "updatedAt": "2025-09-18T06:53:50.817476+12:00"
+  }
+}

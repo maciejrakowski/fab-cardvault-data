@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "reduce-to-runechant-2",
+  "language": "ja",
+  "name": "ルーン陣への変換",
+  "cores": [
+    {
+      "position": 10,
+      "name": "ルーン陣への変換",
+      "typeLine": "ルーン剣士・防御リアクション",
+      "classes": [
+        "ルーン剣士"
+      ],
+      "types": [
+        "防御リアクション"
+      ],
+      "text": {
+        "markup": "これをプレイするためのコストはあなたがコントロールする「ルーン陣」１つにつき{r}少なくなる。 「ルーン陣」トークンを１つ作成する。",
+        "plain": "これをプレイするためのコストはあなたがコントロールする「ルーン陣」１つにつき{r}少なくなる。 「ルーン陣」トークンを１つ作成する。",
+        "html": "<p>これをプレイするためのコストはあなたがコントロールする「ルーン陣」１つにつき<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>少なくなる。 「ルーン陣」トークンを１つ作成する。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_RAP030",
+      "code": "RAP030",
+      "language": "ja",
+      "set": "RAP",
+      "setNumber": 30,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "archive-pack-rosetta-ja",
+      "releaseDate": "2024-10-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_RAP030",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "ルーン陣への変換",
+          "typeLine": "ルーン剣士・防御リアクション",
+          "traitLine": null,
+          "text": {
+            "markup": "これをプレイするためのコストはあなたがコントロールする「ルーン陣」１つにつき{r}少なくなる。 「ルーン陣」トークンを１つ作成する。",
+            "plain": "これをプレイするためのコストはあなたがコントロールする「ルーン陣」１つにつき{r}少なくなる。 「ルーン陣」トークンを１つ作成する。",
+            "html": "<p>これをプレイするためのコストはあなたがコントロールする「ルーン陣」１つにつき<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>少なくなる。 「ルーン陣」トークンを１つ作成する。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "RAP030",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Yen Lee",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_RAP030.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_RAP030.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_RAP030.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

@@ -1,0 +1,812 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "ce5de56f-c3e5-438e-a735-789b7d430c2e",
+      "cores": [
+        {
+          "id": "765b205b-5a62-4bc9-9fa2-32a0262b4121",
+          "core_classes": [
+            {
+              "id": 6,
+              "name": "Generic",
+              "name_en": "Generic",
+              "name_fr": "Générique",
+              "name_de": "Allgemein",
+              "name_it": "Generico/a",
+              "name_es": "Genérico/a",
+              "name_ja": "汎用",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:47:28.541478+12:00",
+          "updated_at": "2025-09-18T06:47:28.554438+12:00",
+          "name": "Chest Puff",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "2",
+          "power": "7",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this attacks, it gets -1{p} unless you pay {r}.",
+          "typebox": "Generic Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 2,
+          "power_value": 7,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "ce5de56f-c3e5-438e-a735-789b7d430c2e"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "c187bbef-1b69-4f84-bdc8-124a782dcdf6",
+          "faces": [
+            {
+              "id": "e9e62fd2-eadd-490d-9c6d-296dd4d791eb",
+              "created_at": "2025-09-18T06:47:28.573567+12:00",
+              "updated_at": "2025-09-18T06:47:28.573594+12:00",
+              "face_id": "FR_SUP222",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SUP222",
+              "printed_artist": "Jackson Tjota",
+              "printed_name": "Bomber le torse",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, elle gagne -1{p} à moins que vous ne payiez {r}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Générique Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "765b205b-5a62-4bc9-9fa2-32a0262b4121",
+              "card_print": "c187bbef-1b69-4f84-bdc8-124a782dcdf6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bomber le torse</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Générique Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, elle gagne -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> à moins que vous ne payiez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SUP222.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SUP222.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SUP222.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "0057e77f-3271-4dee-806c-f138a1c185f6",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.567245+12:00",
+            "updated_at": "2025-09-18T06:45:13.567256+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "fr",
+            "product_name": "Super Slam [FR]",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:28.565697+12:00",
+          "updated_at": "2025-09-18T06:47:28.565718+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SUP222",
+          "set_number": 222,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "ce5de56f-c3e5-438e-a735-789b7d430c2e"
+        },
+        {
+          "id": "7042a27e-8fcc-4808-a926-788fa228b49d",
+          "faces": [
+            {
+              "id": "b8f690e1-53c3-46ee-9b78-9dbbffdaeb5c",
+              "created_at": "2025-09-18T06:47:28.592733+12:00",
+              "updated_at": "2025-09-18T06:47:28.592748+12:00",
+              "face_id": "FR_SUP222-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SUP222",
+              "printed_artist": "Jackson Tjota",
+              "printed_name": "Bomber le torse",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, elle gagne -1{p} à moins que vous ne payiez {r}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Générique Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "765b205b-5a62-4bc9-9fa2-32a0262b4121",
+              "card_print": "7042a27e-8fcc-4808-a926-788fa228b49d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bomber le torse</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Générique Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, elle gagne -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> à moins que vous ne payiez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SUP222-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SUP222-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SUP222-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "0057e77f-3271-4dee-806c-f138a1c185f6",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.567245+12:00",
+            "updated_at": "2025-09-18T06:45:13.567256+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "fr",
+            "product_name": "Super Slam [FR]",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:28.584533+12:00",
+          "updated_at": "2025-09-18T06:47:28.584559+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SUP222-RF",
+          "set_number": 222,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "ce5de56f-c3e5-438e-a735-789b7d430c2e"
+        },
+        {
+          "id": "ece206c4-c946-43eb-9efb-2a2a822ad4d7",
+          "faces": [
+            {
+              "id": "c65e8eee-9fa1-4813-8ff7-c4e5ed6ce0a8",
+              "created_at": "2025-09-18T06:47:28.615758+12:00",
+              "updated_at": "2026-04-02T09:58:06.170092+13:00",
+              "face_id": "JA_SUP222",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SUP222",
+              "printed_artist": "Jackson Tjota",
+              "printed_name": "胸ハリ",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたが{r}を支払わないかぎり、これは－１{p}を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "汎用・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "765b205b-5a62-4bc9-9fa2-32a0262b4121",
+              "card_print": "ece206c4-c946-43eb-9efb-2a2a822ad4d7",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>胸ハリ</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>汎用・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたが<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を支払わないかぎり、これは－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SUP222.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SUP222.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SUP222.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "19f9bcbf-d398-44ee-a37c-e01fbf7b0ab3",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.594602+12:00",
+            "updated_at": "2025-09-18T06:45:13.594613+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "ja",
+            "product_name": "Super Slam [JA]",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:28.606739+12:00",
+          "updated_at": "2025-09-18T06:47:28.606767+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SUP222",
+          "set_number": 222,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "ce5de56f-c3e5-438e-a735-789b7d430c2e"
+        },
+        {
+          "id": "c39ce504-152e-499f-b383-2860d31054ad",
+          "faces": [
+            {
+              "id": "6f7df191-73dd-4b55-ac40-770753800c37",
+              "created_at": "2025-09-18T06:47:28.634900+12:00",
+              "updated_at": "2026-04-02T09:58:13.445995+13:00",
+              "face_id": "JA_SUP222-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SUP222",
+              "printed_artist": "Jackson Tjota",
+              "printed_name": "胸ハリ",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたが{r}を支払わないかぎり、これは－１{p}を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "汎用・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "765b205b-5a62-4bc9-9fa2-32a0262b4121",
+              "card_print": "c39ce504-152e-499f-b383-2860d31054ad",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>胸ハリ</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>汎用・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたが<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を支払わないかぎり、これは－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SUP222-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SUP222-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SUP222-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "19f9bcbf-d398-44ee-a37c-e01fbf7b0ab3",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.594602+12:00",
+            "updated_at": "2025-09-18T06:45:13.594613+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "ja",
+            "product_name": "Super Slam [JA]",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:28.626387+12:00",
+          "updated_at": "2025-09-18T06:47:28.626409+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SUP222-RF",
+          "set_number": 222,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "ce5de56f-c3e5-438e-a735-789b7d430c2e"
+        },
+        {
+          "id": "f11ceb26-4fd3-4f96-be5a-481fc42f494c",
+          "faces": [
+            {
+              "id": "8202f76a-9c1b-4f9d-b767-c8d3f38473c2",
+              "created_at": "2025-09-18T06:47:28.655456+12:00",
+              "updated_at": "2025-09-18T06:47:28.655473+12:00",
+              "face_id": "SUP222",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SUP222",
+              "printed_artist": "Jackson Tjota",
+              "printed_name": "Chest Puff",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, it gets -1{p} unless you pay {r}.",
+              "printed_flavor_text": "_Fightmaster Moloca's intrepid wranglers venture deep into the Savage Lands to acquire exotic creatures, great and small, to greet the unfortunate visitors to her Den of Beasts._",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "765b205b-5a62-4bc9-9fa2-32a0262b4121",
+              "card_print": "f11ceb26-4fd3-4f96-be5a-481fc42f494c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Chest Puff</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, it gets -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> unless you pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Fightmaster Moloca's intrepid wranglers venture deep into the Savage Lands to acquire exotic creatures, great and small, to greet the unfortunate visitors to her Den of Beasts.</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SUP222.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SUP222.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SUP222.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2a2a72d2-3f0f-4abd-84bb-450d22971e2a",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.620857+12:00",
+            "updated_at": "2025-09-18T06:45:13.620871+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "en",
+            "product_name": "Super Slam",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:28.647679+12:00",
+          "updated_at": "2025-09-18T06:47:28.647696+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SUP222",
+          "set_number": 222,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "ce5de56f-c3e5-438e-a735-789b7d430c2e"
+        },
+        {
+          "id": "8775f2b3-ea40-4896-a86c-eb7c46768cb8",
+          "faces": [
+            {
+              "id": "8f6826f3-2878-464c-992b-6ba1750f7008",
+              "created_at": "2025-09-18T06:47:28.676080+12:00",
+              "updated_at": "2025-09-18T06:47:28.676132+12:00",
+              "face_id": "SUP222-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SUP222",
+              "printed_artist": "Jackson Tjota",
+              "printed_name": "Chest Puff",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, it gets -1{p} unless you pay {r}.",
+              "printed_flavor_text": "_Fightmaster Moloca's intrepid wranglers venture deep into the Savage Lands to acquire exotic creatures, great and small, to greet the unfortunate visitors to her Den of Beasts._",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "765b205b-5a62-4bc9-9fa2-32a0262b4121",
+              "card_print": "8775f2b3-ea40-4896-a86c-eb7c46768cb8",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Chest Puff</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, it gets -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> unless you pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Fightmaster Moloca's intrepid wranglers venture deep into the Savage Lands to acquire exotic creatures, great and small, to greet the unfortunate visitors to her Den of Beasts.</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SUP222-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SUP222-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SUP222-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "2a2a72d2-3f0f-4abd-84bb-450d22971e2a",
+            "product_group": {
+              "id": "083c5283-ff8a-414f-ad00-6251dedea1bd",
+              "created_at": "2025-09-18T06:45:13.564950+12:00",
+              "updated_at": "2025-09-18T06:45:13.564962+12:00",
+              "group_name": "Super Slam",
+              "product_type": "booster",
+              "release_date": "2025-09-26",
+              "slug": "super-slam"
+            },
+            "created_at": "2025-09-18T06:45:13.620857+12:00",
+            "updated_at": "2025-09-18T06:45:13.620871+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "en",
+            "product_name": "Super Slam",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "super-slam",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "4e693a0e-454d-430b-847d-28fd8d32bcf1",
+            "created_at": "2025-09-18T06:45:12.701034+12:00",
+            "updated_at": "2025-09-18T06:45:12.701042+12:00",
+            "set_code": "SUP",
+            "set_name": "Super Slam",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:47:28.667635+12:00",
+          "updated_at": "2025-09-18T06:47:28.667650+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SUP222-RF",
+          "set_number": 222,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "ce5de56f-c3e5-438e-a735-789b7d430c2e"
+        },
+        {
+          "id": "e33ceed4-8f80-4b9b-8660-fbb99c916623",
+          "faces": [
+            {
+              "id": "49c9652b-fa23-4321-9701-65e41cecd351",
+              "created_at": "2026-01-27T09:45:05.556800+13:00",
+              "updated_at": "2026-01-27T09:45:05.556807+13:00",
+              "face_id": "FAB397-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB397",
+              "printed_artist": "Jackson Tjota",
+              "printed_name": "Chest Puff",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, it gets -1{p} unless you pay {r}.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "765b205b-5a62-4bc9-9fa2-32a0262b4121",
+              "card_print": "e33ceed4-8f80-4b9b-8660-fbb99c916623",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Chest Puff</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, it gets -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> unless you pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB397-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB397-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB397-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ede3987a-4d75-4379-824d-ed95f856a372",
+            "product_group": null,
+            "created_at": "2025-10-31T09:45:43.947035+13:00",
+            "updated_at": "2026-05-08T08:51:49.415272+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "en",
+            "product_name": "Conventions - Super Slam",
+            "product_type": "promo",
+            "release_date": "2019-10-01",
+            "slug": "conventions-super-slam",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-27T09:45:05.553624+13:00",
+          "updated_at": "2026-01-27T09:56:28.138186+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB397-RF",
+          "set_number": 397,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "ce5de56f-c3e5-438e-a735-789b7d430c2e"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:47:28.536392+12:00",
+      "updated_at": "2025-09-18T06:47:28.537703+12:00",
+      "card_id": "chest-puff-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

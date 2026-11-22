@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "shock-frock",
+  "language": "ja",
+  "name": "電撃ドレス",
+  "cores": [
+    {
+      "position": 10,
+      "name": "電撃ドレス",
+      "typeLine": "稲妻・装備品 － 胴",
+      "talents": [
+        "稲妻"
+      ],
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "胴"
+      ],
+      "text": {
+        "markup": "**アクション**--これを破壊する：{r}を得る。このターン、あなたが稲妻・カードをプレイしていた場合にのみ起動できる。**続行**{br}**戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+        "plain": "アクション--これを破壊する：{r}を得る。このターン、あなたが稲妻・カードをプレイしていた場合にのみ起動できる。続行\n戦傷（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+        "html": "<p><strong>アクション</strong>—これを破壊する：<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。このターン、あなたが稲妻・カードをプレイしていた場合にのみ起動できる。<strong>続行</strong></p>\n<p><strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_AST004-RF",
+      "code": "AST004",
+      "language": "ja",
+      "set": "AST",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-aurora-shooting-star-ja",
+      "releaseDate": "2025-03-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AST004-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "電撃ドレス",
+          "typeLine": "稲妻・装備品 － 胴",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--これを破壊する：{r}を得る。このターン、あなたが稲妻・カードをプレイしていた場合にのみ起動できる。**続行**{br}**戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+            "plain": "アクション--これを破壊する：{r}を得る。このターン、あなたが稲妻・カードをプレイしていた場合にのみ起動できる。続行\n戦傷（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+            "html": "<p><strong>アクション</strong>—これを破壊する：<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。このターン、あなたが稲妻・カードをプレイしていた場合にのみ起動できる。<strong>続行</strong></p>\n<p><strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AST004",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Nailsen Ivanderlie",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AST004-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AST004-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AST004-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

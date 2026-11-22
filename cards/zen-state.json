@@ -1,0 +1,596 @@
+{
+  "schemaVersion": 1,
+  "id": "zen-state",
+  "name": "Zen State",
+  "objectType": "token",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Zen State",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Ninja Token - Aura",
+      "traitLine": null,
+      "classes": [
+        "Ninja"
+      ],
+      "talents": [],
+      "types": [
+        "Token"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": {
+        "markup": "This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.{br}If you would be dealt damage, prevent 1 of that damage.",
+        "plain": "This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.\nIf you would be dealt damage, prevent 1 of that damage."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "CRU075",
+      "code": "CRU075",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 75,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU075",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Zen State",
+          "typeLine": "Ninja Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.\nWhenever your hero would be dealt damage, prevent 1 damage that source would deal.",
+            "plain": "Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.\nWhenever your hero would be dealt damage, prevent 1 damage that source would deal.",
+            "html": "<p>Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.</p>\n<p>Whenever your hero would be dealt damage, prevent 1 damage that source would deal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU075",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "x_mysteria",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU075.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU075.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU075.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU075-RF",
+      "code": "CRU075",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 75,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU075-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Zen State",
+          "typeLine": "Ninja Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.\nWhenever your hero would be dealt damage, prevent 1 damage that source would deal.",
+            "plain": "Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.\nWhenever your hero would be dealt damage, prevent 1 damage that source would deal.",
+            "html": "<p>Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.</p>\n<p>Whenever your hero would be dealt damage, prevent 1 damage that source would deal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU075",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "x_mysteria",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU075-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU075-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU075-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU075",
+      "code": "CRU075",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 75,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU075",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Zen State",
+          "typeLine": "Ninja Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.\nWhenever your hero would be dealt damage, prevent 1 damage that source would deal.",
+            "plain": "Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.\nWhenever your hero would be dealt damage, prevent 1 damage that source would deal.",
+            "html": "<p>Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.</p>\n<p>Whenever your hero would be dealt damage, prevent 1 damage that source would deal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU075",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "x_mysteria",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU075.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU075.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU075.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU075-RF",
+      "code": "CRU075",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 75,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU075-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Zen State",
+          "typeLine": "Ninja Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.\nWhenever your hero would be dealt damage, prevent 1 damage that source would deal.",
+            "plain": "Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.\nWhenever your hero would be dealt damage, prevent 1 damage that source would deal.",
+            "html": "<p>Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.</p>\n<p>Whenever your hero would be dealt damage, prevent 1 damage that source would deal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU075",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "common-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "x_mysteria",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU075-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU075-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU075-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP137",
+      "code": "1HP137",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 137,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP137",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Zen State",
+          "typeLine": "Ninja Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.\nWhenever your hero would be dealt damage, prevent 1 damage that source would deal.",
+            "plain": "Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.\nWhenever your hero would be dealt damage, prevent 1 damage that source would deal.",
+            "html": "<p>Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.</p>\n<p>Whenever your hero would be dealt damage, prevent 1 damage that source would deal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP137",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "token",
+          "frameStyle": "x_mysteria",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP137.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP137.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP137.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB244-CF",
+      "code": "FAB244",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 244,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prize-wall-part-the-mistveil",
+      "releaseDate": "2024-05-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB244-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Zen State",
+          "typeLine": "Ninja Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.{br}If you would be dealt damage, prevent 1 of that damage.",
+            "plain": "This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.\nIf you would be dealt damage, prevent 1 of that damage.",
+            "html": "<p>This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.</p>\n<p>If you would be dealt damage, prevent 1 of that damage.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB244",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB244-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB244-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB244-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MST189",
+      "code": "MST189",
+      "language": "en",
+      "set": "MST",
+      "setNumber": 189,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "part-the-mistveil",
+      "releaseDate": "2024-05-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MST189",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Zen State",
+          "typeLine": "Ninja Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.{br}If you would be dealt damage, prevent 1 of that damage.",
+            "plain": "This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.\nIf you would be dealt damage, prevent 1 of that damage.",
+            "html": "<p>This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.</p>\n<p>If you would be dealt damage, prevent 1 of that damage.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MST189",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MST189.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MST189.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MST189.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "JDG044",
+      "code": "JDG044",
+      "language": "en",
+      "set": "JDG",
+      "setNumber": 44,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "judge-pack-season-6",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JDG044",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Zen State",
+          "typeLine": "Ninja Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.{br}If you would be dealt damage, prevent 1 of that damage.",
+            "plain": "This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.\nIf you would be dealt damage, prevent 1 of that damage.",
+            "html": "<p>This enters the arena with a balance counter. At the beginning of your action phase, destroy this unless you remove a balance counter from it.</p>\n<p>If you would be dealt damage, prevent 1 of that damage.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "JDG044",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG044.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG044.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG044.webp"
+          }
+        },
+        {
+          "id": "JDG044_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Zen State",
+          "typeLine": "Ninja Token - Aura",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": null,
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG044_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG044_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG044_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-CRU075": "unlimited",
+      "U-CRU075-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:34:29Z",
+    "rawSha256": "b2ce5c695e37ec541a8ac34cdff8a3335e1833bcef31d821085dd3d552d51a02",
+    "updatedAt": "2025-09-18T06:59:35.532570+12:00"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "target-totalizer",
+  "name": "Target Totalizer",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Target Totalizer",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Ranger Equipment - Head",
+      "traitLine": null,
+      "classes": [
+        "Ranger"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Head"
+      ],
+      "text": {
+        "markup": "**Action** -- Destroy this: Whenever an arrow with an aim counter hits this turn, draw a card. **Go again**",
+        "plain": "Action -- Destroy this: Whenever an arrow with an aim counter hits this turn, draw a card. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AAZ004-RF",
+      "code": "AAZ004",
+      "language": "en",
+      "set": "AAZ",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-azalea-ace-in-the-hole",
+      "releaseDate": "2024-08-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AAZ004-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Target Totalizer",
+          "typeLine": "Ranger Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy this: Whenever an arrow with an aim counter hits this turn, draw a card. **Go again**",
+            "plain": "Action -- Destroy this: Whenever an arrow with an aim counter hits this turn, draw a card. Go again",
+            "html": "<p><strong>Action</strong> — Destroy this: Whenever an arrow with an aim counter hits this turn, draw a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAZ004",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Mateus Manhanini",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AAZ004-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AAZ004-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AAZ004-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "JDG039-CF",
+      "code": "JDG039",
+      "language": "en",
+      "set": "JDG",
+      "setNumber": 39,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "judge-pack-season-6",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JDG039-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Target Totalizer",
+          "typeLine": "Ranger Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy this: Whenever an arrow with an aim counter hits this turn, draw a card. **Go again**",
+            "plain": "Action -- Destroy this: Whenever an arrow with an aim counter hits this turn, draw a card. Go again",
+            "html": "<p><strong>Action</strong> — Destroy this: Whenever an arrow with an aim counter hits this turn, draw a card. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "JDG039",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Mateus Manhanini",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG039-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG039-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG039-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:51:04Z",
+    "rawSha256": "4efe4509e199f98836296de111f7a8ff57f437e6cc84d2d9bc536b58d69aa1a1",
+    "updatedAt": "2025-09-18T06:57:34.962860+12:00"
+  }
+}

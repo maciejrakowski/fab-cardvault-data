@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "id": "emeritus-scolding-1",
+  "name": "Emeritus Scolding",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Emeritus Scolding",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 2,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Wizard Action",
+      "traitLine": null,
+      "classes": [
+        "Wizard"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Deal 4 arcane damage to target hero. If this was played during an opponent's turn, instead deal 6 arcane damage.",
+        "plain": "Deal 4 arcane damage to target hero. If this was played during an opponent's turn, instead deal 6 arcane damage."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS090-RF",
+      "code": "LGS090",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 90,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-6",
+      "releaseDate": "2022-01-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS090-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Emeritus Scolding",
+          "typeLine": "Wizard Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Deal 4 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to them.",
+            "plain": "Deal 4 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to them.",
+            "html": "<p>Deal 4 arcane damage to target hero. If Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to them.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"I may look frail, but my mind will CRUSH you!\" - Efaris Brittlebone_",
+            "plain": "_\"I may look frail, but my mind will CRUSH you!\" - Efaris Brittlebone_",
+            "html": "<p><em>&quot;I may look frail, but my mind will CRUSH you!&quot; - Efaris Brittlebone</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS090",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "wizard",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS090-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS090-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS090-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVR125",
+      "code": "EVR125",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 125,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR125",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Emeritus Scolding",
+          "typeLine": "Wizard Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Deal 4 arcane damage to target hero.\nIf Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to target hero.",
+            "plain": "Deal 4 arcane damage to target hero.\nIf Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to target hero.",
+            "html": "<p>Deal 4 arcane damage to target hero.</p>\n<p>If Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to target hero.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"I may look frail, but my mind will CRUSH you!\" - Efaris Brittlebone_",
+            "plain": "_\"I may look frail, but my mind will CRUSH you!\" - Efaris Brittlebone_",
+            "html": "<p><em>&quot;I may look frail, but my mind will CRUSH you!&quot; - Efaris Brittlebone</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR125",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "wizard",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR125.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR125.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR125.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVR125-RF",
+      "code": "EVR125",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 125,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR125-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Emeritus Scolding",
+          "typeLine": "Wizard Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Deal 4 arcane damage to target hero.\nIf Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to target hero.",
+            "plain": "Deal 4 arcane damage to target hero.\nIf Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to target hero.",
+            "html": "<p>Deal 4 arcane damage to target hero.</p>\n<p>If Emeritus Scolding is played during an opponents turn, instead deal 6 arcane damage to target hero.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"I may look frail, but my mind will CRUSH you!\" - Efaris Brittlebone_",
+            "plain": "_\"I may look frail, but my mind will CRUSH you!\" - Efaris Brittlebone_",
+            "html": "<p><em>&quot;I may look frail, but my mind will CRUSH you!&quot; - Efaris Brittlebone</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR125",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "wizard",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR125-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR125-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR125-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBZ015",
+      "code": "SBZ015",
+      "language": "en",
+      "set": "SBZ",
+      "setNumber": 15,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-blaze-firemind",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBZ015",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Emeritus Scolding",
+          "typeLine": "Wizard Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Deal 4 arcane damage to target hero. If this was played during an opponent's turn, instead deal 6 arcane damage.",
+            "plain": "Deal 4 arcane damage to target hero. If this was played during an opponent's turn, instead deal 6 arcane damage.",
+            "html": "<p>Deal 4 arcane damage to target hero. If this was played during an opponent's turn, instead deal 6 arcane damage.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBZ015",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "wizard",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBZ015.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBZ015.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBZ015.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TNP007-MV",
+      "code": "TNP007",
+      "language": "en",
+      "set": "TNP",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "tournament-pack",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TNP007-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Emeritus Scolding",
+          "typeLine": "Wizard Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Deal 4 arcane damage to target hero. If this was played during an opponent's turn, instead deal 6 arcane damage.",
+            "plain": "Deal 4 arcane damage to target hero. If this was played during an opponent's turn, instead deal 6 arcane damage.",
+            "html": "<p>Deal 4 arcane damage to target hero. If this was played during an opponent's turn, instead deal 6 arcane damage.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TNP007",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Mateusz Wiśniewski",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "wizard",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TNP007-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TNP007-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP007-MV.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:56:52Z",
+    "rawSha256": "090a5dcf984c02029bf2a6c89561e4345a2f04af792fb6473cb95ee2506f0ecf",
+    "updatedAt": "2025-09-18T06:49:12.125753+12:00"
+  }
+}

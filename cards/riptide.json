@@ -1,0 +1,413 @@
+{
+  "schemaVersion": 1,
+  "id": "riptide",
+  "name": "Riptide",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Riptide",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 19,
+      "intellect": 4,
+      "typeLine": "Ranger Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Ranger"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "Whenever you play a card from hand, you may put a card from hand face-down into your arsenal.{br}Whenever a trap you control triggers, deal 1 damage to the attacking hero.",
+        "plain": "Whenever you play a card from hand, you may put a card from hand face-down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HER080-CF",
+      "code": "HER080",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 80,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "calling-apac-2023",
+      "releaseDate": "2023-02-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER080-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Riptide",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "plain": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "html": "<p>Whenever you play a card from hand, you may put a card from hand face down into your arsenal.</p>\n<p>Whenever a trap you control triggers, deal 1 damage to the attacking hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "19",
+            "intellect": "4"
+          },
+          "printedCode": "HER080",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Joseph Qiu",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER080-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER080-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER080-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUT092",
+      "code": "OUT092",
+      "language": "en",
+      "set": "OUT",
+      "setNumber": 92,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OUT092",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Riptide",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "plain": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "html": "<p>Whenever you play a card from hand, you may put a card from hand face down into your arsenal.</p>\n<p>Whenever a trap you control triggers, deal 1 damage to the attacking hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "19",
+            "intellect": "4"
+          },
+          "printedCode": "OUT092",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Joseph Qiu",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OUT092.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OUT092.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OUT092.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RIP001",
+      "code": "RIP001",
+      "language": "en",
+      "set": "RIP",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "riptide-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "RIP001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Riptide",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "plain": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "html": "<p>Whenever you play a card from hand, you may put a card from hand face down into your arsenal.</p>\n<p>Whenever a trap you control triggers, deal 1 damage to the attacking hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "19",
+            "intellect": "4"
+          },
+          "printedCode": "RIP001",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Joseph Qiu",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/RIP001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/RIP001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/RIP001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER081-RF",
+      "code": "HER081",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 81,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "skirmish-season-6",
+      "releaseDate": "2023-04-08",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER081-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Riptide",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "plain": "Whenever you play a card from hand, you may put a card from hand face down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "html": "<p>Whenever you play a card from hand, you may put a card from hand face down into your arsenal.</p>\n<p>Whenever a trap you control triggers, deal 1 damage to the attacking hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "19",
+            "intellect": "4"
+          },
+          "printedCode": "HER081",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Joseph Qiu",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER081-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER081-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER081-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PEN341-MV",
+      "code": "PEN341",
+      "language": "en",
+      "set": "PEN",
+      "setNumber": 341,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "compendium-of-rathe",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "PEN341-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Riptide",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a card from hand, you may put a card from hand face-down into your arsenal.{br}Whenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "plain": "Whenever you play a card from hand, you may put a card from hand face-down into your arsenal.\nWhenever a trap you control triggers, deal 1 damage to the attacking hero.",
+            "html": "<p>Whenever you play a card from hand, you may put a card from hand face-down into your arsenal.</p>\n<p>Whenever a trap you control triggers, deal 1 damage to the attacking hero.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "19",
+            "intellect": "4"
+          },
+          "printedCode": "PEN341",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Joseph Qiu",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN341-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN341-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN341-MV.webp"
+          }
+        },
+        {
+          "id": "PEN341-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Riptide",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN341-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN341-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN341-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:35:54Z",
+    "rawSha256": "657636c110be4f5d6c9e1e1a5a7bbe5d0b2b4576471f39b895cb6881a759d6e3",
+    "updatedAt": "2026-05-26T06:17:07.172287+12:00"
+  }
+}

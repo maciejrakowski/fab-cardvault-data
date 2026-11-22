@@ -1,0 +1,715 @@
+{
+  "schemaVersion": 1,
+  "id": "potion-of-strength-3",
+  "name": "Potion of Strength",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Potion of Strength",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Action - Item",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Item"
+      ],
+      "text": {
+        "markup": "**Action** -- Destroy this: Your next attack this turn gets +2{p}. **Go again**",
+        "plain": "Action -- Destroy this: Your next attack this turn gets +2{p}. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "FAB013-CF",
+      "code": "FAB013-P",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 13,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "marketing-local-game-stores",
+      "releaseDate": "2019-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB013-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Potion of Strength",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**",
+            "plain": "Action -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. Go again",
+            "html": "<p><strong>Action</strong> — Destroy Potion of Strength: Your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "plain": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "html": "<p><em>&quot;There's something odd about Mabon's drinking horn.&quot;</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB013-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Panji Bagus P",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB013-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB013-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB013-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BVO028",
+      "code": "BVO028-R",
+      "language": "en",
+      "set": "BVO",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bravo-showstopper-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "BVO028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Potion of Strength",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "_(It costs an action point to put Potion of Strength into the arena. Potion of Strength stays in the arena until used.)_\nAction -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**",
+            "plain": "_(It costs an action point to put Potion of Strength into the arena. Potion of Strength stays in the arena until used.)_\nAction -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. Go again",
+            "html": "<p><em>(It costs an action point to put Potion of Strength into the arena. Potion of Strength stays in the arena until used.)</em></p>\n<p>Action — Destroy Potion of Strength: Your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "BVO028-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Panji Bagus P",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/BVO028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/BVO028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/BVO028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR171",
+      "code": "WTR171-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 171,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR171",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Potion of Strength",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**",
+            "plain": "Action -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. Go again",
+            "html": "<p><strong>Action</strong> — Destroy Potion of Strength: Your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "plain": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "html": "<p><em>&quot;There's something odd about Mabon's drinking horn.&quot;</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR171-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Panji Bagus P",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR171.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR171.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR171.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR171-RF",
+      "code": "WTR171-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 171,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR171-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Potion of Strength",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**",
+            "plain": "Action -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. Go again",
+            "html": "<p><strong>Action</strong> — Destroy Potion of Strength: Your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "plain": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "html": "<p><em>&quot;There's something odd about Mabon's drinking horn.&quot;</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR171-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Panji Bagus P",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR171-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR171-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR171-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR171",
+      "code": "WTR171",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 171,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR171",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Potion of Strength",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**",
+            "plain": "Action -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. Go again",
+            "html": "<p><strong>Action</strong> — Destroy Potion of Strength: Your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "plain": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "html": "<p><em>&quot;There's something odd about Mabon's drinking horn.&quot;</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR171",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Panji Bagus P",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR171.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR171.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR171.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR171-RF",
+      "code": "WTR171",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 171,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR171-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Potion of Strength",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**",
+            "plain": "Action -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. Go again",
+            "html": "<p><strong>Action</strong> — Destroy Potion of Strength: Your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "plain": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "html": "<p><em>&quot;There's something odd about Mabon's drinking horn.&quot;</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR171",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Panji Bagus P",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR171-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR171-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR171-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR171",
+      "code": "WTR171",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 171,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR171",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Potion of Strength",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**",
+            "plain": "Action -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. Go again",
+            "html": "<p><strong>Action</strong> — Destroy Potion of Strength: Your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "plain": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "html": "<p><em>&quot;There's something odd about Mabon's drinking horn.&quot;</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR171",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Panji Bagus P",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR171.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR171.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR171.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR171-RF",
+      "code": "WTR171",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 171,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR171-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Potion of Strength",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**",
+            "plain": "Action -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. Go again",
+            "html": "<p><strong>Action</strong> — Destroy Potion of Strength: Your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "plain": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "html": "<p><em>&quot;There's something odd about Mabon's drinking horn.&quot;</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR171",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Panji Bagus P",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR171-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR171-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR171-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP382",
+      "code": "1HP382",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 382,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP382",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Potion of Strength",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Item's stay in the arena until they are destroyed.)_\n**Action** -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. **Go again**",
+            "plain": "_(Item's stay in the arena until they are destroyed.)_\nAction -- Destroy Potion of Strength: Your next attack this turn gains +2{p}. Go again",
+            "html": "<p><em>(Item's stay in the arena until they are destroyed.)</em></p>\n<p><strong>Action</strong> — Destroy Potion of Strength: Your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "plain": "_\"There's something odd about Mabon's drinking horn.\"_",
+            "html": "<p><em>&quot;There's something odd about Mabon's drinking horn.&quot;</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP382",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Panji Bagus P",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP382.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP382.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP382.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TCC073",
+      "code": "TCC073",
+      "language": "en",
+      "set": "TCC",
+      "setNumber": 73,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "round-the-table-tcc-x-lss",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TCC073",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Potion of Strength",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy this: Your next attack this turn gets +2{p}. **Go again**",
+            "plain": "Action -- Destroy this: Your next attack this turn gets +2{p}. Go again",
+            "html": "<p><strong>Action</strong> — Destroy this: Your next attack this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TCC073",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Wisnu Tan",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC073.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC073.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC073.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {
+      "R-WTR171": "unlimited-revised",
+      "R-WTR171-RF": "unlimited-revised",
+      "U-WTR171": "unlimited",
+      "U-WTR171-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T15:13:23Z",
+    "rawSha256": "593f45b5d570a5842b341e15d5a8a84b3ef8ace496017cb6725e64b6fc8d66e0",
+    "updatedAt": "2025-09-18T06:53:53.138757+12:00"
+  }
+}

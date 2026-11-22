@@ -1,0 +1,823 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "7de6a9d3-cb3a-4186-b9ed-d82496deea51",
+      "cores": [
+        {
+          "id": "2a1f00d2-417e-4703-a574-7c0503e13f99",
+          "core_classes": [
+            {
+              "id": 37,
+              "name": "Necromancer",
+              "name_en": "Necromancer",
+              "name_fr": null,
+              "name_de": null,
+              "name_it": null,
+              "name_es": null,
+              "name_ja": null,
+              "is_published": true
+            },
+            {
+              "id": 36,
+              "name": "Pirate",
+              "name_en": "Pirate",
+              "name_fr": null,
+              "name_de": null,
+              "name_it": null,
+              "name_es": null,
+              "name_ja": null,
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 4,
+              "name": "Ally",
+              "name_en": "Ally",
+              "name_fr": "Allié",
+              "name_de": "Verbündeter",
+              "name_it": "Alleato",
+              "name_es": "Aliado",
+              "name_ja": "盟友",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:51:56.622072+12:00",
+          "updated_at": "2025-09-18T06:51:56.632970+12:00",
+          "name": "Kelpie, Tangled Mess",
+          "layout_position": 10,
+          "pitch": "2",
+          "pitch_chi": "",
+          "color": "yellow",
+          "cost": "0",
+          "power": "1",
+          "defense": "",
+          "intellect": "",
+          "life": "3",
+          "textbox": "**Action** -- {t}: **Attack**{br}**Action** -- {r}, {t}: {t} target hero or ally. **Go again**{br}**Watery Grave**",
+          "typebox": "Pirate Necromancer Action - Ally",
+          "traitbox": "",
+          "pitch_value": 2,
+          "pitch_chi_value": null,
+          "cost_value": 0,
+          "power_value": 1,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": 3,
+          "card": "7de6a9d3-cb3a-4186-b9ed-d82496deea51"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "be55ec24-9ea5-45e7-a1b9-3480ce1e7e7b",
+          "faces": [
+            {
+              "id": "f2376c6d-be58-4b9b-ad45-b5f9c31c23b1",
+              "created_at": "2025-09-18T06:51:56.651983+12:00",
+              "updated_at": "2025-09-18T06:51:56.652003+12:00",
+              "face_id": "FR_SEA059",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA059",
+              "printed_artist": "soyameii",
+              "printed_name": "Kelpie, désordre emmêlé",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "1",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**Action** -- {t} : **Attaque**{br}**Action** -- {r}, {t} : {t} le héros ou l’allié ciblé. **Encore une fois**{br}**Tombe aquatique** _(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Nécromancien Action - Allié",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a1f00d2-417e-4703-a574-7c0503e13f99",
+              "card_print": "be55ec24-9ea5-45e7-a1b9-3480ce1e7e7b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Kelpie, désordre emmêlé</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Nécromancien Action - Allié</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <strong>Attaque</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> le héros ou l’allié ciblé. <strong>Encore une fois</strong></p>\n<p><strong>Tombe aquatique</strong> <em>(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA059.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA059.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA059.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:56.643691+12:00",
+          "updated_at": "2025-09-18T06:51:56.643708+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA059",
+          "set_number": 59,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "7de6a9d3-cb3a-4186-b9ed-d82496deea51"
+        },
+        {
+          "id": "fc435dc7-e935-4b6c-97e4-2fde545edc58",
+          "faces": [
+            {
+              "id": "882aeb13-741f-40e0-a026-ba67481ecb4c",
+              "created_at": "2025-09-18T06:51:56.672328+12:00",
+              "updated_at": "2025-09-18T06:51:56.672348+12:00",
+              "face_id": "FR_SEA059-MV",
+              "face_language": "fr",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "SEA059",
+              "printed_artist": "soyameii",
+              "printed_name": "Kelpie, désordre emmêlé",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "1",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**Action** -- {t} : **Attaque**{br}**Action** -- {r}, {t} : {t} le héros ou l’allié ciblé. **Encore une fois**{br}**Tombe aquatique** _(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Nécromancien Action - Allié",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a1f00d2-417e-4703-a574-7c0503e13f99",
+              "card_print": "fc435dc7-e935-4b6c-97e4-2fde545edc58",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Kelpie, désordre emmêlé</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Nécromancien Action - Allié</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <strong>Attaque</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> le héros ou l’allié ciblé. <strong>Encore une fois</strong></p>\n<p><strong>Tombe aquatique</strong> <em>(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA059-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA059-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA059-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:56.664747+12:00",
+          "updated_at": "2025-09-18T06:51:56.664767+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA059-MV",
+          "set_number": 59,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "marvel",
+          "card": "7de6a9d3-cb3a-4186-b9ed-d82496deea51"
+        },
+        {
+          "id": "38356f42-0360-423c-8734-46976a6eac12",
+          "faces": [
+            {
+              "id": "30f2ad5b-6c9b-472e-90f2-29c1f1e4e51b",
+              "created_at": "2025-09-18T06:51:56.684501+12:00",
+              "updated_at": "2025-09-18T06:51:56.684511+12:00",
+              "face_id": "JA_SEA059",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA059",
+              "printed_artist": "soyameii",
+              "printed_name": "絡みつく悪意、ケルピー",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "1",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**アクション**--{t}：**攻撃**{br}**アクション**--{r}, {t}：対象のヒーロー１人か盟友１体を{t}する。続行**続行**{br}**溺墓**（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）",
+              "printed_flavor_text": "",
+              "printed_typebox": "海賊・死霊術師・アクション － 盟友",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a1f00d2-417e-4703-a574-7c0503e13f99",
+              "card_print": "38356f42-0360-423c-8734-46976a6eac12",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>絡みつく悪意、ケルピー</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>海賊・死霊術師・アクション － 盟友</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：<strong>攻撃</strong></p>\n<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：対象のヒーロー１人か盟友１体を<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する。続行<strong>続行</strong></p>\n<p><strong>溺墓</strong>（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA059.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA059.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA059.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:56.681107+12:00",
+          "updated_at": "2025-09-18T06:51:56.681117+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA059",
+          "set_number": 59,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "7de6a9d3-cb3a-4186-b9ed-d82496deea51"
+        },
+        {
+          "id": "386b4478-f516-4b4a-bdab-2265f2be9999",
+          "faces": [
+            {
+              "id": "e760afa9-754a-42d9-818d-000a3e8b303c",
+              "created_at": "2025-09-18T06:51:56.697206+12:00",
+              "updated_at": "2025-09-18T06:51:56.697224+12:00",
+              "face_id": "JA_SEA059-MV",
+              "face_language": "ja",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "SEA059",
+              "printed_artist": "soyameii",
+              "printed_name": "絡みつく悪意、ケルピー",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "1",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**アクション**--{t}：**攻撃**{br}**アクション**--{r}, {t}：対象のヒーロー１人か盟友１体を{t}する。続行**続行**{br}**溺墓**（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）",
+              "printed_flavor_text": "",
+              "printed_typebox": "海賊・死霊術師・アクション － 盟友",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a1f00d2-417e-4703-a574-7c0503e13f99",
+              "card_print": "386b4478-f516-4b4a-bdab-2265f2be9999",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>絡みつく悪意、ケルピー</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>海賊・死霊術師・アクション － 盟友</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：<strong>攻撃</strong></p>\n<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：対象のヒーロー１人か盟友１体を<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>する。続行<strong>続行</strong></p>\n<p><strong>溺墓</strong>（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA059-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA059-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA059-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:56.690433+12:00",
+          "updated_at": "2025-09-18T06:51:56.690443+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA059-MV",
+          "set_number": 59,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "marvel",
+          "card": "7de6a9d3-cb3a-4186-b9ed-d82496deea51"
+        },
+        {
+          "id": "646ba873-312a-4eef-b162-fa9deefbbb10",
+          "faces": [
+            {
+              "id": "4e4f39e9-8d62-45b4-a8d2-964c9b1a6bc4",
+              "created_at": "2025-09-18T06:51:56.717855+12:00",
+              "updated_at": "2025-09-18T06:51:56.717872+12:00",
+              "face_id": "SEA059",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA059",
+              "printed_artist": "soyameii",
+              "printed_name": "Kelpie, Tangled Mess",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "1",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**Action** -- {t}: **Attack**{br}**Action** -- {r}, {t}: {t} target hero or ally. **Go again**{br}**Watery Grave**  _(When this is put into your graveyard from the arena, turn it face-down.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Necromancer Action - Ally",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a1f00d2-417e-4703-a574-7c0503e13f99",
+              "card_print": "646ba873-312a-4eef-b162-fa9deefbbb10",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Kelpie, Tangled Mess</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> target hero or ally. <strong>Go again</strong></p>\n<p><strong>Watery Grave</strong>  <em>(When this is put into your graveyard from the arena, turn it face-down.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA059.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA059.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA059.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:56.709808+12:00",
+          "updated_at": "2025-09-18T06:51:56.709829+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA059",
+          "set_number": 59,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "7de6a9d3-cb3a-4186-b9ed-d82496deea51"
+        },
+        {
+          "id": "e1176ddf-ca97-41d6-bae1-446ece8d0c72",
+          "faces": [
+            {
+              "id": "eb1d46e7-fbbd-4047-8eb2-e1ec4420b50e",
+              "created_at": "2025-09-18T06:51:56.735051+12:00",
+              "updated_at": "2025-09-18T06:51:56.735060+12:00",
+              "face_id": "SEA059-MV",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "SEA059",
+              "printed_artist": "soyameii",
+              "printed_name": "Kelpie, Tangled Mess",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "1",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**Action** -- {t}: **Attack**{br}**Action** -- {r}, {t}: {t} target hero or ally. **Go again**{br}**Watery Grave**  _(When this is put into your graveyard from the arena, turn it face-down.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Necromancer Action - Ally",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a1f00d2-417e-4703-a574-7c0503e13f99",
+              "card_print": "e1176ddf-ca97-41d6-bae1-446ece8d0c72",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Kelpie, Tangled Mess</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> target hero or ally. <strong>Go again</strong></p>\n<p><strong>Watery Grave</strong>  <em>(When this is put into your graveyard from the arena, turn it face-down.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA059-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA059-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA059-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:56.729778+12:00",
+          "updated_at": "2025-09-18T06:51:56.729788+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA059-MV",
+          "set_number": 59,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "marvel",
+          "card": "7de6a9d3-cb3a-4186-b9ed-d82496deea51"
+        },
+        {
+          "id": "22424125-4d49-49fc-8fa8-0d75ec563fcb",
+          "faces": [
+            {
+              "id": "5d3fcf51-c279-413a-b9fc-f3594fd09f8e",
+              "created_at": "2025-09-18T06:51:56.747440+12:00",
+              "updated_at": "2025-09-18T06:51:56.747449+12:00",
+              "face_id": "LGS404-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS404",
+              "printed_artist": "soyameii",
+              "printed_name": "Kelpie, Tangled Mess",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "1",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "3",
+              "printed_rules_text": "**Action** -- {t}: **Attack**{br}**Action** -- {r}, {t}: {t} target hero or ally. **Go again**{br}**Watery Grave**  _(When this is put into your graveyard from the arena, turn it face-down.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Necromancer Action - Ally",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2a1f00d2-417e-4703-a574-7c0503e13f99",
+              "card_print": "22424125-4d49-49fc-8fa8-0d75ec563fcb",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Kelpie, Tangled Mess</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> target hero or ally. <strong>Go again</strong></p>\n<p><strong>Watery Grave</strong>  <em>(When this is put into your graveyard from the arena, turn it face-down.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS404-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS404-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS404-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "bfb01c53-2a00-464a-b98f-44cdf3b55bcc",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:07.202254+12:00",
+            "updated_at": "2025-09-18T06:46:07.202264+12:00",
+            "printed_date": "2024-04-01",
+            "printed_language": "en",
+            "product_name": "World Premiere - High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "world-premiere-high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:56.743884+12:00",
+          "updated_at": "2025-09-18T06:51:56.743894+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS404-RF",
+          "set_number": 404,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "7de6a9d3-cb3a-4186-b9ed-d82496deea51"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:51:56.618746+12:00",
+      "updated_at": "2025-09-18T06:51:56.619706+12:00",
+      "card_id": "kelpie-tangled-mess-2",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

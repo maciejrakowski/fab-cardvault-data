@@ -1,0 +1,658 @@
+{
+  "schemaVersion": 1,
+  "id": "azalea",
+  "name": "Azalea",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Azalea",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Ranger Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Ranger"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets **dominate** until end of turn. **Go again**",
+        "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets dominate until end of turn. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HER014-RF",
+      "code": "HER014-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 14,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pre-release-arcane-rising",
+      "releaseDate": "2020-03-21",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER014-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains **dominate** until end of turn. **Go again**",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains <strong>dominate</strong> until end of turn. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER014-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Maxim Kostin",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER014-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER014-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER014-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC039",
+      "code": "ARC039-T",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 39,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC039",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "ARC039-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Maxim Kostin",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC039.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC039.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC039.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC039",
+      "code": "ARC039",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 39,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC039",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "ARC039",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Maxim Kostin",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC039.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC039.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC039.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP222",
+      "code": "1HP222",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 222,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP222",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains **dominate** until end of turn. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains <strong>dominate</strong> until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "1HP222",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "white",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP222.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP222.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP222.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AZL001",
+      "code": "AZL001",
+      "language": "en",
+      "set": "AZL",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "azalea-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AZL001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into arsenal. If it's an arrow, it gains **dominate** until end of turn. **Go again** _(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into arsenal. If it's an arrow, it gains dominate until end of turn. Go again _(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into arsenal. If it's an arrow, it gains <strong>dominate</strong> until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "AZL001",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AZL001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AZL001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AZL001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUT090",
+      "code": "OUT090",
+      "language": "en",
+      "set": "OUT",
+      "setNumber": 90,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OUT090",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow, it gains **dominate** until end of turn. **Go again** _(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow, it gains dominate until end of turn. Go again _(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow, it gains <strong>dominate</strong> until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "OUT090",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OUT090.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OUT090.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OUT090.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER071-CF",
+      "code": "HER071",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 71,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "skirmish-season-6",
+      "releaseDate": "2023-04-08",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER071-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains **dominate** until end of turn. **Go again**",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains <strong>dominate</strong> until end of turn. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER071",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER071-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER071-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER071-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PEN340-MV",
+      "code": "PEN340",
+      "language": "en",
+      "set": "PEN",
+      "setNumber": 340,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "compendium-of-rathe",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "PEN340-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets **dominate** until end of turn. **Go again**",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets dominate until end of turn. Go again",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets <strong>dominate</strong> until end of turn. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "PEN340",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Maxim Kostin",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN340-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN340-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN340-MV.webp"
+          }
+        },
+        {
+          "id": "PEN340-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN340-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN340-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN340-MV_BACK.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAZ001",
+      "code": "SAZ001",
+      "language": "en",
+      "set": "SAZ",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-azalea",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-30T12:10:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SAZ001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea",
+          "typeLine": "Ranger Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets **dominate** until end of turn. **Go again**",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets dominate until end of turn. Go again",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets <strong>dominate</strong> until end of turn. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "SAZ001",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Maxim Kostin",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAZ001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAZ001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAZ001.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "dominate"
+    ],
+    "editions": {
+      "U-ARC039": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:18:39Z",
+    "rawSha256": "8c54cca1a1856c1a0e75495fdf8e50d80eea31154b47ca73140055a4f4f1c475",
+    "updatedAt": "2026-05-26T05:51:14.356235+12:00"
+  }
+}

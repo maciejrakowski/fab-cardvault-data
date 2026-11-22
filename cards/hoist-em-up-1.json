@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "id": "hoist-em-up-1",
+  "name": "Hoist 'Em Up",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Hoist 'Em Up",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": null,
+      "power": null,
+      "defense": 4,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Pirate Necromancer Block",
+      "traitLine": null,
+      "classes": [
+        "Necromancer",
+        "Pirate"
+      ],
+      "talents": [],
+      "types": [
+        "Block"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "When this defends, you may {t} an ally you control. If you do, this gets +1{d}.",
+        "plain": "When this defends, you may {t} an ally you control. If you do, this gets +1{d}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "FAB349-RF",
+      "code": "FAB349",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 349,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "battle-hardened-high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB349-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Hoist 'Em Up",
+          "typeLine": "Pirate Necromancer Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, you may {t} an ally you control. If you do, this gets +1{d}.",
+            "plain": "When this defends, you may {t} an ally you control. If you do, this gets +1{d}.",
+            "html": "<p>When this defends, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> an ally you control. If you do, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB349",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Thomas Ressuge",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB349-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB349-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB349-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA055",
+      "code": "SEA055",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 55,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA055",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Hoist 'Em Up",
+          "typeLine": "Pirate Necromancer Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, you may {t} an ally you control. If you do, this gets +1{d}.",
+            "plain": "When this defends, you may {t} an ally you control. If you do, this gets +1{d}.",
+            "html": "<p>When this defends, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> an ally you control. If you do, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA055",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Thomas Ressuge",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA055.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA055.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA055.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA055-RF",
+      "code": "SEA055",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 55,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA055-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Hoist 'Em Up",
+          "typeLine": "Pirate Necromancer Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, you may {t} an ally you control. If you do, this gets +1{d}.",
+            "plain": "When this defends, you may {t} an ally you control. If you do, this gets +1{d}.",
+            "html": "<p>When this defends, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> an ally you control. If you do, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA055",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Thomas Ressuge",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA055-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA055-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA055-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:43:19Z",
+    "rawSha256": "631a43a968e9ef5fa52a70a2acea6d588666c98501f8759544f6464830cf9973",
+    "updatedAt": "2025-09-18T06:51:14.503157+12:00"
+  }
+}

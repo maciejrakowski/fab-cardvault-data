@@ -1,0 +1,623 @@
+{
+  "schemaVersion": 1,
+  "id": "crazy-brew-3",
+  "name": "Crazy Brew",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Crazy Brew",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Action - Item",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Item"
+      ],
+      "text": {
+        "markup": "**Action** -- Destroy this: Roll a 6 sided die. On;{br}* 1-2 - Lose 2{h}. **Go again**{br}* 3-4 - Gain 2{h}. **Go again**{br}* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gets +2{p}.",
+        "plain": "Action -- Destroy this: Roll a 6 sided die. On;\n* 1-2 - Lose 2{h}. Go again\n* 3-4 - Gain 2{h}. Go again\n* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gets +2{p}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "WTR162",
+      "code": "WTR162-S",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 162,
+      "edition": null,
+      "rarity": "super-rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR162",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crazy Brew",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1-2 - Lose 2{h}. **Go again**\n* 3-4 - Gain 2{h}. **Go again**\n* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "plain": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1-2 - Lose 2{h}. Go again\n* 3-4 - Gain 2{h}. Go again\n* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "html": "<p>Action — Destroy Crazy Brew: Roll a 6 sided die. On;</p>\n<ul>\n<li>\n<p>1-2 - Lose 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>3-4 - Gain 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>5-6 - Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, gain 2 action points, and your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR162-S",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Daniel Jiménez",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR162.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR162.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR162.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR162-RF",
+      "code": "WTR162-S",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 162,
+      "edition": null,
+      "rarity": "super-rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR162-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crazy Brew",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1-2 - Lose 2{h}. **Go again**\n* 3-4 - Gain 2{h}. **Go again**\n* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "plain": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1-2 - Lose 2{h}. Go again\n* 3-4 - Gain 2{h}. Go again\n* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "html": "<p>Action — Destroy Crazy Brew: Roll a 6 sided die. On;</p>\n<ul>\n<li>\n<p>1-2 - Lose 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>3-4 - Gain 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>5-6 - Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, gain 2 action points, and your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR162-S",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Daniel Jiménez",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR162-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR162-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR162-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR162",
+      "code": "WTR162",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 162,
+      "edition": null,
+      "rarity": "super-rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR162",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crazy Brew",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;{br}* 1-2 - Lose 2{h}. **Go again**{br}* 3-4 - Gain 2{h}. **Go again**{br}* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "plain": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1-2 - Lose 2{h}. Go again\n* 3-4 - Gain 2{h}. Go again\n* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "html": "<p>Action — Destroy Crazy Brew: Roll a 6 sided die. On;</p>\n<ul>\n<li>\n<p>1-2 - Lose 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>3-4 - Gain 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>5-6 - Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, gain 2 action points, and your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR162",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "super-rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR162.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR162.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR162.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR162-RF",
+      "code": "WTR162",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 162,
+      "edition": null,
+      "rarity": "super-rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR162-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crazy Brew",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;{br}* 1-2 - Lose 2{h}. **Go again**{br}* 3-4 - Gain 2{h}. **Go again**{br}* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "plain": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1-2 - Lose 2{h}. Go again\n* 3-4 - Gain 2{h}. Go again\n* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "html": "<p>Action — Destroy Crazy Brew: Roll a 6 sided die. On;</p>\n<ul>\n<li>\n<p>1-2 - Lose 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>3-4 - Gain 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>5-6 - Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, gain 2 action points, and your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR162",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "super-rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR162-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR162-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR162-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR162",
+      "code": "WTR162",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 162,
+      "edition": null,
+      "rarity": "super-rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR162",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crazy Brew",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1-2 - Lose 2{h}. **Go again**\n* 3-4 - Gain 2{h}. **Go again**\n* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "plain": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1-2 - Lose 2{h}. Go again\n* 3-4 - Gain 2{h}. Go again\n* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "html": "<p>Action — Destroy Crazy Brew: Roll a 6 sided die. On;</p>\n<ul>\n<li>\n<p>1-2 - Lose 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>3-4 - Gain 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>5-6 - Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, gain 2 action points, and your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR162",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "super-rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR162.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR162.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR162.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR162-RF",
+      "code": "WTR162",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 162,
+      "edition": null,
+      "rarity": "super-rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR162-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crazy Brew",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1-2 - Lose 2{h}. **Go again**\n* 3-4 - Gain 2{h}. **Go again**\n* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "plain": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1-2 - Lose 2{h}. Go again\n* 3-4 - Gain 2{h}. Go again\n* 5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "html": "<p>Action — Destroy Crazy Brew: Roll a 6 sided die. On;</p>\n<ul>\n<li>\n<p>1-2 - Lose 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>3-4 - Gain 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>5-6 - Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, gain 2 action points, and your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR162",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "super-rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR162-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR162-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR162-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB016-CF",
+      "code": "FAB016",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 16,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-3",
+      "releaseDate": "2020-12-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB016-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crazy Brew",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Crazy Brew: Roll a 6 sided die. On;\n1-2 - Lose 2{h}. **Go again**\n3-4 - Gain 2{h}. **Go again**\n5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "plain": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n1-2 - Lose 2{h}. Go again\n3-4 - Gain 2{h}. Go again\n5-6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "html": "<p><strong>Action</strong> — Destroy Crazy Brew: Roll a 6 sided die. On;</p>\n<p>1-2 - Lose 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n<p>3-4 - Gain 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n<p>5-6 - Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, gain 2 action points, and your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB016",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "alternate-art",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB016-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB016-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB016-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP363",
+      "code": "1HP363",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 363,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP363",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crazy Brew",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1 or 2 - Lose 2{g}. **Go again**\n* 3 or 4 - Gain 2{g}. **Go again**\n* 5 or 6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "plain": "Action -- Destroy Crazy Brew: Roll a 6 sided die. On;\n* 1 or 2 - Lose 2{g}. Go again\n* 3 or 4 - Gain 2{g}. Go again\n* 5 or 6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gains +2{p}.",
+            "html": "<p><strong>Action</strong> — Destroy Crazy Brew: Roll a 6 sided die. On;</p>\n<ul>\n<li>\n<p>1 or 2 - Lose 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>3 or 4 - Gain 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n</li>\n<li>\n<p>5 or 6 - Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, gain 2 action points, and your next attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP363",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "majestic-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP363.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP363.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP363.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TCC070",
+      "code": "TCC070",
+      "language": "en",
+      "set": "TCC",
+      "setNumber": 70,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "round-the-table-tcc-x-lss",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TCC070",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Crazy Brew",
+          "typeLine": "Generic Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy this: Roll a 6 sided die. On;{br}1 or 2 - Lose 2{g}. **Go again**{br}3 or 4 - Gain 2{g}. **Go again**{br}5 or 6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gets +2{p}.",
+            "plain": "Action -- Destroy this: Roll a 6 sided die. On;\n1 or 2 - Lose 2{g}. Go again\n3 or 4 - Gain 2{g}. Go again\n5 or 6 - Gain {r}{r}, gain 2 action points, and your next attack this turn gets +2{p}.",
+            "html": "<p><strong>Action</strong> — Destroy this: Roll a 6 sided die. On;</p>\n<p>1 or 2 - Lose 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n<p>3 or 4 - Gain 2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong></p>\n<p>5 or 6 - Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, gain 2 action points, and your next attack this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TCC070",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC070.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC070.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC070.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {
+      "R-WTR162": "unlimited-revised",
+      "R-WTR162-RF": "unlimited-revised",
+      "U-WTR162": "unlimited",
+      "U-WTR162-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:15:05Z",
+    "rawSha256": "deb54dc5ed67935cfe5cd80a7720623fca89562c6f6db18c0a922e37f0e4f3d1",
+    "updatedAt": "2025-09-18T06:48:07.417024+12:00"
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "schemaVersion": 1,
+  "id": "frostbite",
+  "name": "Frostbite",
+  "objectType": "token",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Frostbite",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Elemental Token - Aura",
+      "traitLine": null,
+      "classes": [],
+      "talents": [
+        "Elemental"
+      ],
+      "types": [
+        "Token"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": {
+        "markup": "Cards and abilities cost you an additional {r} to play or activate.{br}When you play a card or activate an ability, destroy this.{br}At the beginning of your end phase, destroy this.",
+        "plain": "Cards and abilities cost you an additional {r} to play or activate.\nWhen you play a card or activate an ability, destroy this.\nAt the beginning of your end phase, destroy this."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ELE111",
+      "code": "ELE111",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ELE111",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frostbite",
+          "typeLine": "Elemental Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "plain": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "html": "<p>Cards and activated abilities you control cost an additional <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p>At the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE111",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Tian Thongjomroon",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "ice",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE111.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE111.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE111.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LXI030",
+      "code": "LXI030",
+      "language": "en",
+      "set": "LXI",
+      "setNumber": 30,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "lexi-blitz-deck",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LXI030",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frostbite",
+          "typeLine": "Elemental Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "plain": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "html": "<p>Cards and activated abilities you control cost an additional <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p>At the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LXI030",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Tian Thongjomroon",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "ice",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LXI030.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LXI030.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LXI030.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OLD031",
+      "code": "OLD031",
+      "language": "en",
+      "set": "OLD",
+      "setNumber": 31,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "oldhim-blitz-deck",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OLD031",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frostbite",
+          "typeLine": "Elemental Guardian Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "plain": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "html": "<p>Cards and activated abilities you control cost an additional <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p>At the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OLD031",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Tian Thongjomroon",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "ice",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OLD031.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OLD031.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OLD031.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ELE111",
+      "code": "ELE111",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria-unlimited",
+      "releaseDate": "2021-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ELE111",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frostbite",
+          "typeLine": "Elemental Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "plain": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "html": "<p>Cards and activated abilities you control cost an additional <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p>At the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE111",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Tian Thongjomroon",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "ice",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE111.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE111.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE111.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVR197",
+      "code": "EVR197",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 197,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR197",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frostbite",
+          "typeLine": "Elemental Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play or activate an ability, destroy Frostbite.",
+            "plain": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play or activate an ability, destroy Frostbite.",
+            "html": "<p>Cards and activated abilities you control cost an additional <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p>At the beginning of your end phase or when you play or activate an ability, destroy Frostbite.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR197",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Tian Thongjomroon",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "ice",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR197.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR197.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR197.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EVR197-RF",
+      "code": "EVR197",
+      "language": "en",
+      "set": "EVR",
+      "setNumber": 197,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "EVR197-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frostbite",
+          "typeLine": "Elemental Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play or activate an ability, destroy Frostbite.",
+            "plain": "Cards and activated abilities you control cost an additional {r}.\nAt the beginning of your end phase or when you play or activate an ability, destroy Frostbite.",
+            "html": "<p>Cards and activated abilities you control cost an additional <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p>At the beginning of your end phase or when you play or activate an ability, destroy Frostbite.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVR197",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Tian Thongjomroon",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "ice",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/EVR197-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/EVR197-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/EVR197-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB081-CF",
+      "code": "FAB081",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 81,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prize-wall-everfest",
+      "releaseDate": "2022-02-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB081-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frostbite",
+          "typeLine": "Elemental Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards and abilities cost you an additional {r} to play or activate.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "plain": "Cards and abilities cost you an additional {r} to play or activate.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "html": "<p>Cards and abilities cost you an additional <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to play or activate.</p>\n<p>At the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB081",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Tian Thongjomroon",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "ice",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB081-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB081-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB081-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "UPR150",
+      "code": "UPR150",
+      "language": "en",
+      "set": "UPR",
+      "setNumber": 150,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "uprising",
+      "releaseDate": "2022-06-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "UPR150",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frostbite",
+          "typeLine": "Elemental Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards and abilities cost you an additional {r} to play or activate.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "plain": "Cards and abilities cost you an additional {r} to play or activate.\nAt the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.",
+            "html": "<p>Cards and abilities cost you an additional <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to play or activate.</p>\n<p>At the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "UPR150",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Tian Thongjomroon",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": "ice",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UPR150.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UPR150.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UPR150.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AJV029",
+      "code": "AJV029",
+      "language": "en",
+      "set": "AJV",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-origins-jarl-vetreii",
+      "releaseDate": "2024-11-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AJV029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frostbite",
+          "typeLine": "Elemental Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards and abilities cost you an additional {r} to play or activate.{br}When you play a card or activate an ability, destroy this.{br}At the beginning of your end phase, destroy this.",
+            "plain": "Cards and abilities cost you an additional {r} to play or activate.\nWhen you play a card or activate an ability, destroy this.\nAt the beginning of your end phase, destroy this.",
+            "html": "<p>Cards and abilities cost you an additional <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to play or activate.</p>\n<p>When you play a card or activate an ability, destroy this.</p>\n<p>At the beginning of your end phase, destroy this.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AJV029",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Tian Thongjomroon",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AJV029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AJV029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AJV029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SIY035",
+      "code": "SIY035",
+      "language": "en",
+      "set": "SIY",
+      "setNumber": 35,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-iyslander",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SIY035",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Frostbite",
+          "typeLine": "Elemental Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Cards and abilities cost you an additional {r} to play or activate.{br}When you play a card or activate an ability, destroy this.{br}At the beginning of your end phase, destroy this.",
+            "plain": "Cards and abilities cost you an additional {r} to play or activate.\nWhen you play a card or activate an ability, destroy this.\nAt the beginning of your end phase, destroy this.",
+            "html": "<p>Cards and abilities cost you an additional <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> to play or activate.</p>\n<p>When you play a card or activate an ability, destroy this.</p>\n<p>At the beginning of your end phase, destroy this.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SIY035",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Tian Thongjomroon",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SIY035.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SIY035.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SIY035.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-ELE111": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:31:32Z",
+    "rawSha256": "d974d105b5cd1f80f803d4bf75413002eacb952aea82daf6415e743ec7dc58f5",
+    "updatedAt": "2025-09-18T06:50:16.964600+12:00"
+  }
+}

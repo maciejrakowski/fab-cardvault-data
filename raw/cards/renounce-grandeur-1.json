@@ -1,0 +1,812 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "c45b97a9-3ec2-4adf-b305-3cf2dd3372fe",
+      "cores": [
+        {
+          "id": "fcddaa83-2fe8-41cb-8997-8d696bba4f6e",
+          "core_classes": [
+            {
+              "id": 5,
+              "name": "Guardian",
+              "name_en": "Guardian",
+              "name_fr": "Gardien",
+              "name_de": "Wächter",
+              "name_it": "Guardiano",
+              "name_es": "Guardián",
+              "name_ja": "守護者",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:54:45.461559+12:00",
+          "updated_at": "2025-09-18T06:54:45.473051+12:00",
+          "name": "Renounce Grandeur",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "3",
+          "power": "7",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "If the defending hero controls an aura token, this gets +1{p}.{br}**Crush** - When this deals 4 or more damage to a hero, they can't create aura tokens during their next turn.",
+          "typebox": "Guardian Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 3,
+          "power_value": 7,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "c45b97a9-3ec2-4adf-b305-3cf2dd3372fe"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "d64c622d-7160-42e5-92d7-f5f2e5af29eb",
+          "faces": [
+            {
+              "id": "eaa00bac-9869-4b6f-b688-0a409c91d839",
+              "created_at": "2025-09-18T06:54:45.489230+12:00",
+              "updated_at": "2025-09-18T06:54:45.489248+12:00",
+              "face_id": "MPG034",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG034",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "Renounce Grandeur",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "If the defending hero controls an aura token, this gets +1{p}.{br}**Crush** - When this deals 4 or more damage to a hero, they can't create aura tokens during their next turn.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guardian Action - Attack",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fcddaa83-2fe8-41cb-8997-8d696bba4f6e",
+              "card_print": "d64c622d-7160-42e5-92d7-f5f2e5af29eb",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Renounce Grandeur</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guardian Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>If the defending hero controls an aura token, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Crush</strong> - When this deals 4 or more damage to a hero, they can't create aura tokens during their next turn.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPG034.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPG034.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPG034.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "dd5969da-d8f7-4416-b6d8-cce1a2061c09",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.416420+12:00",
+            "updated_at": "2025-09-18T06:45:21.416443+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "en",
+            "product_name": "Mastery Pack Guardian",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:45.483132+12:00",
+          "updated_at": "2025-09-18T06:54:45.483147+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MPG034",
+          "set_number": 34,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "c45b97a9-3ec2-4adf-b305-3cf2dd3372fe"
+        },
+        {
+          "id": "29a8d200-fb1d-4f27-84a2-a4958e8a7d28",
+          "faces": [
+            {
+              "id": "93a69846-fa3b-47df-8946-f7d740baa155",
+              "created_at": "2025-09-18T06:54:45.503397+12:00",
+              "updated_at": "2025-09-18T06:54:45.503412+12:00",
+              "face_id": "MPG034-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG034",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "Renounce Grandeur",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "If the defending hero controls an aura token, this gets +1{p}.{br}**Crush** - When this deals 4 or more damage to a hero, they can't create aura tokens during their next turn.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guardian Action - Attack",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fcddaa83-2fe8-41cb-8997-8d696bba4f6e",
+              "card_print": "29a8d200-fb1d-4f27-84a2-a4958e8a7d28",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Renounce Grandeur</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guardian Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>If the defending hero controls an aura token, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Crush</strong> - When this deals 4 or more damage to a hero, they can't create aura tokens during their next turn.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPG034-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPG034-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPG034-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "dd5969da-d8f7-4416-b6d8-cce1a2061c09",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.416420+12:00",
+            "updated_at": "2025-09-18T06:45:21.416443+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "en",
+            "product_name": "Mastery Pack Guardian",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:45.498865+12:00",
+          "updated_at": "2025-09-18T06:54:45.498877+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MPG034-RF",
+          "set_number": 34,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "c45b97a9-3ec2-4adf-b305-3cf2dd3372fe"
+        },
+        {
+          "id": "c37fabc4-3ddc-4509-8e6f-bc5d582c9c2e",
+          "faces": [
+            {
+              "id": "2c0305a5-e082-4ec2-886a-adeadabf6a00",
+              "created_at": "2025-09-18T06:54:45.520400+12:00",
+              "updated_at": "2025-09-18T06:54:45.520414+12:00",
+              "face_id": "JA_MPG034",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG034",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "威厳の放棄",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "防御ヒーローがオーラ・トークンをコントロールしている場合、これは＋１{p}を得る。\n**粉砕**―これがヒーローに４点以上のダメージを与えたとき、そのヒーローは自身の次のターンの間、オーラ・トークンを作成できない。",
+              "printed_flavor_text": "",
+              "printed_typebox": "守護者・アクション － 攻撃",
+              "printed_year": "2024",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fcddaa83-2fe8-41cb-8997-8d696bba4f6e",
+              "card_print": "c37fabc4-3ddc-4509-8e6f-bc5d582c9c2e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>威厳の放棄</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>守護者・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>防御ヒーローがオーラ・トークンをコントロールしている場合、これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n<p><strong>粉砕</strong>―これがヒーローに４点以上のダメージを与えたとき、そのヒーローは自身の次のターンの間、オーラ・トークンを作成できない。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_MPG034.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_MPG034.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_MPG034.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "4bb0c1f5-ef2e-4715-afda-7701ab993d8c",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.448787+12:00",
+            "updated_at": "2025-09-18T06:45:21.448804+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "ja",
+            "product_name": "Mastery Pack Guardian [JA]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:45.514797+12:00",
+          "updated_at": "2025-09-18T06:54:45.514814+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_MPG034",
+          "set_number": 34,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "c45b97a9-3ec2-4adf-b305-3cf2dd3372fe"
+        },
+        {
+          "id": "c5ddffaf-24de-4f75-bab1-2f851b312aa1",
+          "faces": [
+            {
+              "id": "2f3f79b1-e626-4f9d-87a1-cf5f0168174b",
+              "created_at": "2025-09-18T06:54:45.538288+12:00",
+              "updated_at": "2025-09-18T06:54:45.538306+12:00",
+              "face_id": "JA_MPG034-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG034",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "威厳の放棄",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "防御ヒーローがオーラ・トークンをコントロールしている場合、これは＋１{p}を得る。\n**粉砕**―これがヒーローに４点以上のダメージを与えたとき、そのヒーローは自身の次のターンの間、オーラ・トークンを作成できない。",
+              "printed_flavor_text": "",
+              "printed_typebox": "守護者・アクション － 攻撃",
+              "printed_year": "2024",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fcddaa83-2fe8-41cb-8997-8d696bba4f6e",
+              "card_print": "c5ddffaf-24de-4f75-bab1-2f851b312aa1",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>威厳の放棄</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>守護者・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>防御ヒーローがオーラ・トークンをコントロールしている場合、これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n<p><strong>粉砕</strong>―これがヒーローに４点以上のダメージを与えたとき、そのヒーローは自身の次のターンの間、オーラ・トークンを作成できない。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_MPG034-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_MPG034-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_MPG034-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "4bb0c1f5-ef2e-4715-afda-7701ab993d8c",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.448787+12:00",
+            "updated_at": "2025-09-18T06:45:21.448804+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "ja",
+            "product_name": "Mastery Pack Guardian [JA]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:45.531019+12:00",
+          "updated_at": "2025-09-18T06:54:45.531036+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_MPG034-RF",
+          "set_number": 34,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "c45b97a9-3ec2-4adf-b305-3cf2dd3372fe"
+        },
+        {
+          "id": "ed709331-af0a-4fba-872a-3fb2b0813017",
+          "faces": [
+            {
+              "id": "e45b4354-56d5-443c-bb8e-6c7768e9f461",
+              "created_at": "2025-09-18T06:54:45.559649+12:00",
+              "updated_at": "2025-09-18T06:54:45.559673+12:00",
+              "face_id": "FR_MPG034",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG034",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "Renoncer à la grandeur",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Si le héros défenseur contrôle un jeton Aura, cette carte gagne +1{p}.\n**Écrasement** - Quand cette carte inflige au moins 4 dégâts à un héros, il ne peut pas créer de jeton Aura pendant son prochain tour.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Gardien Action - Attaque",
+              "printed_year": "2024",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fcddaa83-2fe8-41cb-8997-8d696bba4f6e",
+              "card_print": "ed709331-af0a-4fba-872a-3fb2b0813017",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Renoncer à la grandeur</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Gardien Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Si le héros défenseur contrôle un jeton Aura, cette carte gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Écrasement</strong> - Quand cette carte inflige au moins 4 dégâts à un héros, il ne peut pas créer de jeton Aura pendant son prochain tour.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_MPG034.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_MPG034.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_MPG034.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fb9655d8-8fcb-42f1-b8cb-393a459053d9",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.482959+12:00",
+            "updated_at": "2025-09-18T06:45:21.482981+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "fr",
+            "product_name": "Mastery Pack Guardian [FR]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:45.551926+12:00",
+          "updated_at": "2025-09-18T06:54:45.551948+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_MPG034",
+          "set_number": 34,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "c45b97a9-3ec2-4adf-b305-3cf2dd3372fe"
+        },
+        {
+          "id": "eb3cf8fd-1c96-4bd3-8003-b98d94d81e3f",
+          "faces": [
+            {
+              "id": "2f52c0fc-17da-46b3-983c-457f05466d2d",
+              "created_at": "2025-09-18T06:54:45.578599+12:00",
+              "updated_at": "2025-09-18T06:54:45.578616+12:00",
+              "face_id": "FR_MPG034-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG034",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "Renoncer à la grandeur",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Si le héros défenseur contrôle un jeton Aura, cette carte gagne +1{p}.\n**Écrasement** - Quand cette carte inflige au moins 4 dégâts à un héros, il ne peut pas créer de jeton Aura pendant son prochain tour.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Gardien Action - Attaque",
+              "printed_year": "2024",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fcddaa83-2fe8-41cb-8997-8d696bba4f6e",
+              "card_print": "eb3cf8fd-1c96-4bd3-8003-b98d94d81e3f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Renoncer à la grandeur</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Gardien Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Si le héros défenseur contrôle un jeton Aura, cette carte gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Écrasement</strong> - Quand cette carte inflige au moins 4 dégâts à un héros, il ne peut pas créer de jeton Aura pendant son prochain tour.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_MPG034-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_MPG034-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_MPG034-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fb9655d8-8fcb-42f1-b8cb-393a459053d9",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.482959+12:00",
+            "updated_at": "2025-09-18T06:45:21.482981+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "fr",
+            "product_name": "Mastery Pack Guardian [FR]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:54:45.571770+12:00",
+          "updated_at": "2025-09-18T06:54:45.571793+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_MPG034-RF",
+          "set_number": 34,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "c45b97a9-3ec2-4adf-b305-3cf2dd3372fe"
+        },
+        {
+          "id": "58a14ff4-715b-4a3b-9b5e-b0d5744cc3a1",
+          "faces": [
+            {
+              "id": "32333a39-1f29-4d02-9ede-6e0228f3b800",
+              "created_at": "2026-05-27T06:22:10.794025+12:00",
+              "updated_at": "2026-05-27T06:22:10.794046+12:00",
+              "face_id": "FAB330-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB330",
+              "printed_artist": "Mario Wibisono",
+              "printed_name": "Renounce Grandeur",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "If the defending hero controls an aura token, this gets +1{p}.{br}**Crush** - When this deals 4 or more damage to a hero, they can't create aura tokens during their next turn.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guardian Action - Attack",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "fcddaa83-2fe8-41cb-8997-8d696bba4f6e",
+              "card_print": "58a14ff4-715b-4a3b-9b5e-b0d5744cc3a1",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Renounce Grandeur</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guardian Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>If the defending hero controls an aura token, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Crush</strong> - When this deals 4 or more damage to a hero, they can't create aura tokens during their next turn.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB330-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB330-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB330-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6ec48865-921c-40d9-a4cf-6bd313134e0c",
+            "product_group": null,
+            "created_at": "2025-09-18T06:49:47.056276+12:00",
+            "updated_at": "2025-09-18T06:49:47.056292+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "en",
+            "product_name": "Battle Hardened - Mastery Pack Guardian",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "battle-hardened-mastery-pack-guardian",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-05-27T06:18:23.083021+12:00",
+          "updated_at": "2026-05-27T08:07:22.675746+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB330-RF",
+          "set_number": 330,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "c45b97a9-3ec2-4adf-b305-3cf2dd3372fe"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:54:45.456044+12:00",
+      "updated_at": "2025-09-18T06:54:45.457896+12:00",
+      "card_id": "renounce-grandeur-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

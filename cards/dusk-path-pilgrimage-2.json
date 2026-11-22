@@ -1,0 +1,379 @@
+{
+  "schemaVersion": 1,
+  "id": "dusk-path-pilgrimage-2",
+  "name": "Dusk Path Pilgrimage",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Dusk Path Pilgrimage",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 1,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Warrior Action",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Your next weapon attack this turn gets +2{p} and \"When this hits, you may attack an additional time with this weapon this turn.\"{br}**Go again**",
+        "plain": "Your next weapon attack this turn gets +2{p} and \"When this hits, you may attack an additional time with this weapon this turn.\"\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS061-RF",
+      "code": "LGS061",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 61,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-4",
+      "releaseDate": "2021-05-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS061-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dusk Path Pilgrimage",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, you may attack an additional time with this weapon this turn.\"\n**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, you may attack an additional time with this weapon this turn.\"\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, you may attack an additional time with this weapon this turn.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS061",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Reza Afshar",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS061-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS061-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS061-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON111",
+      "code": "MON111",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON111",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dusk Path Pilgrimage",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, you may attack an additional time with this weapon this turn.\" _(You must have an action point to attack an additional time.)_\n**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, you may attack an additional time with this weapon this turn.\" _(You must have an action point to attack an additional time.)_\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, you may attack an additional time with this weapon this turn.&quot; <em>(You must have an action point to attack an additional time.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON111",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON111.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON111.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON111.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON111-RF",
+      "code": "MON111",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON111-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dusk Path Pilgrimage",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, you may attack an additional time with this weapon this turn.\" _(You must have an action point to attack an additional time.)_\n**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, you may attack an additional time with this weapon this turn.\" _(You must have an action point to attack an additional time.)_\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, you may attack an additional time with this weapon this turn.&quot; <em>(You must have an action point to attack an additional time.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON111",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON111-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON111-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON111-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON111",
+      "code": "MON111",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON111",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dusk Path Pilgrimage",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, you may attack an additional time with this weapon this turn.\" _(You must have an action point to attack an additional time.)_\n**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, you may attack an additional time with this weapon this turn.\" _(You must have an action point to attack an additional time.)_\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, you may attack an additional time with this weapon this turn.&quot; <em>(You must have an action point to attack an additional time.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON111",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON111.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON111.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON111.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON111-RF",
+      "code": "MON111",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON111-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dusk Path Pilgrimage",
+          "typeLine": "Warrior Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Your next weapon attack this turn gains +2{p} and \"If this hits, you may attack an additional time with this weapon this turn.\" _(You must have an action point to attack an additional time.)_\n**Go again**",
+            "plain": "Your next weapon attack this turn gains +2{p} and \"If this hits, you may attack an additional time with this weapon this turn.\" _(You must have an action point to attack an additional time.)_\nGo again",
+            "html": "<p>Your next weapon attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, you may attack an additional time with this weapon this turn.&quot; <em>(You must have an action point to attack an additional time.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON111",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON111-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON111-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON111-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {
+      "U-MON111": "unlimited",
+      "U-MON111-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:55:03Z",
+    "rawSha256": "4aff18f79b554a2d992df387a134154d6616e1aa2d06683014cd2e24d32bbbf7",
+    "updatedAt": "2025-09-18T06:48:56.577231+12:00"
+  }
+}

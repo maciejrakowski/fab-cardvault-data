@@ -1,0 +1,484 @@
+{
+  "schemaVersion": 1,
+  "id": "chane",
+  "name": "Chane",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Chane",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "printedStats": {
+        "intellect": "4",
+        "life": "20"
+      },
+      "typeLine": "Shadow Runeblade Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gets **go again**. **Go again**",
+        "plain": "Once per Turn Action -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gets go again. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "MON154",
+      "code": "MON154",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 154,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON154",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Chane",
+          "typeLine": "Shadow Runeblade Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains **go again**. **Go again** _(It's an aura with \"At the beginning of your action phase, banish the top card of your deck.\")_",
+            "plain": "Once per Turn Action -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains go again. Go again _(It's an aura with \"At the beginning of your action phase, banish the top card of your deck.\")_",
+            "html": "<p><strong>Once per Turn Action</strong> — Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains <strong>go again</strong>. <strong>Go again</strong> <em>(It's an aura with &quot;At the beginning of your action phase, banish the top card of your deck.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "MON154",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Federico Musetti",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON154.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON154.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON154.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CHN001-RF",
+      "code": "CHN001",
+      "language": "en",
+      "set": "CHN",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "chane-blitz-deck",
+      "releaseDate": "2021-05-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CHN001-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Chane",
+          "typeLine": "Shadow Runeblade Hero  - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains **go again. Go again** _(It's a Shadow Runeblade aura with \"At the beginning of your action phase, banish the top card of your deck.\")_",
+            "plain": "Once per Turn Action -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains go again. Go again _(It's a Shadow Runeblade aura with \"At the beginning of your action phase, banish the top card of your deck.\")_",
+            "html": "<p><strong>Once per Turn Action</strong> — Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains <strong>go again. Go again</strong> <em>(It's a Shadow Runeblade aura with &quot;At the beginning of your action phase, banish the top card of your deck.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "CHN001",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Federico Musetti",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CHN001-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CHN001-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CHN001-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON154",
+      "code": "MON154",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 154,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON154",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Chane",
+          "typeLine": "Shadow Runeblade Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains **go again**. **Go again** _(It's a Shadow Runeblade aura with \"At the beginning of your action phase, banish the top card of your deck.\")_",
+            "plain": "Once per Turn Action -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains go again. Go again _(It's a Shadow Runeblade aura with \"At the beginning of your action phase, banish the top card of your deck.\")_",
+            "html": "<p><strong>Once per Turn Action</strong> — Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains <strong>go again</strong>. <strong>Go again</strong> <em>(It's a Shadow Runeblade aura with &quot;At the beginning of your action phase, banish the top card of your deck.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "MON154",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Federico Musetti",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON154.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON154.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON154.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER037-CF",
+      "code": "HER037",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 37,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "skirmish-season-2",
+      "releaseDate": "2021-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER037-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Chane",
+          "typeLine": "Shadow Runeblade Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action --** Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains **go again**. **Go again**",
+            "plain": "Once per Turn Action -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains go again. Go again",
+            "html": "<p><strong>Once per Turn Action —</strong> Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains <strong>go again</strong>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER037",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Federico Musetti",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER037-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER037-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER037-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "XXX015",
+      "code": "XXX015",
+      "language": "en",
+      "set": "XXX",
+      "setNumber": 15,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "organized-play-support-monarch-limited-2023",
+      "releaseDate": "2023-08-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "XXX015",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Chane",
+          "typeLine": "Shadow Runeblade Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains **go again**. **Go again** _(It's a Shadow Runeblade aura with \"At the beginning of your action phase, banish the top card of your deck.\")_",
+            "plain": "Once per Turn Action -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains go again. Go again _(It's a Shadow Runeblade aura with \"At the beginning of your action phase, banish the top card of your deck.\")_",
+            "html": "<p><strong>Once per Turn Action</strong> — Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains <strong>go again</strong>. <strong>Go again</strong> <em>(It's a Shadow Runeblade aura with &quot;At the beginning of your action phase, banish the top card of your deck.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "XXX015",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Federico Musetti",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/XXX015.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/XXX015.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX015.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PEN344-MV",
+      "code": "PEN344",
+      "language": "en",
+      "set": "PEN",
+      "setNumber": 344,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "compendium-of-rathe",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "PEN344-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Chane",
+          "typeLine": "Shadow Runeblade Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gets **go again**. **Go again**",
+            "plain": "Once per Turn Action -- Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gets go again. Go again",
+            "html": "<p><strong>Once per Turn Action</strong> — Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gets <strong>go again</strong>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "PEN344",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Federico Musetti",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN344-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN344-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN344-MV.webp"
+          }
+        },
+        {
+          "id": "PEN344-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Chane",
+          "typeLine": "Shadow Runeblade Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN344-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN344-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN344-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "go again"
+    ],
+    "editions": {
+      "U-MON154": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:21:29Z",
+    "rawSha256": "3133ff32818f05a186796cc5e3c4fff2df648a7632ad6c99308bb65e3dd235f1",
+    "updatedAt": "2026-05-26T06:46:56.093205+12:00"
+  }
+}

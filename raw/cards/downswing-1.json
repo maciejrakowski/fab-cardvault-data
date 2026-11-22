@@ -1,0 +1,799 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "7f676bca-8bc7-4e2b-9674-6de858b88c24",
+      "cores": [
+        {
+          "id": "37e17feb-5704-4ab4-8dba-b6614d1c6987",
+          "core_classes": [
+            {
+              "id": 14,
+              "name": "Warrior",
+              "name_en": "Warrior",
+              "name_fr": "Guerrier",
+              "name_de": "Krieger",
+              "name_it": "Guerriero",
+              "name_es": "Guerrero",
+              "name_ja": "戦士",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 2,
+              "name": "Attack Reaction",
+              "name_en": "Attack Reaction",
+              "name_fr": "Réaction d'attaque",
+              "name_de": "Angriffsreaktion",
+              "name_it": "Reazione di Attacco",
+              "name_es": "Reacción de ataque",
+              "name_ja": "攻撃リアクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [],
+          "created_at": "2026-03-29T22:14:08.409011+13:00",
+          "updated_at": "2026-03-29T22:14:08.409019+13:00",
+          "name": "Downswing",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "0",
+          "color": "red",
+          "cost": "0",
+          "power": "",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "Target sword attack gets +1{p} and **wagers** with the defending hero. The winner loses 1{g}.",
+          "typebox": "Warrior Attack Reaction",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": 0,
+          "cost_value": 0,
+          "power_value": null,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "7f676bca-8bc7-4e2b-9674-6de858b88c24"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "a2307d96-da7a-454b-a72c-fc11692dce52",
+          "faces": [
+            {
+              "id": "7e959af0-4f67-40a3-8742-7357f43c10aa",
+              "created_at": "2026-03-29T22:14:13.792448+13:00",
+              "updated_at": "2026-03-29T22:14:13.792461+13:00",
+              "face_id": "FR_MPW043",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "warrior",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPW043",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "Frappe descendante",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "L’attaque d’épée ciblée gagne +1{p} et **parie** avec le héros défenseur. Le vainqueur perd 1{g}. _(Si l’attaque touche, vous gagnez, sinon il gagne.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guerrier Réaction d’attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "37e17feb-5704-4ab4-8dba-b6614d1c6987",
+              "card_print": "a2307d96-da7a-454b-a72c-fc11692dce52",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Frappe descendante</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guerrier Réaction d’attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>L’attaque d’épée ciblée gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> et <strong>parie</strong> avec le héros défenseur. Le vainqueur perd 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <em>(Si l’attaque touche, vous gagnez, sinon il gagne.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_MPW043.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_MPW043.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_MPW043.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "4c792aa2-b9c3-4348-bdfc-5c7b3aaab3e1",
+            "product_group": {
+              "id": "799ea706-6582-4bbc-a126-4e6dde36357b",
+              "created_at": "2026-03-29T21:50:35.994322+13:00",
+              "updated_at": "2026-06-17T09:35:56.643203+12:00",
+              "group_name": "Mastery Pack Warrior",
+              "product_type": "booster",
+              "release_date": "2026-08-07",
+              "slug": "mastery-pack-warrior"
+            },
+            "created_at": "2026-03-29T21:50:35.241003+13:00",
+            "updated_at": "2026-06-17T09:35:32.715103+12:00",
+            "printed_date": "2025-10-29",
+            "printed_language": "fr",
+            "product_name": "Mastery Pack Warrior [FR]",
+            "product_type": "booster",
+            "release_date": "2026-08-07",
+            "slug": "mastery-pack-warrior-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "84429c3e-1367-4188-aed7-61d1e3e6e432",
+            "created_at": "2026-03-29T21:50:35.181904+13:00",
+            "updated_at": "2026-03-29T21:50:35.181919+13:00",
+            "set_code": "MPW",
+            "set_name": "Mastery Pack Warrior",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-29T22:14:13.786126+13:00",
+          "updated_at": "2026-04-26T09:39:00.512908+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-07-29T16:00:00+12:00",
+          "print_id": "FR_MPW043",
+          "set_number": 43,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "7f676bca-8bc7-4e2b-9674-6de858b88c24"
+        },
+        {
+          "id": "89bf9dcb-31d8-4527-a8f7-277a3bd6c358",
+          "faces": [
+            {
+              "id": "a1bfd832-7dc5-45ce-9a75-8f79af3768db",
+              "created_at": "2026-03-29T22:14:13.818127+13:00",
+              "updated_at": "2026-03-29T22:14:13.818137+13:00",
+              "face_id": "FR_MPW043-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "warrior",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPW043",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "Frappe descendante",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "L’attaque d’épée ciblée gagne +1{p} et **parie** avec le héros défenseur. Le vainqueur perd 1{g}. _(Si l’attaque touche, vous gagnez, sinon il gagne.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guerrier Réaction d’attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "37e17feb-5704-4ab4-8dba-b6614d1c6987",
+              "card_print": "89bf9dcb-31d8-4527-a8f7-277a3bd6c358",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Frappe descendante</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guerrier Réaction d’attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>L’attaque d’épée ciblée gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> et <strong>parie</strong> avec le héros défenseur. Le vainqueur perd 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <em>(Si l’attaque touche, vous gagnez, sinon il gagne.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_MPW043-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_MPW043-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_MPW043-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "4c792aa2-b9c3-4348-bdfc-5c7b3aaab3e1",
+            "product_group": {
+              "id": "799ea706-6582-4bbc-a126-4e6dde36357b",
+              "created_at": "2026-03-29T21:50:35.994322+13:00",
+              "updated_at": "2026-06-17T09:35:56.643203+12:00",
+              "group_name": "Mastery Pack Warrior",
+              "product_type": "booster",
+              "release_date": "2026-08-07",
+              "slug": "mastery-pack-warrior"
+            },
+            "created_at": "2026-03-29T21:50:35.241003+13:00",
+            "updated_at": "2026-06-17T09:35:32.715103+12:00",
+            "printed_date": "2025-10-29",
+            "printed_language": "fr",
+            "product_name": "Mastery Pack Warrior [FR]",
+            "product_type": "booster",
+            "release_date": "2026-08-07",
+            "slug": "mastery-pack-warrior-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "84429c3e-1367-4188-aed7-61d1e3e6e432",
+            "created_at": "2026-03-29T21:50:35.181904+13:00",
+            "updated_at": "2026-03-29T21:50:35.181919+13:00",
+            "set_code": "MPW",
+            "set_name": "Mastery Pack Warrior",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-29T22:14:13.812757+13:00",
+          "updated_at": "2026-04-26T09:39:00.899705+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-07-29T16:00:00+12:00",
+          "print_id": "FR_MPW043-RF",
+          "set_number": 43,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "7f676bca-8bc7-4e2b-9674-6de858b88c24"
+        },
+        {
+          "id": "06aebb7e-48c2-431f-9ed3-514e66a4b6e3",
+          "faces": [
+            {
+              "id": "89f26e61-0e04-45f2-b8c8-6b075d266002",
+              "created_at": "2026-03-29T22:14:21.453245+13:00",
+              "updated_at": "2026-03-29T22:14:21.453267+13:00",
+              "face_id": "JA_MPW043",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "warrior",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPW043",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "不運の連続",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "対象の剣の攻撃１つは＋１{p}を得て、防御ヒーローと**賭ける**。勝者は１{g}を失う。（攻撃がヒットした場合、あなたが勝利する。そうでない場合、防御ヒーローが勝利する）",
+              "printed_flavor_text": "",
+              "printed_typebox": "戦士・攻撃リアクション",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "37e17feb-5704-4ab4-8dba-b6614d1c6987",
+              "card_print": "06aebb7e-48c2-431f-9ed3-514e66a4b6e3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>不運の連続</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>戦士・攻撃リアクション</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>対象の剣の攻撃１つは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得て、防御ヒーローと<strong>賭ける</strong>。勝者は１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>を失う。（攻撃がヒットした場合、あなたが勝利する。そうでない場合、防御ヒーローが勝利する）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_MPW043.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_MPW043.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_MPW043.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c71178c0-f50e-4e8d-9481-20a5c7805cf7",
+            "product_group": {
+              "id": "799ea706-6582-4bbc-a126-4e6dde36357b",
+              "created_at": "2026-03-29T21:50:35.994322+13:00",
+              "updated_at": "2026-06-17T09:35:56.643203+12:00",
+              "group_name": "Mastery Pack Warrior",
+              "product_type": "booster",
+              "release_date": "2026-08-07",
+              "slug": "mastery-pack-warrior"
+            },
+            "created_at": "2026-03-29T21:50:35.251626+13:00",
+            "updated_at": "2026-06-17T09:35:22.816102+12:00",
+            "printed_date": "2025-10-29",
+            "printed_language": "ja",
+            "product_name": "Mastery Pack Warrior [JA]",
+            "product_type": "booster",
+            "release_date": "2026-08-07",
+            "slug": "mastery-pack-warrior-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "84429c3e-1367-4188-aed7-61d1e3e6e432",
+            "created_at": "2026-03-29T21:50:35.181904+13:00",
+            "updated_at": "2026-03-29T21:50:35.181919+13:00",
+            "set_code": "MPW",
+            "set_name": "Mastery Pack Warrior",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-29T22:14:21.446667+13:00",
+          "updated_at": "2026-04-26T09:39:01.923909+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-07-29T16:00:00+12:00",
+          "print_id": "JA_MPW043",
+          "set_number": 43,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "7f676bca-8bc7-4e2b-9674-6de858b88c24"
+        },
+        {
+          "id": "b3f2912d-3886-4b4f-a3ea-833ee83943e0",
+          "faces": [
+            {
+              "id": "d99b7be0-2d7f-4b17-8438-90b30f7627b7",
+              "created_at": "2026-03-29T22:14:21.483709+13:00",
+              "updated_at": "2026-03-29T22:14:21.483719+13:00",
+              "face_id": "JA_MPW043-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "warrior",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPW043",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "不運の連続",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "対象の剣の攻撃１つは＋１{p}を得て、防御ヒーローと**賭ける**。勝者は１{g}を失う。（攻撃がヒットした場合、あなたが勝利する。そうでない場合、防御ヒーローが勝利する）",
+              "printed_flavor_text": "",
+              "printed_typebox": "戦士・攻撃リアクション",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "37e17feb-5704-4ab4-8dba-b6614d1c6987",
+              "card_print": "b3f2912d-3886-4b4f-a3ea-833ee83943e0",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>不運の連続</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>戦士・攻撃リアクション</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>対象の剣の攻撃１つは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得て、防御ヒーローと<strong>賭ける</strong>。勝者は１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>を失う。（攻撃がヒットした場合、あなたが勝利する。そうでない場合、防御ヒーローが勝利する）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_MPW043-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_MPW043-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_MPW043-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c71178c0-f50e-4e8d-9481-20a5c7805cf7",
+            "product_group": {
+              "id": "799ea706-6582-4bbc-a126-4e6dde36357b",
+              "created_at": "2026-03-29T21:50:35.994322+13:00",
+              "updated_at": "2026-06-17T09:35:56.643203+12:00",
+              "group_name": "Mastery Pack Warrior",
+              "product_type": "booster",
+              "release_date": "2026-08-07",
+              "slug": "mastery-pack-warrior"
+            },
+            "created_at": "2026-03-29T21:50:35.251626+13:00",
+            "updated_at": "2026-06-17T09:35:22.816102+12:00",
+            "printed_date": "2025-10-29",
+            "printed_language": "ja",
+            "product_name": "Mastery Pack Warrior [JA]",
+            "product_type": "booster",
+            "release_date": "2026-08-07",
+            "slug": "mastery-pack-warrior-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "84429c3e-1367-4188-aed7-61d1e3e6e432",
+            "created_at": "2026-03-29T21:50:35.181904+13:00",
+            "updated_at": "2026-03-29T21:50:35.181919+13:00",
+            "set_code": "MPW",
+            "set_name": "Mastery Pack Warrior",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-29T22:14:21.478339+13:00",
+          "updated_at": "2026-04-26T09:39:00.162463+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-07-29T16:00:00+12:00",
+          "print_id": "JA_MPW043-RF",
+          "set_number": 43,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "7f676bca-8bc7-4e2b-9674-6de858b88c24"
+        },
+        {
+          "id": "86738dc2-9530-4367-b4f7-82f4fb1698f8",
+          "faces": [
+            {
+              "id": "901c516c-5b81-4843-87be-c41a1d115c34",
+              "created_at": "2026-03-29T22:14:28.201088+13:00",
+              "updated_at": "2026-03-29T22:14:28.201098+13:00",
+              "face_id": "MPW043",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "warrior",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPW043",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "Downswing",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Target sword attack gets +1{p} and **wagers** with the defending hero. The winner loses 1{g}. _(If the attack hit, you win. Otherwise, they win.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Warrior Attack Reaction",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "37e17feb-5704-4ab4-8dba-b6614d1c6987",
+              "card_print": "86738dc2-9530-4367-b4f7-82f4fb1698f8",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Downswing</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Warrior Attack Reaction</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Target sword attack gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>wagers</strong> with the defending hero. The winner loses 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <em>(If the attack hit, you win. Otherwise, they win.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPW043.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPW043.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW043.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "b111ef71-066d-4ab3-aee3-2fd7f41fa3af",
+            "product_group": {
+              "id": "799ea706-6582-4bbc-a126-4e6dde36357b",
+              "created_at": "2026-03-29T21:50:35.994322+13:00",
+              "updated_at": "2026-06-17T09:35:56.643203+12:00",
+              "group_name": "Mastery Pack Warrior",
+              "product_type": "booster",
+              "release_date": "2026-08-07",
+              "slug": "mastery-pack-warrior"
+            },
+            "created_at": "2026-03-29T21:50:35.230203+13:00",
+            "updated_at": "2026-06-17T09:35:27.301726+12:00",
+            "printed_date": "2025-10-29",
+            "printed_language": "en",
+            "product_name": "Mastery Pack Warrior",
+            "product_type": "booster",
+            "release_date": "2026-08-07",
+            "slug": "mastery-pack-warrior",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "84429c3e-1367-4188-aed7-61d1e3e6e432",
+            "created_at": "2026-03-29T21:50:35.181904+13:00",
+            "updated_at": "2026-03-29T21:50:35.181919+13:00",
+            "set_code": "MPW",
+            "set_name": "Mastery Pack Warrior",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-29T22:14:28.196083+13:00",
+          "updated_at": "2026-04-26T09:39:01.240456+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-07-29T16:00:00+12:00",
+          "print_id": "MPW043",
+          "set_number": 43,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "7f676bca-8bc7-4e2b-9674-6de858b88c24"
+        },
+        {
+          "id": "2b418ebd-fcec-45b2-8b10-012be8507340",
+          "faces": [
+            {
+              "id": "b77c3b5f-11f0-4298-92fb-4d9f2de74d93",
+              "created_at": "2026-03-29T22:14:28.226356+13:00",
+              "updated_at": "2026-03-29T22:14:28.226366+13:00",
+              "face_id": "MPW043-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "warrior",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPW043",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "Downswing",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Target sword attack gets +1{p} and **wagers** with the defending hero. The winner loses 1{g}. _(If the attack hit, you win. Otherwise, they win.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Warrior Attack Reaction",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "37e17feb-5704-4ab4-8dba-b6614d1c6987",
+              "card_print": "2b418ebd-fcec-45b2-8b10-012be8507340",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Downswing</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Warrior Attack Reaction</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Target sword attack gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>wagers</strong> with the defending hero. The winner loses 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <em>(If the attack hit, you win. Otherwise, they win.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPW043-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPW043-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW043-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "b111ef71-066d-4ab3-aee3-2fd7f41fa3af",
+            "product_group": {
+              "id": "799ea706-6582-4bbc-a126-4e6dde36357b",
+              "created_at": "2026-03-29T21:50:35.994322+13:00",
+              "updated_at": "2026-06-17T09:35:56.643203+12:00",
+              "group_name": "Mastery Pack Warrior",
+              "product_type": "booster",
+              "release_date": "2026-08-07",
+              "slug": "mastery-pack-warrior"
+            },
+            "created_at": "2026-03-29T21:50:35.230203+13:00",
+            "updated_at": "2026-06-17T09:35:27.301726+12:00",
+            "printed_date": "2025-10-29",
+            "printed_language": "en",
+            "product_name": "Mastery Pack Warrior",
+            "product_type": "booster",
+            "release_date": "2026-08-07",
+            "slug": "mastery-pack-warrior",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "84429c3e-1367-4188-aed7-61d1e3e6e432",
+            "created_at": "2026-03-29T21:50:35.181904+13:00",
+            "updated_at": "2026-03-29T21:50:35.181919+13:00",
+            "set_code": "MPW",
+            "set_name": "Mastery Pack Warrior",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-29T22:14:28.221341+13:00",
+          "updated_at": "2026-04-26T09:39:01.581731+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-07-29T16:00:00+12:00",
+          "print_id": "MPW043-RF",
+          "set_number": 43,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "7f676bca-8bc7-4e2b-9674-6de858b88c24"
+        },
+        {
+          "id": "b602cd9e-ecc8-47e6-a010-3185b78f9919",
+          "faces": [
+            {
+              "id": "3f7bda22-c1a4-4083-a21f-c91a8d5b0d85",
+              "created_at": "2026-03-30T10:35:52.473958+13:00",
+              "updated_at": "2026-03-30T10:35:52.473972+13:00",
+              "face_id": "FAB485-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "warrior",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB485",
+              "printed_artist": "Carlos Cruchaga",
+              "printed_name": "Downswing",
+              "printed_pitch": 1,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Target sword attack gets +1{p} and **wagers** with the defending hero. The winner loses 1{h}. _(If the attack hit, you win. Otherwise, they win.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Warrior Attack Reaction",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "37e17feb-5704-4ab4-8dba-b6614d1c6987",
+              "card_print": "b602cd9e-ecc8-47e6-a010-3185b78f9919",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Downswing</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Warrior Attack Reaction</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Target sword attack gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>wagers</strong> with the defending hero. The winner loses 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <em>(If the attack hit, you win. Otherwise, they win.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB485-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB485-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB485-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "067a6cea-1a0c-4f77-b3e4-8e5ff6c4bb81",
+            "product_group": null,
+            "created_at": "2026-03-30T09:00:25.237120+13:00",
+            "updated_at": "2026-03-30T09:00:25.237127+13:00",
+            "printed_date": "2025-12-30",
+            "printed_language": "en",
+            "product_name": "Pro Tour - Vegas 2026",
+            "product_type": "promo",
+            "release_date": "2027-05-29",
+            "slug": "pro-tour-vegas-2026",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-30T10:35:52.466521+13:00",
+          "updated_at": "2026-04-26T09:38:59.649678+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB485-RF",
+          "set_number": 485,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "7f676bca-8bc7-4e2b-9674-6de858b88c24"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-03-29T22:14:08.403926+13:00",
+      "updated_at": "2026-03-29T22:14:08.403934+13:00",
+      "card_id": "downswing-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

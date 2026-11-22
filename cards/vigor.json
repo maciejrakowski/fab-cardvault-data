@@ -1,0 +1,856 @@
+{
+  "schemaVersion": 1,
+  "id": "vigor",
+  "name": "Vigor",
+  "objectType": "token",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Vigor",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Token - Aura",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Token"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": {
+        "markup": "At the start of your turn, destroy this, then gain {r}.",
+        "plain": "At the start of your turn, destroy this, then gain {r}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "TCC107",
+      "code": "TCC107",
+      "language": "en",
+      "set": "TCC",
+      "setNumber": 107,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "round-the-table-tcc-x-lss",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TCC107",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TCC107",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC107.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC107.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC107.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS230-A",
+      "code": "LGS230",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 230,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pre-release-heavy-hitters",
+      "releaseDate": "2024-01-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS230-A",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS230",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS230-A.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS230-A.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS230-A.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BET029",
+      "code": "BET029",
+      "language": "en",
+      "set": "BET",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "betsy-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "BET029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "BET029",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/BET029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/BET029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/BET029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB206-CF",
+      "code": "FAB206",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 206,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prize-wall-heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB206-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB206",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB206-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB206-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB206-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY242",
+      "code": "HVY242",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 242,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY242",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY242",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY242.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY242.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY242.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "KSI029",
+      "code": "KSI029",
+      "language": "en",
+      "set": "KSI",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "kassai-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "KSI029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "KSI029",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/KSI029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/KSI029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/KSI029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "KYO029",
+      "code": "KYO029",
+      "language": "en",
+      "set": "KYO",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "kayo-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "KYO029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "KYO029",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/KYO029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/KYO029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/KYO029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OLA029",
+      "code": "OLA029",
+      "language": "en",
+      "set": "OLA",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "olympia-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OLA029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OLA029",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OLA029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OLA029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OLA029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "VIC029",
+      "code": "VIC029",
+      "language": "en",
+      "set": "VIC",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "victor-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "VIC029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "VIC029",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/VIC029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/VIC029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/VIC029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB288-CF",
+      "code": "FAB288",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 288,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prize-wall-rosetta",
+      "releaseDate": "2024-09-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB288-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB288",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Rio Sabda",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB288-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB288-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB288-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBR036",
+      "code": "SBR036",
+      "language": "en",
+      "set": "SBR",
+      "setNumber": 36,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-bravo-flattering-showman",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBR036",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBR036",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Rio Sabda",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBR036.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBR036.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBR036.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SDO036",
+      "code": "SDO036",
+      "language": "en",
+      "set": "SDO",
+      "setNumber": 36,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-dorinthea",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SDO036",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SDO036",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Rio Sabda",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SDO036.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SDO036.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SDO036.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SKA036",
+      "code": "SKA036",
+      "language": "en",
+      "set": "SKA",
+      "setNumber": 36,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-kayo",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SKA036",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vigor",
+          "typeLine": "Generic Token - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "At the start of your turn, destroy this, then gain {r}.",
+            "plain": "At the start of your turn, destroy this, then gain {r}.",
+            "html": "<p>At the start of your turn, destroy this, then gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SKA036",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Rio Sabda",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SKA036.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SKA036.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SKA036.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:31:24Z",
+    "rawSha256": "df003941ad9eb3cce939d678028d25e8b122963193a7c68d2cb425e98e908d0a",
+    "updatedAt": "2025-09-18T06:58:45.313552+12:00"
+  }
+}

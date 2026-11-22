@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "beaming-blade",
+  "language": "es",
+  "name": "Espada resplandeciente",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Espada resplandeciente",
+      "typeLine": "Arma de guerrero de luz - Espada (2M)",
+      "classes": [
+        "Guerrero"
+      ],
+      "talents": [
+        "Luz"
+      ],
+      "types": [
+        "Arma"
+      ],
+      "subtypes": [
+        "(2M)",
+        "Espada"
+      ],
+      "text": {
+        "markup": "**Acción una vez por turno** -- {r}{r}: **Ataque**.\nSi se ha puesto una carta amarilla en el alma de tu héroe este turno, esta carta obtiene +5{p}.",
+        "plain": "Acción una vez por turno -- {r}{r}: Ataque.\nSi se ha puesto una carta amarilla en el alma de tu héroe este turno, esta carta obtiene +5{p}.",
+        "html": "<p><strong>Acción una vez por turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Ataque</strong>.</p>\n<p>Si se ha puesto una carta amarilla en el alma de tu héroe este turno, esta carta obtiene +5<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_DTD046",
+      "code": "DTD046",
+      "language": "es",
+      "set": "DTD",
+      "setNumber": 46,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dusk-till-dawn-es",
+      "releaseDate": "2023-07-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_DTD046",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Espada resplandeciente",
+          "typeLine": "Arma de guerrero de luz - Espada (2M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Acción una vez por turno** -- {r}{r}: **Ataque**.\nSi se ha puesto una carta amarilla en el alma de tu héroe este turno, esta carta obtiene +5{p}.",
+            "plain": "Acción una vez por turno -- {r}{r}: Ataque.\nSi se ha puesto una carta amarilla en el alma de tu héroe este turno, esta carta obtiene +5{p}.",
+            "html": "<p><strong>Acción una vez por turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Ataque</strong>.</p>\n<p>Si se ha puesto una carta amarilla en el alma de tu héroe este turno, esta carta obtiene +5<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "0",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DTD046",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Jessketchin",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_DTD046.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_DTD046.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_DTD046.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

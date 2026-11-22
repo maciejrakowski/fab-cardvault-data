@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "id": "kavdaen-trader-of-skins",
+  "name": "Kavdaen, Trader of Skins",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Kavdaen, Trader of Skins",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Merchant Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Merchant"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}{r}{r}: If a hero has more {h} than each other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than each other hero, they gain 1{h}. **Go again**",
+        "plain": "Once per Turn Action -- {r}{r}{r}: If a hero has more {h} than each other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than each other hero, they gain 1{h}. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "CRU118",
+      "code": "CRU118",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 118,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU118",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Kavdaen, Trader of Skins",
+          "typeLine": "Merchant Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: If a hero has more {h} than any other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than any other hero, they gain 1{h}. **Go again** _(It's an item with \"Action - {r}{r}{r}{r}, destroy Copper: Draw a card. Go again\".)_",
+            "plain": "Once per Turn Action -- {r}{r}{r}: If a hero has more {h} than any other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than any other hero, they gain 1{h}. Go again _(It's an item with \"Action - {r}{r}{r}{r}, destroy Copper: Draw a card. Go again\".)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> and create a Copper token. Then if a hero has less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong> <em>(It's an item with &quot;Action - <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Copper: Draw a card. Go again&quot;.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "CRU118",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU118.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU118.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU118.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU118-RF",
+      "code": "CRU118",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 118,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU118-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Kavdaen, Trader of Skins",
+          "typeLine": "Merchant Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: If a hero has more {h} than any other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than any other hero, they gain 1{h}. Go **again**",
+            "plain": "Once per Turn Action -- {r}{r}{r}: If a hero has more {h} than any other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than any other hero, they gain 1{h}. Go again",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> and create a Copper token. Then if a hero has less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. Go <strong>again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "CRU118",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU118-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU118-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU118-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER028-CF",
+      "code": "HER028",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-3",
+      "releaseDate": "2020-12-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER028-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Kavdaen, Trader of Skins",
+          "typeLine": "Merchant Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: If a hero has more {h} than any other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than any other hero, they gain 1{h}. Go **again**",
+            "plain": "Once per Turn Action -- {r}{r}{r}: If a hero has more {h} than any other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than any other hero, they gain 1{h}. Go again",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> and create a Copper token. Then if a hero has less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. Go <strong>again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER028",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER028-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER028-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER028-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU118",
+      "code": "CRU118",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 118,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU118",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Kavdaen, Trader of Skins",
+          "typeLine": "Merchant Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: If a hero has more {h} than any other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than any other hero, they gain 1{h}. **Go again** _(It's an item with \"Action - {r}{r}{r}{r}, destroy Copper: Draw a card. Go again\".)_",
+            "plain": "Once per Turn Action -- {r}{r}{r}: If a hero has more {h} than any other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than any other hero, they gain 1{h}. Go again _(It's an item with \"Action - {r}{r}{r}{r}, destroy Copper: Draw a card. Go again\".)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> and create a Copper token. Then if a hero has less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong> <em>(It's an item with &quot;Action - <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Copper: Draw a card. Go again&quot;.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "CRU118",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU118.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU118.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU118.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU118-RF",
+      "code": "CRU118",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 118,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU118-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Kavdaen, Trader of Skins",
+          "typeLine": "Merchant Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: If a hero has more {h} than any other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than any other hero, they gain 1{h}. **Go again** _(It's an item with \"Action -- {r}{r}{r}{r}, destroy Copper: Draw a card. Go again\".)_",
+            "plain": "Once per Turn Action -- {r}{r}{r}: If a hero has more {h} than any other hero, they lose 1{h} and create a Copper token. Then if a hero has less {h} than any other hero, they gain 1{h}. Go again _(It's an item with \"Action -- {r}{r}{r}{r}, destroy Copper: Draw a card. Go again\".)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> and create a Copper token. Then if a hero has less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than any other hero, they gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong> <em>(It's an item with &quot;Action — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Copper: Draw a card. Go again&quot;.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "CRU118",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU118-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU118-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU118-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP220",
+      "code": "1HP220",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 220,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP220",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Kavdaen, Trader of Skins",
+          "typeLine": "Merchant Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: If a hero has more {g} than all other hero's, they lose 1{g} and create a Copper token. Then if a hero has less {g} than all other hero's, they gain 1{g}. **Go again** _(It's an item with \"**Action** -- {r}{r}{r}{r}, destroy Copper: Draw a card. **Go again**\".)_",
+            "plain": "Once per Turn Action -- {r}{r}{r}: If a hero has more {g} than all other hero's, they lose 1{g} and create a Copper token. Then if a hero has less {g} than all other hero's, they gain 1{g}. Go again _(It's an item with \"Action -- {r}{r}{r}{r}, destroy Copper: Draw a card. Go again\".)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If a hero has more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than all other hero's, they lose 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> and create a Copper token. Then if a hero has less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than all other hero's, they gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. <strong>Go again</strong> <em>(It's an item with &quot;<strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, destroy Copper: Draw a card. <strong>Go again</strong>&quot;.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "1HP220",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Nikolay Moskvin",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "white",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP220.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP220.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP220.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {
+      "U-CRU118": "unlimited",
+      "U-CRU118-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:28:41Z",
+    "rawSha256": "6424e746af7c0f776ac34aaa88fc2ed73701afe1681b131e74a4f734e3f8ba64",
+    "updatedAt": "2025-09-18T06:51:55.381506+12:00"
+  }
+}

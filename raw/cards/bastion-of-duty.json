@@ -1,0 +1,307 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "0f4be4f0-694c-46dd-af9c-3fd34391bc9f",
+      "cores": [
+        {
+          "id": "f1e6e284-8f1a-45f5-b806-075c1c3774e1",
+          "core_classes": [
+            {
+              "id": 5,
+              "name": "Guardian",
+              "name_en": "Guardian",
+              "name_fr": "Gardien",
+              "name_de": "Wächter",
+              "name_it": "Guardiano",
+              "name_es": "Guardián",
+              "name_ja": "守護者",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 6,
+              "name": "Equipment",
+              "name_en": "Equipment",
+              "name_fr": "Équipement",
+              "name_de": "Ausrüstung",
+              "name_it": "Equipaggiamento",
+              "name_es": "Equipo",
+              "name_ja": "装備品",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 35,
+              "name": "Off-Hand",
+              "name_en": "Off-Hand",
+              "name_fr": "Main non dominante",
+              "name_de": "Nebenhand",
+              "name_it": "Mano secondaria",
+              "name_es": "Mano no dominante",
+              "name_ja": "逆手",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:46:09.578954+12:00",
+          "updated_at": "2025-09-18T06:46:09.586767+12:00",
+          "name": "Bastion of Duty",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Protect**{br}**Temper**",
+          "typebox": "Guardian Equipment - Off-Hand",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "0f4be4f0-694c-46dd-af9c-3fd34391bc9f"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "db7e5708-983c-44ed-b472-a30ce9b34a68",
+          "faces": [
+            {
+              "id": "08660dc7-3667-4ea1-95f1-15d432b3ea6a",
+              "created_at": "2025-09-18T06:46:09.598527+12:00",
+              "updated_at": "2025-09-18T06:46:09.598540+12:00",
+              "face_id": "TCC029",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "TCC029",
+              "printed_artist": "Jessketchin",
+              "printed_name": "Bastion of Duty",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Protect** _(You may defend any hero attacked by an opponent with this.)_{br}**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guardian Equipment - Off-Hand",
+              "printed_year": "2023",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "f1e6e284-8f1a-45f5-b806-075c1c3774e1",
+              "card_print": "db7e5708-983c-44ed-b472-a30ce9b34a68",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bastion of Duty</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guardian Equipment - Off-Hand</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Protect</strong> <em>(You may defend any hero attacked by an opponent with this.)</em></p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC029.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC029.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC029.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7ea545bf-864f-4c19-a996-ee6a2c13b763",
+            "product_group": {
+              "id": "dd2df736-e4fd-46f4-8542-47b055fbb9ae",
+              "created_at": "2025-09-29T08:48:56.642788+13:00",
+              "updated_at": "2025-09-29T08:48:56.642802+13:00",
+              "group_name": "Round the Table: TCC x LSS",
+              "product_type": "precon",
+              "release_date": "2023-09-29",
+              "slug": "round-the-table-tcc-x-lss"
+            },
+            "created_at": "2025-09-18T06:45:33.753455+12:00",
+            "updated_at": "2025-09-29T08:49:02.376966+13:00",
+            "printed_date": "2023-08-01",
+            "printed_language": "en",
+            "product_name": "Round the Table: TCC x LSS",
+            "product_type": "booster",
+            "release_date": "2023-09-29",
+            "slug": "round-the-table-tcc-x-lss",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "eee6a16f-40b2-437e-b8c3-f43f5e18e995",
+            "created_at": "2025-09-18T06:45:12.726349+12:00",
+            "updated_at": "2025-09-18T06:45:12.726359+12:00",
+            "set_code": "TCC",
+            "set_name": "Round the Table: TCC x LSS",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:09.593834+12:00",
+          "updated_at": "2025-09-18T06:46:09.593846+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "TCC029",
+          "set_number": 29,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "0f4be4f0-694c-46dd-af9c-3fd34391bc9f"
+        },
+        {
+          "id": "4eae680d-7c95-498b-8da0-b5d7aeac7e5b",
+          "faces": [
+            {
+              "id": "024a8c99-fe4c-4c0a-ae1c-f2946d09d79d",
+              "created_at": "2025-09-18T06:46:09.610732+12:00",
+              "updated_at": "2025-09-18T06:46:09.610742+12:00",
+              "face_id": "LGS206-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS206",
+              "printed_artist": "Jessketchin",
+              "printed_name": "Bastion of Duty",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Protect** _(You may defend any hero attacked by an opponent with this.)_{br}**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guardian Equipment - Off-Hand",
+              "printed_year": "2023",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "f1e6e284-8f1a-45f5-b806-075c1c3774e1",
+              "card_print": "4eae680d-7c95-498b-8da0-b5d7aeac7e5b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Bastion of Duty</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guardian Equipment - Off-Hand</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Protect</strong> <em>(You may defend any hero attacked by an opponent with this.)</em></p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS206-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS206-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS206-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "10848693-4439-4770-9168-17e16f602a06",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:09.602097+12:00",
+            "updated_at": "2025-09-18T06:46:09.602108+12:00",
+            "printed_date": "2023-07-01",
+            "printed_language": "en",
+            "product_name": "Social Play Kit - Brevant",
+            "product_type": "booster",
+            "release_date": "2024-02-16",
+            "slug": "social-play-kit-brevant",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:09.606363+12:00",
+          "updated_at": "2025-09-18T06:46:09.606382+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS206-RF",
+          "set_number": 206,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "0f4be4f0-694c-46dd-af9c-3fd34391bc9f"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:46:09.573775+12:00",
+      "updated_at": "2025-09-18T06:46:09.575337+12:00",
+      "card_id": "bastion-of-duty",
+      "card_type": "regular",
+      "object_type": "arena-card"
+    }
+  ]
+}

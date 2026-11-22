@@ -1,0 +1,681 @@
+{
+  "schemaVersion": 1,
+  "id": "bravo-showstopper",
+  "name": "Bravo, Showstopper",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Bravo, Showstopper",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 40,
+      "intellect": 4,
+      "typeLine": "Guardian Hero",
+      "traitLine": null,
+      "classes": [
+        "Guardian"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost 3 or more get **dominate**. **Go again**",
+        "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost 3 or more get dominate. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "BVO001",
+      "code": "BVO001-C",
+      "language": "en",
+      "set": "BVO",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bravo-showstopper-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "BVO001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo, Showstopper",
+          "typeLine": "Guardian Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gain dominate. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "BVO001-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Alexander Mokhov",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/BVO001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/BVO001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/BVO001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER002-CF",
+      "code": "HER002-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER002-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo, Showstopper",
+          "typeLine": "Guardian Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain **dominate**. **Go again**",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gain <strong>dominate</strong>. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER002-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Alexander Mokhov",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER002-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER002-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER002-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR038",
+      "code": "WTR038-T",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 38,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR038",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo, Showstopper",
+          "typeLine": "Guardian Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gain dominate. Go again <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "WTR038-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Alexander Mokhov",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR038.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR038.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR038.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU022",
+      "code": "CRU022",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU022",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo, Showstopper",
+          "typeLine": "Guardian Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain **dominate.** **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost 3 or greater gain <strong>dominate.</strong> <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "CRU022",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU022.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU022.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU022.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER022-RF",
+      "code": "HER022",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "buy-a-box-crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER022-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo, Showstopper",
+          "typeLine": "Guardian Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain **dominate**. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost 3 or greater gain <strong>dominate</strong>. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER022",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER022-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER022-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER022-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR038",
+      "code": "WTR038",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 38,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR038",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo, Showstopper",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gain dominate. Go again <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "WTR038",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR038.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR038.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR038.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR038",
+      "code": "WTR038",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 38,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR038",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo, Showstopper",
+          "typeLine": "Guardian Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost {r}{r}{r} or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gain dominate. Go again <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "WTR038",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR038.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR038.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR038.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU022",
+      "code": "CRU022",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU022",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo, Showstopper",
+          "typeLine": "Guardian Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain **dominate.** **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost 3 or greater gain <strong>dominate.</strong> <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "CRU022",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU022.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU022.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU022.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP043",
+      "code": "1HP043",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 43,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP043",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo, Showstopper",
+          "typeLine": "Guardian Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain **dominate**. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Action -- {r}{r}: Until end of turn, your attack action cards with cost 3 or greater gain dominate. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Until end of turn, your attack action cards with cost 3 or greater gain <strong>dominate</strong>. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "1HP043",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "white",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP043.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP043.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP043.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WIN002-CF",
+      "code": "WIN002",
+      "language": "en",
+      "set": "WIN",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-champion-cards",
+      "releaseDate": "2022-05-15",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WIN002-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Bravo, Showstopper",
+          "typeLine": "Guardian Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": {
+            "markup": "Pro Tour Champion",
+            "plain": "Pro Tour Champion",
+            "html": "<p>Pro Tour Champion</p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "WIN002",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WIN002-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WIN002-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WIN002-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "dominate"
+    ],
+    "editions": {
+      "R-WTR038": "unlimited-revised",
+      "U-CRU022": "unlimited",
+      "U-WTR038": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:20:27Z",
+    "rawSha256": "d179f6de36231869c33df38298b1680661664859341318cbf3b9cf42f03a1db1",
+    "updatedAt": "2025-09-18T06:47:02.051455+12:00"
+  }
+}

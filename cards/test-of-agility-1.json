@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 1,
+  "id": "test-of-agility-1",
+  "name": "Test of Agility",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Test of Agility",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": null,
+      "power": null,
+      "defense": 4,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Brute / Warrior Block",
+      "traitLine": null,
+      "classes": [
+        "Brute",
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Block"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "When this defends, **clash** with the attacking hero. The winner creates an Agility token.",
+        "plain": "When this defends, clash with the attacking hero. The winner creates an Agility token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS261-RF",
+      "code": "LGS261",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 261,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-12",
+      "releaseDate": "2024-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS261-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Agility",
+          "typeLine": "Brute / Warrior Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates an Agility token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates an Agility token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates an Agility token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS261",
+          "printedLanguageCode": "EN",
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "brute-warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS261-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS261-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS261-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY162",
+      "code": "HVY162",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 162,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY162",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Agility",
+          "typeLine": "Brute / Warrior Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates an Agility token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates an Agility token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates an Agility token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY162",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute-warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY162.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY162.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY162.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY162-RF",
+      "code": "HVY162",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 162,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY162-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Agility",
+          "typeLine": "Brute / Warrior Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates an Agility token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates an Agility token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates an Agility token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY162",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute-warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY162-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY162-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY162-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "clash"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:59:49Z",
+    "rawSha256": "bbab4e36f5eb468a32cf1348c897c4f6f7f58cf32f606185d47c7d707cefe0dc",
+    "updatedAt": "2025-09-18T06:57:44.087121+12:00"
+  }
+}

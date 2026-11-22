@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "id": "run-through-2",
+  "name": "Run Through",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Run Through",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 1,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Warrior Attack Reaction",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Attack Reaction"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Target sword attack gets **go again**.{br}Your next sword attack this turn gets +2{p}.",
+        "plain": "Target sword attack gets go again.\nYour next sword attack this turn gets +2{p}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "DVR013",
+      "code": "DVR013",
+      "language": "en",
+      "set": "DVR",
+      "setNumber": 13,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "classic-battles-rhinar-vs-dorinthea",
+      "releaseDate": "2022-05-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DVR013",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Run Through",
+          "typeLine": "Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target sword attack gains **go again**.\nYour next sword attack this turn gains +2{p}.",
+            "plain": "Target sword attack gains go again.\nYour next sword attack this turn gains +2{p}.",
+            "html": "<p>Target sword attack gains <strong>go again</strong>.</p>\n<p>Your next sword attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DVR013",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Andy Aslamov",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DVR013.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DVR013.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DVR013.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS102-RF",
+      "code": "LGS102",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 102,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-7",
+      "releaseDate": "2022-06-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS102-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Run Through",
+          "typeLine": "Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target sword attack gains **go again**.\nYour next sword attack this turn gains +2{p}.",
+            "plain": "Target sword attack gains go again.\nYour next sword attack this turn gains +2{p}.",
+            "html": "<p>Target sword attack gains <strong>go again</strong>.</p>\n<p>Your next sword attack this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS102",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Andy Aslamov",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS102-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS102-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS102-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SDO022",
+      "code": "SDO022",
+      "language": "en",
+      "set": "SDO",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-dorinthea",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SDO022",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Run Through",
+          "typeLine": "Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target sword attack gets **go again**.{br}Your next sword attack this turn gets +2{p}.",
+            "plain": "Target sword attack gets go again.\nYour next sword attack this turn gets +2{p}.",
+            "html": "<p>Target sword attack gets <strong>go again</strong>.</p>\n<p>Your next sword attack this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SDO022",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Andy Aslamov",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SDO022.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SDO022.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SDO022.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MPW049",
+      "code": "MPW049",
+      "language": "en",
+      "set": "MPW",
+      "setNumber": 49,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-warrior",
+      "releaseDate": "2026-08-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-29T16:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "MPW049",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Run Through",
+          "typeLine": "Warrior Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Target sword attack gets **go again**.{br}Your next sword attack this turn gets +2{p}.",
+            "plain": "Target sword attack gets go again.\nYour next sword attack this turn gets +2{p}.",
+            "html": "<p>Target sword attack gets <strong>go again</strong>.</p>\n<p>Your next sword attack this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_“On the Savage frontier, we draw our battlelines in blood.” - Lieutenant Farris_",
+            "plain": "_“On the Savage frontier, we draw our battlelines in blood.” - Lieutenant Farris_",
+            "html": "<p><em>“On the Savage frontier, we draw our battlelines in blood.” - Lieutenant Farris</em></p>\n"
+          },
+          "stats": {
+            "pitch": "2",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MPW049",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Andy Aslamov",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPW049.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPW049.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW049.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:42:32Z",
+    "rawSha256": "4a1552f814fee0d286726df60215f4af509bea041a7bf6bc8beaca83468322e5",
+    "updatedAt": "2025-09-18T06:55:10.883203+12:00"
+  }
+}

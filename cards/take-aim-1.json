@@ -1,0 +1,560 @@
+{
+  "schemaVersion": 1,
+  "id": "take-aim-1",
+  "name": "Take Aim",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Take Aim",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Ranger Action",
+      "traitLine": null,
+      "classes": [
+        "Ranger"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "The next Ranger attack action card you play this turn gets +3{p}.{br}**Reload**{br}**Go again**",
+        "plain": "The next Ranger attack action card you play this turn gets +3{p}.\nReload\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ARC054",
+      "code": "ARC054-R",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 54,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC054",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Take Aim",
+          "typeLine": "Ranger Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Ranger attack action card you play this turn, gains +3{p}.\n**Reload** _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\n**Go again**",
+            "plain": "The next Ranger attack action card you play this turn, gains +3{p}.\nReload _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\nGo again",
+            "html": "<p>The next Ranger attack action card you play this turn, gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Reload</strong> <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC054-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Maxim Kostin",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC054.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC054.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC054.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC054-RF",
+      "code": "ARC054-R",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 54,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC054-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Take Aim",
+          "typeLine": "Ranger Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Ranger attack action card you play this turn, gains +3{p}.\n**Reload** _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\n**Go again**",
+            "plain": "The next Ranger attack action card you play this turn, gains +3{p}.\nReload _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\nGo again",
+            "html": "<p>The next Ranger attack action card you play this turn, gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Reload</strong> <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC054-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Maxim Kostin",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC054-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC054-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC054-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC054",
+      "code": "ARC054",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 54,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC054",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Take Aim",
+          "typeLine": "Ranger Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Ranger attack action card you play this turn, gains +3{p}.\n**Reload** _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\n**Go again**",
+            "plain": "The next Ranger attack action card you play this turn, gains +3{p}.\nReload _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\nGo again",
+            "html": "<p>The next Ranger attack action card you play this turn, gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Reload</strong> <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC054",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Maxim Kostin",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC054.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC054.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC054.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC054-RF",
+      "code": "ARC054",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 54,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC054-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Take Aim",
+          "typeLine": "Ranger Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Ranger attack action card you play this turn, gains +3{p}.\n**Reload** _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\n**Go again**",
+            "plain": "The next Ranger attack action card you play this turn, gains +3{p}.\nReload _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\nGo again",
+            "html": "<p>The next Ranger attack action card you play this turn, gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Reload</strong> <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC054",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Maxim Kostin",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC054-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC054-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC054-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LXI028",
+      "code": "LXI028",
+      "language": "en",
+      "set": "LXI",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "lexi-blitz-deck",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LXI028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Take Aim",
+          "typeLine": "Ranger Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Ranger attack action card you play this turn, gains +3{p}.\n**Reload** _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\n**Go again**",
+            "plain": "The next Ranger attack action card you play this turn, gains +3{p}.\nReload _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\nGo again",
+            "html": "<p>The next Ranger attack action card you play this turn, gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Reload</strong> <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LXI028",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Maxim Kostin",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LXI028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LXI028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LXI028.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP237",
+      "code": "1HP237",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 237,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP237",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Take Aim",
+          "typeLine": "Ranger Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Ranger attack action card you play this turn, gains +3{p}.\n**Reload** _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\n**Go again**",
+            "plain": "The next Ranger attack action card you play this turn, gains +3{p}.\nReload _(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)_\nGo again",
+            "html": "<p>The next Ranger attack action card you play this turn, gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Reload</strong> <em>(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP237",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Maxim Kostin",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP237.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP237.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP237.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAZ029",
+      "code": "SAZ029",
+      "language": "en",
+      "set": "SAZ",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-azalea",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-30T12:10:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SAZ029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Take Aim",
+          "typeLine": "Ranger Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Ranger attack action card you play this turn gets +3{p}.{br}**Reload** _(If you have no cards in your arsenal, you may put a card from your hand face-down into your arsenal.)_{br}**Go again**",
+            "plain": "The next Ranger attack action card you play this turn gets +3{p}.\nReload _(If you have no cards in your arsenal, you may put a card from your hand face-down into your arsenal.)_\nGo again",
+            "html": "<p>The next Ranger attack action card you play this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p><strong>Reload</strong> <em>(If you have no cards in your arsenal, you may put a card from your hand face-down into your arsenal.)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SAZ029",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Maxim Kostin",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAZ029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAZ029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAZ029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TNP049-MV",
+      "code": "TNP049",
+      "language": "en",
+      "set": "TNP",
+      "setNumber": 49,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "tournament-pack",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-05-30T08:50:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "TNP049-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Take Aim",
+          "typeLine": "Ranger Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Ranger attack action card you play this turn gets +3{p}. **Reload.** **Go again**",
+            "plain": "The next Ranger attack action card you play this turn gets +3{p}. Reload. Go again",
+            "html": "<p>The next Ranger attack action card you play this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. <strong>Reload.</strong> <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TNP049",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Maxim Kostin",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TNP049-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TNP049-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP049-MV.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "Reload"
+    ],
+    "editions": {
+      "U-ARC054": "unlimited",
+      "U-ARC054-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:02:53Z",
+    "rawSha256": "6c6f75e7aff9732ae4e06a69c7ee15b16d163563ac61906570c97305c5b410c1",
+    "updatedAt": "2025-09-18T06:57:27.894270+12:00"
+  }
+}

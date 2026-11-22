@@ -1,0 +1,563 @@
+{
+  "schemaVersion": 1,
+  "id": "teklo-plasma-pistol",
+  "name": "Teklo Plasma Pistol",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Teklo Plasma Pistol",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 2,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Mechanologist Weapon - Pistol (2H)",
+      "traitLine": null,
+      "classes": [
+        "Mechanologist"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(2H)",
+        "Pistol"
+      ],
+      "text": {
+        "markup": "**Action** -- Remove a steam counter from this: **Attack**{br}**Action** -- {r}: If this has no steam counters, put a steam counter on it. **Go again**",
+        "plain": "Action -- Remove a steam counter from this: Attack\nAction -- {r}: If this has no steam counters, put a steam counter on it. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS009-CF",
+      "code": "LGS009-P",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-2",
+      "releaseDate": "2020-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS009-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Plasma Pistol",
+          "typeLine": "Mechanologist Weapon - Pistol (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Remove a steam counter from Teklo Plasma Pistol: **Attack**\n**Action** -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**",
+            "plain": "Action -- Remove a steam counter from Teklo Plasma Pistol: Attack\nAction -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. Go again",
+            "html": "<p><strong>Action</strong> — Remove a steam counter from Teklo Plasma Pistol: <strong>Attack</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS009-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Regina Krivolapova",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS009-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS009-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS009-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC003",
+      "code": "ARC003-T",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Plasma Pistol",
+          "typeLine": "Mechanologist Weapon - Pistol (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Remove a steam counter from Teklo Plasma Pistol: **Attack**\n**Action** -- {r}: If there are no steam counters on Telko Plasma Pistol, put a steam counter on it. **Go again**",
+            "plain": "Action -- Remove a steam counter from Teklo Plasma Pistol: Attack\nAction -- {r}: If there are no steam counters on Telko Plasma Pistol, put a steam counter on it. Go again",
+            "html": "<p><strong>Action</strong> — Remove a steam counter from Teklo Plasma Pistol: <strong>Attack</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If there are no steam counters on Telko Plasma Pistol, put a steam counter on it. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC003-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Regina Krivolapova",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC003.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU100",
+      "code": "CRU100",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 100,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU100",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Plasma Pistol",
+          "typeLine": "Mechanologist Weapon - Pistol (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Remove a steam counter from Teklo Plasma Pistol: **Attack**\n**Action** -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**",
+            "plain": "Action -- Remove a steam counter from Teklo Plasma Pistol: Attack\nAction -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. Go again",
+            "html": "<p><strong>Action</strong> — Remove a steam counter from Teklo Plasma Pistol: <strong>Attack</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU100",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Regina Krivolapova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU100.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU100.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU100.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC003",
+      "code": "ARC003",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Plasma Pistol",
+          "typeLine": "Mechanologist Weapon - Pistol (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Remove a steam counter from Teklo Plasma Pistol: **Attack**\n**Action** -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**",
+            "plain": "Action -- Remove a steam counter from Teklo Plasma Pistol: Attack\nAction -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. Go again",
+            "html": "<p><strong>Action</strong> — Remove a steam counter from Teklo Plasma Pistol: <strong>Attack</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC003",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Regina Krivolapova",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC003.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU100-RF",
+      "code": "CRU100",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 100,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU100-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Plasma Pistol",
+          "typeLine": "Mechanologist Weapon - Pistol (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Remove a steam counter from Teklo Plasma Pistol: **Attack**\n**Action** -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**",
+            "plain": "Action -- Remove a steam counter from Teklo Plasma Pistol: Attack\nAction -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. Go again",
+            "html": "<p><strong>Action</strong> — Remove a steam counter from Teklo Plasma Pistol: <strong>Attack</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU100",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Regina Krivolapova",
+          "rarityMark": "common-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU100-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU100-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU100-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP184",
+      "code": "1HP184",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 184,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP184",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Plasma Pistol",
+          "typeLine": "Mechanologist Weapon - Pistol (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Remove a steam counter from Teklo Plasma Pistol: **Attack**\n**Action** -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**",
+            "plain": "Action -- Remove a steam counter from Teklo Plasma Pistol: Attack\nAction -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. Go again",
+            "html": "<p><strong>Action</strong> — Remove a steam counter from Teklo Plasma Pistol: <strong>Attack</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP184",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Regina Krivolapova",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP184.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP184.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP184.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HD002",
+      "code": "1HD002",
+      "language": "en",
+      "set": "1HD",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dash-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HD002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Plasma Pistol",
+          "typeLine": "Mechanologist Weapon - Pistol (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Remove a steam counter from Teklo Plasma Pistol: **Attack**\n**Action** -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**",
+            "plain": "Action -- Remove a steam counter from Teklo Plasma Pistol: Attack\nAction -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. Go again",
+            "html": "<p><strong>Action</strong> — Remove a steam counter from Teklo Plasma Pistol: <strong>Attack</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HD002",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Regina Krivolapova",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HD002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HD002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HD002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB144-GF",
+      "code": "FAB144",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 144,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "proquest-season-4",
+      "releaseDate": "2023-10-21",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB144-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Plasma Pistol",
+          "typeLine": "Mechanologist Weapon - Pistol (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Remove a steam counter from Teklo Plasma Pistol: **Attack**{br}**Action** -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**",
+            "plain": "Action -- Remove a steam counter from Teklo Plasma Pistol: Attack\nAction -- {r}: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. Go again",
+            "html": "<p><strong>Action</strong> — Remove a steam counter from Teklo Plasma Pistol: <strong>Attack</strong></p>\n<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB144",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Regina Krivolapova",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB144-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB144-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB144-GF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack",
+      "Go again"
+    ],
+    "editions": {
+      "U-ARC003": "unlimited",
+      "U-CRU100-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:23:56Z",
+    "rawSha256": "1abc27d97431499bbafc1f0a423f58e63f566a71c9700c97804adeab878111d5",
+    "updatedAt": "2025-09-18T06:57:39.800616+12:00"
+  }
+}

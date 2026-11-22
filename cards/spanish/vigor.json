@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "vigor",
+  "language": "es",
+  "cores": [
+    {
+      "position": 10,
+      "typeLine": "Ficha genérica - Aura",
+      "classes": [
+        "Genérico/a"
+      ],
+      "types": [
+        "Ficha"
+      ],
+      "text": {
+        "markup": "Al principio de tu turno, destruye esta ficha, y luego gana {r}.",
+        "plain": "Al principio de tu turno, destruye esta ficha, y luego gana {r}.",
+        "html": "<p>Al principio de tu turno, destruye esta ficha, y luego gana <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_HVY242",
+      "code": "HVY242",
+      "language": "es",
+      "set": "HVY",
+      "setNumber": 242,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters-es",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_HVY242",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Vigor",
+          "typeLine": "Ficha genérica - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "Al principio de tu turno, destruye esta ficha, y luego gana {r}.",
+            "plain": "Al principio de tu turno, destruye esta ficha, y luego gana {r}.",
+            "html": "<p>Al principio de tu turno, destruye esta ficha, y luego gana <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY242",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Rio Sabda",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_HVY242.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_HVY242.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_HVY242.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

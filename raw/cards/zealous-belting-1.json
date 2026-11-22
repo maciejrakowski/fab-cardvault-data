@@ -1,0 +1,1418 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "658c7e91-f51b-46e5-b999-f6932be20bb7",
+      "cores": [
+        {
+          "id": "d4092f44-fd62-429f-999f-f0b919d848cb",
+          "core_classes": [
+            {
+              "id": 6,
+              "name": "Generic",
+              "name_en": "Generic",
+              "name_fr": "Générique",
+              "name_de": "Allgemein",
+              "name_it": "Generico/a",
+              "name_es": "Genérico/a",
+              "name_ja": "汎用",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:59:34.451411+12:00",
+          "updated_at": "2025-09-18T06:59:34.461680+12:00",
+          "name": "Zealous Belting",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "2",
+          "power": "5",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "If there is a card in your pitch zone with {p} greater than this card's base {p}, this gets **go again**.",
+          "typebox": "Generic Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 2,
+          "power_value": 5,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "44f6cd2b-411d-43e1-8286-b337022d5a7d",
+          "faces": [
+            {
+              "id": "4de01ef1-8901-4ac8-8d8b-34f4cf3bdb8c",
+              "created_at": "2025-09-18T06:59:34.475962+12:00",
+              "updated_at": "2025-09-18T06:59:34.475975+12:00",
+              "face_id": "MON293",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "MON293",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "Zealous Belting",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.",
+              "printed_flavor_text": "_Flails, chains, and a body the size of a house. What more could a cultist wish for?_",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "44f6cd2b-411d-43e1-8286-b337022d5a7d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Zealous Belting</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>While there is a card in your pitch zone with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than Zealous Belting's base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, Zealous Belting has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Flails, chains, and a body the size of a house. What more could a cultist wish for?</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON293.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON293.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON293.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d67b98c4-28a5-4ba9-930e-e0184b1200e9",
+            "product_group": {
+              "id": "2afe1735-8517-4b79-8fde-ce2976518ca9",
+              "created_at": "2025-09-18T06:45:15.675414+12:00",
+              "updated_at": "2025-09-18T06:45:15.675427+12:00",
+              "group_name": "Monarch",
+              "product_type": "booster",
+              "release_date": "2021-05-07",
+              "slug": "monarch"
+            },
+            "created_at": "2025-09-18T06:45:15.677749+12:00",
+            "updated_at": "2025-09-18T06:45:15.677762+12:00",
+            "printed_date": "2021-01-01",
+            "printed_language": "en",
+            "product_name": "Monarch",
+            "product_type": "booster",
+            "release_date": "2021-05-07",
+            "slug": "monarch",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:59:34.469419+12:00",
+          "updated_at": "2025-09-18T06:59:34.469440+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MON293",
+          "set_number": 293,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "6eafa1f7-781f-4ef4-a208-1c3920fa71c1",
+          "faces": [
+            {
+              "id": "a4d85c38-9c85-401c-89cd-f4dd7429d92e",
+              "created_at": "2025-09-18T06:59:34.489304+12:00",
+              "updated_at": "2025-09-18T06:59:34.489316+12:00",
+              "face_id": "MON293-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "MON293",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "Zealous Belting",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.",
+              "printed_flavor_text": "_Flails, chains, and a body the size of a house. What more could a cultist wish for?_",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "6eafa1f7-781f-4ef4-a208-1c3920fa71c1",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Zealous Belting</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>While there is a card in your pitch zone with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than Zealous Belting's base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, Zealous Belting has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Flails, chains, and a body the size of a house. What more could a cultist wish for?</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON293-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON293-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON293-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d67b98c4-28a5-4ba9-930e-e0184b1200e9",
+            "product_group": {
+              "id": "2afe1735-8517-4b79-8fde-ce2976518ca9",
+              "created_at": "2025-09-18T06:45:15.675414+12:00",
+              "updated_at": "2025-09-18T06:45:15.675427+12:00",
+              "group_name": "Monarch",
+              "product_type": "booster",
+              "release_date": "2021-05-07",
+              "slug": "monarch"
+            },
+            "created_at": "2025-09-18T06:45:15.677749+12:00",
+            "updated_at": "2025-09-18T06:45:15.677762+12:00",
+            "printed_date": "2021-01-01",
+            "printed_language": "en",
+            "product_name": "Monarch",
+            "product_type": "booster",
+            "release_date": "2021-05-07",
+            "slug": "monarch",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:59:34.484373+12:00",
+          "updated_at": "2025-09-18T06:59:34.484391+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MON293-RF",
+          "set_number": 293,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "83b7be94-fa64-4a73-a853-94f9d10ec810",
+          "faces": [
+            {
+              "id": "e132dbba-b288-4751-bace-7fdd49be075e",
+              "created_at": "2025-09-18T06:59:34.502267+12:00",
+              "updated_at": "2025-09-18T06:59:34.502279+12:00",
+              "face_id": "U-MON293",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "MON293",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "Zealous Belting",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.",
+              "printed_flavor_text": "_Flails, chains, and a body the size of a house. What more could a cultist wish for?_",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "83b7be94-fa64-4a73-a853-94f9d10ec810",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Zealous Belting</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>While there is a card in your pitch zone with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than Zealous Belting's base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, Zealous Belting has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Flails, chains, and a body the size of a house. What more could a cultist wish for?</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON293.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON293.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON293.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "9b2c55bd-b52e-4659-b7ce-1c065252bdc9",
+            "product_group": {
+              "id": "5540da88-0759-4e64-b420-24a33aa99a8c",
+              "created_at": "2025-09-18T06:45:15.705292+12:00",
+              "updated_at": "2025-09-18T06:45:15.705309+12:00",
+              "group_name": "Monarch - Unlimited",
+              "product_type": "booster",
+              "release_date": "2021-06-04",
+              "slug": "monarch-unlimited"
+            },
+            "created_at": "2025-09-18T06:45:15.707410+12:00",
+            "updated_at": "2025-09-18T06:45:15.707423+12:00",
+            "printed_date": "2021-04-01",
+            "printed_language": "en",
+            "product_name": "Monarch - Unlimited",
+            "product_type": "booster",
+            "release_date": "2021-06-04",
+            "slug": "monarch-unlimited",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:59:34.497713+12:00",
+          "updated_at": "2025-09-18T06:59:34.497729+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "U-MON293",
+          "set_number": 293,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "6fcc96ea-3e00-444d-8c55-b78d53bf3c20",
+          "faces": [
+            {
+              "id": "7eac5ebc-0055-40d8-8c0e-5ab0b5aba68a",
+              "created_at": "2025-09-18T06:59:34.518847+12:00",
+              "updated_at": "2025-09-18T06:59:34.518864+12:00",
+              "face_id": "U-MON293-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "MON293",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "Zealous Belting",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "While there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, Zealous Belting has **go again**.",
+              "printed_flavor_text": "_Flails, chains, and a body the size of a house. What more could a cultist wish for?_",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "6fcc96ea-3e00-444d-8c55-b78d53bf3c20",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Zealous Belting</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>While there is a card in your pitch zone with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than Zealous Belting's base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, Zealous Belting has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Flails, chains, and a body the size of a house. What more could a cultist wish for?</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON293-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON293-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON293-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "9b2c55bd-b52e-4659-b7ce-1c065252bdc9",
+            "product_group": {
+              "id": "5540da88-0759-4e64-b420-24a33aa99a8c",
+              "created_at": "2025-09-18T06:45:15.705292+12:00",
+              "updated_at": "2025-09-18T06:45:15.705309+12:00",
+              "group_name": "Monarch - Unlimited",
+              "product_type": "booster",
+              "release_date": "2021-06-04",
+              "slug": "monarch-unlimited"
+            },
+            "created_at": "2025-09-18T06:45:15.707410+12:00",
+            "updated_at": "2025-09-18T06:45:15.707423+12:00",
+            "printed_date": "2021-04-01",
+            "printed_language": "en",
+            "product_name": "Monarch - Unlimited",
+            "product_type": "booster",
+            "release_date": "2021-06-04",
+            "slug": "monarch-unlimited",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:59:34.511638+12:00",
+          "updated_at": "2025-09-18T06:59:34.511660+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "U-MON293-RF",
+          "set_number": 293,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "c85536f3-8db1-48a6-b14f-0458f98e95ac",
+          "faces": [
+            {
+              "id": "8c3b48f1-5b86-44bb-b3b6-d59d6f55aadd",
+              "created_at": "2025-09-18T06:59:34.536991+12:00",
+              "updated_at": "2025-09-18T06:59:34.537009+12:00",
+              "face_id": "DE_2HP524",
+              "face_language": "de",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP524",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "Fanatisches Aufpeitschen",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Falls deine Pitch-Zone eine Karte enthält, deren {d} größer ist als die Basis-{d} von Fanatisches Aufpeitschen, erhält Fanatisches Aufpeitschen **Weitermachen**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Allgemein Aktion - Angriff",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "c85536f3-8db1-48a6-b14f-0458f98e95ac",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Fanatisches Aufpeitschen</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Allgemein Aktion - Angriff</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Falls deine Pitch-Zone eine Karte enthält, deren <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> größer ist als die Basis-<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> von Fanatisches Aufpeitschen, erhält Fanatisches Aufpeitschen <strong>Weitermachen</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_2HP524.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_2HP524.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_2HP524.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "462766fd-d70a-45d5-b7ac-35604650806e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.865684+12:00",
+            "updated_at": "2025-09-18T06:45:18.865697+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "de",
+            "product_name": "History Pack 2 - Black Label [DE]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-de",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:59:34.529907+12:00",
+          "updated_at": "2025-09-18T06:59:34.529928+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "DE_2HP524",
+          "set_number": 524,
+          "layout": "regular",
+          "print_language": "de",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "1353871d-36c7-4b1a-8712-378386543bed",
+          "faces": [
+            {
+              "id": "3aba6a38-cec9-4cf1-9910-a074e591eb9e",
+              "created_at": "2025-09-18T06:59:34.555572+12:00",
+              "updated_at": "2025-09-18T06:59:34.555590+12:00",
+              "face_id": "FR_2HP524",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP524",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "Raclée zélée",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "S’il y a une carte dans votre zone de pitch avec une {p} supérieure à la {p} de base de la Raclée zélée, la Raclée zélée a **encore une fois**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Générique Action - Attaque",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "1353871d-36c7-4b1a-8712-378386543bed",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Raclée zélée</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Générique Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>S’il y a une carte dans votre zone de pitch avec une <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> supérieure à la <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de base de la Raclée zélée, la Raclée zélée a <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_2HP524.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_2HP524.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_2HP524.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1106e491-00fd-48b7-9490-efec9eea1d82",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.885032+12:00",
+            "updated_at": "2025-09-18T06:45:18.885049+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "fr",
+            "product_name": "History Pack 2 - Black Label [FR]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:59:34.547708+12:00",
+          "updated_at": "2025-09-18T06:59:34.547727+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_2HP524",
+          "set_number": 524,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "fcfe5e48-e940-4b79-bbe9-b5f8225fa189",
+          "faces": [
+            {
+              "id": "cb7e1fee-6cb5-4d8b-88e0-a6d070ae2733",
+              "created_at": "2025-09-18T06:59:34.574167+12:00",
+              "updated_at": "2025-09-18T06:59:34.574180+12:00",
+              "face_id": "ES_2HP524",
+              "face_language": "es",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP524",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "Correazo radical",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Si en tu zona de lanzamiento hay una carta con más {p} que el {p} de base de Correazo radical, esta tiene **continuar**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Acción genérica - Ataque",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "fcfe5e48-e940-4b79-bbe9-b5f8225fa189",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Correazo radical</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Acción genérica - Ataque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Si en tu zona de lanzamiento hay una carta con más <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> que el <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de base de Correazo radical, esta tiene <strong>continuar</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_2HP524.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_2HP524.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_2HP524.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "12d72e87-64af-4eac-b939-9424be79855e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.900596+12:00",
+            "updated_at": "2025-09-18T06:45:18.900613+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "es",
+            "product_name": "History Pack 2 - Black Label [ES]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-es",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:59:34.567988+12:00",
+          "updated_at": "2025-09-18T06:59:34.568010+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ES_2HP524",
+          "set_number": 524,
+          "layout": "regular",
+          "print_language": "es",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "d34b9fbe-8ae7-4d9e-950a-e6f3ca8c77ef",
+          "faces": [
+            {
+              "id": "7980088f-edc1-4ad5-9ab5-fdf0e3409772",
+              "created_at": "2025-09-18T06:59:34.588294+12:00",
+              "updated_at": "2025-09-18T06:59:34.588309+12:00",
+              "face_id": "IT_2HP524",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP524",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "Cinghiate Vigorose",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Se c'è una carta nella tua zona di pagamento con {p} superiore alla {p} di base di Cinghiate Vigorose, Cinghiate Vigorose guadagna **continua**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Azione Generica - Attacco",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "d34b9fbe-8ae7-4d9e-950a-e6f3ca8c77ef",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cinghiate Vigorose</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Azione Generica - Attacco</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Se c'è una carta nella tua zona di pagamento con <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> superiore alla <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> di base di Cinghiate Vigorose, Cinghiate Vigorose guadagna <strong>continua</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_2HP524.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_2HP524.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_2HP524.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c24effd5-1d3d-4ed0-8f6f-c6a3c2098f91",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.923313+12:00",
+            "updated_at": "2025-09-18T06:45:18.923333+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "it",
+            "product_name": "History Pack 2 - Black Label [IT]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:59:34.582883+12:00",
+          "updated_at": "2025-09-18T06:59:34.582899+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_2HP524",
+          "set_number": 524,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "f1a4f399-4780-489f-b822-8506799a8a7d",
+          "faces": [
+            {
+              "id": "6892a3d7-815d-4bfb-bd01-441022008353",
+              "created_at": "2025-09-18T06:59:34.601120+12:00",
+              "updated_at": "2025-09-18T06:59:34.601136+12:00",
+              "face_id": "JDG028-CF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "judge",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "JDG028",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "Zealous Belting",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "If there is a card in your pitch zone with {p} greater than Zealous Belting's base {p}, this gets **go again**.",
+              "printed_flavor_text": "_Flails, chains, and a body the size of a house. What more could a cultist wish for?_",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2023",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "f1a4f399-4780-489f-b822-8506799a8a7d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Zealous Belting</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>If there is a card in your pitch zone with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than Zealous Belting's base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, this gets <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>Flails, chains, and a body the size of a house. What more could a cultist wish for?</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG028-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG028-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG028-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "55b342ea-4e92-493d-8caa-c30529fdd55c",
+            "product_group": null,
+            "created_at": "2025-09-18T06:47:09.260967+12:00",
+            "updated_at": "2025-09-18T06:47:09.260977+12:00",
+            "printed_date": "2023-11-01",
+            "printed_language": "en",
+            "product_name": "Judge Pack - Season 4",
+            "product_type": "booster",
+            "release_date": "2024-02-02",
+            "slug": "judge-pack-season-4",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "51193f7c-85ba-4057-bffa-2c8e4358604d",
+            "created_at": "2025-09-18T06:45:12.737365+12:00",
+            "updated_at": "2025-09-18T06:45:12.737375+12:00",
+            "set_code": "JDG",
+            "set_name": "Judge Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:59:34.595760+12:00",
+          "updated_at": "2025-09-18T06:59:34.595776+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JDG028-CF",
+          "set_number": 28,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "5e723d36-dd5f-4cc6-84bf-40ba0a4791a0",
+          "faces": [
+            {
+              "id": "bfd0f08e-1281-4237-a3b2-ba273cdab480",
+              "created_at": "2025-09-18T06:59:34.614852+12:00",
+              "updated_at": "2025-09-18T06:59:34.614873+12:00",
+              "face_id": "JA_GAP124",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "GAP124",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "執拗な鞭打ち",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "",
+              "printed_intellect": "2",
+              "printed_life": "",
+              "printed_rules_text": "あなたのピッチゾーンにこのカードの基本の{p}より大きい{p}を持つカードがある場合、これは**続行**を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "汎用・アクション － 攻撃",
+              "printed_year": "2148",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "5e723d36-dd5f-4cc6-84bf-40ba0a4791a0",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>執拗な鞭打ち</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>汎用・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>あなたのピッチゾーンにこのカードの基本の<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>より大きい<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を持つカードがある場合、これは<strong>続行</strong>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_GAP124.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_GAP124.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_GAP124.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "22f90aeb-c2a3-4656-ba93-979a70ff15f0",
+            "product_group": {
+              "id": "4ce2f6fb-cb38-4c31-b26d-9665943b7fa5",
+              "created_at": "2025-09-18T06:45:25.557072+12:00",
+              "updated_at": "2025-09-18T06:45:25.557104+12:00",
+              "group_name": "Mastery Pack Archive - Guardian [JA]",
+              "product_type": "booster",
+              "release_date": "2024-12-20",
+              "slug": "mastery-pack-archive-guardian-ja"
+            },
+            "created_at": "2025-09-18T06:45:25.560150+12:00",
+            "updated_at": "2025-09-18T06:45:25.560167+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "ja",
+            "product_name": "Mastery Pack Archive - Guardian [JA]",
+            "product_type": "booster",
+            "release_date": "2024-12-20",
+            "slug": "mastery-pack-archive-guardian-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "c8a3426a-effc-4b05-b7b6-af43d60c6655",
+            "created_at": "2025-09-18T06:45:12.673241+12:00",
+            "updated_at": "2025-09-18T06:45:12.673258+12:00",
+            "set_code": "GAP",
+            "set_name": "Mastery Pack Archive - Guardian",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:59:34.607285+12:00",
+          "updated_at": "2025-09-18T06:59:34.607297+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_GAP124",
+          "set_number": 124,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "fabbcbd8-b5b8-4251-b468-f445c273b951",
+          "faces": [
+            {
+              "id": "fa7e2c7a-f988-43ba-94db-c692e29af3e7",
+              "created_at": "2026-01-19T19:28:41.056360+13:00",
+              "updated_at": "2026-01-19T19:28:41.056370+13:00",
+              "face_id": "FR_SBR019",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SBR019",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "Raclée zélée",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "S’il y a une carte dans votre zone de pitch avec une {p} supérieure à la base de {p} de cette carte, la Raclée zélée gagne **encore une fois**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Générique Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "fabbcbd8-b5b8-4251-b468-f445c273b951",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Raclée zélée</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Générique Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>S’il y a une carte dans votre zone de pitch avec une <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> supérieure à la base de <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de cette carte, la Raclée zélée gagne <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SBR019.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SBR019.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SBR019.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "76aba683-ef3a-43fb-af18-d66a84957adf",
+            "product_group": {
+              "id": "8e14ff00-c7f3-456c-872d-f2c9d346d8ad",
+              "created_at": "2025-10-20T10:26:44.842886+13:00",
+              "updated_at": "2025-10-20T10:26:44.842894+13:00",
+              "group_name": "Silver Age Chapter 1 - Bravo, Flattering Showman",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-1-bravo-flattering-"
+            },
+            "created_at": "2025-10-20T10:26:44.326057+13:00",
+            "updated_at": "2025-10-20T10:26:44.845558+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "fr",
+            "product_name": "Silver Age Chapter 1 - Bravo, Flattering Showman [FR]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-1-bravo-flattering-showman-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "fcfeed96-50ae-4ce7-8164-f9e6179c3ff0",
+            "created_at": "2025-10-20T10:26:44.267319+13:00",
+            "updated_at": "2025-10-20T10:52:55.068540+13:00",
+            "set_code": "SBR",
+            "set_name": "Silver Age Chapter 1 - Bravo, Flattering Showman",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:28:41.053312+13:00",
+          "updated_at": "2026-01-28T13:22:47.749065+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SBR019",
+          "set_number": 19,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "e58771ff-76bb-4c56-b324-6e127369063d",
+          "faces": [
+            {
+              "id": "10ae0a90-167b-4faa-a056-52e76d8bade4",
+              "created_at": "2026-01-19T19:28:49.899013+13:00",
+              "updated_at": "2026-01-19T19:28:49.899020+13:00",
+              "face_id": "JA_SBR019",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SBR019",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "執拗な鞭打ち",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "あなたのピッチゾーンにこのカードの基本の{p}より大きい{p}のカードがある場合、これは**続行**を得る。",
+              "printed_flavor_text": "",
+              "printed_typebox": "汎用・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "e58771ff-76bb-4c56-b324-6e127369063d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>執拗な鞭打ち</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>汎用・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>あなたのピッチゾーンにこのカードの基本の<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>より大きい<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>のカードがある場合、これは<strong>続行</strong>を得る。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SBR019.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SBR019.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SBR019.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "a6351bad-a00b-4a3a-b951-39e737ba9d4e",
+            "product_group": {
+              "id": "8e14ff00-c7f3-456c-872d-f2c9d346d8ad",
+              "created_at": "2025-10-20T10:26:44.842886+13:00",
+              "updated_at": "2025-10-20T10:26:44.842894+13:00",
+              "group_name": "Silver Age Chapter 1 - Bravo, Flattering Showman",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-1-bravo-flattering-"
+            },
+            "created_at": "2025-10-20T10:26:44.323024+13:00",
+            "updated_at": "2025-10-20T10:26:44.846186+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "ja",
+            "product_name": "Silver Age Chapter 1 - Bravo, Flattering Showman [JA]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-1-bravo-flattering-showman-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "fcfeed96-50ae-4ce7-8164-f9e6179c3ff0",
+            "created_at": "2025-10-20T10:26:44.267319+13:00",
+            "updated_at": "2025-10-20T10:52:55.068540+13:00",
+            "set_code": "SBR",
+            "set_name": "Silver Age Chapter 1 - Bravo, Flattering Showman",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:28:49.896123+13:00",
+          "updated_at": "2026-01-28T13:22:52.471121+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SBR019",
+          "set_number": 19,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        },
+        {
+          "id": "a508bd66-5c58-4bfe-ac1d-fd42d6ce812e",
+          "faces": [
+            {
+              "id": "cdd13b44-3395-46f5-b4aa-cf9416751d10",
+              "created_at": "2026-01-19T19:28:58.460283+13:00",
+              "updated_at": "2026-01-19T19:28:58.460295+13:00",
+              "face_id": "SBR019",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SBR019",
+              "printed_artist": "Brian Adriel",
+              "printed_name": "Zealous Belting",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "If there is a card in your pitch zone with {p} greater than this card's base {p}, this gets **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "d4092f44-fd62-429f-999f-f0b919d848cb",
+              "card_print": "a508bd66-5c58-4bfe-ac1d-fd42d6ce812e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Zealous Belting</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>If there is a card in your pitch zone with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> greater than this card's base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>, this gets <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBR019.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBR019.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBR019.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "e438ca8a-46c5-4556-b862-bd52b3cb7695",
+            "product_group": {
+              "id": "8e14ff00-c7f3-456c-872d-f2c9d346d8ad",
+              "created_at": "2025-10-20T10:26:44.842886+13:00",
+              "updated_at": "2025-10-20T10:26:44.842894+13:00",
+              "group_name": "Silver Age Chapter 1 - Bravo, Flattering Showman",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-1-bravo-flattering-"
+            },
+            "created_at": "2025-10-20T10:26:44.319899+13:00",
+            "updated_at": "2025-10-20T10:26:44.844871+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "en",
+            "product_name": "Silver Age Chapter 1 - Bravo, Flattering Showman",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-1-bravo-flattering-showman",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "fcfeed96-50ae-4ce7-8164-f9e6179c3ff0",
+            "created_at": "2025-10-20T10:26:44.267319+13:00",
+            "updated_at": "2025-10-20T10:52:55.068540+13:00",
+            "set_code": "SBR",
+            "set_name": "Silver Age Chapter 1 - Bravo, Flattering Showman",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:28:58.457444+13:00",
+          "updated_at": "2026-01-28T13:23:02.193242+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SBR019",
+          "set_number": 19,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "658c7e91-f51b-46e5-b999-f6932be20bb7"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:59:34.446680+12:00",
+      "updated_at": "2025-09-18T06:59:34.448481+12:00",
+      "card_id": "zealous-belting-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

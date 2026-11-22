@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "proto-base-head",
+  "language": "fr",
+  "name": "Tête de base prototype",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Tête de base prototype",
+      "typeLine": "Mécanologue Équipement - Tête de base",
+      "classes": [
+        "Mécanologue"
+      ],
+      "types": [
+        "Équipement"
+      ],
+      "subtypes": [
+        "Base",
+        "Tête"
+      ],
+      "text": {
+        "markup": "_(Un joueur peut ajouter une Tête de base prototype à sa sélection de cartes en format limité Bright Lights.)_",
+        "plain": "_(Un joueur peut ajouter une Tête de base prototype à sa sélection de cartes en format limité Bright Lights.)_",
+        "html": "<p><em>(Un joueur peut ajouter une Tête de base prototype à sa sélection de cartes en format limité Bright Lights.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_EVO022",
+      "code": "EVO022",
+      "language": "fr",
+      "set": "EVO",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-fr",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_EVO022",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Tête de base prototype",
+          "typeLine": "Mécanologue Équipement - Tête de base",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Un joueur peut ajouter une Tête de base prototype à sa sélection de cartes en format limité Bright Lights.)_",
+            "plain": "_(Un joueur peut ajouter une Tête de base prototype à sa sélection de cartes en format limité Bright Lights.)_",
+            "html": "<p><em>(Un joueur peut ajouter une Tête de base prototype à sa sélection de cartes en format limité Bright Lights.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO022",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Vlad Tashkinov",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_EVO022.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_EVO022.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_EVO022.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

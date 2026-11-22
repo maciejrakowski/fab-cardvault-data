@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "tales-of-adventure-3",
+  "name": "Tales of Adventure",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Tales of Adventure",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Bard Action",
+      "traitLine": null,
+      "classes": [
+        "Bard"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "**Yorick Specialization**{br}Each other hero chooses and creates a token that hasn't been chosen; Aether Ashwing, Embodiment of Earth, Embodiment of Lightning, Ponder, Quicken, Runechant, Seismic Surge, Soul Shackle, Spectral Shield, Zen State.{br}You create a Copper, Silver, and Gold.",
+        "plain": "Yorick Specialization\nEach other hero chooses and creates a token that hasn't been chosen; Aether Ashwing, Embodiment of Earth, Embodiment of Lightning, Ponder, Quicken, Runechant, Seismic Surge, Soul Shackle, Spectral Shield, Zen State.\nYou create a Copper, Silver, and Gold."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LSS005-RF",
+      "code": "LSS005",
+      "language": "en",
+      "set": "LSS",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "world-championship-2022",
+      "releaseDate": "2022-11-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LSS005-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Tales of Adventure",
+          "typeLine": "Bard Action",
+          "traitLine": null,
+          "text": {
+            "markup": "**Yorick Specialization** _(You may only have Tales of Adventure in your deck if your hero is Yorick.)_\nEach other hero chooses and creates a token that hasn't been chosen; Aether Ashwing, Embodiment of Earth, Embodiment of Lightning, Ponder, Quicken, Runechant, Seismic Surge, Soul Shackle, Spectral Shield, Zen State.\nYou create a Copper, Silver, and Gold.",
+            "plain": "Yorick Specialization _(You may only have Tales of Adventure in your deck if your hero is Yorick.)_\nEach other hero chooses and creates a token that hasn't been chosen; Aether Ashwing, Embodiment of Earth, Embodiment of Lightning, Ponder, Quicken, Runechant, Seismic Surge, Soul Shackle, Spectral Shield, Zen State.\nYou create a Copper, Silver, and Gold.",
+            "html": "<p><strong>Yorick Specialization</strong> <em>(You may only have Tales of Adventure in your deck if your hero is Yorick.)</em></p>\n<p>Each other hero chooses and creates a token that hasn't been chosen; Aether Ashwing, Embodiment of Earth, Embodiment of Lightning, Ponder, Quicken, Runechant, Seismic Surge, Soul Shackle, Spectral Shield, Zen State.</p>\n<p>You create a Copper, Silver, and Gold.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LSS005",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Andy Aslamov",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LSS005-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LSS005-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS005-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Yorick Specialization"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:10:05Z",
+    "rawSha256": "8ef1cd5e946e830bb4448fb73a5eb07169bbd396dbaf49c8f0a3d3d3d85a97d7",
+    "updatedAt": "2025-09-18T06:57:32.379480+12:00"
+  }
+}

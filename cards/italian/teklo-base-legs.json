@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "teklo-base-legs",
+  "language": "it",
+  "name": "Gambe Base Teklo",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Gambe Base Teklo",
+      "typeLine": "Equipaggiamento Meccanologo - Gambe Base",
+      "classes": [
+        "Meccanologo"
+      ],
+      "types": [
+        "Equipaggiamento"
+      ],
+      "subtypes": [
+        "Base",
+        "Gambe"
+      ],
+      "text": {
+        "markup": "**Rottura** _(Quando la catena di combattimento si chiude, se questa carta ha difeso, distruggila.)_",
+        "plain": "Rottura _(Quando la catena di combattimento si chiude, se questa carta ha difeso, distruggila.)_",
+        "html": "<p><strong>Rottura</strong> <em>(Quando la catena di combattimento si chiude, se questa carta ha difeso, distruggila.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_EVO021",
+      "code": "EVO021",
+      "language": "it",
+      "set": "EVO",
+      "setNumber": 21,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-it",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_EVO021",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Gambe Base Teklo",
+          "typeLine": "Equipaggiamento Meccanologo - Gambe Base",
+          "traitLine": null,
+          "text": {
+            "markup": "**Rottura** _(Quando la catena di combattimento si chiude, se questa carta ha difeso, distruggila.)_",
+            "plain": "Rottura _(Quando la catena di combattimento si chiude, se questa carta ha difeso, distruggila.)_",
+            "html": "<p><strong>Rottura</strong> <em>(Quando la catena di combattimento si chiude, se questa carta ha difeso, distruggila.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO021",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Erick Efata",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_EVO021.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_EVO021.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_EVO021.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

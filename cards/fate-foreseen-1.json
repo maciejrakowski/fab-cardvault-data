@@ -1,0 +1,579 @@
+{
+  "schemaVersion": 1,
+  "id": "fate-foreseen-1",
+  "name": "Fate Foreseen",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Fate Foreseen",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": null,
+      "defense": 4,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Defense Reaction",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Defense Reaction"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "**Opt 1**",
+        "plain": "Opt 1"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ARC200",
+      "code": "ARC200-C",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 200,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC200",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Fate Foreseen",
+          "typeLine": "Generic Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "**Opt 1** _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "plain": "Opt 1 _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "html": "<p><strong>Opt 1</strong> <em>(Look at the top card of your deck. You may put it on the bottom.)</em></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Should you wish to see the future, know this... what has been seen cannot be unseen.\" - Vera_",
+            "plain": "_\"Should you wish to see the future, know this... what has been seen cannot be unseen.\" - Vera_",
+            "html": "<p><em>&quot;Should you wish to see the future, know this... what has been seen cannot be unseen.&quot; - Vera</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC200-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Anastasia Alexandrova",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC200.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC200.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC200.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC200-RF",
+      "code": "ARC200-C",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 200,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC200-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Fate Foreseen",
+          "typeLine": "Generic Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "**Opt 1** _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "plain": "Opt 1 _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "html": "<p><strong>Opt 1</strong> <em>(Look at the top card of your deck. You may put it on the bottom.)</em></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Should you wish to see the future, know this... what has been seen cannot be unseen.\" - Vera_",
+            "plain": "_\"Should you wish to see the future, know this... what has been seen cannot be unseen.\" - Vera_",
+            "html": "<p><em>&quot;Should you wish to see the future, know this... what has been seen cannot be unseen.&quot; - Vera</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC200-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Anastasia Alexandrova",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC200-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC200-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC200-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC200",
+      "code": "ARC200",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 200,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC200",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Fate Foreseen",
+          "typeLine": "Generic Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "**Opt 1** _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "plain": "Opt 1 _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "html": "<p><strong>Opt 1</strong> <em>(Look at the top card of your deck. You may put it on the bottom.)</em></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Should you wish to see the future, know this... what has been seen cannot be unseen.\" - Vera_",
+            "plain": "_\"Should you wish to see the future, know this... what has been seen cannot be unseen.\" - Vera_",
+            "html": "<p><em>&quot;Should you wish to see the future, know this... what has been seen cannot be unseen.&quot; - Vera</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC200",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Anastasia Alexandrova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC200.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC200.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC200.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC200-RF",
+      "code": "ARC200",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 200,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC200-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Fate Foreseen",
+          "typeLine": "Generic Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "**Opt 1** _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "plain": "Opt 1 _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "html": "<p><strong>Opt 1</strong> <em>(Look at the top card of your deck. You may put it on the bottom.)</em></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Should you wish to see the future, know this... what has been seen cannot be unseen.\" - Vera_",
+            "plain": "_\"Should you wish to see the future, know this... what has been seen cannot be unseen.\" - Vera_",
+            "html": "<p><em>&quot;Should you wish to see the future, know this... what has been seen cannot be unseen.&quot; - Vera</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC200",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Anastasia Alexandrova",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC200-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC200-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC200-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP405",
+      "code": "1HP405",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 405,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP405",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Fate Foreseen",
+          "typeLine": "Generic Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "**Opt 1** _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "plain": "Opt 1 _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "html": "<p><strong>Opt 1</strong> <em>(Look at the top card of your deck. You may put it on the bottom.)</em></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Should you wish to see the future, know this... what has been seen cannot be unseen.\" - Vera_",
+            "plain": "_\"Should you wish to see the future, know this... what has been seen cannot be unseen.\" - Vera_",
+            "html": "<p><em>&quot;Should you wish to see the future, know this... what has been seen cannot be unseen.&quot; - Vera</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP405",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP405.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP405.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP405.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "JDG016-CF",
+      "code": "JDG016",
+      "language": "en",
+      "set": "JDG",
+      "setNumber": 16,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "judge-pack-season-2",
+      "releaseDate": "2023-10-21",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JDG016-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Fate Foreseen",
+          "typeLine": "Generic Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "**Opt 1** _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "plain": "Opt 1 _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "html": "<p><strong>Opt 1</strong> <em>(Look at the top card of your deck. You may put it on the bottom.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "JDG016",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Anastasiya Grintsova",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "judge",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG016-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG016-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG016-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ANQ033",
+      "code": "ANQ033",
+      "language": "en",
+      "set": "ANQ",
+      "setNumber": 33,
+      "edition": null,
+      "rarity": "gold",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "compendium-of-rathe-antiquity-pack",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ANQ033",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Fate Foreseen",
+          "typeLine": "Generic Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "**Opt 1** _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "plain": "Opt 1 _(Look at the top card of your deck. You may put it on the bottom.)_",
+            "html": "<p><strong>Opt 1</strong> <em>(Look at the top card of your deck. You may put it on the bottom.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ANQ033",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Anastasia Alexandrova",
+          "rarityMark": "gold-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ANQ033.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ANQ033.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ANQ033.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB487-RF",
+      "code": "FAB487",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 487,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-vegas-2026",
+      "releaseDate": "2027-05-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB487-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Fate Foreseen",
+          "typeLine": "Generic Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "**Opt 1**",
+            "plain": "Opt 1",
+            "html": "<p><strong>Opt 1</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB487",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Christ Adiel Then",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB487-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB487-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB487-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Opt 1"
+    ],
+    "editions": {
+      "U-ARC200": "unlimited",
+      "U-ARC200-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:28:13Z",
+    "rawSha256": "b7eafd51f92b5b32d2b2d37f0db9ab48d1d615c7bd5798092352f01c3aadd3d6",
+    "updatedAt": "2025-09-18T06:49:45.959263+12:00"
+  }
+}

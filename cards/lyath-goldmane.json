@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "id": "lyath-goldmane",
+  "name": "Lyath Goldmane",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Lyath Goldmane",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 5,
+      "typeLine": "Reviled Guardian Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Guardian"
+      ],
+      "talents": [
+        "Reviled"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "The base {p} and {d} of cards you control are halved, rounded up.{br}**Instant** -- {r}{r}, {t}: **The crowd boos** you. Defending action cards you control get +1{d} this turn.{br}Whenever the crowd boos you, create a Might token.",
+        "plain": "The base {p} and {d} of cards you control are halved, rounded up.\nInstant -- {r}{r}, {t}: The crowd boos you. Defending action cards you control get +1{d} this turn.\nWhenever the crowd boos you, create a Might token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HER152-RF",
+      "code": "HER152",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 152,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "conventions-super-slam",
+      "releaseDate": "2019-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER152-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lyath Goldmane",
+          "typeLine": "Reviled Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "The base {p} and {d} of cards you control are halved, rounded up. _(5 becomes 3.)_{br}**Instant** -- {r}{r}, {t}: **The crowd boos** you. Defending action cards you control get +1{d} this turn.{br}Whenever the crowd boos you, create a Might token.",
+            "plain": "The base {p} and {d} of cards you control are halved, rounded up. _(5 becomes 3.)_\nInstant -- {r}{r}, {t}: The crowd boos you. Defending action cards you control get +1{d} this turn.\nWhenever the crowd boos you, create a Might token.",
+            "html": "<p>The base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> of cards you control are halved, rounded up. <em>(5 becomes 3.)</em></p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>The crowd boos</strong> you. Defending action cards you control get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> this turn.</p>\n<p>Whenever the crowd boos you, create a Might token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "5"
+          },
+          "printedCode": "HER152",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER152-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER152-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER152-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SUP072",
+      "code": "SUP072",
+      "language": "en",
+      "set": "SUP",
+      "setNumber": 72,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "super-slam",
+      "releaseDate": "2025-09-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SUP072",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lyath Goldmane",
+          "typeLine": "Reviled Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "The base {p} and {d} of cards you control are halved, rounded up. _(5 becomes 3.)_{br}**Instant** -- {r}{r}, {t}: **The crowd boos** you. Defending action cards you control get +1{d} this turn.{br}Whenever the crowd boos you, create a Might token.",
+            "plain": "The base {p} and {d} of cards you control are halved, rounded up. _(5 becomes 3.)_\nInstant -- {r}{r}, {t}: The crowd boos you. Defending action cards you control get +1{d} this turn.\nWhenever the crowd boos you, create a Might token.",
+            "html": "<p>The base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> of cards you control are halved, rounded up. <em>(5 becomes 3.)</em></p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>The crowd boos</strong> you. Defending action cards you control get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> this turn.</p>\n<p>Whenever the crowd boos you, create a Might token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "5"
+          },
+          "printedCode": "SUP072",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SUP072.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SUP072.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SUP072.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SUP072-MV",
+      "code": "SUP072",
+      "language": "en",
+      "set": "SUP",
+      "setNumber": 72,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "super-slam",
+      "releaseDate": "2025-09-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SUP072-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lyath Goldmane",
+          "typeLine": "Reviled Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "The base {p} and {d} of cards you control are halved, rounded up. _(5 becomes 3.)_{br}**Instant** -- {r}{r}, {t}: **The crowd boos** you. Defending action cards you control get +1{d} this turn.{br}Whenever the crowd boos you, create a Might token.",
+            "plain": "The base {p} and {d} of cards you control are halved, rounded up. _(5 becomes 3.)_\nInstant -- {r}{r}, {t}: The crowd boos you. Defending action cards you control get +1{d} this turn.\nWhenever the crowd boos you, create a Might token.",
+            "html": "<p>The base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> of cards you control are halved, rounded up. <em>(5 becomes 3.)</em></p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>The crowd boos</strong> you. Defending action cards you control get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> this turn.</p>\n<p>Whenever the crowd boos you, create a Might token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "5"
+          },
+          "printedCode": "SUP072",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SUP072-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SUP072-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SUP072-MV.webp"
+          }
+        },
+        {
+          "id": "SUP072-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lyath Goldmane",
+          "typeLine": "Reviled Guardian Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "EN",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SUP072-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SUP072-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SUP072-MV_BACK.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SLY001",
+      "code": "SLY001",
+      "language": "en",
+      "set": "SLY",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-lyath-goldmane",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SLY001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lyath Goldmane",
+          "typeLine": "Reviled Guardian Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "The base {p} and {d} of cards you control are halved, rounded up. _(5 becomes 3.)_{br}**Instant** -- {r}{r}, {t}: **The crowd boos** you. Defending action cards you control get +1{d} this turn.{br}Whenever the crowd boos you, create a Might token.",
+            "plain": "The base {p} and {d} of cards you control are halved, rounded up. _(5 becomes 3.)_\nInstant -- {r}{r}, {t}: The crowd boos you. Defending action cards you control get +1{d} this turn.\nWhenever the crowd boos you, create a Might token.",
+            "html": "<p>The base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> of cards you control are halved, rounded up. <em>(5 becomes 3.)</em></p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>The crowd boos</strong> you. Defending action cards you control get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> this turn.</p>\n<p>Whenever the crowd boos you, create a Might token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "5"
+          },
+          "printedCode": "SLY001",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SLY001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SLY001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SLY001.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "The crowd boos"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:30:45Z",
+    "rawSha256": "c26df05c8d90a1e832067a031b16502d538e80613668e313a342d0474363062c",
+    "updatedAt": "2025-09-18T06:52:23.547989+12:00"
+  }
+}

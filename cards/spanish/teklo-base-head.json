@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "teklo-base-head",
+  "language": "es",
+  "name": "Cabeza base de Teklo",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Cabeza base de Teklo",
+      "typeLine": "Equipo de mecanólogo - Cabeza base",
+      "classes": [
+        "Mecanólogo"
+      ],
+      "types": [
+        "Equipo"
+      ],
+      "subtypes": [
+        "Base",
+        "Cabeza"
+      ],
+      "text": {
+        "markup": "**Quebradizo** _(Si esta carta ha defendido, destrúyela cuando se cierre la cadena de combate)._",
+        "plain": "Quebradizo _(Si esta carta ha defendido, destrúyela cuando se cierre la cadena de combate)._",
+        "html": "<p><strong>Quebradizo</strong> <em>(Si esta carta ha defendido, destrúyela cuando se cierre la cadena de combate).</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_EVO018",
+      "code": "EVO018",
+      "language": "es",
+      "set": "EVO",
+      "setNumber": 18,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-es",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_EVO018",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Cabeza base de Teklo",
+          "typeLine": "Equipo de mecanólogo - Cabeza base",
+          "traitLine": null,
+          "text": {
+            "markup": "**Quebradizo** _(Si esta carta ha defendido, destrúyela cuando se cierre la cadena de combate)._",
+            "plain": "Quebradizo _(Si esta carta ha defendido, destrúyela cuando se cierre la cadena de combate)._",
+            "html": "<p><strong>Quebradizo</strong> <em>(Si esta carta ha defendido, destrúyela cuando se cierre la cadena de combate).</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO018",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Alief Rusdiatama",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_EVO018.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_EVO018.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_EVO018.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

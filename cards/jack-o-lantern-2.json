@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "jack-o-lantern-2",
+  "name": "Jack-o'-lantern",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Jack-o'-lantern",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 0,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Shadow Runeblade Action",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Banish the top card of your deck. If it's yellow, create a Runechant token.{br}**Go again**",
+        "plain": "Banish the top card of your deck. If it's yellow, create a Runechant token.\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS177",
+      "code": "LGS177",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 177,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "buy-a-box-halloween-2023",
+      "releaseDate": "2023-11-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS177",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Jack-o'-lantern",
+          "typeLine": "Shadow Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Banish the top card of your deck. If it's yellow, create a Runechant token.{br}**Go again**",
+            "plain": "Banish the top card of your deck. If it's yellow, create a Runechant token.\nGo again",
+            "html": "<p>Banish the top card of your deck. If it's yellow, create a Runechant token.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS177",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Isuardi Therianto",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": "shadow",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS177.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS177.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS177.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:18:34Z",
+    "rawSha256": "98907dc3412b45ec00b7ecc5d00beed461b5d9189b84121b581e9bcb71e3553a",
+    "updatedAt": "2025-09-18T06:51:49.667916+12:00"
+  }
+}

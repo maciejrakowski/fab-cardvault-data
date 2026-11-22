@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "id": "tripwire-trap-1",
+  "name": "Tripwire Trap",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Tripwire Trap",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": null,
+      "defense": 4,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Ranger Defense Reaction - Trap",
+      "traitLine": null,
+      "classes": [
+        "Ranger"
+      ],
+      "talents": [],
+      "types": [
+        "Defense Reaction"
+      ],
+      "subtypes": [
+        "Trap"
+      ],
+      "text": {
+        "markup": "This can only be played from arsenal.{br}When this defends, hit effects don't trigger this chain link unless the attacking hero pays {r}.",
+        "plain": "This can only be played from arsenal.\nWhen this defends, hit effects don't trigger this chain link unless the attacking hero pays {r}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata OUT] CRU traps must be played from arsenal",
+      "description": "The Trap subtype was changed from a functional subtype that must be played from arsenal to a non-functional subtype with the release of OUT. This change put this requirement onto the existing traps as a play-static ability, separate from the Trap subtype",
+      "date": "24-03-2023"
+    }
+  ],
+  "printings": [
+    {
+      "id": "CRU126",
+      "code": "CRU126",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 126,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU126",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Tripwire Trap",
+          "typeLine": "Ranger Defense Reaction - Trap",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Traps can only be played from arsenal.)_\r\nHit effects don't trigger this chain link unless the attacking hero pays {r}. _(The attacking hero chooses whether to pay {r} as Tripwire Trap resolves.)_",
+            "plain": "_(Traps can only be played from arsenal.)_\r\nHit effects don't trigger this chain link unless the attacking hero pays {r}. _(The attacking hero chooses whether to pay {r} as Tripwire Trap resolves.)_",
+            "html": "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Hit effects don't trigger this chain link unless the attacking hero pays <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <em>(The attacking hero chooses whether to pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> as Tripwire Trap resolves.)</em></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"A crossbow bolt 'aint gonna make a dent in that thing.\" - Spokes_",
+            "plain": "_\"A crossbow bolt 'aint gonna make a dent in that thing.\" - Spokes_",
+            "html": "<p><em>&quot;A crossbow bolt 'aint gonna make a dent in that thing.&quot; - Spokes</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU126",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU126.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU126.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU126.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU126-RF",
+      "code": "CRU126",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 126,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU126-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Tripwire Trap",
+          "typeLine": "Ranger Defense Reaction - Trap",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Traps can only be played from arsenal.)_\nHit effects don't trigger this chain link unless the attacking hero pays {r}.",
+            "plain": "_(Traps can only be played from arsenal.)_\nHit effects don't trigger this chain link unless the attacking hero pays {r}.",
+            "html": "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Hit effects don't trigger this chain link unless the attacking hero pays <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"A crossbow bolt 'aint gonna make a dent in that thing.\" - Spokes_",
+            "plain": "_\"A crossbow bolt 'aint gonna make a dent in that thing.\" - Spokes_",
+            "html": "<p><em>&quot;A crossbow bolt 'aint gonna make a dent in that thing.&quot; - Spokes</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU126",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU126-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU126-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU126-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU126",
+      "code": "CRU126",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 126,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU126",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Tripwire Trap",
+          "typeLine": "Ranger Defense Reaction - Trap",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Traps can only be played from arsenal.)_\r\nHit effects don't trigger this chain link unless the attacking hero pays {r}. _(The attacking hero chooses whether to pay {r} as Tripwire Trap resolves.)_",
+            "plain": "_(Traps can only be played from arsenal.)_\r\nHit effects don't trigger this chain link unless the attacking hero pays {r}. _(The attacking hero chooses whether to pay {r} as Tripwire Trap resolves.)_",
+            "html": "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Hit effects don't trigger this chain link unless the attacking hero pays <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <em>(The attacking hero chooses whether to pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> as Tripwire Trap resolves.)</em></p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"A crossbow bolt 'aint gonna make a dent in that thing.\" - Spokes_",
+            "plain": "_\"A crossbow bolt 'aint gonna make a dent in that thing.\" - Spokes_",
+            "html": "<p><em>&quot;A crossbow bolt 'aint gonna make a dent in that thing.&quot; - Spokes</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU126",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU126.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU126.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU126.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU126-RF",
+      "code": "CRU126",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 126,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU126-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Tripwire Trap",
+          "typeLine": "Ranger Defense Reaction - Trap",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Traps can only be played from arsenal.)_\nHit effects don't trigger this chain link unless the attacking hero pays {r}.",
+            "plain": "_(Traps can only be played from arsenal.)_\nHit effects don't trigger this chain link unless the attacking hero pays {r}.",
+            "html": "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Hit effects don't trigger this chain link unless the attacking hero pays <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"A crossbow bolt 'aint gonna make a dent in that thing.\" - Spokes_",
+            "plain": "_\"A crossbow bolt 'aint gonna make a dent in that thing.\" - Spokes_",
+            "html": "<p><em>&quot;A crossbow bolt 'aint gonna make a dent in that thing.&quot; - Spokes</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU126",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU126-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU126-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU126-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS150-RF",
+      "code": "LGS150",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 150,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "organized-play-support-outsiders-traps",
+      "releaseDate": "2023-03-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS150-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Tripwire Trap",
+          "typeLine": "Ranger Defense Reaction - Trap",
+          "traitLine": null,
+          "text": {
+            "markup": "Tripwire Trap can only be played from arsenal.\nWhen this defends, effects don't trigger when an attack hits this chain link unless the attacking hero pays {r}.",
+            "plain": "Tripwire Trap can only be played from arsenal.\nWhen this defends, effects don't trigger when an attack hits this chain link unless the attacking hero pays {r}.",
+            "html": "<p>Tripwire Trap can only be played from arsenal.</p>\n<p>When this defends, effects don't trigger when an attack hits this chain link unless the attacking hero pays <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"A crossbow bolt 'aint gonna make a dent in that thing.\" - Spokes_",
+            "plain": "_\"A crossbow bolt 'aint gonna make a dent in that thing.\" - Spokes_",
+            "html": "<p><em>&quot;A crossbow bolt 'aint gonna make a dent in that thing.&quot; - Spokes</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS150",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Faizal Fikri",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS150-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS150-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS150-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-CRU126": "unlimited",
+      "U-CRU126-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T18:01:21Z",
+    "rawSha256": "90d567c850c1879b8d91306416e1d208e15f8cfd6de7de8dfba97b29e3c39d20",
+    "updatedAt": "2025-09-18T06:58:17.782137+12:00"
+  }
+}

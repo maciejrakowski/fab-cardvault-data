@@ -1,0 +1,917 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "b739eae1-c92f-41dd-941b-eb754c3cab97",
+      "cores": [
+        {
+          "id": "2624e8cd-001f-4f9c-89aa-2136abe56791",
+          "core_classes": [],
+          "core_talents": [
+            {
+              "id": 8,
+              "name": "Shadow",
+              "name_en": "Shadow",
+              "name_fr": "Ombre",
+              "name_de": "Schatten",
+              "name_it": "Ombra",
+              "name_es": "Sombra",
+              "name_ja": "影",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 11,
+              "name": "Token",
+              "name_en": "Token",
+              "name_fr": "Jeton",
+              "name_de": "Spielstein",
+              "name_it": "Pedina",
+              "name_es": "Ficha",
+              "name_ja": "トークン",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 4,
+              "name": "Ally",
+              "name_en": "Ally",
+              "name_fr": "Allié",
+              "name_de": "Verbündeter",
+              "name_it": "Alleato",
+              "name_es": "Aliado",
+              "name_ja": "盟友",
+              "is_published": true,
+              "functional": true
+            },
+            {
+              "id": 25,
+              "name": "Demon",
+              "name_en": "Demon",
+              "name_fr": "Démon",
+              "name_de": "Dämon",
+              "name_it": "Demone",
+              "name_es": "Demonio",
+              "name_ja": null,
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-09-18T06:58:33.806113+12:00",
+          "updated_at": "2026-10-30T06:47:23.597815+13:00",
+          "name": "Ursur, the Soul Reaper",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "6",
+          "defense": "",
+          "intellect": "",
+          "life": "6",
+          "textbox": "**Once per Turn Action** -- 0: **Attack**{br}If Ursur is attacking a hero with 1 or more cards in their soul, the attack gets **go again**.",
+          "typebox": "Shadow Token - Demon Ally",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": 6,
+          "card": "b739eae1-c92f-41dd-941b-eb754c3cab97"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "c3dc29cd-c356-4c0e-9a0f-f1278ad82dc6",
+          "faces": [
+            {
+              "id": "30c6725f-c6de-4dab-8164-4234ce8931f9",
+              "created_at": "2025-09-18T06:58:33.828919+12:00",
+              "updated_at": "2026-10-30T06:48:13.600318+13:00",
+              "face_id": "MON220",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "token-dot",
+              "printed_code": "MON220",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "Ursur, the Soul Reaper",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Allies can be attacked and can't be defended with {d}. They are destroyed when they have taken damage equal to their {h}. At end of turn, heal all damage dealt to Ursur.)_\r\n**Once per Turn Action** -- 0: **Attack**\r\nWhile Ursur is attacking a hero with 1 or more cards in their soul, the attack has **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Token - Demon Ally",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2624e8cd-001f-4f9c-89aa-2136abe56791",
+              "card_print": "c3dc29cd-c356-4c0e-9a0f-f1278ad82dc6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Ursur, the Soul Reaper</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Token - Demon Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Allies can be attacked and can't be defended with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>. They are destroyed when they have taken damage equal to their <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. At end of turn, heal all damage dealt to Ursur.)</em></p>\n<p><strong>Once per Turn Action</strong> — 0: <strong>Attack</strong></p>\n<p>While Ursur is attacking a hero with 1 or more cards in their soul, the attack has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON220.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON220.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON220.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d67b98c4-28a5-4ba9-930e-e0184b1200e9",
+            "product_group": {
+              "id": "2afe1735-8517-4b79-8fde-ce2976518ca9",
+              "created_at": "2025-09-18T06:45:15.675414+12:00",
+              "updated_at": "2025-09-18T06:45:15.675427+12:00",
+              "group_name": "Monarch",
+              "product_type": "booster",
+              "release_date": "2021-05-07",
+              "slug": "monarch"
+            },
+            "created_at": "2025-09-18T06:45:15.677749+12:00",
+            "updated_at": "2025-09-18T06:45:15.677762+12:00",
+            "printed_date": "2021-01-01",
+            "printed_language": "en",
+            "product_name": "Monarch",
+            "product_type": "booster",
+            "release_date": "2021-05-07",
+            "slug": "monarch",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:58:33.822870+12:00",
+          "updated_at": "2025-09-18T06:58:33.822883+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MON220",
+          "set_number": 220,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "token",
+          "card": "b739eae1-c92f-41dd-941b-eb754c3cab97"
+        },
+        {
+          "id": "6fa51876-a9e4-4ed4-98f1-5b58fe3f4acc",
+          "faces": [
+            {
+              "id": "1e14a507-cb09-4257-960c-ee1945e43592",
+              "created_at": "2025-09-18T06:58:33.847490+12:00",
+              "updated_at": "2026-10-30T06:48:17.329710+13:00",
+              "face_id": "U-MON220",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "token-circle",
+              "printed_code": "MON220",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "Ursur, the Soul Reaper",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Allies can be attacked and can't be defended with {d}. They are destroyed when they have taken damage equal to their {h}. At end of turn, heal all damage dealt to Ursur.)_\r\n**Once per Turn Action** -- 0: **Attack**\r\nWhile Ursur is attacking a hero with 1 or more cards in their soul, the attack has **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Token - Demon Ally",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2624e8cd-001f-4f9c-89aa-2136abe56791",
+              "card_print": "6fa51876-a9e4-4ed4-98f1-5b58fe3f4acc",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Ursur, the Soul Reaper</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Token - Demon Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Allies can be attacked and can't be defended with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>. They are destroyed when they have taken damage equal to their <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. At end of turn, heal all damage dealt to Ursur.)</em></p>\n<p><strong>Once per Turn Action</strong> — 0: <strong>Attack</strong></p>\n<p>While Ursur is attacking a hero with 1 or more cards in their soul, the attack has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON220.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON220.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON220.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "9b2c55bd-b52e-4659-b7ce-1c065252bdc9",
+            "product_group": {
+              "id": "5540da88-0759-4e64-b420-24a33aa99a8c",
+              "created_at": "2025-09-18T06:45:15.705292+12:00",
+              "updated_at": "2025-09-18T06:45:15.705309+12:00",
+              "group_name": "Monarch - Unlimited",
+              "product_type": "booster",
+              "release_date": "2021-06-04",
+              "slug": "monarch-unlimited"
+            },
+            "created_at": "2025-09-18T06:45:15.707410+12:00",
+            "updated_at": "2025-09-18T06:45:15.707423+12:00",
+            "printed_date": "2021-04-01",
+            "printed_language": "en",
+            "product_name": "Monarch - Unlimited",
+            "product_type": "booster",
+            "release_date": "2021-06-04",
+            "slug": "monarch-unlimited",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e24e2bb3-a06b-4c0b-9b04-d4e6bc56670e",
+            "created_at": "2025-09-18T06:45:12.594269+12:00",
+            "updated_at": "2025-09-18T06:45:12.594287+12:00",
+            "set_code": "MON",
+            "set_name": "Monarch",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:58:33.842074+12:00",
+          "updated_at": "2025-09-18T06:58:33.842154+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "U-MON220",
+          "set_number": 220,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "token",
+          "card": "b739eae1-c92f-41dd-941b-eb754c3cab97"
+        },
+        {
+          "id": "93c95012-f75c-40de-972b-ec767f8690af",
+          "faces": [
+            {
+              "id": "1cc6c93e-cbf2-4fe9-9f50-9a89a69a56a1",
+              "created_at": "2025-09-18T06:58:33.866525+12:00",
+              "updated_at": "2025-09-18T06:58:33.866545+12:00",
+              "face_id": "FAB022-CF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "shadow",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB022",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "Ursur, the Soul Reaper",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Allies can be attacked and can't be defended with {d}. They are destroyed when they have taken damage equal to their {h}. At end of turn, heal all damage dealt to Ursur.)_\n**Once per Turn Action** -- 0: **Attack**\nWhile Ursur is attacking a hero with 1 or more cards in their soul, the attack has **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Token - Demon Ally",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2624e8cd-001f-4f9c-89aa-2136abe56791",
+              "card_print": "93c95012-f75c-40de-972b-ec767f8690af",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Ursur, the Soul Reaper</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Token - Demon Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Allies can be attacked and can't be defended with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>. They are destroyed when they have taken damage equal to their <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. At end of turn, heal all damage dealt to Ursur.)</em></p>\n<p><strong>Once per Turn Action</strong> — 0: <strong>Attack</strong></p>\n<p>While Ursur is attacking a hero with 1 or more cards in their soul, the attack has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB022-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB022-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB022-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1b281c84-84e4-454c-bff5-5ccb3cbb23f6",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:31.634429+12:00",
+            "updated_at": "2025-09-18T06:46:31.634443+12:00",
+            "printed_date": "2021-01-01",
+            "printed_language": "en",
+            "product_name": "Armory - Season 4",
+            "product_type": "booster",
+            "release_date": "2021-05-01",
+            "slug": "armory-season-4",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:58:33.858345+12:00",
+          "updated_at": "2025-09-18T06:58:33.858363+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB022-CF",
+          "set_number": 22,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "b739eae1-c92f-41dd-941b-eb754c3cab97"
+        },
+        {
+          "id": "b3ca76e2-7eb3-4eee-b091-6b9680022e4b",
+          "faces": [
+            {
+              "id": "b98a6515-b68d-4fdf-b1ec-ef71a29de783",
+              "created_at": "2025-09-18T06:58:33.885763+12:00",
+              "updated_at": "2026-10-30T06:47:52.249208+13:00",
+              "face_id": "FAB042-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "shadow",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB042",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "Ursur, the Soul Reaper",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Allies can be attacked and can't be defended with {d}. They are destroyed when they have taken damage equal to their {h}. At end of turn, heal all damage dealt to Ursur.)_\r\n**Once per Turn Action** -- 0: **Attack**\r\nWhile Ursur is attacking a hero with 1 or more cards in their soul, the attack has **go again**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Shadow Token - Demon Ally",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2624e8cd-001f-4f9c-89aa-2136abe56791",
+              "card_print": "b3ca76e2-7eb3-4eee-b091-6b9680022e4b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Ursur, the Soul Reaper</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Shadow Token - Demon Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Allies can be attacked and can't be defended with <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>. They are destroyed when they have taken damage equal to their <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. At end of turn, heal all damage dealt to Ursur.)</em></p>\n<p><strong>Once per Turn Action</strong> — 0: <strong>Attack</strong></p>\n<p>While Ursur is attacking a hero with 1 or more cards in their soul, the attack has <strong>go again</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB042-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB042-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB042-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c9094ba4-d7f1-41ac-8b22-d18b90c235dd",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:31.649137+12:00",
+            "updated_at": "2025-09-18T06:46:31.649152+12:00",
+            "printed_date": "2021-01-01",
+            "printed_language": "en",
+            "product_name": "Skirmish - Season 2",
+            "product_type": "booster",
+            "release_date": "2021-06-05",
+            "slug": "skirmish-season-2",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:58:33.877361+12:00",
+          "updated_at": "2025-09-18T06:58:33.877383+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB042-RF",
+          "set_number": 42,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "b739eae1-c92f-41dd-941b-eb754c3cab97"
+        },
+        {
+          "id": "d483c3ba-1c9b-40b3-82be-d5a2147d7415",
+          "faces": [
+            {
+              "id": "0abe08bc-7a3c-4fca-b2d1-c98bced2f8a8",
+              "created_at": "2025-09-18T06:58:33.908172+12:00",
+              "updated_at": "2025-09-18T06:58:33.908192+12:00",
+              "face_id": "DE_2HP293",
+              "face_language": "de",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP293",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "Ursur der Seelenschnitter",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Verbündete können angegriffen werden und können von dem Helden, der sie kontrolliert, nicht verteidigt werden. Sie sterben, falls sie 0{h} haben. Wenn der Zug endet, erhalten Verbündete volles Leben.)_{br}**Einmal pro Zug Aktion** -- 0: **Angriff**{br}Falls Ursur einen Helden angreift, dessen Seele 1 oder mehr Karten enthält, hat er **Weitermachen**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Schatten Spielstein - Dämon Verbündeter",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2624e8cd-001f-4f9c-89aa-2136abe56791",
+              "card_print": "d483c3ba-1c9b-40b3-82be-d5a2147d7415",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Ursur der Seelenschnitter</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Schatten Spielstein - Dämon Verbündeter</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Verbündete können angegriffen werden und können von dem Helden, der sie kontrolliert, nicht verteidigt werden. Sie sterben, falls sie 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> haben. Wenn der Zug endet, erhalten Verbündete volles Leben.)</em></p>\n<p><strong>Einmal pro Zug Aktion</strong> — 0: <strong>Angriff</strong></p>\n<p>Falls Ursur einen Helden angreift, dessen Seele 1 oder mehr Karten enthält, hat er <strong>Weitermachen</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_2HP293.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_2HP293.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_2HP293.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "462766fd-d70a-45d5-b7ac-35604650806e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.865684+12:00",
+            "updated_at": "2025-09-18T06:45:18.865697+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "de",
+            "product_name": "History Pack 2 - Black Label [DE]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-de",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:58:33.898994+12:00",
+          "updated_at": "2025-09-18T06:58:33.899017+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "DE_2HP293",
+          "set_number": 293,
+          "layout": "regular",
+          "print_language": "de",
+          "rarity": "common",
+          "card": "b739eae1-c92f-41dd-941b-eb754c3cab97"
+        },
+        {
+          "id": "fb9c08cc-68b2-4f33-9e6d-837f47306549",
+          "faces": [
+            {
+              "id": "fbb58d7c-bac8-4464-9978-3eb61b535caf",
+              "created_at": "2025-09-18T06:58:33.934456+12:00",
+              "updated_at": "2025-09-18T06:58:33.934474+12:00",
+              "face_id": "FR_2HP293",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP293",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "Ursur, le faucheur d’âmes",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Les alliés peuvent être attaqués et ne peuvent pas être défendus par le héros qui les contrôle. Ils meurent quand ils ont 0{g}. À la fin du tour, les points de vie des alliés sont réinitialisés.)_{br}**Action une fois par tour** -- 0: **Attaque**{br}Si Ursur attaque un héros avec au moins 1 carte dans son âme, il a **encore une fois**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ombre Jeton - Démon Allié",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2624e8cd-001f-4f9c-89aa-2136abe56791",
+              "card_print": "fb9c08cc-68b2-4f33-9e6d-837f47306549",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Ursur, le faucheur d’âmes</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ombre Jeton - Démon Allié</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Les alliés peuvent être attaqués et ne peuvent pas être défendus par le héros qui les contrôle. Ils meurent quand ils ont 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>. À la fin du tour, les points de vie des alliés sont réinitialisés.)</em></p>\n<p><strong>Action une fois par tour</strong> — 0: <strong>Attaque</strong></p>\n<p>Si Ursur attaque un héros avec au moins 1 carte dans son âme, il a <strong>encore une fois</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_2HP293.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_2HP293.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_2HP293.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1106e491-00fd-48b7-9490-efec9eea1d82",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.885032+12:00",
+            "updated_at": "2025-09-18T06:45:18.885049+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "fr",
+            "product_name": "History Pack 2 - Black Label [FR]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:58:33.922983+12:00",
+          "updated_at": "2025-09-18T06:58:33.923007+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_2HP293",
+          "set_number": 293,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "b739eae1-c92f-41dd-941b-eb754c3cab97"
+        },
+        {
+          "id": "8ea3b0b2-f154-47cd-965c-a82f2ba2dcc9",
+          "faces": [
+            {
+              "id": "e76cee4a-22a4-476d-bbdd-e5e457f42101",
+              "created_at": "2025-09-18T06:58:33.950425+12:00",
+              "updated_at": "2025-09-18T06:58:33.950443+12:00",
+              "face_id": "ES_2HP293",
+              "face_language": "es",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP293",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "Ursur, el segador de almas",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Los aliados pueden ser atacados y el héroe que los controla no los puede defender. Mueren cuando tienen OO. Al final del turno se reinician las vidas totales de los aliados)._{br}**Acción una vez por turno** -- 0: **Ataque**{br}Si Ursur está atacando a un héroe que tiene 1 carta en su alma o más, tiene **continuar**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ficha de sombra - Aliado demonio",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2624e8cd-001f-4f9c-89aa-2136abe56791",
+              "card_print": "8ea3b0b2-f154-47cd-965c-a82f2ba2dcc9",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Ursur, el segador de almas</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ficha de sombra - Aliado demonio</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Los aliados pueden ser atacados y el héroe que los controla no los puede defender. Mueren cuando tienen OO. Al final del turno se reinician las vidas totales de los aliados).</em></p>\n<p><strong>Acción una vez por turno</strong> — 0: <strong>Ataque</strong></p>\n<p>Si Ursur está atacando a un héroe que tiene 1 carta en su alma o más, tiene <strong>continuar</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_2HP293.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_2HP293.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_2HP293.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "12d72e87-64af-4eac-b939-9424be79855e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.900596+12:00",
+            "updated_at": "2025-09-18T06:45:18.900613+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "es",
+            "product_name": "History Pack 2 - Black Label [ES]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-es",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:58:33.944096+12:00",
+          "updated_at": "2025-09-18T06:58:33.944120+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ES_2HP293",
+          "set_number": 293,
+          "layout": "regular",
+          "print_language": "es",
+          "rarity": "common",
+          "card": "b739eae1-c92f-41dd-941b-eb754c3cab97"
+        },
+        {
+          "id": "4a934b0b-c0a7-4473-ade4-ae6d4a2b4bbd",
+          "faces": [
+            {
+              "id": "5854e5d9-b260-486d-bab3-5e71d92ba972",
+              "created_at": "2025-09-18T06:58:33.963209+12:00",
+              "updated_at": "2025-09-18T06:58:33.963220+12:00",
+              "face_id": "IT_2HP293",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "token",
+              "frame_style": "shadow",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP293",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "Ursur, Mietitore di Anime",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "6",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "6",
+              "printed_rules_text": "_(Gli alleati possono essere attaccati e non possono essere difesi dall'eroe che li controlla. Quando la loro {g} scende a 0, muoiono. Alla fine del turno, la vita degli alleati viene ripristinata.)_{br}**Azione una volta per turno** -- 0: **Attacco**{br}Se Ursur sta attaccando un eroe con 1 o più carte nella sua anima, ha **continua**.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pedina Ombra - Demone Alleato",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "2624e8cd-001f-4f9c-89aa-2136abe56791",
+              "card_print": "4a934b0b-c0a7-4473-ade4-ae6d4a2b4bbd",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Ursur, Mietitore di Anime</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pedina Ombra - Demone Alleato</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Gli alleati possono essere attaccati e non possono essere difesi dall'eroe che li controlla. Quando la loro <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> scende a 0, muoiono. Alla fine del turno, la vita degli alleati viene ripristinata.)</em></p>\n<p><strong>Azione una volta per turno</strong> — 0: <strong>Attacco</strong></p>\n<p>Se Ursur sta attaccando un eroe con 1 o più carte nella sua anima, ha <strong>continua</strong>.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_2HP293.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_2HP293.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_2HP293.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c24effd5-1d3d-4ed0-8f6f-c6a3c2098f91",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.923313+12:00",
+            "updated_at": "2025-09-18T06:45:18.923333+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "it",
+            "product_name": "History Pack 2 - Black Label [IT]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:58:33.957933+12:00",
+          "updated_at": "2025-09-18T06:58:33.957945+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_2HP293",
+          "set_number": 293,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "common",
+          "card": "b739eae1-c92f-41dd-941b-eb754c3cab97"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:58:33.802538+12:00",
+      "updated_at": "2025-09-18T06:58:33.803605+12:00",
+      "card_id": "ursur-the-soul-reaper",
+      "card_type": "regular",
+      "object_type": "token"
+    }
+  ]
+}

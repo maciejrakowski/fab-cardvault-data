@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "dash-database",
+  "language": "es",
+  "name": "Dash, Base de datos",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Dash, Base de datos",
+      "typeLine": "Héroe mecanólogo - Joven",
+      "classes": [
+        "Mecanólogo"
+      ],
+      "types": [
+        "Héroe"
+      ],
+      "subtypes": [
+        "Joven"
+      ],
+      "text": {
+        "markup": "Puedes mirar la primera carta de tu mazo en cualquier momento.\nUna vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un {r} adicional.",
+        "plain": "Puedes mirar la primera carta de tu mazo en cualquier momento.\nUna vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un {r} adicional.",
+        "html": "<p>Puedes mirar la primera carta de tu mazo en cualquier momento.</p>\n<p>Una vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> adicional.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_EVO002",
+      "code": "EVO002",
+      "language": "es",
+      "set": "EVO",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-es",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_EVO002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Dash, Base de datos",
+          "typeLine": "Héroe mecanólogo - Joven",
+          "traitLine": null,
+          "text": {
+            "markup": "Puedes mirar la primera carta de tu mazo en cualquier momento.\nUna vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un {r} adicional.",
+            "plain": "Puedes mirar la primera carta de tu mazo en cualquier momento.\nUna vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un {r} adicional.",
+            "html": "<p>Puedes mirar la primera carta de tu mazo en cualquier momento.</p>\n<p>Una vez por turno, puedes jugar un artículo de Mecanólogo con coste 0 o 1 desde la parte superior de tu mazo como si fuera un instantáneo. Jugarlo cuesta un <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> adicional.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "18",
+            "intellect": "4"
+          },
+          "printedCode": "EVO002",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Sam Yang",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_EVO002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_EVO002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_EVO002.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "schemaVersion": 1,
+  "id": "weave-lightning-1",
+  "name": "Weave Lightning",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Weave Lightning",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Lightning Action",
+      "traitLine": null,
+      "classes": [],
+      "talents": [
+        "Lightning"
+      ],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "The next Lightning or Elemental attack action card you play this turn gets +3{p}. If it's **fused**, it gets **go again**.{br}**Go again**",
+        "plain": "The next Lightning or Elemental attack action card you play this turn gets +3{p}. If it's fused, it gets go again.\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS075-RF",
+      "code": "LGS075",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 75,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-5",
+      "releaseDate": "2021-09-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS075-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Weave Lightning",
+          "typeLine": "Lightning Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's **fused**, it gains **go again**.\n**Go again**",
+            "plain": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's fused, it gains go again.\nGo again",
+            "html": "<p>The next Lightning or Elemental attack action card you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If it's <strong>fused</strong>, it gains <strong>go again</strong>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS075",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Faizal Fikri",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS075-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS075-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS075-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ELE180",
+      "code": "ELE180",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 180,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ELE180",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Weave Lightning",
+          "typeLine": "Lightning Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's **fused**, it gains **go again**.\n**Go again**",
+            "plain": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's fused, it gains go again.\nGo again",
+            "html": "<p>The next Lightning or Elemental attack action card you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If it's <strong>fused</strong>, it gains <strong>go again</strong>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE180",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE180.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE180.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE180.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ELE180-RF",
+      "code": "ELE180",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 180,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ELE180-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Weave Lightning",
+          "typeLine": "Lightning Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's **fused**, it gains **go again**.\n**Go again**",
+            "plain": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's fused, it gains go again.\nGo again",
+            "html": "<p>The next Lightning or Elemental attack action card you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If it's <strong>fused</strong>, it gains <strong>go again</strong>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE180",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE180-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE180-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE180-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LXI017",
+      "code": "LXI017",
+      "language": "en",
+      "set": "LXI",
+      "setNumber": 17,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "lexi-blitz-deck",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LXI017",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Weave Lightning",
+          "typeLine": "Lightning Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's **fused**, it gains **go again**.\n**Go again**",
+            "plain": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's fused, it gains go again.\nGo again",
+            "html": "<p>The next Lightning or Elemental attack action card you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If it's <strong>fused</strong>, it gains <strong>go again</strong>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LXI017",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LXI017.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LXI017.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LXI017.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ELE180",
+      "code": "ELE180",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 180,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria-unlimited",
+      "releaseDate": "2021-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ELE180",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Weave Lightning",
+          "typeLine": "Lightning Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's **fused**, it gains **go again**.\n**Go again**",
+            "plain": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's fused, it gains go again.\nGo again",
+            "html": "<p>The next Lightning or Elemental attack action card you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If it's <strong>fused</strong>, it gains <strong>go again</strong>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE180",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE180.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE180.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE180.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ELE180-RF",
+      "code": "ELE180",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 180,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria-unlimited",
+      "releaseDate": "2021-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ELE180-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Weave Lightning",
+          "typeLine": "Lightning Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's **fused**, it gains **go again**.\n**Go again**",
+            "plain": "The next Lightning or Elemental attack action card you play this turn gains +3{p}. If it's fused, it gains go again.\nGo again",
+            "html": "<p>The next Lightning or Elemental attack action card you play this turn gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If it's <strong>fused</strong>, it gains <strong>go again</strong>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE180",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE180-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE180-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE180-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBA029",
+      "code": "SBA029",
+      "language": "en",
+      "set": "SBA",
+      "setNumber": 29,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-briar",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBA029",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Weave Lightning",
+          "typeLine": "Lightning Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Lightning or Elemental attack action card you play this turn gets +3{p}. If it's fused, it gets **go again**.{br}**Go again**",
+            "plain": "The next Lightning or Elemental attack action card you play this turn gets +3{p}. If it's fused, it gets go again.\nGo again",
+            "html": "<p>The next Lightning or Elemental attack action card you play this turn gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. If it's fused, it gets <strong>go again</strong>.</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBA029",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBA029.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBA029.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBA029.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "fused",
+      "go again"
+    ],
+    "editions": {
+      "U-ELE180": "unlimited",
+      "U-ELE180-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T18:06:48Z",
+    "rawSha256": "722df5791e345e79b35395ed29e7ec11e0fa261ce55428b34282d01c79095d32",
+    "updatedAt": "2025-09-18T06:59:12.096174+12:00"
+  }
+}

@@ -1,0 +1,812 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "7918c716-5125-486e-a8d6-eefdf07b9420",
+      "cores": [
+        {
+          "id": "0be6b2b7-59cc-47fb-a3c0-3d9a78365b15",
+          "core_classes": [
+            {
+              "id": 6,
+              "name": "Generic",
+              "name_en": "Generic",
+              "name_fr": "Générique",
+              "name_de": "Allgemein",
+              "name_it": "Generico/a",
+              "name_es": "Genérico/a",
+              "name_ja": "汎用",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-11-14T13:40:35.765376+13:00",
+          "updated_at": "2025-11-14T13:40:35.765384+13:00",
+          "name": "Rockyard Rodeo",
+          "layout_position": 10,
+          "pitch": "3",
+          "pitch_chi": "3",
+          "color": "blue",
+          "cost": "3",
+          "power": "*",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "This card's {p} is equal to the highest base {p} of weapons you control.",
+          "typebox": "Generic Action - Attack",
+          "traitbox": "",
+          "pitch_value": 3,
+          "pitch_chi_value": 3,
+          "cost_value": 3,
+          "power_value": 0,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "7918c716-5125-486e-a8d6-eefdf07b9420"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "b26ae7b8-aa2f-4e6c-81e2-abab9b0aacfc",
+          "faces": [
+            {
+              "id": "ff036647-269c-4078-b8cf-0b0f9f6bae52",
+              "created_at": "2026-01-19T09:11:53.654791+13:00",
+              "updated_at": "2026-01-19T09:11:53.654800+13:00",
+              "face_id": "FR_PEN322",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "PEN322",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "Rodéo de rocaille",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "*",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "La {p} de cette carte est égale à la base la plus élevée de {p} des armes que vous contrôlez.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Générique Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0be6b2b7-59cc-47fb-a3c0-3d9a78365b15",
+              "card_print": "b26ae7b8-aa2f-4e6c-81e2-abab9b0aacfc",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rodéo de rocaille</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Générique Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>La <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de cette carte est égale à la base la plus élevée de <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> des armes que vous contrôlez.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_PEN322.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_PEN322.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_PEN322.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d2712c7c-7d23-44ab-8945-4217afaaba97",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.189904+13:00",
+            "updated_at": "2025-11-14T13:38:39.619064+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "fr",
+            "product_name": "Compendium of Rathe [FR]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:53.652020+13:00",
+          "updated_at": "2026-02-02T12:07:58.846806+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_PEN322",
+          "set_number": 322,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "majestic",
+          "card": "7918c716-5125-486e-a8d6-eefdf07b9420"
+        },
+        {
+          "id": "ba4cb9f8-79c4-4c24-b1f2-250fdce48b0c",
+          "faces": [
+            {
+              "id": "d32e1d7f-3e72-4272-ba22-605b0d1d6a19",
+              "created_at": "2026-01-19T09:11:53.677624+13:00",
+              "updated_at": "2026-01-19T09:11:53.677632+13:00",
+              "face_id": "FR_PEN322-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "PEN322",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "Rodéo de rocaille",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "*",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "La {p} de cette carte est égale à la base la plus élevée de {p} des armes que vous contrôlez.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Générique Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0be6b2b7-59cc-47fb-a3c0-3d9a78365b15",
+              "card_print": "ba4cb9f8-79c4-4c24-b1f2-250fdce48b0c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rodéo de rocaille</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Générique Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>La <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> de cette carte est égale à la base la plus élevée de <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> des armes que vous contrôlez.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_PEN322-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_PEN322-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_PEN322-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d2712c7c-7d23-44ab-8945-4217afaaba97",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.189904+13:00",
+            "updated_at": "2025-11-14T13:38:39.619064+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "fr",
+            "product_name": "Compendium of Rathe [FR]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-fr",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:11:53.674897+13:00",
+          "updated_at": "2026-02-02T12:07:58.527268+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_PEN322-RF",
+          "set_number": 322,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "majestic",
+          "card": "7918c716-5125-486e-a8d6-eefdf07b9420"
+        },
+        {
+          "id": "edfa668b-3691-4791-b31c-ee33a408f891",
+          "faces": [
+            {
+              "id": "8c623a38-dad1-4a05-b0d6-9ba70ba511c5",
+              "created_at": "2026-01-19T09:12:09.793504+13:00",
+              "updated_at": "2026-01-19T09:12:09.793512+13:00",
+              "face_id": "JA_PEN322",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "PEN322",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "荒岩乗り",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "*",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "このカードの{p}は、あなたがコントロールする武器の中で最も大きい基本の{p}に等しい。",
+              "printed_flavor_text": "",
+              "printed_typebox": "汎用・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0be6b2b7-59cc-47fb-a3c0-3d9a78365b15",
+              "card_print": "edfa668b-3691-4791-b31c-ee33a408f891",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>荒岩乗り</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>汎用・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>このカードの<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>は、あなたがコントロールする武器の中で最も大きい基本の<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>に等しい。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_PEN322.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_PEN322.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_PEN322.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d5e242aa-362d-4efb-ac7f-2ed815c192e9",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.186868+13:00",
+            "updated_at": "2025-11-14T13:38:39.619716+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "ja",
+            "product_name": "Compendium of Rathe [JA]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:09.790679+13:00",
+          "updated_at": "2026-02-02T12:07:57.873362+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_PEN322",
+          "set_number": 322,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "majestic",
+          "card": "7918c716-5125-486e-a8d6-eefdf07b9420"
+        },
+        {
+          "id": "9def803d-d338-4892-b5ca-80e395969357",
+          "faces": [
+            {
+              "id": "0eb9d714-4b29-4f79-8e41-140cc49cabe5",
+              "created_at": "2026-01-19T09:12:09.816060+13:00",
+              "updated_at": "2026-01-19T09:12:09.816068+13:00",
+              "face_id": "JA_PEN322-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "PEN322",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "荒岩乗り",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "*",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "このカードの{p}は、あなたがコントロールする武器の中で最も大きい基本の{p}に等しい。",
+              "printed_flavor_text": "",
+              "printed_typebox": "汎用・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0be6b2b7-59cc-47fb-a3c0-3d9a78365b15",
+              "card_print": "9def803d-d338-4892-b5ca-80e395969357",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>荒岩乗り</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>汎用・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>このカードの<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>は、あなたがコントロールする武器の中で最も大きい基本の<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>に等しい。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_PEN322-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_PEN322-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_PEN322-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "d5e242aa-362d-4efb-ac7f-2ed815c192e9",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.186868+13:00",
+            "updated_at": "2025-11-14T13:38:39.619716+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "ja",
+            "product_name": "Compendium of Rathe [JA]",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe-ja",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:09.813250+13:00",
+          "updated_at": "2026-02-02T12:07:59.528253+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_PEN322-RF",
+          "set_number": 322,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "majestic",
+          "card": "7918c716-5125-486e-a8d6-eefdf07b9420"
+        },
+        {
+          "id": "a9ea38c4-d4a8-47e3-96d9-3575090cafae",
+          "faces": [
+            {
+              "id": "1a5e293b-ec0f-46e2-ad4d-b6ff33b73e19",
+              "created_at": "2026-01-19T09:12:25.771959+13:00",
+              "updated_at": "2026-01-19T09:12:25.771968+13:00",
+              "face_id": "PEN322",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "PEN322",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "Rockyard Rodeo",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "*",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "This card's {p} is equal to the highest base {p} of weapons you control.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0be6b2b7-59cc-47fb-a3c0-3d9a78365b15",
+              "card_print": "a9ea38c4-d4a8-47e3-96d9-3575090cafae",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rockyard Rodeo</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>This card's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is equal to the highest base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> of weapons you control.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN322.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN322.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN322.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c71765f7-37cb-49c8-9b93-319e5c6b0955",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.183675+13:00",
+            "updated_at": "2025-11-14T13:38:39.618314+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "en",
+            "product_name": "Compendium of Rathe",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:25.769027+13:00",
+          "updated_at": "2026-02-02T12:07:59.168491+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "PEN322",
+          "set_number": 322,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "majestic",
+          "card": "7918c716-5125-486e-a8d6-eefdf07b9420"
+        },
+        {
+          "id": "65d43f68-3a5d-4430-97df-2e39f5eea459",
+          "faces": [
+            {
+              "id": "faafed53-5f9f-4df3-9352-079d1c2d9a04",
+              "created_at": "2026-01-19T09:12:25.795821+13:00",
+              "updated_at": "2026-01-19T09:12:25.795829+13:00",
+              "face_id": "PEN322-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "majestic-dot",
+              "printed_code": "PEN322",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "Rockyard Rodeo",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "*",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "This card's {p} is equal to the highest base {p} of weapons you control.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0be6b2b7-59cc-47fb-a3c0-3d9a78365b15",
+              "card_print": "65d43f68-3a5d-4430-97df-2e39f5eea459",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rockyard Rodeo</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>This card's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is equal to the highest base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> of weapons you control.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN322-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN322-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN322-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c71765f7-37cb-49c8-9b93-319e5c6b0955",
+            "product_group": {
+              "id": "9d7e3ce9-36c2-44f6-b228-4490e9db3afd",
+              "created_at": "2025-11-14T13:38:39.616184+13:00",
+              "updated_at": "2025-11-14T13:38:39.616196+13:00",
+              "group_name": "Compendium of Rathe",
+              "product_type": "booster",
+              "release_date": "2026-02-13",
+              "slug": "compendium-of-rathe"
+            },
+            "created_at": "2025-11-14T13:38:39.183675+13:00",
+            "updated_at": "2025-11-14T13:38:39.618314+13:00",
+            "printed_date": "2025-10-14",
+            "printed_language": "en",
+            "product_name": "Compendium of Rathe",
+            "product_type": "booster",
+            "release_date": "2026-02-13",
+            "slug": "compendium-of-rathe",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "7151c668-f9d8-487f-b10a-baf3d5a43cbc",
+            "created_at": "2025-11-14T13:38:39.169784+13:00",
+            "updated_at": "2025-11-14T13:38:39.169794+13:00",
+            "set_code": "PEN",
+            "set_name": "Compendium of Rathe",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T09:12:25.792928+13:00",
+          "updated_at": "2026-02-02T12:07:59.892829+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "PEN322-RF",
+          "set_number": 322,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "majestic",
+          "card": "7918c716-5125-486e-a8d6-eefdf07b9420"
+        },
+        {
+          "id": "dfe47fad-a54c-42b5-9b62-87bf59fe2daf",
+          "faces": [
+            {
+              "id": "e9ccbf05-bdee-4669-b2aa-b15dc921d7f5",
+              "created_at": "2026-01-27T09:45:07.400950+13:00",
+              "updated_at": "2026-01-27T09:45:07.400961+13:00",
+              "face_id": "LGS448-CF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "generic",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS448",
+              "printed_artist": "Jefrey Yonathan",
+              "printed_name": "Rockyard Rodeo",
+              "printed_pitch": 3,
+              "printed_cost": "3",
+              "printed_power": "*",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "This card's {p} is equal to the highest base {p} of weapons you control.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Generic Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0be6b2b7-59cc-47fb-a3c0-3d9a78365b15",
+              "card_print": "dfe47fad-a54c-42b5-9b62-87bf59fe2daf",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Rockyard Rodeo</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Generic Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>This card's <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is equal to the highest base <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> of weapons you control.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS448-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS448-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS448-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "b27a4bee-7942-4a9e-9f11-a6cd7ebc855e",
+            "product_group": null,
+            "created_at": "2026-01-27T09:34:13.875545+13:00",
+            "updated_at": "2026-01-27T09:34:13.875555+13:00",
+            "printed_date": "2025-09-27",
+            "printed_language": "en",
+            "product_name": "Battle Hardened - Compendium of Rathe",
+            "product_type": "promo",
+            "release_date": "2025-02-14",
+            "slug": "battle-hardened-compendium-of-rathe",
+            "description": null,
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-27T09:45:07.397356+13:00",
+          "updated_at": "2026-05-21T20:23:41.684555+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS448-CF",
+          "set_number": 448,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "7918c716-5125-486e-a8d6-eefdf07b9420"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        }
+      },
+      "created_at": "2025-11-14T13:40:35.762326+13:00",
+      "updated_at": "2025-11-14T13:40:35.762334+13:00",
+      "card_id": "rockyard-rodeo-3",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

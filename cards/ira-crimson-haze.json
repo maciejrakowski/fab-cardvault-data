@@ -1,0 +1,626 @@
+{
+  "schemaVersion": 1,
+  "id": "ira-crimson-haze",
+  "name": "Ira, Crimson Haze",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Ira, Crimson Haze",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Ninja Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Ninja"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "Your second attack each turn gets +1{p}.",
+        "plain": "Your second attack each turn gets +1{p}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #1] Ira - young subtype",
+      "description": "This card's typebox was updated to add the \"young\" subtype to be consistent with other young heroes and make it legal for the Blitz format.",
+      "date": "01-09-2020"
+    }
+  ],
+  "printings": [
+    {
+      "id": "IRA001",
+      "code": "IRA001-P",
+      "language": "en",
+      "set": "IRA",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "ira-welcome-deck-2018",
+      "releaseDate": "2019-08-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IRA001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ira, Crimson Haze",
+          "typeLine": "Ninja Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Your second attack each turn gains +1{p}.",
+            "plain": "Your second attack each turn gains +1{p}.",
+            "html": "<p>Your second attack each turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "IRA001-P",
+          "printedLanguageCode": null,
+          "printedYear": "2018",
+          "artist": "Le Vuong",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IRA001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IRA001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IRA001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "I-CRU046",
+      "code": "CRU046",
+      "language": "en",
+      "set": "IRA",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "ira-welcome-deck-2020",
+      "releaseDate": "2019-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "I-CRU046",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ira, Crimson Haze",
+          "typeLine": "Ninja Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Your second attack each turn gains +1{p}.",
+            "plain": "Your second attack each turn gains +1{p}.",
+            "html": "<p>Your second attack each turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "CRU046",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Le Vuong",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/I-CRU046.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/I-CRU046.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/I-CRU046.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU046",
+      "code": "CRU046",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 46,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU046",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ira, Crimson Haze",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Your second attack each turn gains +1{p}.",
+            "plain": "Your second attack each turn gains +1{p}.",
+            "html": "<p>Your second attack each turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "CRU046",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Le Vuong",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU046.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU046.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU046.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU046-RF",
+      "code": "CRU046",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 46,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU046-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ira, Crimson Haze",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Your second attack each turn gains +1{p}.",
+            "plain": "Your second attack each turn gains +1{p}.",
+            "html": "<p>Your second attack each turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "CRU046",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Le Vuong",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU046-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU046-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU046-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER000-CF",
+      "code": "HER000-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 0,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-event-europe-and-canada",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER000-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ira, Crimson Haze",
+          "typeLine": "Ninja Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Your second attack each turn gains +1{p}.",
+            "plain": "Your second attack each turn gains +1{p}.",
+            "html": "<p>Your second attack each turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER000-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Le Vuong",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER000-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER000-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER000-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU046",
+      "code": "CRU046",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 46,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU046",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ira, Crimson Haze",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Your second attack each turn gains +1{p}.",
+            "plain": "Your second attack each turn gains +1{p}.",
+            "html": "<p>Your second attack each turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "CRU046",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Le Vuong",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU046.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU046.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU046.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU046-RF",
+      "code": "CRU046",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 46,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU046-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ira, Crimson Haze",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Your second attack each turn gains +1{p}.",
+            "plain": "Your second attack each turn gains +1{p}.",
+            "html": "<p>Your second attack each turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "CRU046",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Le Vuong",
+          "rarityMark": "common-circle",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU046-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU046-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU046-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP089",
+      "code": "1HP089",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 89,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP089",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ira, Crimson Haze",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Your second attack each turn gains +1{p}.",
+            "plain": "Your second attack each turn gains +1{p}.",
+            "html": "<p>Your second attack each turn gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "1HP089",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Le Vuong",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "white",
+          "frame": "mystic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP089.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP089.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP089.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TCC077-RF",
+      "code": "TCC077",
+      "language": "en",
+      "set": "TCC",
+      "setNumber": 77,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "round-the-table-tcc-x-lss",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TCC077-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ira, Crimson Haze",
+          "typeLine": "Ninja Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "Your second attack each turn gets +1{p}.",
+            "plain": "Your second attack each turn gets +1{p}.",
+            "html": "<p>Your second attack each turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "TCC077",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Le Vuong",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC077-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC077-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC077-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-CRU046": "unlimited",
+      "U-CRU046-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:26:22Z",
+    "rawSha256": "928aa77822604ee197cf8a491781f88cd54bddd4f1f6dcdc7b4777818897b089",
+    "updatedAt": "2025-09-18T06:51:43.306588+12:00"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "id": "vestige-of-sol",
+  "name": "Vestige of Sol",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Vestige of Sol",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Light Equipment - Chest",
+      "traitLine": null,
+      "classes": [],
+      "talents": [
+        "Light"
+      ],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Chest"
+      ],
+      "text": {
+        "markup": "If a card has been put into your soul this turn, if you pitch a Light card, instead gain that many {r} plus 1.{br}**Blade Break**",
+        "plain": "If a card has been put into your soul this turn, if you pitch a Light card, instead gain that many {r} plus 1.\nBlade Break"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #2] Vestige of Sol - trigger to replacement",
+      "description": "This card's textbox was updated to convert a triggered effect into a replacement effect, so that it would allow pitching a single blue card to play a 4 cost aura.",
+      "date": "04-06-2021"
+    }
+  ],
+  "printings": [
+    {
+      "id": "FAB017-GF",
+      "code": "FAB017",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 17,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB017-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vestige of Sol",
+          "typeLine": "Light Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "If a card has been put into your hero's soul this turn, whenever you pitch a Light card, instead gain that many {r} plus 1.{br}**Blade Break** _(If you defend with Vestige of Sol, destroy it when the combat chain closes.)_",
+            "plain": "If a card has been put into your hero's soul this turn, whenever you pitch a Light card, instead gain that many {r} plus 1.\nBlade Break _(If you defend with Vestige of Sol, destroy it when the combat chain closes.)_",
+            "html": "<p>If a card has been put into your hero's soul this turn, whenever you pitch a Light card, instead gain that many <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> plus 1.</p>\n<p><strong>Blade Break</strong> <em>(If you defend with Vestige of Sol, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB017",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Mihail Spil-Haufter",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB017-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB017-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB017-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON060-CF",
+      "code": "MON060",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 60,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON060-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vestige of Sol",
+          "typeLine": "Light Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you pitch a Light card, if a card has been put into your hero's soul this turn, gain {r}.\r\n**Blade Break** _(If you defend with Vestige of Sol, destroy it when the combat chain closes.)_",
+            "plain": "Whenever you pitch a Light card, if a card has been put into your hero's soul this turn, gain {r}.\r\nBlade Break _(If you defend with Vestige of Sol, destroy it when the combat chain closes.)_",
+            "html": "<p>Whenever you pitch a Light card, if a card has been put into your hero's soul this turn, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p><strong>Blade Break</strong> <em>(If you defend with Vestige of Sol, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON060",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Mihail Spil-Haufter",
+          "rarityMark": "legendary-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON060-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON060-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON060-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON060-RF",
+      "code": "MON060",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 60,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON060-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Vestige of Sol",
+          "typeLine": "Light Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you pitch a Light card, if a card has been put into your hero's soul this turn, gain {r}.\n**Blade Break** _(If you defend with Vestige of Sol, destroy it when the combat chain closes.)_",
+            "plain": "Whenever you pitch a Light card, if a card has been put into your hero's soul this turn, gain {r}.\nBlade Break _(If you defend with Vestige of Sol, destroy it when the combat chain closes.)_",
+            "html": "<p>Whenever you pitch a Light card, if a card has been put into your hero's soul this turn, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n<p><strong>Blade Break</strong> <em>(If you defend with Vestige of Sol, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON060",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Mihail Spil-Haufter",
+          "rarityMark": "legendary-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON060-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON060-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON060-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Blade Break"
+    ],
+    "editions": {
+      "U-MON060-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:30:53Z",
+    "rawSha256": "fd8fe7765d27f67bf5dd7f411a04793a27538ae2a4b2d62c65622d7e14c21c5d",
+    "updatedAt": "2025-09-18T06:58:43.313109+12:00"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "hyper-driver",
+  "language": "it",
+  "name": "Ipermotore",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Ipermotore",
+      "typeLine": "Pedina Meccanologo - Oggetto",
+      "classes": [
+        "Meccanologo"
+      ],
+      "types": [
+        "Pedina"
+      ],
+      "subtypes": [
+        "Oggetto"
+      ],
+      "text": {
+        "markup": "Quando non ha segnalini vapore, distruggilo.\nUna volta per turno, quando **potenzi** una carta, rimuovi un segnalino vapore da questa carta e ottieni {r}.",
+        "plain": "Quando non ha segnalini vapore, distruggilo.\nUna volta per turno, quando potenzi una carta, rimuovi un segnalino vapore da questa carta e ottieni {r}.",
+        "html": "<p>Quando non ha segnalini vapore, distruggilo.</p>\n<p>Una volta per turno, quando <strong>potenzi</strong> una carta, rimuovi un segnalino vapore da questa carta e ottieni <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_EVO234",
+      "code": "EVO234",
+      "language": "it",
+      "set": "EVO",
+      "setNumber": 234,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-it",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_EVO234",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Ipermotore",
+          "typeLine": "Pedina Meccanologo - Oggetto",
+          "traitLine": null,
+          "text": {
+            "markup": "Quando non ha segnalini vapore, distruggilo.\nUna volta per turno, quando **potenzi** una carta, rimuovi un segnalino vapore da questa carta e ottieni {r}.",
+            "plain": "Quando non ha segnalini vapore, distruggilo.\nUna volta per turno, quando potenzi una carta, rimuovi un segnalino vapore da questa carta e ottieni {r}.",
+            "html": "<p>Quando non ha segnalini vapore, distruggilo.</p>\n<p>Una volta per turno, quando <strong>potenzi</strong> una carta, rimuovi un segnalino vapore da questa carta e ottieni <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO234",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_EVO234.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_EVO234.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_EVO234.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

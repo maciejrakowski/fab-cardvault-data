@@ -1,0 +1,823 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "ff048382-4b1f-48b6-94f1-b9ad5cf3f2b9",
+      "cores": [
+        {
+          "id": "aa1ab811-6b88-4d53-aece-627399044199",
+          "core_classes": [
+            {
+              "id": 37,
+              "name": "Necromancer",
+              "name_en": "Necromancer",
+              "name_fr": null,
+              "name_de": null,
+              "name_it": null,
+              "name_es": null,
+              "name_ja": null,
+              "is_published": true
+            },
+            {
+              "id": 36,
+              "name": "Pirate",
+              "name_en": "Pirate",
+              "name_fr": null,
+              "name_de": null,
+              "name_it": null,
+              "name_es": null,
+              "name_ja": null,
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 4,
+              "name": "Ally",
+              "name_en": "Ally",
+              "name_fr": "Allié",
+              "name_de": "Verbündeter",
+              "name_it": "Alleato",
+              "name_es": "Aliado",
+              "name_ja": "盟友",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:55:56.589079+12:00",
+          "updated_at": "2025-09-18T06:55:56.602022+12:00",
+          "name": "Shelly, Hardened Traveler",
+          "layout_position": 10,
+          "pitch": "2",
+          "pitch_chi": "",
+          "color": "yellow",
+          "cost": "2",
+          "power": "4",
+          "defense": "",
+          "intellect": "",
+          "life": "5",
+          "textbox": "**Action** -- {r}{r}{r}, {t}: **Attack**{br}**Instant** -- {t}: The next attack action card you defend with this turn gets +1{d}.{br}**Watery Grave**",
+          "typebox": "Pirate Necromancer Action - Ally",
+          "traitbox": "",
+          "pitch_value": 2,
+          "pitch_chi_value": null,
+          "cost_value": 2,
+          "power_value": 4,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": 5,
+          "card": "ff048382-4b1f-48b6-94f1-b9ad5cf3f2b9"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "4ae27506-1104-4d60-9a0f-5b4ad1038f66",
+          "faces": [
+            {
+              "id": "4f6aa332-9714-421b-bd2e-d6ffca370d61",
+              "created_at": "2025-09-18T06:55:56.620319+12:00",
+              "updated_at": "2025-09-18T06:55:56.620337+12:00",
+              "face_id": "FR_SEA078",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA078",
+              "printed_artist": "Henrique Lindner",
+              "printed_name": "Clovisse, voyageuse endurcie",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "5",
+              "printed_rules_text": "**Action** -- {r}{r}{r}, {t} : **Attaque**{br}**Instantané** -- {t} : la prochaine carte action d’attaque avec laquelle vous défendez ce tour-ci gagne +1{d}.{br}**Tombe aquatique** _(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Nécromancien Action - Allié",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "aa1ab811-6b88-4d53-aece-627399044199",
+              "card_print": "4ae27506-1104-4d60-9a0f-5b4ad1038f66",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Clovisse, voyageuse endurcie</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Nécromancien Action - Allié</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <strong>Attaque</strong></p>\n<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : la prochaine carte action d’attaque avec laquelle vous défendez ce tour-ci gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n<p><strong>Tombe aquatique</strong> <em>(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA078.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA078.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA078.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:56.612370+12:00",
+          "updated_at": "2025-09-18T06:55:56.612391+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA078",
+          "set_number": 78,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "ff048382-4b1f-48b6-94f1-b9ad5cf3f2b9"
+        },
+        {
+          "id": "5296e26b-fe15-43df-ad03-fbbfce59fcb0",
+          "faces": [
+            {
+              "id": "97d7bce3-d951-41b2-8580-ef2951b86933",
+              "created_at": "2025-09-18T06:55:56.638321+12:00",
+              "updated_at": "2025-09-18T06:55:56.638339+12:00",
+              "face_id": "FR_SEA078-MV",
+              "face_language": "fr",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "SEA078",
+              "printed_artist": "Henrique Lindner",
+              "printed_name": "Clovisse, voyageuse endurcie",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "5",
+              "printed_rules_text": "**Action** -- {r}{r}{r}, {t} : **Attaque**{br}**Instantané** -- {t} : la prochaine carte action d’attaque avec laquelle vous défendez ce tour-ci gagne +1{d}.{br}**Tombe aquatique** _(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Nécromancien Action - Allié",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "aa1ab811-6b88-4d53-aece-627399044199",
+              "card_print": "5296e26b-fe15-43df-ad03-fbbfce59fcb0",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Clovisse, voyageuse endurcie</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Nécromancien Action - Allié</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : <strong>Attaque</strong></p>\n<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> : la prochaine carte action d’attaque avec laquelle vous défendez ce tour-ci gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n<p><strong>Tombe aquatique</strong> <em>(Quand cette carte est mise dans votre cimetière depuis l’arène, retournez-la face cachée.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA078-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA078-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA078-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:56.630505+12:00",
+          "updated_at": "2025-09-18T06:55:56.630518+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA078-MV",
+          "set_number": 78,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "marvel",
+          "card": "ff048382-4b1f-48b6-94f1-b9ad5cf3f2b9"
+        },
+        {
+          "id": "4d87ddde-8fee-4371-95f0-7d83c093c982",
+          "faces": [
+            {
+              "id": "1b37c163-ca9d-4875-9585-e593350d604c",
+              "created_at": "2025-09-18T06:55:56.658546+12:00",
+              "updated_at": "2025-09-18T06:55:56.658564+12:00",
+              "face_id": "JA_SEA078",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA078",
+              "printed_artist": "Henrique Lindner",
+              "printed_name": "甲殻の旅人、シェリー",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "5",
+              "printed_rules_text": "**アクション**--{r}{r}{r}, {t}：**攻撃**{br}**インスタント**--{t}：このターン、あなたが次に攻撃・アクションカードで防御する際、それは＋１{d}を得る。{br}**溺墓**（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）",
+              "printed_flavor_text": "",
+              "printed_typebox": "海賊・死霊術師・アクション － 盟友",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "aa1ab811-6b88-4d53-aece-627399044199",
+              "card_print": "4d87ddde-8fee-4371-95f0-7d83c093c982",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>甲殻の旅人、シェリー</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>海賊・死霊術師・アクション － 盟友</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：<strong>攻撃</strong></p>\n<p><strong>インスタント</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：このターン、あなたが次に攻撃・アクションカードで防御する際、それは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>を得る。</p>\n<p><strong>溺墓</strong>（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA078.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA078.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA078.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:56.651414+12:00",
+          "updated_at": "2025-09-18T06:55:56.651434+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA078",
+          "set_number": 78,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "ff048382-4b1f-48b6-94f1-b9ad5cf3f2b9"
+        },
+        {
+          "id": "0554cbc0-e6cd-45a8-b5f3-ffc7934f564d",
+          "faces": [
+            {
+              "id": "e2bfcc9d-d524-4719-b6b0-39566f4cf0ad",
+              "created_at": "2025-09-18T06:55:56.677374+12:00",
+              "updated_at": "2025-09-18T06:55:56.677391+12:00",
+              "face_id": "JA_SEA078-MV",
+              "face_language": "ja",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "SEA078",
+              "printed_artist": "Henrique Lindner",
+              "printed_name": "甲殻の旅人、シェリー",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "5",
+              "printed_rules_text": "**アクション**--{r}{r}{r}, {t}：**攻撃**{br}**インスタント**--{t}：このターン、あなたが次に攻撃・アクションカードで防御する際、それは＋１{d}を得る。{br}**溺墓**（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）",
+              "printed_flavor_text": "",
+              "printed_typebox": "海賊・死霊術師・アクション － 盟友",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "aa1ab811-6b88-4d53-aece-627399044199",
+              "card_print": "0554cbc0-e6cd-45a8-b5f3-ffc7934f564d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>甲殻の旅人、シェリー</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>海賊・死霊術師・アクション － 盟友</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：<strong>攻撃</strong></p>\n<p><strong>インスタント</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>：このターン、あなたが次に攻撃・アクションカードで防御する際、それは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>を得る。</p>\n<p><strong>溺墓</strong>（これが闘技場からあなたの墓地に置かれたとき、裏向きにする）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA078-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA078-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA078-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:56.669859+12:00",
+          "updated_at": "2025-09-18T06:55:56.669879+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA078-MV",
+          "set_number": 78,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "marvel",
+          "card": "ff048382-4b1f-48b6-94f1-b9ad5cf3f2b9"
+        },
+        {
+          "id": "08813b80-05bf-43c4-b3ef-5bac97a6e301",
+          "faces": [
+            {
+              "id": "53baa577-9b2f-414c-90f6-dd3fa0fa2e34",
+              "created_at": "2025-09-18T06:55:56.694210+12:00",
+              "updated_at": "2025-09-18T06:55:56.694226+12:00",
+              "face_id": "SEA078",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "SEA078",
+              "printed_artist": "Henrique Lindner",
+              "printed_name": "Shelly, Hardened Traveler",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "5",
+              "printed_rules_text": "**Action** -- {r}{r}{r}, {t}: **Attack**{br}**Instant** -- {t}: The next attack action card you defend with this turn gets +1{d}.{br}**Watery Grave**  _(When this is put into your graveyard from the arena, turn it face-down.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Necromancer Action - Ally",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "aa1ab811-6b88-4d53-aece-627399044199",
+              "card_print": "08813b80-05bf-43c4-b3ef-5bac97a6e301",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Shelly, Hardened Traveler</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong></p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: The next attack action card you defend with this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n<p><strong>Watery Grave</strong>  <em>(When this is put into your graveyard from the arena, turn it face-down.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA078.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA078.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA078.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:56.687906+12:00",
+          "updated_at": "2025-09-18T06:55:56.687927+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA078",
+          "set_number": 78,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "ff048382-4b1f-48b6-94f1-b9ad5cf3f2b9"
+        },
+        {
+          "id": "0c7302bd-5d2c-410f-a9a7-b4dce792a02e",
+          "faces": [
+            {
+              "id": "a1659b33-d44d-4a86-ae22-7197f4223412",
+              "created_at": "2025-09-18T06:55:56.711837+12:00",
+              "updated_at": "2025-09-18T06:55:56.711859+12:00",
+              "face_id": "SEA078-MV",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "marvel-dot",
+              "printed_code": "SEA078",
+              "printed_artist": "Henrique Lindner",
+              "printed_name": "Shelly, Hardened Traveler",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "5",
+              "printed_rules_text": "**Action** -- {r}{r}{r}, {t}: **Attack**{br}**Instant** -- {t}: The next attack action card you defend with this turn gets +1{d}.{br}**Watery Grave**  _(When this is put into your graveyard from the arena, turn it face-down.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Necromancer Action - Ally",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "aa1ab811-6b88-4d53-aece-627399044199",
+              "card_print": "0c7302bd-5d2c-410f-a9a7-b4dce792a02e",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Shelly, Hardened Traveler</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong></p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: The next attack action card you defend with this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n<p><strong>Watery Grave</strong>  <em>(When this is put into your graveyard from the arena, turn it face-down.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA078-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA078-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA078-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:56.703708+12:00",
+          "updated_at": "2025-09-18T06:55:56.703725+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA078-MV",
+          "set_number": 78,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "marvel",
+          "card": "ff048382-4b1f-48b6-94f1-b9ad5cf3f2b9"
+        },
+        {
+          "id": "f78ad52b-87e6-4e0d-9a3d-13da0cda80a0",
+          "faces": [
+            {
+              "id": "2cdee983-fa2c-41c5-83de-8af02aaf41e6",
+              "created_at": "2025-09-18T06:55:56.729345+12:00",
+              "updated_at": "2025-09-18T06:55:56.729362+12:00",
+              "face_id": "LGS408-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS408",
+              "printed_artist": "Henrique Lindner",
+              "printed_name": "Shelly, Hardened Traveler",
+              "printed_pitch": 2,
+              "printed_cost": "2",
+              "printed_power": "4",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "5",
+              "printed_rules_text": "**Action** -- {r}{r}{r}, {t}: **Attack**{br}**Instant** -- {t}: The next attack action card you defend with this turn gets +1{d}.{br}**Watery Grave**  _(When this is put into your graveyard from the arena, turn it face-down.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Necromancer Action - Ally",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "aa1ab811-6b88-4d53-aece-627399044199",
+              "card_print": "f78ad52b-87e6-4e0d-9a3d-13da0cda80a0",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Shelly, Hardened Traveler</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Ally</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: <strong>Attack</strong></p>\n<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>: The next attack action card you defend with this turn gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n<p><strong>Watery Grave</strong>  <em>(When this is put into your graveyard from the arena, turn it face-down.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS408-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS408-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS408-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "bfb01c53-2a00-464a-b98f-44cdf3b55bcc",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:07.202254+12:00",
+            "updated_at": "2025-09-18T06:46:07.202264+12:00",
+            "printed_date": "2024-04-01",
+            "printed_language": "en",
+            "product_name": "World Premiere - High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "world-premiere-high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:56.721640+12:00",
+          "updated_at": "2025-09-18T06:55:56.721661+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS408-RF",
+          "set_number": 408,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "ff048382-4b1f-48b6-94f1-b9ad5cf3f2b9"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:55:56.584722+12:00",
+      "updated_at": "2025-09-18T06:55:56.586249+12:00",
+      "card_id": "shelly-hardened-traveler-2",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "schemaVersion": 1,
+  "id": "quicksilver-dagger",
+  "name": "Quicksilver Dagger",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Quicksilver Dagger",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 1,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Warrior Weapon - Dagger (1H)",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(1H)",
+        "Dagger"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If another weapon's attack you control has gained **go again** this turn, this card's attacks get **go again**.",
+        "plain": "Once per Turn Action -- {r}: Attack\nIf another weapon's attack you control has gained go again this turn, this card's attacks get go again."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #9] Weapon attacks and go again",
+      "description": "This card's textbox was updated to conform with attack changes where the attack, not the weapon, must have ability keywords like go again or dominate.",
+      "date": "23-05-2024"
+    }
+  ],
+  "printings": [
+    {
+      "id": "LGS112-CF",
+      "code": "LGS112",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 112,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-8",
+      "releaseDate": "2022-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS112-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicksilver Dagger",
+          "typeLine": "Warrior Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf another weapon you control has gained go again this turn, Quicksilver Dagger has go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If another weapon you control has gained <strong>go again</strong> this turn, Quicksilver Dagger has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS112",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Alexis Susani",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS112-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS112-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS112-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN069",
+      "code": "DYN069",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 69,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN069",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicksilver Dagger",
+          "typeLine": "Warrior Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf another weapon you control has gained go again this turn, Quicksilver Dagger has go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If another weapon you control has gained <strong>go again</strong> this turn, Quicksilver Dagger has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN069",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Alexis Susani",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN069.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN069.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN069.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN069-CF",
+      "code": "DYN069",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 69,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN069-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicksilver Dagger",
+          "typeLine": "Warrior Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf another weapon you control has gained go again this turn, Quicksilver Dagger has go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If another weapon you control has gained <strong>go again</strong> this turn, Quicksilver Dagger has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN069",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Alexis Susani",
+          "rarityMark": "rare-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN069-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN069-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN069-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN069-RF",
+      "code": "DYN069",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 69,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN069-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicksilver Dagger",
+          "typeLine": "Warrior Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf another weapon you control has gained go again this turn, Quicksilver Dagger has go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If another weapon you control has gained <strong>go again</strong> this turn, Quicksilver Dagger has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN069",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Alexis Susani",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN069-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN069-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN069-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN070",
+      "code": "DYN070",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 70,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN070",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicksilver Dagger",
+          "typeLine": "Warrior Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf another weapon you control has gained go again this turn, Quicksilver Dagger has go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If another weapon you control has gained <strong>go again</strong> this turn, Quicksilver Dagger has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN070",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Alexis Susani",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN070.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN070.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN070.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN070-RF",
+      "code": "DYN070",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 70,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN070-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quicksilver Dagger",
+          "typeLine": "Warrior Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf another weapon you control has gained **go again** this turn, Quicksilver Dagger has **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf another weapon you control has gained go again this turn, Quicksilver Dagger has go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If another weapon you control has gained <strong>go again</strong> this turn, Quicksilver Dagger has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN070",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Alexis Susani",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN070-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN070-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN070-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack",
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:35:50Z",
+    "rawSha256": "82339b38dc62fff1d64d9e39d0855b677a709177e648cc5cec2dcaee890bfe48",
+    "updatedAt": "2025-09-18T06:54:17.057057+12:00"
+  }
+}

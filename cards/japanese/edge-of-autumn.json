@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "edge-of-autumn",
+  "language": "ja",
+  "name": "秋の刃",
+  "cores": [
+    {
+      "position": 10,
+      "name": "秋の刃",
+      "typeLine": "忍者・武器 － 剣（両手）",
+      "classes": [
+        "忍者"
+      ],
+      "types": [
+        "武器"
+      ],
+      "subtypes": [
+        "（両手）",
+        "剣"
+      ],
+      "text": {
+        "markup": "**ターン１アクション**--{r}：**攻撃**。**続行**",
+        "plain": "ターン１アクション--{r}：攻撃。続行",
+        "html": "<p><strong>ターン１アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：<strong>攻撃</strong>。<strong>続行</strong></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_IRA002",
+      "code": "IRA002",
+      "language": "ja",
+      "set": "IRA",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "ira-welcome-deck-2024-jp",
+      "releaseDate": "2019-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_IRA002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "秋の刃",
+          "typeLine": "忍者・武器 － 剣（両手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**ターン１アクション** -- {r} ：**攻撃**。**続行**（このアクションが解決されたとき、アクションポイントを１得る）",
+            "plain": "ターン１アクション -- {r} ：攻撃。続行（このアクションが解決されたとき、アクションポイントを１得る）",
+            "html": "<p><strong>ターン１アクション</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> ：<strong>攻撃</strong>。<strong>続行</strong>（このアクションが解決されたとき、アクションポイントを１得る）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "IRA002",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Fajareka Setiawan",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JP_IRA002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JP_IRA002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JP_IRA002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "JA_ASR002",
+      "code": "ASR002",
+      "language": "ja",
+      "set": "ASR",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "amory-deck-ira-scarlet-revenger-ja",
+      "releaseDate": "2025-07-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_ASR002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "秋の刃",
+          "typeLine": "忍者・武器 － 剣（両手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**ターン１アクション**--{r}：**攻撃**。**続行**",
+            "plain": "ターン１アクション--{r}：攻撃。続行",
+            "html": "<p><strong>ターン１アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：<strong>攻撃</strong>。<strong>続行</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ASR002",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Fajareka Setiawan",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_ASR002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_ASR002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_ASR002.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

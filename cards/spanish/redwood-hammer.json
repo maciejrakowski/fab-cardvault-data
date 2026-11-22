@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "redwood-hammer",
+  "language": "es",
+  "name": "Martillo secuoya",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Martillo secuoya",
+      "typeLine": "Arma de guardián de tierra - Martillo (1M)",
+      "classes": [
+        "Guardián"
+      ],
+      "talents": [
+        "Tierra"
+      ],
+      "types": [
+        "Arma"
+      ],
+      "subtypes": [
+        "(1M)",
+        "Martillo"
+      ],
+      "text": {
+        "markup": "**Acción una vez por turno** -- {r}{r}{r}: **Ataque**.{br}Si se ha usado una carta de Tierra como pitch para atacar con esta carta, el ataque obtiene +1{p}.",
+        "plain": "Acción una vez por turno -- {r}{r}{r}: Ataque.\nSi se ha usado una carta de Tierra como pitch para atacar con esta carta, el ataque obtiene +1{p}.",
+        "html": "<p><strong>Acción una vez por turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Ataque</strong>.</p>\n<p>Si se ha usado una carta de Tierra como pitch para atacar con esta carta, el ataque obtiene +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_TER002",
+      "code": "TER002",
+      "language": "es",
+      "set": "TER",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "1st-strike-terra-es",
+      "releaseDate": "2024-08-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_TER002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Martillo secuoya",
+          "typeLine": "Arma de guardián de tierra - Martillo (1M)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Acción una vez por turno** -- {r}{r}{r}: **Ataque**.{br}Si se ha usado una carta de Tierra como pitch para atacar con esta carta, el ataque obtiene +1{p}.",
+            "plain": "Acción una vez por turno -- {r}{r}{r}: Ataque.\nSi se ha usado una carta de Tierra como pitch para atacar con esta carta, el ataque obtiene +1{p}.",
+            "html": "<p><strong>Acción una vez por turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Ataque</strong>.</p>\n<p>Si se ha usado una carta de Tierra como pitch para atacar con esta carta, el ataque obtiene +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TER002",
+          "printedLanguageCode": "SP",
+          "printedYear": "2024",
+          "artist": "Henrique Lindner",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": "earth",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_TER002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_TER002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_TER002.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

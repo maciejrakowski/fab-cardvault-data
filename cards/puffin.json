@@ -1,0 +1,294 @@
+{
+  "schemaVersion": 1,
+  "id": "puffin",
+  "name": "Puffin",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Puffin",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Pirate Mechanologist Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Mechanologist",
+        "Pirate"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "**Action** -- {t}, destroy a Gold you control: Create a Golden Cog token.{br}The second time you crank each turn, draw a card.",
+        "plain": "Action -- {t}, destroy a Gold you control: Create a Golden Cog token.\nThe second time you crank each turn, draw a card."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HER140-RF",
+      "code": "HER140",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 140,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "conventions-high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER140-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Puffin",
+          "typeLine": "Pirate Mechanologist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}, destroy a Gold you control: Create a Golden Cog token.{br}The second time you crank each turn, draw a card.",
+            "plain": "Action -- {t}, destroy a Gold you control: Create a Golden Cog token.\nThe second time you crank each turn, draw a card.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, destroy a Gold you control: Create a Golden Cog token.</p>\n<p>The second time you crank each turn, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER140",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Arif Wijaya",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "mechanologist",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER140-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER140-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER140-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA002",
+      "code": "SEA002",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Puffin",
+          "typeLine": "Pirate Mechanologist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}, destroy a Gold you control: Create a Golden Cog token.{br}The second time you crank each turn, draw a card.",
+            "plain": "Action -- {t}, destroy a Gold you control: Create a Golden Cog token.\nThe second time you crank each turn, draw a card.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, destroy a Gold you control: Create a Golden Cog token.</p>\n<p>The second time you crank each turn, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "SEA002",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Arif Wijaya",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA002-MV",
+      "code": "SEA002",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA002-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Puffin",
+          "typeLine": "Pirate Mechanologist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- {t}, destroy a Gold you control: Create a Golden Cog token.{br}The second time you crank each turn, draw a card.",
+            "plain": "Action -- {t}, destroy a Gold you control: Create a Golden Cog token.\nThe second time you crank each turn, draw a card.",
+            "html": "<p><strong>Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, destroy a Gold you control: Create a Golden Cog token.</p>\n<p>The second time you crank each turn, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "SEA002",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Arif Wijaya",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "pirate",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA002-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA002-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA002-MV.webp"
+          }
+        },
+        {
+          "id": "SEA002-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Puffin",
+          "typeLine": "Pirate Mechanologist Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": null,
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "pirate",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA002-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA002-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA002-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:34:52Z",
+    "rawSha256": "9edfd4a2a34d54299fbaa086cc4f4f514232cacd7be2950f341fda84964d92ba",
+    "updatedAt": "2025-09-18T06:54:06.473340+12:00"
+  }
+}

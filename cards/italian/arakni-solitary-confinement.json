@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "arakni-solitary-confinement",
+  "language": "it",
+  "name": "Arakni, il Segregato",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Arakni, il Segregato",
+      "typeLine": "Eroe Assassino - Giovane",
+      "classes": [
+        "Assassino"
+      ],
+      "types": [
+        "Eroe"
+      ],
+      "subtypes": [
+        "Giovane"
+      ],
+      "text": {
+        "markup": "Il tuo primo attacco con **furtività** ogni turno ha **Continua**.",
+        "plain": "Il tuo primo attacco con furtività ogni turno ha Continua.",
+        "html": "<p>Il tuo primo attacco con <strong>furtività</strong> ogni turno ha <strong>Continua</strong>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_ARA001",
+      "code": "ARA001",
+      "language": "it",
+      "set": "ARA",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arakni-blitz-deck-it",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_ARA001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Arakni, il Segregato",
+          "typeLine": "Eroe Assassino - Giovane",
+          "traitLine": null,
+          "text": {
+            "markup": "Il tuo primo attacco con **furtività** ogni turno ha **Continua**.",
+            "plain": "Il tuo primo attacco con furtività ogni turno ha Continua.",
+            "html": "<p>Il tuo primo attacco con <strong>furtività</strong> ogni turno ha <strong>Continua</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "19",
+            "intellect": "4"
+          },
+          "printedCode": "ARA001",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_ARA001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_ARA001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_ARA001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IT_OUT003",
+      "code": "OUT003",
+      "language": "it",
+      "set": "OUT",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders-it",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_OUT003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Arakni, il Segregato",
+          "typeLine": "Eroe Assassino - Giovane",
+          "traitLine": null,
+          "text": {
+            "markup": "Il tuo primo attacco con **furtività** ogni turno ha **Continua**.",
+            "plain": "Il tuo primo attacco con furtività ogni turno ha Continua.",
+            "html": "<p>Il tuo primo attacco con <strong>furtività</strong> ogni turno ha <strong>Continua</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "19",
+            "intellect": "4"
+          },
+          "printedCode": "OUT003",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Tomasz Jedruszek",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_OUT003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_OUT003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_OUT003.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

@@ -1,0 +1,921 @@
+{
+  "schemaVersion": 1,
+  "id": "spiders-bite",
+  "name": "Spider's Bite",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Spider's Bite",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 1,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Weapon - Dagger (1H)",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(1H)",
+        "Dagger"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.{br}**Piercing 1**",
+        "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.\nPiercing 1"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS111-CF",
+      "code": "LGS111",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 111,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-8",
+      "releaseDate": "2022-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS111-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**\n**Piercing 1** _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1 _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, it has +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS111",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS111-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS111-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS111-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN115",
+      "code": "DYN115",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 115,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN115",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**\n**Piercing 1** _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1 _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, it has +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN115",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN115.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN115.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN115.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN115-CF",
+      "code": "DYN115",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 115,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN115-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**\n**Piercing 1** _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1 _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, it has +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN115",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN115-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN115-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN115-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN115-RF",
+      "code": "DYN115",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 115,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN115-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**\n**Piercing 1** _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1 _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, it has +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN115",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN115-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN115-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN115-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN116",
+      "code": "DYN116",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 116,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN116",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**\n**Piercing 1** _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1 _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, it has +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN116",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN116.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN116.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN116.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN116-RF",
+      "code": "DYN116",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 116,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN116-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**\n**Piercing 1** _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1 _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, it has +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN116",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN116-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN116-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN116-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARA002",
+      "code": "ARA002",
+      "language": "en",
+      "set": "ARA",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arakni-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARA002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**\n**Piercing 1** _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1 _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, it has +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARA002",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARA002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARA002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARA002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUT004",
+      "code": "OUT004",
+      "language": "en",
+      "set": "OUT",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OUT004",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**\n**Piercing 1** _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1 _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, it has +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OUT004",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OUT004.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OUT004.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OUT004.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "UZU002",
+      "code": "UZU002",
+      "language": "en",
+      "set": "UZU",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "uzuri-blitz-deck",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "UZU002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**\n**Piercing 1** _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1 _(If this is defended by an equipment, it has +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, it has +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards have -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "UZU002",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Marcus Reyno",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UZU002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UZU002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UZU002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARK002",
+      "code": "ARK002",
+      "language": "en",
+      "set": "ARK",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted-blitz-deck-arakni",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARK002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: Attack. **Go again**{br}**Piercing 1**{br}When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Attack. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARK002",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARK002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARK002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARK002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB296-GF",
+      "code": "FAB296",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 296,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "in-store-qualifiers-the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB296-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}**Piercing 1** _(If this is defended by an equipment, it gets +1{p}.)_{br}When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1 _(If this is defended by an equipment, it gets +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, it gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB296",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Marcus Reyno",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB296-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB296-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB296-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB297-GF",
+      "code": "FAB297",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 297,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "in-store-qualifiers-the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB297-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}**Piercing 1** _(If this is defended by an equipment, it gets +1{p}.)_{br}When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nPiercing 1 _(If this is defended by an equipment, it gets +1{p}.)_\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, it gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB297",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Marcus Reyno",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB297-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB297-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB297-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AAC003",
+      "code": "AAC003",
+      "language": "en",
+      "set": "AAC",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-arakni-5lp3d-7hru-7h3-cr4x",
+      "releaseDate": "2025-12-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AAC003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.{br}**Piercing 1** _(If this is defended by an equipment, this gets +1{p}.)_",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.\nPiercing 1 _(If this is defended by an equipment, this gets +1{p}.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAC003",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AAC003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AAC003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AAC003.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MPA005",
+      "code": "MPA005",
+      "language": "en",
+      "set": "MPA",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-assassin",
+      "releaseDate": "2026-11-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-11-14T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "MPA005",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Spider's Bite",
+          "typeLine": "Assassin Weapon - Dagger (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**. **Go again**{br}When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.{br}**Piercing 1** _(If this is defended by an equipment, this gets +1{p}.)_",
+            "plain": "Once per Turn Action -- {r}{r}: Attack. Go again\nWhen this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1{d} while defending.\nPiercing 1 _(If this is defended by an equipment, this gets +1{p}.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong>. <strong>Go again</strong></p>\n<p>When this hits a hero, the next time they defend with 1 or more attack action cards this turn, those cards get -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending.</p>\n<p><strong>Piercing 1</strong> <em>(If this is defended by an equipment, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MPA005",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Marcus Reyno",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPA005.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPA005.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPA005.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack",
+      "Go again",
+      "Piercing 1"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:20:04Z",
+    "rawSha256": "2080975bf599bf0c49b4d0fa7914e50b22676270281ad0cd2c216df0743be002",
+    "updatedAt": "2025-09-18T06:56:46.772892+12:00"
+  }
+}

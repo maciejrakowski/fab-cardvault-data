@@ -1,0 +1,746 @@
+{
+  "schemaVersion": 1,
+  "id": "pummel-1",
+  "name": "Pummel",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Pummel",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 2,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Attack Reaction",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Attack Reaction"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Choose 1;{br}* Target club or hammer weapon attack gets +4{p}.{br}* Target attack action card with cost 2 or more gets +4{p} and \"When this hits a hero, they discard a card.\"",
+        "plain": "Choose 1;\n* Target club or hammer weapon attack gets +4{p}.\n* Target attack action card with cost 2 or more gets +4{p} and \"When this hits a hero, they discard a card.\""
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #10] Pummel - must hit a hero to trigger discard",
+      "description": "This card's textbox was updated to formalize a syntax change, so that it would not trigger a discard if it hit an ally.",
+      "date": "09-03-2026"
+    }
+  ],
+  "printings": [
+    {
+      "id": "JDG012-CF",
+      "code": "JDG012",
+      "language": "en",
+      "set": "JDG",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "judge-pack-season-1",
+      "releaseDate": "2019-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JDG012-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pummel",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost 2 or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "plain": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost 2 or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target club or hammer weapon attack gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 2 or greater gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, the defending hero discards a card.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "JDG012",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Ksenia Belova",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG012-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG012-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG012-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR206",
+      "code": "WTR206-C",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 206,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR206",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pummel",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "plain": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target club or hammer weapon attack gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, the defending hero discards a card.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR206-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Ksenia Belova",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR206.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR206.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR206.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR206-RF",
+      "code": "WTR206-C",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 206,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR206-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pummel",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "plain": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target club or hammer weapon attack gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, the defending hero discards a card.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR206-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Ksenia Belova",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR206-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR206-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR206-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR206",
+      "code": "WTR206",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 206,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR206",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pummel",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target club or hammer weapon attack gains +4{p}.{br}* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "plain": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target club or hammer weapon attack gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, the defending hero discards a card.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR206",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Ksenia Belova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR206.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR206.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR206.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR206-RF",
+      "code": "WTR206",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 206,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR206-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pummel",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target club or hammer weapon attack gains +4{p}.{br}* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "plain": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target club or hammer weapon attack gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, the defending hero discards a card.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR206",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Ksenia Belova",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR206-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR206-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR206-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR206",
+      "code": "WTR206",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 206,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR206",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pummel",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "plain": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target club or hammer weapon attack gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, the defending hero discards a card.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR206",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Ksenia Belova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR206.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR206.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR206.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR206-RF",
+      "code": "WTR206",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 206,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR206-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pummel",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "plain": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost {r}{r} or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target club or hammer weapon attack gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, the defending hero discards a card.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR206",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Ksenia Belova",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR206-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR206-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR206-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP399",
+      "code": "1HP399",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 399,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP399",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pummel",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost 2 or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "plain": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost 2 or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target club or hammer weapon attack gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 2 or greater gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, the defending hero discards a card.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP399",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Ksenia Belova",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP399.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP399.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP399.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB375-RF",
+      "code": "FAB375",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 375,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "calling-super-slam",
+      "releaseDate": "2025-09-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB375-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pummel",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target club or hammer weapon attack gains +4{p}.{br}* Target attack action card with cost 2 or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "plain": "Choose 1;\n* Target club or hammer weapon attack gains +4{p}.\n* Target attack action card with cost 2 or greater gains +4{p} and \"If this hits, the defending hero discards a card.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target club or hammer weapon attack gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 2 or greater gains +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;If this hits, the defending hero discards a card.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB375",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Daken",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB375-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB375-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB375-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ANQ032",
+      "code": "ANQ032",
+      "language": "en",
+      "set": "ANQ",
+      "setNumber": 32,
+      "edition": null,
+      "rarity": "gold",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "compendium-of-rathe-antiquity-pack",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ANQ032",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pummel",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target club or hammer weapon attack gets +4{p}.{br}* Target attack action card with cost 2 or more gets +4{p} and \"When this hits a hero, they discard a card.\"",
+            "plain": "Choose 1;\n* Target club or hammer weapon attack gets +4{p}.\n* Target attack action card with cost 2 or more gets +4{p} and \"When this hits a hero, they discard a card.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target club or hammer weapon attack gets +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 2 or more gets +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits a hero, they discard a card.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ANQ032",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Ksenia Belova",
+          "rarityMark": "gold-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ANQ032.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ANQ032.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ANQ032.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBR020",
+      "code": "SBR020",
+      "language": "en",
+      "set": "SBR",
+      "setNumber": 20,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-bravo-flattering-showman",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBR020",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pummel",
+          "typeLine": "Generic Attack Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* Target club or hammer weapon attack gets +4{p}.{br}* Target attack action card with cost 2 or more gets +4{p} and \"When this hits a hero, they discard a card.\"",
+            "plain": "Choose 1;\n* Target club or hammer weapon attack gets +4{p}.\n* Target attack action card with cost 2 or more gets +4{p} and \"When this hits a hero, they discard a card.\"",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>Target club or hammer weapon attack gets +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>Target attack action card with cost 2 or more gets +4<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and &quot;When this hits a hero, they discard a card.&quot;</p>\n</li>\n</ul>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBR020",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Ksenia Belova",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBR020.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBR020.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBR020.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "R-WTR206": "unlimited-revised",
+      "R-WTR206-RF": "unlimited-revised",
+      "U-WTR206": "unlimited",
+      "U-WTR206-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T15:14:40Z",
+    "rawSha256": "ac6dd7e7c523bfede4bf0888e54f066537e98d37fd02c6fb3153d91b52b1085e",
+    "updatedAt": "2025-09-18T06:54:08.936296+12:00"
+  }
+}

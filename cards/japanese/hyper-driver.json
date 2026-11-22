@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "hyper-driver",
+  "language": "ja",
+  "name": "ハイパードライバ",
+  "cores": [
+    {
+      "position": 10,
+      "name": "ハイパードライバ",
+      "typeLine": "機械技師・トークン － アイテム",
+      "classes": [
+        "機械技師"
+      ],
+      "types": [
+        "トークン"
+      ],
+      "subtypes": [
+        "アイテム"
+      ],
+      "text": {
+        "markup": "これの上に蒸気カウンターがないとき、これを破壊する。{br}ターンに１回、あなたがカードをブーストしたとき、これから蒸気カウンターを１個取り除き{r}を得る。",
+        "plain": "これの上に蒸気カウンターがないとき、これを破壊する。\nターンに１回、あなたがカードをブーストしたとき、これから蒸気カウンターを１個取り除き{r}を得る。",
+        "html": "<p>これの上に蒸気カウンターがないとき、これを破壊する。</p>\n<p>ターンに１回、あなたがカードをブーストしたとき、これから蒸気カウンターを１個取り除き<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_AMX028",
+      "code": "AMX028",
+      "language": "ja",
+      "set": "AMX",
+      "setNumber": 28,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-maxx-the-hype-nitro-ja",
+      "releaseDate": "2025-04-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AMX028",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "ハイパードライバ",
+          "typeLine": "機械技師・トークン － アイテム",
+          "traitLine": null,
+          "text": {
+            "markup": "これの上に蒸気カウンターがないとき、これを破壊する。{br}ターンに１回、あなたがカードをブーストしたとき、これから蒸気カウンターを１個取り除き{r}を得る。",
+            "plain": "これの上に蒸気カウンターがないとき、これを破壊する。\nターンに１回、あなたがカードをブーストしたとき、これから蒸気カウンターを１個取り除き{r}を得る。",
+            "html": "<p>これの上に蒸気カウンターがないとき、これを破壊する。</p>\n<p>ターンに１回、あなたがカードをブーストしたとき、これから蒸気カウンターを１個取り除き<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AMX028",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AMX028.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AMX028.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AMX028.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

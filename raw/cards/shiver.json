@@ -1,0 +1,929 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "f028cdce-d684-48c0-a1af-1a97129aa1b6",
+      "cores": [
+        {
+          "id": "a84cb27f-176c-40e4-b0c4-b6bd4bdaf57a",
+          "core_classes": [
+            {
+              "id": 11,
+              "name": "Ranger",
+              "name_en": "Ranger",
+              "name_fr": "Ranger",
+              "name_de": "Waldläufer",
+              "name_it": "Ranger",
+              "name_es": "Explorador",
+              "name_ja": "レンジャー",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 3,
+              "name": "Elemental",
+              "name_en": "Elemental",
+              "name_fr": "Élémentaire",
+              "name_de": "Elementar",
+              "name_it": "Elementale",
+              "name_es": "Elemental",
+              "name_ja": "エレメンタル",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 12,
+              "name": "Weapon",
+              "name_en": "Weapon",
+              "name_fr": "Arme",
+              "name_de": "Waffe",
+              "name_it": "Arma",
+              "name_es": "Arma",
+              "name_ja": "武器",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 2,
+              "name": "(2H)",
+              "name_en": "(2H)",
+              "name_fr": "(2M)",
+              "name_de": "(2H)",
+              "name_it": "(2M)",
+              "name_es": "(2M)",
+              "name_ja": "（両手）",
+              "is_published": true,
+              "functional": true
+            },
+            {
+              "id": 20,
+              "name": "Bow",
+              "name_en": "Bow",
+              "name_fr": "Arc",
+              "name_de": "Bogen",
+              "name_it": "Arco",
+              "name_es": "Arco",
+              "name_ja": "弓",
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-09-18T06:55:58.659862+12:00",
+          "updated_at": "2025-09-18T06:55:58.675049+12:00",
+          "name": "Shiver",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "",
+          "defense": "",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Once per Turn Instant** -- {r}: You may put an arrow card from your hand face-up into your arsenal. If you do, choose 1;{br}* It gets +1{p} until end of turn.{br}* It gets **dominate** until end of turn.",
+          "typebox": "Elemental Ranger Weapon - Bow (2H)",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": null,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "f028cdce-d684-48c0-a1af-1a97129aa1b6"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "460e073c-e3d6-4346-bef5-dd91f8487db0",
+          "faces": [
+            {
+              "id": "c3f0947b-4cf8-435a-a8cc-fcc8f47cd54a",
+              "created_at": "2025-09-18T06:55:58.687853+12:00",
+              "updated_at": "2025-09-18T06:55:58.687862+12:00",
+              "face_id": "ELE033",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "token-dot",
+              "printed_code": "ELE033",
+              "printed_artist": "Elina Akhiamova",
+              "printed_name": "Shiver",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {r}: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;\n* It gains +1{p} until end of turn.\n* It gains **dominate** until end of turn. _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elemental Ranger Weapon - Bow (2H)",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "a84cb27f-176c-40e4-b0c4-b6bd4bdaf57a",
+              "card_print": "460e073c-e3d6-4346-bef5-dd91f8487db0",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Shiver</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elemental Ranger Weapon - Bow (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;</p>\n<ul>\n<li>\n<p>It gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n</li>\n<li>\n<p>It gains <strong>dominate</strong> until end of turn. <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n</li>\n</ul>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE033.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE033.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE033.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "e6bc811a-a8df-4d47-8b71-5625f83166db",
+            "product_group": {
+              "id": "1e566742-7d77-4c02-9787-510ca070f514",
+              "created_at": "2025-09-18T06:45:26.746173+12:00",
+              "updated_at": "2025-09-18T06:45:26.746185+12:00",
+              "group_name": "Tales of Aria",
+              "product_type": "booster",
+              "release_date": "2021-09-24",
+              "slug": "tales-of-aria"
+            },
+            "created_at": "2025-09-18T06:45:26.748425+12:00",
+            "updated_at": "2025-09-18T06:45:26.748436+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Tales of Aria",
+            "product_type": "booster",
+            "release_date": "2021-09-24",
+            "slug": "tales-of-aria",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "b5c461df-8423-4c37-9c69-4f72ae8aa5cc",
+            "created_at": "2025-09-18T06:45:12.709212+12:00",
+            "updated_at": "2025-09-18T06:45:12.709221+12:00",
+            "set_code": "ELE",
+            "set_name": "Tales of Aria",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:58.683899+12:00",
+          "updated_at": "2025-09-18T06:55:58.683910+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ELE033",
+          "set_number": 33,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "token",
+          "card": "f028cdce-d684-48c0-a1af-1a97129aa1b6"
+        },
+        {
+          "id": "6af66662-5585-4a77-8dec-e55dacbb664f",
+          "faces": [
+            {
+              "id": "abeb85a8-f0c3-42dc-b4e3-1a5eee01dddc",
+              "created_at": "2025-09-18T06:55:58.710756+12:00",
+              "updated_at": "2025-09-18T06:55:58.710779+12:00",
+              "face_id": "U-ELE033",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "token-circle",
+              "printed_code": "ELE033",
+              "printed_artist": "Elina Akhiamova",
+              "printed_name": "Shiver",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {r}: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;\n* It gains +1{p} until end of turn.\n* It gains **dominate** until end of turn. _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elemental Ranger Weapon - Bow (2H)",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "a84cb27f-176c-40e4-b0c4-b6bd4bdaf57a",
+              "card_print": "6af66662-5585-4a77-8dec-e55dacbb664f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Shiver</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elemental Ranger Weapon - Bow (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;</p>\n<ul>\n<li>\n<p>It gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n</li>\n<li>\n<p>It gains <strong>dominate</strong> until end of turn. <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n</li>\n</ul>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE033.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE033.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE033.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "da139752-37d3-4066-9a7a-4db1bc68fb69",
+            "product_group": {
+              "id": "219a2adf-3837-48ab-93f2-438dc1d03749",
+              "created_at": "2025-09-18T06:45:26.772834+12:00",
+              "updated_at": "2025-09-18T06:45:26.772857+12:00",
+              "group_name": "Tales of Aria - Unlimited",
+              "product_type": "booster",
+              "release_date": "2021-10-01",
+              "slug": "tales-of-aria-unlimited"
+            },
+            "created_at": "2025-09-18T06:45:26.775169+12:00",
+            "updated_at": "2025-09-18T06:45:26.775181+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Tales of Aria - Unlimited",
+            "product_type": "booster",
+            "release_date": "2021-10-01",
+            "slug": "tales-of-aria-unlimited",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "b5c461df-8423-4c37-9c69-4f72ae8aa5cc",
+            "created_at": "2025-09-18T06:45:12.709212+12:00",
+            "updated_at": "2025-09-18T06:45:12.709221+12:00",
+            "set_code": "ELE",
+            "set_name": "Tales of Aria",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:58.701939+12:00",
+          "updated_at": "2025-09-18T06:55:58.701960+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "U-ELE033",
+          "set_number": 33,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "token",
+          "card": "f028cdce-d684-48c0-a1af-1a97129aa1b6"
+        },
+        {
+          "id": "dd4f45f9-bcd1-41e6-9c07-a6a4aebc0ef8",
+          "faces": [
+            {
+              "id": "c0bcf4c2-4f28-4554-be09-d7f9a98d13fa",
+              "created_at": "2025-09-18T06:55:58.721834+12:00",
+              "updated_at": "2025-09-18T06:55:58.721843+12:00",
+              "face_id": "LXI002",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "LXI002",
+              "printed_artist": "Elina Akhiamova",
+              "printed_name": "Shiver",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {r}: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;\n* It gains +1{p} until end of turn.\n* It gains **dominate** until end of turn. _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elemental Ranger Weapon - Bow (2H)",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "a84cb27f-176c-40e4-b0c4-b6bd4bdaf57a",
+              "card_print": "dd4f45f9-bcd1-41e6-9c07-a6a4aebc0ef8",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Shiver</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elemental Ranger Weapon - Bow (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;</p>\n<ul>\n<li>\n<p>It gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n</li>\n<li>\n<p>It gains <strong>dominate</strong> until end of turn. <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n</li>\n</ul>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LXI002.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LXI002.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LXI002.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "be5e917a-18f7-45b6-82e0-1a44a44ca83c",
+            "product_group": null,
+            "created_at": "2025-09-18T06:45:27.852681+12:00",
+            "updated_at": "2025-09-18T06:45:27.852698+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Lexi - Blitz Deck",
+            "product_type": "booster",
+            "release_date": "2021-09-24",
+            "slug": "lexi-blitz-deck",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "45e6f48f-7858-4305-b862-b8a8d793dea1",
+            "created_at": "2025-09-18T06:45:12.767657+12:00",
+            "updated_at": "2025-09-18T06:45:12.767666+12:00",
+            "set_code": "LXI",
+            "set_name": "Lexi - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "b5c461df-8423-4c37-9c69-4f72ae8aa5cc"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:58.718253+12:00",
+          "updated_at": "2025-09-18T06:55:58.718263+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LXI002",
+          "set_number": 2,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "f028cdce-d684-48c0-a1af-1a97129aa1b6"
+        },
+        {
+          "id": "bf882210-7ddd-429d-baa8-f4d5610131ea",
+          "faces": [
+            {
+              "id": "2e0b2b2d-7c02-4c07-816c-abe005c57bfb",
+              "created_at": "2025-09-18T06:55:58.736767+12:00",
+              "updated_at": "2025-09-18T06:55:58.736777+12:00",
+              "face_id": "DE_2HP027",
+              "face_language": "de",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP027",
+              "printed_artist": "Elina Akhiamova",
+              "printed_name": "Frösteln",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Einmal pro Zug Spontan** -- {r}: Du kannst eine Pfeil-Karte aus deiner Hand aufgedeckt in eine leere Arsenalzone legen. Falls du dies tust, bestimme 1;{br}* Sie erhält +1 bis zum Ende des Zuges.{br}* Die Karte erhält **Dominieren** bis zum Ende des Zuges. _(Der verteidigende Held kann in diesem Kettensegment max. 1 Verteidigungskarte oder Verteidigungsreaktion aus seiner Hand spielen bzw. damit verteidigen.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elementar Waldläufer Waffe - Bogen (2H)",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "a84cb27f-176c-40e4-b0c4-b6bd4bdaf57a",
+              "card_print": "bf882210-7ddd-429d-baa8-f4d5610131ea",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Frösteln</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elementar Waldläufer Waffe - Bogen (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Einmal pro Zug Spontan</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Du kannst eine Pfeil-Karte aus deiner Hand aufgedeckt in eine leere Arsenalzone legen. Falls du dies tust, bestimme 1;</p>\n<ul>\n<li>\n<p>Sie erhält +1 bis zum Ende des Zuges.</p>\n</li>\n<li>\n<p>Die Karte erhält <strong>Dominieren</strong> bis zum Ende des Zuges. <em>(Der verteidigende Held kann in diesem Kettensegment max. 1 Verteidigungskarte oder Verteidigungsreaktion aus seiner Hand spielen bzw. damit verteidigen.)</em></p>\n</li>\n</ul>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_2HP027.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_2HP027.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_2HP027.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "462766fd-d70a-45d5-b7ac-35604650806e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.865684+12:00",
+            "updated_at": "2025-09-18T06:45:18.865697+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "de",
+            "product_name": "History Pack 2 - Black Label [DE]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-de",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:58.729526+12:00",
+          "updated_at": "2025-09-18T06:55:58.729537+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "DE_2HP027",
+          "set_number": 27,
+          "layout": "regular",
+          "print_language": "de",
+          "rarity": "common",
+          "card": "f028cdce-d684-48c0-a1af-1a97129aa1b6"
+        },
+        {
+          "id": "1eefd784-243b-44b8-ab4f-c8616ce18bf7",
+          "faces": [
+            {
+              "id": "0759b3e7-127f-4c54-84fe-c582a4cbf309",
+              "created_at": "2025-09-18T06:55:58.752255+12:00",
+              "updated_at": "2025-09-18T06:55:58.752266+12:00",
+              "face_id": "FR_2HP027",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP027",
+              "printed_artist": "Elina Akhiamova",
+              "printed_name": "Trembler",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané une fois par tour** -- {r}\u00A0: Vous pouvez placer une carte flèche de votre main face visible dans une zone d’arsenal vide. Si vous le faites, choisissez l’un;{br}- Elle gagne +1{p} jusqu’à la fin du tour.{br}- Elle gagne **dominer** jusqu’à la fin du tour. _(Le héros défenseur ne peut pas se défendre avec ou jouer plus d’une carte de défense ou une réaction de défense de sa main pour ce maillon de chaîne.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Élémentaire Ranger Arme - Arc (2M)",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "a84cb27f-176c-40e4-b0c4-b6bd4bdaf57a",
+              "card_print": "1eefd784-243b-44b8-ab4f-c8616ce18bf7",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Trembler</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Élémentaire Ranger Arme - Arc (2M)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>\u00A0: Vous pouvez placer une carte flèche de votre main face visible dans une zone d’arsenal vide. Si vous le faites, choisissez l’un;</p>\n<ul>\n<li>\n<p>Elle gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> jusqu’à la fin du tour.</p>\n</li>\n<li>\n<p>Elle gagne <strong>dominer</strong> jusqu’à la fin du tour. <em>(Le héros défenseur ne peut pas se défendre avec ou jouer plus d’une carte de défense ou une réaction de défense de sa main pour ce maillon de chaîne.)</em></p>\n</li>\n</ul>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_2HP027.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_2HP027.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_2HP027.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1106e491-00fd-48b7-9490-efec9eea1d82",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.885032+12:00",
+            "updated_at": "2025-09-18T06:45:18.885049+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "fr",
+            "product_name": "History Pack 2 - Black Label [FR]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:58.745742+12:00",
+          "updated_at": "2025-09-18T06:55:58.745768+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_2HP027",
+          "set_number": 27,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "f028cdce-d684-48c0-a1af-1a97129aa1b6"
+        },
+        {
+          "id": "6c3da925-a0a8-4848-81a5-c2a7b3c45ac6",
+          "faces": [
+            {
+              "id": "1dc2ea84-48ca-4402-8b37-29d9023c8ca4",
+              "created_at": "2025-09-18T06:55:58.767937+12:00",
+              "updated_at": "2025-09-18T06:55:58.767949+12:00",
+              "face_id": "ES_2HP027",
+              "face_language": "es",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP027",
+              "printed_artist": "Elina Akhiamova",
+              "printed_name": "Escalofrío",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantáneo una vez por turno** -- {r}: Puedes tomar una carta de flecha de tu mano y colocarla boca arriba en una zona vacía del arsenal. Si lo haces, elige 1;{br}Gana +1{p} hasta el final del turno.{br}Gana **dominar** hasta el final del turno. _(El héroe que defiende no puede defender o jugar con más de 1 carta de defensa o reacción de defensa de su mano este eslabón)._",
+              "printed_flavor_text": "",
+              "printed_typebox": "Arma de vigilante elemental - Arco (2M)",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "a84cb27f-176c-40e4-b0c4-b6bd4bdaf57a",
+              "card_print": "6c3da925-a0a8-4848-81a5-c2a7b3c45ac6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Escalofrío</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Arma de vigilante elemental - Arco (2M)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantáneo una vez por turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Puedes tomar una carta de flecha de tu mano y colocarla boca arriba en una zona vacía del arsenal. Si lo haces, elige 1;</p>\n<p>Gana +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> hasta el final del turno.</p>\n<p>Gana <strong>dominar</strong> hasta el final del turno. <em>(El héroe que defiende no puede defender o jugar con más de 1 carta de defensa o reacción de defensa de su mano este eslabón).</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_2HP027.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_2HP027.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_2HP027.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "12d72e87-64af-4eac-b939-9424be79855e",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.900596+12:00",
+            "updated_at": "2025-09-18T06:45:18.900613+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "es",
+            "product_name": "History Pack 2 - Black Label [ES]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-es",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:58.762305+12:00",
+          "updated_at": "2025-09-18T06:55:58.762322+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "ES_2HP027",
+          "set_number": 27,
+          "layout": "regular",
+          "print_language": "es",
+          "rarity": "common",
+          "card": "f028cdce-d684-48c0-a1af-1a97129aa1b6"
+        },
+        {
+          "id": "0f11dd7a-7a32-4048-97c3-26b75ada137d",
+          "faces": [
+            {
+              "id": "dd6d0528-7106-456d-93d4-6b7a5d02885e",
+              "created_at": "2025-09-18T06:55:58.785333+12:00",
+              "updated_at": "2025-09-18T06:55:58.785351+12:00",
+              "face_id": "IT_2HP027",
+              "face_language": "it",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "common-circle",
+              "printed_code": "2HP027",
+              "printed_artist": "Elina Akhiamova",
+              "printed_name": "Brivido",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Istantanea una volta per turno** -- {r}: Puoi mettere una carta freccia dalla tua mano a faccia in su in uno slot vuoto del tuo arsenale. Se lo fai, scegli 1:{br}Guadagna +1{p} fino alla fine del turno.{br}Guadagna **domina** fino alla fine del turno. _(L'eroe in difesa non può difendersi con o giocare più di 1 carta difensiva o reazione difensiva dalla sua mano in questo anello della catena.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Arma Ranger Elementale - Arco (2H)",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "a84cb27f-176c-40e4-b0c4-b6bd4bdaf57a",
+              "card_print": "0f11dd7a-7a32-4048-97c3-26b75ada137d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Brivido</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Arma Ranger Elementale - Arco (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Istantanea una volta per turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Puoi mettere una carta freccia dalla tua mano a faccia in su in uno slot vuoto del tuo arsenale. Se lo fai, scegli 1:</p>\n<p>Guadagna +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> fino alla fine del turno.</p>\n<p>Guadagna <strong>domina</strong> fino alla fine del turno. <em>(L'eroe in difesa non può difendersi con o giocare più di 1 carta difensiva o reazione difensiva dalla sua mano in questo anello della catena.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_2HP027.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_2HP027.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_2HP027.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c24effd5-1d3d-4ed0-8f6f-c6a3c2098f91",
+            "product_group": {
+              "id": "67ef248d-5be2-4e46-a5d0-b04fc74a6ecc",
+              "created_at": "2025-09-18T06:45:18.863361+12:00",
+              "updated_at": "2025-09-18T06:45:18.863373+12:00",
+              "group_name": "History Pack 2 - Black Label",
+              "product_type": "booster",
+              "release_date": "2023-02-24",
+              "slug": "history-pack-2-black-label"
+            },
+            "created_at": "2025-09-18T06:45:18.923313+12:00",
+            "updated_at": "2025-09-18T06:45:18.923333+12:00",
+            "printed_date": "2022-10-01",
+            "printed_language": "it",
+            "product_name": "History Pack 2 - Black Label [IT]",
+            "product_type": "booster",
+            "release_date": "2023-02-24",
+            "slug": "history-pack-2-black-label-it",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "d7877bb0-e5e7-45a6-8e72-d2ebe99be172",
+            "created_at": "2025-09-18T06:45:12.724509+12:00",
+            "updated_at": "2025-09-18T06:45:12.724520+12:00",
+            "set_code": "2HP",
+            "set_name": "History Pack 2",
+            "set_type": "reprint",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:58.777828+12:00",
+          "updated_at": "2025-09-18T06:55:58.777873+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "IT_2HP027",
+          "set_number": 27,
+          "layout": "regular",
+          "print_language": "it",
+          "rarity": "common",
+          "card": "f028cdce-d684-48c0-a1af-1a97129aa1b6"
+        },
+        {
+          "id": "a77d592c-f9e6-4d36-84c1-950e330115cc",
+          "faces": [
+            {
+              "id": "778302cf-e9f8-4d30-8948-e2da300d43aa",
+              "created_at": "2025-09-18T06:55:58.801005+12:00",
+              "updated_at": "2025-09-18T06:55:58.801017+12:00",
+              "face_id": "LGS067-CF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "weapon",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS067",
+              "printed_artist": "Elina Akhiamova",
+              "printed_name": "Shiver",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Instant** -- {r}: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;\n* It gains +1{p} until end of turn.\n* It gains **dominate** until end of turn. _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Elemental Ranger Weapon - Bow (2H)",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "a84cb27f-176c-40e4-b0c4-b6bd4bdaf57a",
+              "card_print": "a77d592c-f9e6-4d36-84c1-950e330115cc",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Shiver</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Elemental Ranger Weapon - Bow (2H)</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;</p>\n<ul>\n<li>\n<p>It gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n</li>\n<li>\n<p>It gains <strong>dominate</strong> until end of turn. <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n</li>\n</ul>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS067-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS067-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS067-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "24be25a6-02d5-4e14-b6e9-bd6205b7dc6a",
+            "product_group": null,
+            "created_at": "2025-09-18T06:47:06.915775+12:00",
+            "updated_at": "2025-09-18T06:47:06.915799+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Armory - Season 5",
+            "product_type": "booster",
+            "release_date": "2021-09-01",
+            "slug": "armory-season-5",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:55:58.794906+12:00",
+          "updated_at": "2025-09-18T06:55:58.794919+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS067-CF",
+          "set_number": 67,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "f028cdce-d684-48c0-a1af-1a97129aa1b6"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:55:58.654999+12:00",
+      "updated_at": "2025-09-18T06:55:58.656722+12:00",
+      "card_id": "shiver",
+      "card_type": "regular",
+      "object_type": "arena-card"
+    }
+  ]
+}

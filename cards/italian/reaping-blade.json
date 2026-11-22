@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "reaping-blade",
+  "language": "it",
+  "name": "Lama Mietitrice",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Lama Mietitrice",
+      "typeLine": "Lama Runica Arma - Spada (2H)",
+      "classes": [
+        "Runalama"
+      ],
+      "types": [
+        "Arma"
+      ],
+      "subtypes": [
+        "(2M)",
+        "Spada"
+      ],
+      "text": {
+        "markup": "**Una volta per turno, Azione** -- {r}: **Attacco**{br}Se un eroe ha più {h} di qualsiasi altro eroe, non può guadagnare {h}.",
+        "plain": "Una volta per turno, Azione -- {r}: Attacco\nSe un eroe ha più {h} di qualsiasi altro eroe, non può guadagnare {h}.",
+        "html": "<p><strong>Una volta per turno, Azione</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attacco</strong></p>\n<p>Se un eroe ha più <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> di qualsiasi altro eroe, non può guadagnare <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "IT_1HP261",
+      "code": "1HP261",
+      "language": "it",
+      "set": "1HP",
+      "setNumber": 261,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1-black-label-it",
+      "releaseDate": "2022-07-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "IT_1HP261",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "it",
+          "name": "Lama Mietitrice",
+          "typeLine": "Lama Runica Arma - Spada (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Una volta per turno, Azione** -- {r}: **Attacco**{br}Se un eroe ha più {h} di qualsiasi altro eroe, non può guadagnare {h}.",
+            "plain": "Una volta per turno, Azione -- {r}: Attacco\nSe un eroe ha più {h} di qualsiasi altro eroe, non può guadagnare {h}.",
+            "html": "<p><strong>Una volta per turno, Azione</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attacco</strong></p>\n<p>Se un eroe ha più <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> di qualsiasi altro eroe, non può guadagnare <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP261",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Alexandra Malygina",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/IT_1HP261.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/IT_1HP261.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/IT_1HP261.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

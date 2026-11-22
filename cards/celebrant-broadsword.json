@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "celebrant-broadsword",
+  "name": "Celebrant Broadsword",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Celebrant Broadsword",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 3,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Revered Warrior Weapon - Sword (2H)",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [
+        "Revered"
+      ],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(2H)",
+        "Sword"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}{r}: **Attack**{br}If you've been cheered this turn, this card's attacks get **go again**.",
+        "plain": "Once per Turn Action -- {r}{r}: Attack\nIf you've been cheered this turn, this card's attacks get go again."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "SPW004-RF",
+      "code": "SPW004",
+      "language": "en",
+      "set": "SPW",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "smash-palace-chorus-of-steel",
+      "releaseDate": "2026-10-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-31T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SPW004-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Celebrant Broadsword",
+          "typeLine": "Revered Warrior Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}: **Attack**{br}If you've been cheered this turn, this card's attacks get **go again**.",
+            "plain": "Once per Turn Action -- {r}{r}: Attack\nIf you've been cheered this turn, this card's attacks get go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If you've been cheered this turn, this card's attacks get <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SPW004",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Thomas Ressuge",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SPW004-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SPW004-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SPW004-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack",
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:13:58Z",
+    "rawSha256": "4260a9feffe5f0577fa5cb0a0588282b5f0fff67b9c3c5139979f829aea16c05",
+    "updatedAt": "2026-07-14T19:59:51.544487+12:00"
+  }
+}

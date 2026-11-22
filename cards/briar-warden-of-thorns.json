@@ -1,0 +1,604 @@
+{
+  "schemaVersion": 1,
+  "id": "briar-warden-of-thorns",
+  "name": "Briar, Warden of Thorns",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Briar, Warden of Thorns",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 40,
+      "intellect": 4,
+      "typeLine": "Elemental Runeblade Hero",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [
+        "Elemental"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "**Essence of Earth and Lightning**{br}The first time an attack action card you control deals damage to an opposing hero each turn, create an Embodiment of Earth token.{br}The second time you play a non-attack action card each turn, create an Embodiment of Lightning token.",
+        "plain": "Essence of Earth and Lightning\nThe first time an attack action card you control deals damage to an opposing hero each turn, create an Embodiment of Earth token.\nThe second time you play a non-attack action card each turn, create an Embodiment of Lightning token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #4] Briar - trigger to once per turn",
+      "description": "This card's textbox was updated to limit a triggered effect to once per turn, so that it would be more balanced within the meta-game.",
+      "date": "12-01-2022"
+    }
+  ],
+  "printings": [
+    {
+      "id": "XXX011",
+      "code": "XXX011",
+      "language": "en",
+      "set": "XXX",
+      "setNumber": 11,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "organized-play-support-tales-of-aria-briar-2022",
+      "releaseDate": "2019-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "XXX011",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Briar, Warden of Thorns",
+          "typeLine": "Elemental Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Essence of Earth and Lightning** _(You may have Earth and Lightning cards in your deck)_{br}The first time an attack action card you control deals damage to an opposing hero each turn, create an Embodiment of Earth token.{br}The second time you play a 'non-attack' action card each turn, create an Embodiment of Lightning token.",
+            "plain": "Essence of Earth and Lightning _(You may have Earth and Lightning cards in your deck)_\nThe first time an attack action card you control deals damage to an opposing hero each turn, create an Embodiment of Earth token.\nThe second time you play a 'non-attack' action card each turn, create an Embodiment of Lightning token.",
+            "html": "<p><strong>Essence of Earth and Lightning</strong> <em>(You may have Earth and Lightning cards in your deck)</em></p>\n<p>The first time an attack action card you control deals damage to an opposing hero each turn, create an Embodiment of Earth token.</p>\n<p>The second time you play a 'non-attack' action card each turn, create an Embodiment of Lightning token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "XXX011",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Othon Nikolaidis",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/XXX011.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/XXX011.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX011.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER044-CF",
+      "code": "HER044",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 44,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "national-championship-2021",
+      "releaseDate": "2021-01-22",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER044-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Briar, Warden of Thorns",
+          "typeLine": "Elemental Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Essence of Earth and Lightning** _(You may have Earth and Lightning cards in your deck.)_\nWhenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.\nWhenever you play your second non-attack action card each turn, create an Embodiment of Lightning token.",
+            "plain": "Essence of Earth and Lightning _(You may have Earth and Lightning cards in your deck.)_\nWhenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.\nWhenever you play your second non-attack action card each turn, create an Embodiment of Lightning token.",
+            "html": "<p><strong>Essence of Earth and Lightning</strong> <em>(You may have Earth and Lightning cards in your deck.)</em></p>\n<p>Whenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.</p>\n<p>Whenever you play your second non-attack action card each turn, create an Embodiment of Lightning token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER044",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Othon Nikolaidis",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER044-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER044-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER044-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER050-RF",
+      "code": "HER050",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 50,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-5",
+      "releaseDate": "2021-09-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER050-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Briar, Warden of Thorns",
+          "typeLine": "Elemental Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Essence of Earth and Lightning** _(You may have Earth and Lightning cards in your deck.)_\nWhenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.\nWhenever you play your second non-attack action card each turn, create an Embodiment of Lightning token.",
+            "plain": "Essence of Earth and Lightning _(You may have Earth and Lightning cards in your deck.)_\nWhenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.\nWhenever you play your second non-attack action card each turn, create an Embodiment of Lightning token.",
+            "html": "<p><strong>Essence of Earth and Lightning</strong> <em>(You may have Earth and Lightning cards in your deck.)</em></p>\n<p>Whenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.</p>\n<p>Whenever you play your second non-attack action card each turn, create an Embodiment of Lightning token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER050",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Othon Nikolaidis",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER050-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER050-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER050-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ELE062",
+      "code": "ELE062",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 62,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ELE062",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Briar, Warden of Thorns",
+          "typeLine": "Elemental Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Essence of Earth and Lightning** _(You may have Earth and Lightning cards in your deck.)_\nWhenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.\nWhenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token.",
+            "plain": "Essence of Earth and Lightning _(You may have Earth and Lightning cards in your deck.)_\nWhenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.\nWhenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token.",
+            "html": "<p><strong>Essence of Earth and Lightning</strong> <em>(You may have Earth and Lightning cards in your deck.)</em></p>\n<p>Whenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.</p>\n<p>Whenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "ELE062",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Othon Nikolaidis",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE062.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE062.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE062.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ELE062",
+      "code": "ELE062",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 62,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria-unlimited",
+      "releaseDate": "2021-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ELE062",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Briar, Warden of Thorns",
+          "typeLine": "Elemental Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Essence of Earth and Lightning** _(You may have Earth and Lightning cards in your deck.)_\nWhenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.\nWhenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token.",
+            "plain": "Essence of Earth and Lightning _(You may have Earth and Lightning cards in your deck.)_\nWhenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.\nWhenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token.",
+            "html": "<p><strong>Essence of Earth and Lightning</strong> <em>(You may have Earth and Lightning cards in your deck.)</em></p>\n<p>Whenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.</p>\n<p>Whenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "ELE062",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Othon Nikolaidis",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE062.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE062.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE062.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER063-CF",
+      "code": "HER063",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 63,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prize-wall-exclusive-2022",
+      "releaseDate": "2022-01-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER063-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Briar, Warden of Thorns",
+          "typeLine": "Elemental Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Essence of Earth and Lightning** _(You may have Earth and Lightning cards in your deck.)_\nThe first time an attack action card you control deals damage to an opposing hero each turn, create an Embodiment of Earth token.\nThe second time you play a 'non-attack' action card each turn, create an Embodiment of Lightning token.",
+            "plain": "Essence of Earth and Lightning _(You may have Earth and Lightning cards in your deck.)_\nThe first time an attack action card you control deals damage to an opposing hero each turn, create an Embodiment of Earth token.\nThe second time you play a 'non-attack' action card each turn, create an Embodiment of Lightning token.",
+            "html": "<p><strong>Essence of Earth and Lightning</strong> <em>(You may have Earth and Lightning cards in your deck.)</em></p>\n<p>The first time an attack action card you control deals damage to an opposing hero each turn, create an Embodiment of Earth token.</p>\n<p>The second time you play a 'non-attack' action card each turn, create an Embodiment of Lightning token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER063",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Othon Nikolaidis",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER063-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER063-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER063-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WIN015-CF",
+      "code": "WIN015",
+      "language": "en",
+      "set": "WIN",
+      "setNumber": 15,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-champion-cards",
+      "releaseDate": "2022-05-15",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WIN015-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Briar, Warden of Thorns",
+          "typeLine": "Elemental Runeblade Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": {
+            "markup": "Pro Tour Champion",
+            "plain": "Pro Tour Champion",
+            "html": "<p>Pro Tour Champion</p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "WIN015",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Othon Nikolaidis",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WIN015-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WIN015-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WIN015-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ROS254-MV",
+      "code": "ROS254",
+      "language": "en",
+      "set": "ROS",
+      "setNumber": 254,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rosetta",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ROS254-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Briar, Warden of Thorns",
+          "typeLine": "Elemental Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "The first time an attack action card you control deals damage to an opposing hero each turn, create an Embodiment of Earth token.{br}The second time you play a non-attack action card each turn, create an Embodiment of Lightning token.{br}**Essence of Earth and Lightning** _(You may have Earth and Lightning cards in your deck.)_",
+            "plain": "The first time an attack action card you control deals damage to an opposing hero each turn, create an Embodiment of Earth token.\nThe second time you play a non-attack action card each turn, create an Embodiment of Lightning token.\nEssence of Earth and Lightning _(You may have Earth and Lightning cards in your deck.)_",
+            "html": "<p>The first time an attack action card you control deals damage to an opposing hero each turn, create an Embodiment of Earth token.</p>\n<p>The second time you play a non-attack action card each turn, create an Embodiment of Lightning token.</p>\n<p><strong>Essence of Earth and Lightning</strong> <em>(You may have Earth and Lightning cards in your deck.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "ROS254",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Othon Nikolaidis",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": "earth-lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ROS254-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ROS254-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ROS254-MV.webp"
+          }
+        },
+        {
+          "id": "ROS254-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Briar, Warden of Thorns",
+          "typeLine": "Elemental Runeblade Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": null,
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ROS254-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ROS254-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ROS254-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Essence of Earth and Lightning"
+    ],
+    "editions": {
+      "U-ELE062": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:21:13Z",
+    "rawSha256": "deb5d2207a8ae351ab0506a7ddae8899e04f25907e5b54feb314eb2ef080ead4",
+    "updatedAt": "2025-09-18T06:47:06.852961+12:00"
+  }
+}

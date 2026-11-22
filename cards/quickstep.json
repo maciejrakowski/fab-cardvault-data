@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "quickstep",
+  "name": "Quickstep",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Quickstep",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 0,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Bard Equipment - Legs",
+      "traitLine": null,
+      "classes": [
+        "Bard"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Legs"
+      ],
+      "text": {
+        "markup": "**Action** -- Destroy this: Each hero creates a Quicken token. **Go again**",
+        "plain": "Action -- Destroy this: Each hero creates a Quicken token. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS216-RF",
+      "code": "LGS216",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 216,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "social-play-kit-melody",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS216-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quickstep",
+          "typeLine": "Bard Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy this: Each hero creates a Quicken token. **Go again**",
+            "plain": "Action -- Destroy this: Each hero creates a Quicken token. Go again",
+            "html": "<p><strong>Action</strong> — Destroy this: Each hero creates a Quicken token. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS216",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Shen Fei",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS216-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS216-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS216-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TCC054",
+      "code": "TCC054",
+      "language": "en",
+      "set": "TCC",
+      "setNumber": 54,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "round-the-table-tcc-x-lss",
+      "releaseDate": "2023-09-29",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TCC054",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Quickstep",
+          "typeLine": "Bard Equipment - Legs",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy this: Each hero creates a Quicken token. **Go again**",
+            "plain": "Action -- Destroy this: Each hero creates a Quicken token. Go again",
+            "html": "<p><strong>Action</strong> — Destroy this: Each hero creates a Quicken token. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TCC054",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Shen Fei",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC054.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC054.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC054.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:36:05Z",
+    "rawSha256": "d29a73a4d987b9d3e2d0c226b56c8db6e90685067566c7737b04818c25acae13",
+    "updatedAt": "2025-09-18T06:54:17.213518+12:00"
+  }
+}

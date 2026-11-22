@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "id": "test-of-vigor-1",
+  "name": "Test of Vigor",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Test of Vigor",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": null,
+      "power": null,
+      "defense": 4,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Guardian / Warrior Block",
+      "traitLine": null,
+      "classes": [
+        "Guardian",
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Block"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "When this defends, **clash** with the attacking hero. The winner creates a Vigor token.",
+        "plain": "When this defends, clash with the attacking hero. The winner creates a Vigor token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS262-RF",
+      "code": "LGS262",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 262,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-12",
+      "releaseDate": "2024-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS262-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Vigor",
+          "typeLine": "Guardian / Warrior Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates a Vigor token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates a Vigor token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates a Vigor token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS262",
+          "printedLanguageCode": "EN",
+          "printedYear": "2023",
+          "artist": "Athiwut B.",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "guardian-warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS262-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS262-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS262-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY182",
+      "code": "HVY182",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 182,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY182",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Vigor",
+          "typeLine": "Guardian / Warrior Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates a Vigor token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates a Vigor token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates a Vigor token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY182",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Athiwut B.",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian-warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY182.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY182.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY182.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY182-RF",
+      "code": "HVY182",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 182,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY182-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Vigor",
+          "typeLine": "Guardian / Warrior Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates a Vigor token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates a Vigor token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates a Vigor token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY182",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Athiwut B.",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian-warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY182-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY182-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY182-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "VIC014",
+      "code": "VIC014",
+      "language": "en",
+      "set": "VIC",
+      "setNumber": 14,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "victor-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "VIC014",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Test of Vigor",
+          "typeLine": "Guardian / Warrior Block",
+          "traitLine": null,
+          "text": {
+            "markup": "When this defends, **clash** with the attacking hero. The winner creates a Vigor token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "When this defends, clash with the attacking hero. The winner creates a Vigor token. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p>When this defends, <strong>clash</strong> with the attacking hero. The winner creates a Vigor token. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": null,
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "VIC014",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Athiwut B.",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian-warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/VIC014.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/VIC014.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/VIC014.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "clash"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T18:00:04Z",
+    "rawSha256": "003c669d347a592cd82ba0edd5757647a3edb3ab337eaae51e388d13781d1d2d",
+    "updatedAt": "2025-09-18T06:57:45.174024+12:00"
+  }
+}

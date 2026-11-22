@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "hyper-driver",
+  "language": "es",
+  "name": "Hipercargador",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Hipercargador",
+      "typeLine": "Ficha de mecanólogo - Artículo",
+      "classes": [
+        "Mecanólogo"
+      ],
+      "types": [
+        "Ficha"
+      ],
+      "subtypes": [
+        "Artículo"
+      ],
+      "text": {
+        "markup": "Cuando esta carta no tenga contadores de vapor, destrúyela.\nUna vez por turno, cuando **potencies** una carta, quita un contador de vapor de esta carta y gana {r}.",
+        "plain": "Cuando esta carta no tenga contadores de vapor, destrúyela.\nUna vez por turno, cuando potencies una carta, quita un contador de vapor de esta carta y gana {r}.",
+        "html": "<p>Cuando esta carta no tenga contadores de vapor, destrúyela.</p>\n<p>Una vez por turno, cuando <strong>potencies</strong> una carta, quita un contador de vapor de esta carta y gana <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_EVO234",
+      "code": "EVO234",
+      "language": "es",
+      "set": "EVO",
+      "setNumber": 234,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-es",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_EVO234",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Hipercargador",
+          "typeLine": "Ficha de mecanólogo - Artículo",
+          "traitLine": null,
+          "text": {
+            "markup": "Cuando esta carta no tenga contadores de vapor, destrúyela.\nUna vez por turno, cuando **potencies** una carta, quita un contador de vapor de esta carta y gana {r}.",
+            "plain": "Cuando esta carta no tenga contadores de vapor, destrúyela.\nUna vez por turno, cuando potencies una carta, quita un contador de vapor de esta carta y gana {r}.",
+            "html": "<p>Cuando esta carta no tenga contadores de vapor, destrúyela.</p>\n<p>Una vez por turno, cuando <strong>potencies</strong> una carta, quita un contador de vapor de esta carta y gana <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO234",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_EVO234.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_EVO234.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_EVO234.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

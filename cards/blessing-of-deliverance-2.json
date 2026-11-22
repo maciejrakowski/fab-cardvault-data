@@ -1,0 +1,563 @@
+{
+  "schemaVersion": 1,
+  "id": "blessing-of-deliverance-2",
+  "name": "Blessing of Deliverance",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Blessing of Deliverance",
+      "pitch": 2,
+      "chi": null,
+      "color": "yellow",
+      "cost": 2,
+      "power": null,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Guardian Action - Aura",
+      "traitLine": null,
+      "classes": [
+        "Guardian"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Aura"
+      ],
+      "text": {
+        "markup": "**Go again**{br}When this enters the arena, if you have a card with cost 3 or more in your pitch zone, draw a card{br}At the beginning of your action phase, destroy this then reveal the top 2 cards of your deck. Gain 1{h} for each card with cost 3 or more revealed this way.",
+        "plain": "Go again\nWhen this enters the arena, if you have a card with cost 3 or more in your pitch zone, draw a card\nAt the beginning of your action phase, destroy this then reveal the top 2 cards of your deck. Gain 1{h} for each card with cost 3 or more revealed this way."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "WTR055",
+      "code": "WTR055-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 55,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR055",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blessing of Deliverance",
+          "typeLine": "Guardian Action - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "**Go again**\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost [3 Resource] or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1 [Life] for each card with cost [3 Resource] or greater revealed this way.",
+            "plain": "Go again\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost [3 Resource] or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1 [Life] for each card with cost [3 Resource] or greater revealed this way.",
+            "html": "<p><strong>Go again</strong></p>\n<p>When Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost [3 Resource] or greater, draw a card.</p>\n<p>At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1 [Life] for each card with cost [3 Resource] or greater revealed this way.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR055-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Asep Ariyanto",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR055.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR055.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR055.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR055-RF",
+      "code": "WTR055-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 55,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR055-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blessing of Deliverance",
+          "typeLine": "Guardian Action - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "**Go again**\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost {r}{r}{r} or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1{h} for each card with cost {r}{r}{r} or greater revealed this way.",
+            "plain": "Go again\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost {r}{r}{r} or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1{h} for each card with cost {r}{r}{r} or greater revealed this way.",
+            "html": "<p><strong>Go again</strong></p>\n<p>When Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater, draw a card.</p>\n<p>At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> for each card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater revealed this way.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR055-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Asep Ariyanto",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR055-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR055-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR055-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR055",
+      "code": "WTR055",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 55,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR055",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blessing of Deliverance",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "**Go again**{br}When Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost [3 Resource] or greater, draw a card.{br}At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1 [Life] for each card with cost [3 Resource] or greater revealed this way.",
+            "plain": "Go again\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost [3 Resource] or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1 [Life] for each card with cost [3 Resource] or greater revealed this way.",
+            "html": "<p><strong>Go again</strong></p>\n<p>When Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost [3 Resource] or greater, draw a card.</p>\n<p>At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1 [Life] for each card with cost [3 Resource] or greater revealed this way.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR055",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Asep Ariyanto",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR055.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR055.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR055.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR055-RF",
+      "code": "WTR055",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 55,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR055-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blessing of Deliverance",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "**Go again**{br}When Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost {r}{r}{r} or greater, draw a card.{br}At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1{h} for each card with cost {r}{r}{r} or greater revealed this way.",
+            "plain": "Go again\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost {r}{r}{r} or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1{h} for each card with cost {r}{r}{r} or greater revealed this way.",
+            "html": "<p><strong>Go again</strong></p>\n<p>When Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater, draw a card.</p>\n<p>At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> for each card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater revealed this way.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR055",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Asep Ariyanto",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR055-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR055-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR055-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR055",
+      "code": "WTR055",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 55,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR055",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blessing of Deliverance",
+          "typeLine": "Guardian Action - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "**Go again**\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost [3 Resource] or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1 [Life] for each card with cost [3 Resource] or greater revealed this way.",
+            "plain": "Go again\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost [3 Resource] or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1 [Life] for each card with cost [3 Resource] or greater revealed this way.",
+            "html": "<p><strong>Go again</strong></p>\n<p>When Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost [3 Resource] or greater, draw a card.</p>\n<p>At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1 [Life] for each card with cost [3 Resource] or greater revealed this way.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR055",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Asep Ariyanto",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR055.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR055.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR055.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR055-RF",
+      "code": "WTR055",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 55,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR055-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blessing of Deliverance",
+          "typeLine": "Guardian Action - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "**Go again**\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost {r}{r}{r} or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1{h} for each card with cost {r}{r}{r} or greater revealed this way.",
+            "plain": "Go again\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost {r}{r}{r} or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1{h} for each card with cost {r}{r}{r} or greater revealed this way.",
+            "html": "<p><strong>Go again</strong></p>\n<p>When Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater, draw a card.</p>\n<p>At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> for each card with cost <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> or greater revealed this way.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR055",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Asep Ariyanto",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR055-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR055-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR055-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS024-RF",
+      "code": "LGS024",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 24,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-3",
+      "releaseDate": "2020-12-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS024-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blessing of Deliverance",
+          "typeLine": "Guardian Action  - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "**Go again**\nWhen Blessing of Deliverance enters the arena, if you have a card with cost 3 or greater in your pitch zone, draw a card\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1{h} for each card with cost 3 or greater revealed this way.",
+            "plain": "Go again\nWhen Blessing of Deliverance enters the arena, if you have a card with cost 3 or greater in your pitch zone, draw a card\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1{h} for each card with cost 3 or greater revealed this way.",
+            "html": "<p><strong>Go again</strong></p>\n<p>When Blessing of Deliverance enters the arena, if you have a card with cost 3 or greater in your pitch zone, draw a card</p>\n<p>At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> for each card with cost 3 or greater revealed this way.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS024",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Asep Ariyanto",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS024-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS024-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS024-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP062",
+      "code": "1HP062",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 62,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP062",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blessing of Deliverance",
+          "typeLine": "Guardian Action - Aura",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Aura's stay in the arena until they are destroyed.)_\n**Go again**\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost 3 or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1{g} for each card with cost 3 or greater revealed this way.",
+            "plain": "_(Aura's stay in the arena until they are destroyed.)_\nGo again\nWhen Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost 3 or greater, draw a card.\nAt the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1{g} for each card with cost 3 or greater revealed this way.",
+            "html": "<p><em>(Aura's stay in the arena until they are destroyed.)</em></p>\n<p><strong>Go again</strong></p>\n<p>When Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost 3 or greater, draw a card.</p>\n<p>At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> for each card with cost 3 or greater revealed this way.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "2",
+            "cost": "2",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP062",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Asep Ariyanto",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "guardian",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP062.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP062.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP062.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again"
+    ],
+    "editions": {
+      "R-WTR055": "unlimited-revised",
+      "R-WTR055-RF": "unlimited-revised",
+      "U-WTR055": "unlimited",
+      "U-WTR055-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:44:00Z",
+    "rawSha256": "e50c19116922aeaf1a5d038202ba200d9f6dbb3cc3f07514791d892859362653",
+    "updatedAt": "2025-09-18T06:46:35.627433+12:00"
+  }
+}

@@ -1,0 +1,803 @@
+{
+  "schemaVersion": 1,
+  "id": "ironrot-gauntlet",
+  "name": "Ironrot Gauntlet",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Ironrot Gauntlet",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Equipment - Arms",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Arms"
+      ],
+      "text": {
+        "markup": "**Blade Break**",
+        "plain": "Blade Break"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "OXO003",
+      "code": "OXO003-P",
+      "language": "en",
+      "set": "OXO",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "slingshot-underground",
+      "releaseDate": "2018-12-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OXO003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** - If you defend with Ironrot Helm, destroy it when the combat chain closes.",
+            "plain": "Blade Break - If you defend with Ironrot Helm, destroy it when the combat chain closes.",
+            "html": "<p><strong>Blade Break</strong> - If you defend with Ironrot Helm, destroy it when the combat chain closes.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OXO003-P",
+          "printedLanguageCode": null,
+          "printedYear": "2018",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OXO003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OXO003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OXO003.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RNR006",
+      "code": "RNR006-C",
+      "language": "en",
+      "set": "RNR",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rhinar-reckless-rampage-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "RNR006",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "plain": "Blade Break _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "html": "<p><strong>Blade Break</strong> <em>(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "RNR006-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/RNR006.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/RNR006.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/RNR006.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TEA006",
+      "code": "TEA006-C",
+      "language": "en",
+      "set": "TEA",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dorinthea-ironsong-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TEA006",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "plain": "Blade Break _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "html": "<p><strong>Blade Break</strong> <em>(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TEA006-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TEA006.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TEA006.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TEA006.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR157",
+      "code": "WTR157-C",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 157,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR157",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "plain": "Blade Break _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "html": "<p><strong>Blade Break</strong> <em>(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR157-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR157.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR157.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR157.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR157-CF",
+      "code": "WTR157-C",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 157,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR157-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "plain": "Blade Break _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "html": "<p><strong>Blade Break</strong> <em>(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR157-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR157-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR157-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR157-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR157",
+      "code": "WTR157",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 157,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR157",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "plain": "Blade Break _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "html": "<p><strong>Blade Break</strong> <em>(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR157",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR157.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR157.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR157.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR157-RF",
+      "code": "WTR157",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 157,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR157-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "plain": "Blade Break _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "html": "<p><strong>Blade Break</strong> <em>(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR157",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR157-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR157-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR157-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR157",
+      "code": "WTR157",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 157,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR157",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "plain": "Blade Break _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "html": "<p><strong>Blade Break</strong> <em>(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR157",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR157.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR157.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR157.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR157-RF",
+      "code": "WTR157",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 157,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR157-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "plain": "Blade Break _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "html": "<p><strong>Blade Break</strong> <em>(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR157",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR157-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR157-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR157-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BRI007",
+      "code": "BRI007",
+      "language": "en",
+      "set": "BRI",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "briar-blitz-deck",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "BRI007",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "plain": "Blade Break _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "html": "<p><strong>Blade Break</strong> <em>(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "BRI007",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/BRI007.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/BRI007.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/BRI007.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP344",
+      "code": "1HP344",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 344,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP344",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "plain": "Blade Break _(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)_",
+            "html": "<p><strong>Blade Break</strong> <em>(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP344",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP344.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP344.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP344.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MPG124",
+      "code": "MPG124",
+      "language": "en",
+      "set": "MPG",
+      "setNumber": 124,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-guardian",
+      "releaseDate": "2025-08-08",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MPG124",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Ironrot Gauntlet",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Blade Break** _(When the combat chain closes, if this defended, destroy it.)_",
+            "plain": "Blade Break _(When the combat chain closes, if this defended, destroy it.)_",
+            "html": "<p><strong>Blade Break</strong> <em>(When the combat chain closes, if this defended, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MPG124",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Gorshkov Stanislav",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPG124.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPG124.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPG124.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Blade Break"
+    ],
+    "editions": {
+      "R-WTR157": "unlimited-revised",
+      "R-WTR157-RF": "unlimited-revised",
+      "U-WTR157": "unlimited",
+      "U-WTR157-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:12:56Z",
+    "rawSha256": "efe83d8e30381b8b578fa107c79e53ce9943de2af695b410b0eed6df85841dc8",
+    "updatedAt": "2025-09-18T06:51:45.025716+12:00"
+  }
+}

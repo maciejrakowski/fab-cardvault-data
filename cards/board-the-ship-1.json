@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "id": "board-the-ship-1",
+  "name": "Board the Ship",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Board the Ship",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 2,
+      "power": 6,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Pirate Necromancer Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Necromancer",
+        "Pirate"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.",
+        "plain": "When this attacks, you may {t} an ally you control. If you do, this gets overpower."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "FAB347-RF",
+      "code": "FAB347",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 347,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "battle-hardened-high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB347-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Board the Ship",
+          "typeLine": "Pirate Necromancer Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, you may {t} an ally you control. If you do, this gets** overpower**.  _(This can't be defended by more than 1 action card.)_",
+            "plain": "When this attacks, you may {t} an ally you control. If you do, this gets overpower.  _(This can't be defended by more than 1 action card.)_",
+            "html": "<p>When this attacks, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> an ally you control. If you do, this gets** overpower**.  <em>(This can't be defended by more than 1 action card.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB347",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Faizal Fikri",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB347-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB347-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB347-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA053",
+      "code": "SEA053",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 53,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA053",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Board the Ship",
+          "typeLine": "Pirate Necromancer Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.  _(This can't be defended by more than 1 action card.)_",
+            "plain": "When this attacks, you may {t} an ally you control. If you do, this gets overpower.  _(This can't be defended by more than 1 action card.)_",
+            "html": "<p>When this attacks, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> an ally you control. If you do, this gets <strong>overpower</strong>.  <em>(This can't be defended by more than 1 action card.)</em></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The Reach is dead, but it ain't deserted. - Captain Rue's Log, final entry_",
+            "plain": "_The Reach is dead, but it ain't deserted. - Captain Rue's Log, final entry_",
+            "html": "<p><em>The Reach is dead, but it ain't deserted. - Captain Rue's Log, final entry</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA053",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA053.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA053.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA053.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEA053-RF",
+      "code": "SEA053",
+      "language": "en",
+      "set": "SEA",
+      "setNumber": 53,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEA053-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Board the Ship",
+          "typeLine": "Pirate Necromancer Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.  _(This can't be defended by more than 1 action card.)_",
+            "plain": "When this attacks, you may {t} an ally you control. If you do, this gets overpower.  _(This can't be defended by more than 1 action card.)_",
+            "html": "<p>When this attacks, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> an ally you control. If you do, this gets <strong>overpower</strong>.  <em>(This can't be defended by more than 1 action card.)</em></p>\n"
+          },
+          "flavorText": {
+            "markup": "_The Reach is dead, but it ain't deserted. - Captain Rue's Log, final entry_",
+            "plain": "_The Reach is dead, but it ain't deserted. - Captain Rue's Log, final entry_",
+            "html": "<p><em>The Reach is dead, but it ain't deserted. - Captain Rue's Log, final entry</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEA053",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Faizal Fikri",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": "necromancer",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA053-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA053-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA053-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "overpower"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:05:18Z",
+    "rawSha256": "e049b8d75b0d1a64873c5bf0366a3e661c572f103af41933910027a8564ed129",
+    "updatedAt": "2025-09-18T06:46:50.247185+12:00"
+  }
+}

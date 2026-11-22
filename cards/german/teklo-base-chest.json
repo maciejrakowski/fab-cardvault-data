@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "teklo-base-chest",
+  "language": "de",
+  "name": "Teklo-Basis-Brust",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Teklo-Basis-Brust",
+      "typeLine": "Mechanologist Ausrüstung - Basis Brust",
+      "classes": [
+        "Mechanologisch"
+      ],
+      "types": [
+        "Ausrüstung"
+      ],
+      "subtypes": [
+        "Basis",
+        "Brust"
+      ],
+      "text": {
+        "markup": "**Klingenbruch** _(Wenn die Kampfkette geschlossen wird und falls dies verteidigt hat, zerstöre es.)_",
+        "plain": "Klingenbruch _(Wenn die Kampfkette geschlossen wird und falls dies verteidigt hat, zerstöre es.)_",
+        "html": "<p><strong>Klingenbruch</strong> <em>(Wenn die Kampfkette geschlossen wird und falls dies verteidigt hat, zerstöre es.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "DE_EVO019",
+      "code": "EVO019",
+      "language": "de",
+      "set": "EVO",
+      "setNumber": 19,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-de",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DE_EVO019",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "de",
+          "name": "Teklo-Basis-Brust",
+          "typeLine": "Mechanologist Ausrüstung - Basis Brust",
+          "traitLine": null,
+          "text": {
+            "markup": "**Klingenbruch** _(Wenn die Kampfkette geschlossen wird und falls dies verteidigt hat, zerstöre es.)_",
+            "plain": "Klingenbruch _(Wenn die Kampfkette geschlossen wird und falls dies verteidigt hat, zerstöre es.)_",
+            "html": "<p><strong>Klingenbruch</strong> <em>(Wenn die Kampfkette geschlossen wird und falls dies verteidigt hat, zerstöre es.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO019",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Septimius Ferdian",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_EVO019.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_EVO019.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_EVO019.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

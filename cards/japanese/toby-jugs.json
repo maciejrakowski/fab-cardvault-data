@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "toby-jugs",
+  "language": "ja",
+  "name": "トビーのジョッキ",
+  "cores": [
+    {
+      "position": 10,
+      "name": "トビーのジョッキ",
+      "typeLine": "汎用・装備品 － 足",
+      "classes": [
+        "汎用"
+      ],
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "足"
+      ],
+      "text": {
+        "markup": "これが防御したとき、{r}を支払ってもよい。そうした場合、このターン、これは＋２{d}を得る。 **刃壊**（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+        "plain": "これが防御したとき、{r}を支払ってもよい。そうした場合、このターン、これは＋２{d}を得る。 刃壊（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+        "html": "<p>これが防御したとき、<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を支払ってもよい。そうした場合、このターン、これは＋２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>を得る。 <strong>刃壊</strong>（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_SUP214",
+      "code": "SUP214",
+      "language": "ja",
+      "set": "SUP",
+      "setNumber": 214,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "super-slam-ja",
+      "releaseDate": "2025-09-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_SUP214",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "トビーのジョッキ",
+          "typeLine": "汎用・装備品 － 足",
+          "traitLine": null,
+          "text": {
+            "markup": "これが防御したとき、{r}を支払ってもよい。そうした場合、このターン、これは＋２{d}を得る。 **刃壊**（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+            "plain": "これが防御したとき、{r}を支払ってもよい。そうした場合、このターン、これは＋２{d}を得る。 刃壊（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）",
+            "html": "<p>これが防御したとき、<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を支払ってもよい。そうした場合、このターン、これは＋２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>を得る。 <strong>刃壊</strong>（戦闘チェインが閉じたとき、これが防御していた場合、破壊する）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SUP214",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Kyxarie Peralta",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SUP214.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SUP214.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SUP214.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

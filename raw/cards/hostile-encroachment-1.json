@@ -1,0 +1,812 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "d6492af8-a0e2-4751-9160-1d0e79a8d4d7",
+      "cores": [
+        {
+          "id": "bf5a7b20-9b48-41a3-aaa5-956ae2a8ba7f",
+          "core_classes": [
+            {
+              "id": 5,
+              "name": "Guardian",
+              "name_en": "Guardian",
+              "name_fr": "Gardien",
+              "name_de": "Wächter",
+              "name_it": "Guardiano",
+              "name_es": "Guardián",
+              "name_ja": "守護者",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:51:17.134267+12:00",
+          "updated_at": "2025-09-18T06:51:17.140037+12:00",
+          "name": "Hostile Encroachment",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "3",
+          "power": "8",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this attacks a hero, they draw a card.{br}**Crush** - When this deals 4 or more damage to a hero, they discard a card.",
+          "typebox": "Guardian Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 3,
+          "power_value": 8,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "d6492af8-a0e2-4751-9160-1d0e79a8d4d7"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "718c1d5d-d3f9-48ac-8b35-4141a4a92139",
+          "faces": [
+            {
+              "id": "ab64b7c3-9938-454c-a7cd-5618df627d2e",
+              "created_at": "2025-09-18T06:51:17.151743+12:00",
+              "updated_at": "2025-09-18T06:51:17.151752+12:00",
+              "face_id": "MPG033",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG033",
+              "printed_artist": "Ausonia",
+              "printed_name": "Hostile Encroachment",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks a hero, they draw a card.{br}**Crush** - When this deals 4 or more damage to a hero, they discard a card.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guardian Action - Attack",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bf5a7b20-9b48-41a3-aaa5-956ae2a8ba7f",
+              "card_print": "718c1d5d-d3f9-48ac-8b35-4141a4a92139",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Hostile Encroachment</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guardian Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks a hero, they draw a card.</p>\n<p><strong>Crush</strong> - When this deals 4 or more damage to a hero, they discard a card.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPG033.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPG033.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPG033.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "dd5969da-d8f7-4416-b6d8-cce1a2061c09",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.416420+12:00",
+            "updated_at": "2025-09-18T06:45:21.416443+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "en",
+            "product_name": "Mastery Pack Guardian",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:17.147031+12:00",
+          "updated_at": "2025-09-18T06:51:17.147043+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MPG033",
+          "set_number": 33,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "d6492af8-a0e2-4751-9160-1d0e79a8d4d7"
+        },
+        {
+          "id": "82652919-6b64-429b-9edb-6c0ed6a154f5",
+          "faces": [
+            {
+              "id": "bb22e898-6846-4adc-bd72-e808456963ca",
+              "created_at": "2025-09-18T06:51:17.162582+12:00",
+              "updated_at": "2025-09-18T06:51:17.162592+12:00",
+              "face_id": "MPG033-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG033",
+              "printed_artist": "Ausonia",
+              "printed_name": "Hostile Encroachment",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks a hero, they draw a card.{br}**Crush** - When this deals 4 or more damage to a hero, they discard a card.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guardian Action - Attack",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bf5a7b20-9b48-41a3-aaa5-956ae2a8ba7f",
+              "card_print": "82652919-6b64-429b-9edb-6c0ed6a154f5",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Hostile Encroachment</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guardian Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks a hero, they draw a card.</p>\n<p><strong>Crush</strong> - When this deals 4 or more damage to a hero, they discard a card.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPG033-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPG033-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPG033-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "dd5969da-d8f7-4416-b6d8-cce1a2061c09",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.416420+12:00",
+            "updated_at": "2025-09-18T06:45:21.416443+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "en",
+            "product_name": "Mastery Pack Guardian",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:17.159024+12:00",
+          "updated_at": "2025-09-18T06:51:17.159036+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "MPG033-RF",
+          "set_number": 33,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "d6492af8-a0e2-4751-9160-1d0e79a8d4d7"
+        },
+        {
+          "id": "ae486298-9e51-4a86-9961-1cfde8cf9808",
+          "faces": [
+            {
+              "id": "a526958c-a1c6-4c62-be83-c626c50814f8",
+              "created_at": "2025-09-18T06:51:17.169742+12:00",
+              "updated_at": "2025-09-18T06:51:17.169751+12:00",
+              "face_id": "JA_MPG033",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG033",
+              "printed_artist": "Ausonia",
+              "printed_name": "敵対者の侵入",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これがヒーローを攻撃したとき、そのヒーローはカードを１枚引く。\n**粉砕**―これがヒーローに４点以上のダメージを与えたとき、そのヒーローはカードを１枚捨てる。",
+              "printed_flavor_text": "",
+              "printed_typebox": "守護者・アクション － 攻撃",
+              "printed_year": "2024",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bf5a7b20-9b48-41a3-aaa5-956ae2a8ba7f",
+              "card_print": "ae486298-9e51-4a86-9961-1cfde8cf9808",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>敵対者の侵入</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>守護者・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これがヒーローを攻撃したとき、そのヒーローはカードを１枚引く。</p>\n<p><strong>粉砕</strong>―これがヒーローに４点以上のダメージを与えたとき、そのヒーローはカードを１枚捨てる。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_MPG033.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_MPG033.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_MPG033.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "4bb0c1f5-ef2e-4715-afda-7701ab993d8c",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.448787+12:00",
+            "updated_at": "2025-09-18T06:45:21.448804+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "ja",
+            "product_name": "Mastery Pack Guardian [JA]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:17.167021+12:00",
+          "updated_at": "2025-09-18T06:51:17.167033+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_MPG033",
+          "set_number": 33,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "d6492af8-a0e2-4751-9160-1d0e79a8d4d7"
+        },
+        {
+          "id": "52fc9b24-6bb7-47ac-af99-79736fdd3b4d",
+          "faces": [
+            {
+              "id": "a1474072-780d-4145-8f56-7eae192bf065",
+              "created_at": "2025-09-18T06:51:17.183261+12:00",
+              "updated_at": "2025-09-18T06:51:17.183274+12:00",
+              "face_id": "JA_MPG033-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG033",
+              "printed_artist": "Ausonia",
+              "printed_name": "敵対者の侵入",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これがヒーローを攻撃したとき、そのヒーローはカードを１枚引く。\n**粉砕**―これがヒーローに４点以上のダメージを与えたとき、そのヒーローはカードを１枚捨てる。",
+              "printed_flavor_text": "",
+              "printed_typebox": "守護者・アクション － 攻撃",
+              "printed_year": "2024",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bf5a7b20-9b48-41a3-aaa5-956ae2a8ba7f",
+              "card_print": "52fc9b24-6bb7-47ac-af99-79736fdd3b4d",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>敵対者の侵入</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>守護者・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これがヒーローを攻撃したとき、そのヒーローはカードを１枚引く。</p>\n<p><strong>粉砕</strong>―これがヒーローに４点以上のダメージを与えたとき、そのヒーローはカードを１枚捨てる。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_MPG033-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_MPG033-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_MPG033-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "4bb0c1f5-ef2e-4715-afda-7701ab993d8c",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.448787+12:00",
+            "updated_at": "2025-09-18T06:45:21.448804+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "ja",
+            "product_name": "Mastery Pack Guardian [JA]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:17.176779+12:00",
+          "updated_at": "2025-09-18T06:51:17.176795+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_MPG033-RF",
+          "set_number": 33,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "d6492af8-a0e2-4751-9160-1d0e79a8d4d7"
+        },
+        {
+          "id": "6783b32e-19f3-4bcf-b1b6-ff311bb0dd39",
+          "faces": [
+            {
+              "id": "dff0af9e-8558-4966-8fc0-e3ac712e7140",
+              "created_at": "2025-09-18T06:51:17.202064+12:00",
+              "updated_at": "2025-09-18T06:51:17.202080+12:00",
+              "face_id": "FR_MPG033",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG033",
+              "printed_artist": "Ausonia",
+              "printed_name": "Empiètement hostile",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque un héros, il pioche une carte.\n**Écrasement** - Quand cette carte inflige au moins 4 dégâts à un héros, il se défausse d’une carte.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Gardien Action - Attaque",
+              "printed_year": "2024",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bf5a7b20-9b48-41a3-aaa5-956ae2a8ba7f",
+              "card_print": "6783b32e-19f3-4bcf-b1b6-ff311bb0dd39",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Empiètement hostile</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Gardien Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque un héros, il pioche une carte.</p>\n<p><strong>Écrasement</strong> - Quand cette carte inflige au moins 4 dégâts à un héros, il se défausse d’une carte.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_MPG033.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_MPG033.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_MPG033.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fb9655d8-8fcb-42f1-b8cb-393a459053d9",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.482959+12:00",
+            "updated_at": "2025-09-18T06:45:21.482981+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "fr",
+            "product_name": "Mastery Pack Guardian [FR]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:17.194310+12:00",
+          "updated_at": "2025-09-18T06:51:17.194330+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_MPG033",
+          "set_number": 33,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "d6492af8-a0e2-4751-9160-1d0e79a8d4d7"
+        },
+        {
+          "id": "0d943e28-8145-417d-addb-7d60e3a0cb92",
+          "faces": [
+            {
+              "id": "d767a451-cc15-44d9-b4b7-725d488e1223",
+              "created_at": "2025-09-18T06:51:17.222791+12:00",
+              "updated_at": "2025-09-18T06:51:17.222810+12:00",
+              "face_id": "FR_MPG033-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "MPG033",
+              "printed_artist": "Ausonia",
+              "printed_name": "Empiètement hostile",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque un héros, il pioche une carte.\n**Écrasement** - Quand cette carte inflige au moins 4 dégâts à un héros, il se défausse d’une carte.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Gardien Action - Attaque",
+              "printed_year": "2024",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bf5a7b20-9b48-41a3-aaa5-956ae2a8ba7f",
+              "card_print": "0d943e28-8145-417d-addb-7d60e3a0cb92",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Empiètement hostile</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Gardien Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque un héros, il pioche une carte.</p>\n<p><strong>Écrasement</strong> - Quand cette carte inflige au moins 4 dégâts à un héros, il se défausse d’une carte.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_MPG033-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_MPG033-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_MPG033-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fb9655d8-8fcb-42f1-b8cb-393a459053d9",
+            "product_group": {
+              "id": "a15db281-4a70-4fd9-9bf8-3586a92e8b03",
+              "created_at": "2025-09-18T06:45:21.412390+12:00",
+              "updated_at": "2025-09-18T06:45:21.412410+12:00",
+              "group_name": "Mastery Pack Guardian",
+              "product_type": "booster",
+              "release_date": "2025-08-08",
+              "slug": "mastery-pack-guardian"
+            },
+            "created_at": "2025-09-18T06:45:21.482959+12:00",
+            "updated_at": "2025-09-18T06:45:21.482981+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "fr",
+            "product_name": "Mastery Pack Guardian [FR]",
+            "product_type": "booster",
+            "release_date": "2025-08-08",
+            "slug": "mastery-pack-guardian-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "9568a671-7af7-480c-b57f-3ccd0745c6ca",
+            "created_at": "2025-09-18T06:45:12.690963+12:00",
+            "updated_at": "2025-09-18T06:45:12.690974+12:00",
+            "set_code": "MPG",
+            "set_name": "Mastery Pack - Guardian",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:17.215158+12:00",
+          "updated_at": "2025-09-18T06:51:17.215180+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_MPG033-RF",
+          "set_number": 33,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "d6492af8-a0e2-4751-9160-1d0e79a8d4d7"
+        },
+        {
+          "id": "e66d948b-0228-40c9-98b2-7d5a02a2aff0",
+          "faces": [
+            {
+              "id": "361389c8-2af9-4cab-9de8-c511616915bc",
+              "created_at": "2025-09-18T06:51:17.241924+12:00",
+              "updated_at": "2025-09-18T06:51:17.241939+12:00",
+              "face_id": "FAB329-RF",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "guardian",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB329",
+              "printed_artist": "Ausonia",
+              "printed_name": "Hostile Encroachment",
+              "printed_pitch": 1,
+              "printed_cost": "3",
+              "printed_power": "8",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks a hero, they draw a card.{br}**Crush** - When this deals 4 or more damage to a hero, they discard a card.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Guardian Action - Attack",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "bf5a7b20-9b48-41a3-aaa5-956ae2a8ba7f",
+              "card_print": "e66d948b-0228-40c9-98b2-7d5a02a2aff0",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Hostile Encroachment</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Guardian Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks a hero, they draw a card.</p>\n<p><strong>Crush</strong> - When this deals 4 or more damage to a hero, they discard a card.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB329-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB329-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB329-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6ec48865-921c-40d9-a4cf-6bd313134e0c",
+            "product_group": null,
+            "created_at": "2025-09-18T06:49:47.056276+12:00",
+            "updated_at": "2025-09-18T06:49:47.056292+12:00",
+            "printed_date": "2025-07-01",
+            "printed_language": "en",
+            "product_name": "Battle Hardened - Mastery Pack Guardian",
+            "product_type": "booster",
+            "release_date": "2025-09-26",
+            "slug": "battle-hardened-mastery-pack-guardian",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:51:17.234489+12:00",
+          "updated_at": "2025-09-18T06:51:17.234509+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB329-RF",
+          "set_number": 329,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "d6492af8-a0e2-4751-9160-1d0e79a8d4d7"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:51:17.131056+12:00",
+      "updated_at": "2025-09-18T06:51:17.132175+12:00",
+      "card_id": "hostile-encroachment-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

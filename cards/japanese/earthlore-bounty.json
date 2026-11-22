@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "earthlore-bounty",
+  "language": "ja",
+  "name": "大地の恩恵",
+  "cores": [
+    {
+      "position": 10,
+      "name": "大地の恩恵",
+      "typeLine": "守護者・装備品 － 胴",
+      "classes": [
+        "守護者"
+      ],
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "胴"
+      ],
+      "text": {
+        "markup": "あなたがアクションカードの効果でカードを１枚以上引くたび、その数に等しい「震激」トークンを作成する。 **焼き戻し**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後これの{d}が０の場合、破壊する）",
+        "plain": "あなたがアクションカードの効果でカードを１枚以上引くたび、その数に等しい「震激」トークンを作成する。 焼き戻し（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後これの{d}が０の場合、破壊する）",
+        "html": "<p>あなたがアクションカードの効果でカードを１枚以上引くたび、その数に等しい「震激」トークンを作成する。 <strong>焼き戻し</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置き、その後これの<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>が０の場合、破壊する）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_GAP065",
+      "code": "GAP065",
+      "language": "ja",
+      "set": "GAP",
+      "setNumber": 65,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "mastery-pack-archive-guardian-ja",
+      "releaseDate": "2024-12-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_GAP065",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "大地の恩恵",
+          "typeLine": "守護者・装備品 － 胴",
+          "traitLine": null,
+          "text": {
+            "markup": "あなたがアクションカードの効果でカードを１枚以上引くたび、その数に等しい「震激」トークンを作成する。 **焼き戻し**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後これの{d}が０の場合、破壊する）",
+            "plain": "あなたがアクションカードの効果でカードを１枚以上引くたび、その数に等しい「震激」トークンを作成する。 焼き戻し（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後これの{d}が０の場合、破壊する）",
+            "html": "<p>あなたがアクションカードの効果でカードを１枚以上引くたび、その数に等しい「震激」トークンを作成する。 <strong>焼き戻し</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置き、その後これの<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>が０の場合、破壊する）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": "2"
+          },
+          "printedCode": "GAP065",
+          "printedLanguageCode": "JP",
+          "printedYear": "2089",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_GAP065.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_GAP065.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_GAP065.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "id": "rockslide-trap-3",
+  "name": "Rockslide Trap",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Rockslide Trap",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Ranger Defense Reaction - Trap",
+      "traitLine": null,
+      "classes": [
+        "Ranger"
+      ],
+      "talents": [],
+      "types": [
+        "Defense Reaction"
+      ],
+      "subtypes": [
+        "Trap"
+      ],
+      "text": {
+        "markup": "This can only be played from arsenal.{br}When this defends, target attack gets -2{p} unless the attacking hero pays {r}.",
+        "plain": "This can only be played from arsenal.\nWhen this defends, target attack gets -2{p} unless the attacking hero pays {r}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata OUT] CRU traps must be played from arsenal",
+      "description": "The Trap subtype was changed from a functional subtype that must be played from arsenal to a non-functional subtype with the release of OUT. This change put this requirement onto the existing traps as a play-static ability, separate from the Trap subtype",
+      "date": "24-03-2023"
+    }
+  ],
+  "printings": [
+    {
+      "id": "CRU128",
+      "code": "CRU128",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 128,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU128",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rockslide Trap",
+          "typeLine": "Ranger Defense Reaction - Trap",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Traps can only be played from arsenal.)_\nTarget attack gets -2{p} unless the attacking hero pays {r}. _(The attacking hero chooses whether to pay {r} as Rock Slide Trap resolves.)_",
+            "plain": "_(Traps can only be played from arsenal.)_\nTarget attack gets -2{p} unless the attacking hero pays {r}. _(The attacking hero chooses whether to pay {r} as Rock Slide Trap resolves.)_",
+            "html": "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Target attack gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> unless the attacking hero pays <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <em>(The attacking hero chooses whether to pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> as Rock Slide Trap resolves.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU128",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU128.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU128.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU128.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU128-RF",
+      "code": "CRU128",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 128,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU128-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rockslide Trap",
+          "typeLine": "Ranger Defense Reaction - Trap",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Traps can only be played from arsenal.)_\nTarget attack gets -2{p} unless the attacking hero pays {r}.",
+            "plain": "_(Traps can only be played from arsenal.)_\nTarget attack gets -2{p} unless the attacking hero pays {r}.",
+            "html": "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Target attack gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> unless the attacking hero pays <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU128",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU128-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU128-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU128-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU128",
+      "code": "CRU128",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 128,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU128",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rockslide Trap",
+          "typeLine": "Ranger Defense Reaction - Trap",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Traps can only be played from arsenal.)_\nTarget attack gets -2{p} unless the attacking hero pays {r}. _(The attacking hero chooses whether to pay {r} as Rock Slide Trap resolves.)_",
+            "plain": "_(Traps can only be played from arsenal.)_\nTarget attack gets -2{p} unless the attacking hero pays {r}. _(The attacking hero chooses whether to pay {r} as Rock Slide Trap resolves.)_",
+            "html": "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Target attack gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> unless the attacking hero pays <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <em>(The attacking hero chooses whether to pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> as Rock Slide Trap resolves.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU128",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU128.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU128.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU128.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU128-RF",
+      "code": "CRU128",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 128,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU128-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rockslide Trap",
+          "typeLine": "Ranger Defense Reaction - Trap",
+          "traitLine": null,
+          "text": {
+            "markup": "_(Traps can only be played from arsenal.)_\nTarget attack gets -2{p} unless the attacking hero pays {r}.",
+            "plain": "_(Traps can only be played from arsenal.)_\nTarget attack gets -2{p} unless the attacking hero pays {r}.",
+            "html": "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Target attack gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> unless the attacking hero pays <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU128",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU128-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU128-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU128-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS152-RF",
+      "code": "LGS152",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 152,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "organized-play-support-outsiders-traps",
+      "releaseDate": "2023-03-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS152-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Rockslide Trap",
+          "typeLine": "Ranger Defense Reaction - Trap",
+          "traitLine": null,
+          "text": {
+            "markup": "Rockslide Trap can only be played from arsenal.\nWhen this defends, target attack gets -2{p} unless the attacking hero pays {r}.",
+            "plain": "Rockslide Trap can only be played from arsenal.\nWhen this defends, target attack gets -2{p} unless the attacking hero pays {r}.",
+            "html": "<p>Rockslide Trap can only be played from arsenal.</p>\n<p>When this defends, target attack gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> unless the attacking hero pays <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS152",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Tatiana Trubnikova",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ranger",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS152-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS152-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS152-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-CRU128": "unlimited",
+      "U-CRU128-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:40:43Z",
+    "rawSha256": "6d278261420b2fcd95aad479e46cd60ff413647f5f7e79c9c536c96cd254b3c0",
+    "updatedAt": "2025-09-18T06:55:04.792206+12:00"
+  }
+}

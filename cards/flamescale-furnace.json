@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "id": "flamescale-furnace",
+  "name": "Flamescale Furnace",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Flamescale Furnace",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Draconic Equipment - Chest",
+      "traitLine": null,
+      "classes": [],
+      "talents": [
+        "Draconic"
+      ],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Chest"
+      ],
+      "text": {
+        "markup": "**Once per Turn Instant** -- {r}: Gain {r} for each red card in your pitch zone. Activate this only if you've played a red card this turn.{br}**Temper**",
+        "plain": "Once per Turn Instant -- {r}: Gain {r} for each red card in your pitch zone. Activate this only if you've played a red card this turn.\nTemper"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "FAB087-GF",
+      "code": "FAB087",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 87,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-uprising",
+      "releaseDate": "2022-06-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB087-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flamescale Furnace",
+          "typeLine": "Draconic Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: Gain {r} for each red card in your pitch zone. Activate this ability only if you've played a red card this turn.\n**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "plain": "Once per Turn Instant -- {r}: Gain {r} for each red card in your pitch zone. Activate this ability only if you've played a red card this turn.\nTemper _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> for each red card in your pitch zone. Activate this ability only if you've played a red card this turn.</p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB087",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Victoria Belyaeva",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB087-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB087-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB087-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "UPR084-CF",
+      "code": "UPR084",
+      "language": "en",
+      "set": "UPR",
+      "setNumber": 84,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "uprising",
+      "releaseDate": "2022-06-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "UPR084-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flamescale Furnace",
+          "typeLine": "Draconic Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: Gain {r} for each red card in your pitch zone. Activate this ability only if you've played a red card this turn.\n**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "plain": "Once per Turn Instant -- {r}: Gain {r} for each red card in your pitch zone. Activate this ability only if you've played a red card this turn.\nTemper _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> for each red card in your pitch zone. Activate this ability only if you've played a red card this turn.</p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "UPR084",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Victoria Belyaeva",
+          "rarityMark": "legendary-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UPR084-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UPR084-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UPR084-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "UPR084-RF",
+      "code": "UPR084",
+      "language": "en",
+      "set": "UPR",
+      "setNumber": 84,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "uprising",
+      "releaseDate": "2022-06-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "UPR084-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flamescale Furnace",
+          "typeLine": "Draconic Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}: Gain {r} for each red card in your pitch zone. Activate this ability only if you've played a red card this turn.\n**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "plain": "Once per Turn Instant -- {r}: Gain {r} for each red card in your pitch zone. Activate this ability only if you've played a red card this turn.\nTemper _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> for each red card in your pitch zone. Activate this ability only if you've played a red card this turn.</p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "UPR084",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Victoria Belyaeva",
+          "rarityMark": "legendary-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/UPR084-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/UPR084-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/UPR084-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Temper"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:28:59Z",
+    "rawSha256": "396292e03a599e4b8149f389934070b141ca26f29d3c1e55de764d4897453690",
+    "updatedAt": "2025-09-18T06:49:59.303175+12:00"
+  }
+}

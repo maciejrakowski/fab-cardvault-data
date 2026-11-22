@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "inverters-nightcowl",
+  "name": "Inverter's Nightcowl",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Inverter's Nightcowl",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Assassin Equipment - Chest",
+      "traitLine": null,
+      "classes": [
+        "Assassin"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Chest"
+      ],
+      "text": {
+        "markup": "**Action** -- Destroy this: Until end of turn, whenever you play a card with stealth, gain {r}. **Go again**{br}**Battleworn**",
+        "plain": "Action -- Destroy this: Until end of turn, whenever you play a card with stealth, gain {r}. Go again\nBattleworn"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "JDG064-CF",
+      "code": "JDG064",
+      "language": "en",
+      "set": "JDG",
+      "setNumber": 64,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "judge-pack-season-9",
+      "releaseDate": "2025-02-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JDG064-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Inverter's Nightcowl",
+          "typeLine": "Assassin Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy this: Until end of turn, whenever you play a card with stealth, gain {r}. **Go again**{br}**Battleworn**",
+            "plain": "Action -- Destroy this: Until end of turn, whenever you play a card with stealth, gain {r}. Go again\nBattleworn",
+            "html": "<p><strong>Action</strong> — Destroy this: Until end of turn, whenever you play a card with stealth, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "JDG064",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Isuardi Therianto",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG064-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG064-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG064-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AAC005-RF",
+      "code": "AAC005",
+      "language": "en",
+      "set": "AAC",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-arakni-5lp3d-7hru-7h3-cr4x",
+      "releaseDate": "2025-12-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AAC005-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Inverter's Nightcowl",
+          "typeLine": "Assassin Equipment - Chest",
+          "traitLine": null,
+          "text": {
+            "markup": "**Action** -- Destroy this: Until end of turn, whenever you play a card with stealth, gain {r}. **Go again**{br}**Battleworn** _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "plain": "Action -- Destroy this: Until end of turn, whenever you play a card with stealth, gain {r}. Go again\nBattleworn _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+            "html": "<p><strong>Action</strong> — Destroy this: Until end of turn, whenever you play a card with stealth, gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. <strong>Go again</strong></p>\n<p><strong>Battleworn</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAC005",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Isuardi Therianto",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AAC005-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AAC005-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AAC005-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Battleworn",
+      "Go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:45:24Z",
+    "rawSha256": "b1eb39e6e7169309fb11787c71b661a56ffd0c5a51af1452db6a3c30e2f4c639",
+    "updatedAt": "2025-11-04T21:19:15.989048+13:00"
+  }
+}

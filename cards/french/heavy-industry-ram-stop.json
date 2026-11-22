@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "heavy-industry-ram-stop",
+  "language": "fr",
+  "name": "Butée industrielle lourde",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Butée industrielle lourde",
+      "typeLine": "Mécanologue Équipement - Bras",
+      "classes": [
+        "Mécanologue"
+      ],
+      "types": [
+        "Équipement"
+      ],
+      "subtypes": [
+        "Bras"
+      ],
+      "text": {
+        "markup": "Quand cette carte défend, vous pouvez payer {r}. Si vous le faites, elle gagne +1{d} jusqu’à la fin du tour.{br}**Tempérer** _(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1{d} sur elle, puis détruisez-la si elle a 0{d}.)_",
+        "plain": "Quand cette carte défend, vous pouvez payer {r}. Si vous le faites, elle gagne +1{d} jusqu’à la fin du tour.\nTempérer _(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1{d} sur elle, puis détruisez-la si elle a 0{d}.)_",
+        "html": "<p>Quand cette carte défend, vous pouvez payer <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Si vous le faites, elle gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> jusqu’à la fin du tour.</p>\n<p><strong>Tempérer</strong> <em>(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> sur elle, puis détruisez-la si elle a 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "FR_AIO005-RF",
+      "code": "AIO005",
+      "language": "fr",
+      "set": "AIO",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dash-io-fr",
+      "releaseDate": "2024-10-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FR_AIO005-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "fr",
+          "name": "Butée industrielle lourde",
+          "typeLine": "Mécanologue Équipement - Bras",
+          "traitLine": null,
+          "text": {
+            "markup": "Quand cette carte défend, vous pouvez payer {r}. Si vous le faites, elle gagne +1{d} jusqu’à la fin du tour.{br}**Tempérer** _(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1{d} sur elle, puis détruisez-la si elle a 0{d}.)_",
+            "plain": "Quand cette carte défend, vous pouvez payer {r}. Si vous le faites, elle gagne +1{d} jusqu’à la fin du tour.\nTempérer _(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1{d} sur elle, puis détruisez-la si elle a 0{d}.)_",
+            "html": "<p>Quand cette carte défend, vous pouvez payer <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Si vous le faites, elle gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> jusqu’à la fin du tour.</p>\n<p><strong>Tempérer</strong> <em>(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> sur elle, puis détruisez-la si elle a 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AIO005",
+          "printedLanguageCode": "FR",
+          "printedYear": "2024",
+          "artist": "Simon Dominic",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_AIO005-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_AIO005-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_AIO005-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

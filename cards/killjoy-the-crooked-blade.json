@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "killjoy-the-crooked-blade",
+  "name": "Killjoy, the Crooked Blade",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Killjoy, the Crooked Blade",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Reviled Warrior Thief Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Guerrier",
+        "Thief"
+      ],
+      "talents": [
+        "Reviled"
+      ],
+      "types": [
+        "Héros"
+      ],
+      "subtypes": [
+        "Jeune"
+      ],
+      "text": {
+        "markup": "You may attack any opposing hero.{br}Whenever you steal a Gold, **the crowd boos** you.{br}The first time the crowd boos you each turn, each hero with more {h} than you, loses 1{h}.",
+        "plain": "You may attack any opposing hero.\nWhenever you steal a Gold, the crowd boos you.\nThe first time the crowd boos you each turn, each hero with more {h} than you, loses 1{h}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "SPW001-RF",
+      "code": "SPW001",
+      "language": "en",
+      "set": "SPW",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "smash-palace-chorus-of-steel",
+      "releaseDate": "2026-10-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-10-31T17:00:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SPW001-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Killjoy, the Crooked Blade",
+          "typeLine": "Reviled Warrior Thief Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "You may attack any opposing hero.{br}Whenever you steal a Gold, **the crowd boos** you.{br}The first time the crowd boos you each turn, each hero with more {h} than you, loses 1{h}.",
+            "plain": "You may attack any opposing hero.\nWhenever you steal a Gold, the crowd boos you.\nThe first time the crowd boos you each turn, each hero with more {h} than you, loses 1{h}.",
+            "html": "<p>You may attack any opposing hero.</p>\n<p>Whenever you steal a Gold, <strong>the crowd boos</strong> you.</p>\n<p>The first time the crowd boos you each turn, each hero with more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than you, loses 1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "SPW001",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Henrique Lindner",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "reviled",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SPW001-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SPW001-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SPW001-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "the crowd boos"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:14:29Z",
+    "rawSha256": "8058d462ed44c2e54e3350c02c56604101a78764cd66812399296d3f875860f7",
+    "updatedAt": "2026-07-14T19:59:51.416003+12:00"
+  }
+}

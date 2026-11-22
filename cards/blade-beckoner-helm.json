@@ -1,0 +1,798 @@
+{
+  "schemaVersion": 1,
+  "id": "blade-beckoner-helm",
+  "name": "Blade Beckoner Helm",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Blade Beckoner Helm",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Equipment - Head",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Head"
+      ],
+      "text": {
+        "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell**",
+        "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HNT216",
+      "code": "HNT216",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 216,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT216",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT216",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT216.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT216.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT216.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HNT216-CF",
+      "code": "HNT216",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 216,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT216-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT216",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT216-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT216-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT216-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB420-GF",
+      "code": "FAB420",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 420,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-compendium-of-rathe",
+      "releaseDate": "2025-02-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB420-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell**",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB420",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB420-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB420-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB420-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAZ004",
+      "code": "SAZ004",
+      "language": "en",
+      "set": "SAZ",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-azalea",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-01-30T12:10:00+13:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "SAZ004",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SAZ004",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SAZ004.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SAZ004.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SAZ004.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBR005",
+      "code": "SBR005",
+      "language": "en",
+      "set": "SBR",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-bravo-flattering-showman",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBR005",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBR005",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBR005.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBR005.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBR005.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SDA004",
+      "code": "SDA004",
+      "language": "en",
+      "set": "SDA",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-dash",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SDA004",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SDA004",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SDA004.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SDA004.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SDA004.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEN003",
+      "code": "SEN003",
+      "language": "en",
+      "set": "SEN",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-enigma",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SEN003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SEN003",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEN003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEN003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEN003.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SFA003",
+      "code": "SFA003",
+      "language": "en",
+      "set": "SFA",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-fai",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SFA003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SFA003",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SFA003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SFA003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SFA003.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SIY003",
+      "code": "SIY003",
+      "language": "en",
+      "set": "SIY",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-iyslander",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SIY003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SIY003",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SIY003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SIY003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SIY003.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SVI003",
+      "code": "SVI003",
+      "language": "en",
+      "set": "SVI",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-viserai",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SVI003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SVI003",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SVI003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SVI003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SVI003.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBA004",
+      "code": "SBA004",
+      "language": "en",
+      "set": "SBA",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-briar",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBA004",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBA004",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBA004.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBA004.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBA004.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SLY005",
+      "code": "SLY005",
+      "language": "en",
+      "set": "SLY",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-lyath-goldmane",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SLY005",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Blade Beckoner Helm",
+          "typeLine": "Generic Equipment - Head",
+          "traitLine": null,
+          "text": {
+            "markup": "This gets +1{d} while defending a weapon attack.{br}**Guardwell** _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "plain": "This gets +1{d} while defending a weapon attack.\nGuardwell _(When the combat chain closes, if this defended, put -1{d} counters on it equal to its {d}.)_",
+            "html": "<p>This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> while defending a weapon attack.</p>\n<p><strong>Guardwell</strong> <em>(When the combat chain closes, if this defended, put -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counters on it equal to its <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SLY005",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SLY005.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SLY005.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SLY005.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Guardwell"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:02:58Z",
+    "rawSha256": "b99db8228636fab6970ebaeeb181f5a4ee8b062f47e1a8f2135a196222c531d5",
+    "updatedAt": "2025-09-18T06:46:28.943628+12:00"
+  }
+}

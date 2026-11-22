@@ -1,0 +1,984 @@
+{
+  "schemaVersion": 1,
+  "id": "cintari-saber",
+  "name": "Cintari Saber",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Cintari Saber",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 2,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Warrior Weapon - Sword (1H)",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(1H)",
+        "Sword"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}: **Attack**{br}When this is defended by 1 or more attack action cards, this gets +1{p} until end of turn.",
+        "plain": "Once per Turn Action -- {r}: Attack\nWhen this is defended by 1 or more attack action cards, this gets +1{p} until end of turn."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "CRU079",
+      "code": "CRU079",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 79,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU079",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon  - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If Cintari Saber is defended by an attack action card, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU079",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU079.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU079.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU079.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU079-CF",
+      "code": "CRU079",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 79,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU079-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon  - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If Cintari Saber is defended by an attack action card, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU079",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU079-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU079-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU079-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU080",
+      "code": "CRU080",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 80,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU080",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon  - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If Cintari Saber is defended by an attack action card, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU080",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU080.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU080.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU080.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU080-CF",
+      "code": "CRU080",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 80,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU080-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon  - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nIf Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If Cintari Saber is defended by an attack action card, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU080",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU080-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU080-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU080-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU079",
+      "code": "CRU079",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 79,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU079",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon  - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nWhen Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhen Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When Cintari Saber is defended by an attack action card, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU079",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU079.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU079.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU079.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU079-RF",
+      "code": "CRU079",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 79,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU079-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon  - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nWhen Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhen Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When Cintari Saber is defended by an attack action card, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU079",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU079-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU079-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU079-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU080",
+      "code": "CRU080",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 80,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU080",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon  - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nWhen Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhen Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When Cintari Saber is defended by an attack action card, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU080",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU080.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU080.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU080.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU080-RF",
+      "code": "CRU080",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 80,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU080-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon  - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nWhen Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhen Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When Cintari Saber is defended by an attack action card, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU080",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU080-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU080-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU080-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP141",
+      "code": "1HP141",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 141,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP141",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nWhenever Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhenever Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>Whenever Cintari Saber is defended by an attack action card, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP141",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP141.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP141.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP141.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP142",
+      "code": "1HP142",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 142,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP142",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**\nWhenever Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhenever Cintari Saber is defended by an attack action card, it gains +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>Whenever Cintari Saber is defended by an attack action card, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP142",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Reza Afshar",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP142.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP142.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP142.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY094",
+      "code": "HVY094",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 94,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY094",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}When this is defended by 1 or more attack action cards, this gets +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhen this is defended by 1 or more attack action cards, this gets +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this is defended by 1 or more attack action cards, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY094",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Reza Afshar",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY094.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY094.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY094.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "KSI002",
+      "code": "KSI002",
+      "language": "en",
+      "set": "KSI",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "kassai-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "KSI002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}When this is defended by 1 or more attack action cards, this gets +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhen this is defended by 1 or more attack action cards, this gets +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this is defended by 1 or more attack action cards, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "KSI002",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Reza Afshar",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/KSI002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/KSI002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/KSI002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OLA002",
+      "code": "OLA002",
+      "language": "en",
+      "set": "OLA",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "olympia-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OLA002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}When this is defended by 1 or more attack action cards, this gets +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhen this is defended by 1 or more attack action cards, this gets +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this is defended by 1 or more attack action cards, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "OLA002",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Reza Afshar",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OLA002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OLA002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OLA002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB184-GF",
+      "code": "FAB184",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 184,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "road-to-nationals-2024",
+      "releaseDate": "2024-03-17",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB184-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}When this is defended by 1 or more attack action cards, this gets +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhen this is defended by 1 or more attack action cards, this gets +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this is defended by 1 or more attack action cards, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB184",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Reza Afshar",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB184-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB184-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB184-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB185-GF",
+      "code": "FAB185",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 185,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "road-to-nationals-2024",
+      "releaseDate": "2024-03-17",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB185-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Cintari Saber",
+          "typeLine": "Warrior Weapon - Sword (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}When this is defended by 1 or more attack action cards, this gets +1{p} until end of turn.",
+            "plain": "Once per Turn Action -- {r}: Attack\nWhen this is defended by 1 or more attack action cards, this gets +1{p} until end of turn.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this is defended by 1 or more attack action cards, this gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> until end of turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "2",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB185",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Reza Afshar",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB185-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB185-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB185-GF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack"
+    ],
+    "editions": {
+      "U-CRU079": "unlimited",
+      "U-CRU079-RF": "unlimited",
+      "U-CRU080": "unlimited",
+      "U-CRU080-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:09:56Z",
+    "rawSha256": "090ebbe36e3551061bc576ebd9afe1e2d69f95d99eb01eaf6657076ae0d6d227",
+    "updatedAt": "2025-09-18T06:47:34.759237+12:00"
+  }
+}

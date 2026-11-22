@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "scurv-stowaway",
+  "language": "ja",
+  "name": "密航者、スカーヴ",
+  "cores": [
+    {
+      "position": 10,
+      "name": "密航者、スカーヴ",
+      "typeLine": "海賊・シーフ・ヒーロー － 若者",
+      "types": [
+        "ヒーロー"
+      ],
+      "subtypes": [
+        "若者"
+      ],
+      "text": {
+        "markup": "**アクション**--{t}, あなたがコントロールする「金貨」を１つ破壊する：「黄金のラム酒」トークンを１つ作成する。**続行**{br}あなたが「黄金のラム酒」を起動するたび、{r}を得る。",
+        "plain": "アクション--{t}, あなたがコントロールする「金貨」を１つ破壊する：「黄金のラム酒」トークンを１つ作成する。続行\nあなたが「黄金のラム酒」を起動するたび、{r}を得る。",
+        "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, あなたがコントロールする「金貨」を１つ破壊する：「黄金のラム酒」トークンを１つ作成する。<strong>続行</strong></p>\n<p>あなたが「黄金のラム酒」を起動するたび、<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_SEA123",
+      "code": "SEA123",
+      "language": "ja",
+      "set": "SEA",
+      "setNumber": 123,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "high-seas-ja",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_SEA123",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "密航者、スカーヴ",
+          "typeLine": "海賊・シーフ・ヒーロー － 若者",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--{t}, あなたがコントロールする「金貨」を１つ破壊する：「黄金のラム酒」トークンを１つ作成する。**続行**{br}あなたが「黄金のラム酒」を起動するたび、{r}を得る。",
+            "plain": "アクション--{t}, あなたがコントロールする「金貨」を１つ破壊する：「黄金のラム酒」トークンを１つ作成する。続行\nあなたが「黄金のラム酒」を起動するたび、{r}を得る。",
+            "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>, あなたがコントロールする「金貨」を１つ破壊する：「黄金のラム酒」トークンを１つ作成する。<strong>続行</strong></p>\n<p>あなたが「黄金のラム酒」を起動するたび、<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "SEA123",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Sam Yang",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "pirate",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA123.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA123.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA123.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

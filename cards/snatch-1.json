@@ -1,0 +1,921 @@
+{
+  "schemaVersion": 1,
+  "id": "snatch-1",
+  "name": "Snatch",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Snatch",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": 4,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this hits, draw a card.",
+        "plain": "When this hits, draw a card."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "WTR167",
+      "code": "WTR167-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 167,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR167",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If Snatch hits, draw a card.",
+            "plain": "If Snatch hits, draw a card.",
+            "html": "<p>If Snatch hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR167-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Yulia Litvinova",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR167.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR167.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR167.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR167-RF",
+      "code": "WTR167-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 167,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR167-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If Snatch hits, draw a card.",
+            "plain": "If Snatch hits, draw a card.",
+            "html": "<p>If Snatch hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR167-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Yulia Litvinova",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR167-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR167-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR167-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR167",
+      "code": "WTR167",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 167,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR167",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "If Snatch hits, draw a card.",
+            "plain": "If Snatch hits, draw a card.",
+            "html": "<p>If Snatch hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR167",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Yulia Litvinova",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR167.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR167.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR167.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR167-RF",
+      "code": "WTR167",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 167,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR167-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "If Snatch hits, draw a card.",
+            "plain": "If Snatch hits, draw a card.",
+            "html": "<p>If Snatch hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR167",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Yulia Litvinova",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR167-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR167-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR167-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR167",
+      "code": "WTR167",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 167,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR167",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If Snatch hits, draw a card.",
+            "plain": "If Snatch hits, draw a card.",
+            "html": "<p>If Snatch hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR167",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Yulia Litvinova",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR167.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR167.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR167.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR167-RF",
+      "code": "WTR167",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 167,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR167-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If Snatch hits, draw a card.",
+            "plain": "If Snatch hits, draw a card.",
+            "html": "<p>If Snatch hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR167",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Yulia Litvinova",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR167-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR167-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR167-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP371",
+      "code": "1HP371",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 371,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP371",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "If Snatch hits, draw a card.",
+            "plain": "If Snatch hits, draw a card.",
+            "html": "<p>If Snatch hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP371",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Yulia Litvinova",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP371.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP371.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP371.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ASB012",
+      "code": "ASB012",
+      "language": "en",
+      "set": "ASB",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-ser-boltyn-breaker-of-dawn",
+      "releaseDate": "2024-07-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ASB012",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this hits, draw a card.",
+            "plain": "When this hits, draw a card.",
+            "html": "<p>When this hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ASB012",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Yulia Litvinova",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ASB012.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ASB012.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ASB012.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AST014",
+      "code": "AST014",
+      "language": "en",
+      "set": "AST",
+      "setNumber": 14,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-aurora-shooting-star",
+      "releaseDate": "2025-03-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AST014",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this hits, draw a card.",
+            "plain": "When this hits, draw a card.",
+            "html": "<p>When this hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AST014",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Bramasta Aji",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AST014.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AST014.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AST014.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ASR013",
+      "code": "ASR013",
+      "language": "en",
+      "set": "ASR",
+      "setNumber": 13,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "amory-deck-ira-scarlet-revenger",
+      "releaseDate": "2025-07-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ASR013",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this hits, draw a card.",
+            "plain": "When this hits, draw a card.",
+            "html": "<p>When this hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ASR013",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Bramasta Aji",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ASR013.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ASR013.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ASR013.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ANQ031",
+      "code": "ANQ031",
+      "language": "en",
+      "set": "ANQ",
+      "setNumber": 31,
+      "edition": null,
+      "rarity": "gold",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "compendium-of-rathe-antiquity-pack",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ANQ031",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this hits, draw a card.",
+            "plain": "When this hits, draw a card.",
+            "html": "<p>When this hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ANQ031",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Bramasta Aji",
+          "rarityMark": "gold-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ANQ031.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ANQ031.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ANQ031.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SFA025",
+      "code": "SFA025",
+      "language": "en",
+      "set": "SFA",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-fai",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SFA025",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this hits, draw a card.",
+            "plain": "When this hits, draw a card.",
+            "html": "<p>When this hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SFA025",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Bramasta Aji",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SFA025.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SFA025.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SFA025.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBA021",
+      "code": "SBA021",
+      "language": "en",
+      "set": "SBA",
+      "setNumber": 21,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-briar",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBA021",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this hits, draw a card.",
+            "plain": "When this hits, draw a card.",
+            "html": "<p>When this hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBA021",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Yulia Litvinova",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBA021.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBA021.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBA021.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBL017",
+      "code": "SBL017",
+      "language": "en",
+      "set": "SBL",
+      "setNumber": 17,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-boltyn",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBL017",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Snatch",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this hits, draw a card.",
+            "plain": "When this hits, draw a card.",
+            "html": "<p>When this hits, draw a card.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": "4",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBL017",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Yulia Litvinova",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBL017.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBL017.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBL017.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "R-WTR167": "unlimited-revised",
+      "R-WTR167-RF": "unlimited-revised",
+      "U-WTR167": "unlimited",
+      "U-WTR167-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:18:46Z",
+    "rawSha256": "7781442b55a21085afa210a86be86c703b2d53435ac7b72f525906ce2954018e",
+    "updatedAt": "2025-09-18T06:56:32.308931+12:00"
+  }
+}

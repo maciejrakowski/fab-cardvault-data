@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 1,
+  "id": "prism",
+  "name": "Prism",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Prism",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "printedStats": {
+        "intellect": "4",
+        "life": "20"
+      },
+      "typeLine": "Light Illusionist Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Illusionist"
+      ],
+      "talents": [
+        "Light"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "**Once per Turn Instant** -- {r}{r}, banish a card from your soul: Create a Spectral Shield token.",
+        "plain": "Once per Turn Instant -- {r}{r}, banish a card from your soul: Create a Spectral Shield token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "MON002",
+      "code": "MON002",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism",
+          "typeLine": "Light Illusionist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token. _(It's an Illusionist aura with \"If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.\")_",
+            "plain": "Once per Turn Instant -- {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token. _(It's an Illusionist aura with \"If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.\")_",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish a card from Prism's soul: Create a Spectral Shield token. <em>(It's an Illusionist aura with &quot;If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "MON002",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Livia Prima",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PSM001-RF",
+      "code": "PSM001",
+      "language": "en",
+      "set": "PSM",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "prism-blitz-deck",
+      "releaseDate": "2021-05-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "PSM001-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism",
+          "typeLine": "Light Illusionist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token. _(It's an Illusionist aura with \"If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.\")_",
+            "plain": "Once per Turn Instant -- {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token. _(It's an Illusionist aura with \"If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.\")_",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish a card from Prism's soul: Create a Spectral Shield token. <em>(It's an Illusionist aura with &quot;If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "PSM001",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Livia Prima",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PSM001-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PSM001-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PSM001-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON002",
+      "code": "MON002",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism",
+          "typeLine": "Light Illusionist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token. _(It's an Illusionist aura with \"If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.\")_",
+            "plain": "Once per Turn Instant -- {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token. _(It's an Illusionist aura with \"If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.\")_",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish a card from Prism's soul: Create a Spectral Shield token. <em>(It's an Illusionist aura with &quot;If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "MON002",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Livia Prima",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER034-CF",
+      "code": "HER034",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 34,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "skirmish-season-2",
+      "releaseDate": "2021-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER034-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism",
+          "typeLine": "Light Illusionist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token.",
+            "plain": "Once per Turn Instant -- {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish a card from Prism's soul: Create a Spectral Shield token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER034",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Livia Prima",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER034-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER034-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER034-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "XXX012-A",
+      "code": "XXX012",
+      "language": "en",
+      "set": "XXX",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "organized-play-support-monarch-limited-2023",
+      "releaseDate": "2023-08-25",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "XXX012-A",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism",
+          "typeLine": "Light Illusionist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token. _(It's an Illusionist aura with \"If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.\")_",
+            "plain": "Once per Turn Instant -- {r}{r}, banish a card from Prism's soul: Create a Spectral Shield token. _(It's an Illusionist aura with \"If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.\")_",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish a card from Prism's soul: Create a Spectral Shield token. <em>(It's an Illusionist aura with &quot;If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "XXX012",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Livia Prima",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/XXX012-A.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/XXX012-A.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX012-A.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PEN343-MV",
+      "code": "PEN343",
+      "language": "en",
+      "set": "PEN",
+      "setNumber": 343,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "compendium-of-rathe",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "PEN343-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism",
+          "typeLine": "Light Illusionist Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Instant** -- {r}{r}, banish a card from your soul: Create a Spectral Shield token.",
+            "plain": "Once per Turn Instant -- {r}{r}, banish a card from your soul: Create a Spectral Shield token.",
+            "html": "<p><strong>Once per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, banish a card from your soul: Create a Spectral Shield token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "PEN343",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Livia Prima",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN343-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN343-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN343-MV.webp"
+          }
+        },
+        {
+          "id": "PEN343-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Prism",
+          "typeLine": "Light Illusionist Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN343-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN343-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN343-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-MON002": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:33:50Z",
+    "rawSha256": "744c070bebd2948a3c62bfef332586bdaa7249c4a1635527c62bb331e0089111",
+    "updatedAt": "2026-05-26T06:21:57.882795+12:00"
+  }
+}

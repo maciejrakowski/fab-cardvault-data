@@ -1,0 +1,710 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "08f77c6a-b5c6-4a19-9178-790a2d2c5c66",
+      "cores": [
+        {
+          "id": "7b809fb7-9a3d-4ea9-8018-505fbe94566d",
+          "core_classes": [
+            {
+              "id": 11,
+              "name": "Ranger",
+              "name_en": "Ranger",
+              "name_fr": "Ranger",
+              "name_de": "Waldläufer",
+              "name_it": "Ranger",
+              "name_es": "Explorador",
+              "name_ja": "レンジャー",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 4,
+              "name": "Defense Reaction",
+              "name_en": "Defense Reaction",
+              "name_fr": "Réaction de défense",
+              "name_de": "Verteidigungsreaktion",
+              "name_it": "Reazione di Difesa",
+              "name_es": "Reacción de defensa",
+              "name_ja": "防御リアクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 45,
+              "name": "Trap",
+              "name_en": "Trap",
+              "name_fr": "Piège",
+              "name_de": "Falle",
+              "name_it": "Trappola",
+              "name_es": "Trampa",
+              "name_ja": "罠",
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-09-18T06:53:42.269447+12:00",
+          "updated_at": "2025-09-18T06:53:42.282351+12:00",
+          "name": "Pitfall Trap",
+          "layout_position": 10,
+          "pitch": "2",
+          "pitch_chi": "",
+          "color": "yellow",
+          "cost": "0",
+          "power": "",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "This can only be played from arsenal.{br}When this defends, deal 2 damage to the attacking hero unless they pay {r}.",
+          "typebox": "Ranger Defense Reaction - Trap",
+          "traitbox": "",
+          "pitch_value": 2,
+          "pitch_chi_value": null,
+          "cost_value": 0,
+          "power_value": null,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "08f77c6a-b5c6-4a19-9178-790a2d2c5c66"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "70ae16d1-0020-4bc6-853d-385b17517dca",
+          "faces": [
+            {
+              "id": "8c9f31b9-34d4-4578-9812-44ab5fed708b",
+              "created_at": "2025-09-18T06:53:42.295271+12:00",
+              "updated_at": "2025-09-18T06:53:42.295283+12:00",
+              "face_id": "CRU127",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "CRU127",
+              "printed_artist": "Rio Sabda",
+              "printed_name": "Pitfall Trap",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Traps can only be played from arsenal.)_\nDeal 2 damage to the attacking hero unless they pay {r}.",
+              "printed_flavor_text": "_\"Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?\" - Jackdaw_",
+              "printed_typebox": "Ranger Defense Reaction - Trap",
+              "printed_year": "2020",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b809fb7-9a3d-4ea9-8018-505fbe94566d",
+              "card_print": "70ae16d1-0020-4bc6-853d-385b17517dca",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pitfall Trap</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Defense Reaction - Trap</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Deal 2 damage to the attacking hero unless they pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>&quot;Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?&quot; - Jackdaw</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU127.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU127.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU127.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "b5c182ff-b68f-4292-b49a-2b5e5bcebe77",
+            "product_group": {
+              "id": "176887bd-8ddc-42ec-adba-d604aeff4f66",
+              "created_at": "2025-09-18T06:45:14.028662+12:00",
+              "updated_at": "2025-09-18T06:45:14.028673+12:00",
+              "group_name": "Crucible of War",
+              "product_type": "booster",
+              "release_date": "2020-08-28",
+              "slug": "crucible-of-war"
+            },
+            "created_at": "2025-09-18T06:45:14.031145+12:00",
+            "updated_at": "2025-09-18T06:45:14.031170+12:00",
+            "printed_date": "2020-06-01",
+            "printed_language": "en",
+            "product_name": "Crucible of War",
+            "product_type": "booster",
+            "release_date": "2020-08-28",
+            "slug": "crucible-of-war",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e451331d-0e82-4e38-bb7f-a3ee8e5df502",
+            "created_at": "2025-09-18T06:45:12.589871+12:00",
+            "updated_at": "2025-09-18T06:45:12.589891+12:00",
+            "set_code": "CRU",
+            "set_name": "Crucible of War",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:42.290763+12:00",
+          "updated_at": "2025-09-18T06:53:42.290779+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "CRU127",
+          "set_number": 127,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "08f77c6a-b5c6-4a19-9178-790a2d2c5c66"
+        },
+        {
+          "id": "2959f3c2-5e29-470b-b3d1-5d2767d94258",
+          "faces": [
+            {
+              "id": "8101b609-3b0f-40f3-9004-3833938c6c9c",
+              "created_at": "2025-09-18T06:53:42.306649+12:00",
+              "updated_at": "2025-09-18T06:53:42.306660+12:00",
+              "face_id": "CRU127-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "CRU127",
+              "printed_artist": "Rio Sabda",
+              "printed_name": "Pitfall Trap",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Traps can only be played from arsenal.)_\nDeal 2 damage to the attacking hero unless they pay {r}.",
+              "printed_flavor_text": "_\"Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?\" - Jackdaw_",
+              "printed_typebox": "Ranger Defense Reaction - Trap",
+              "printed_year": "2020",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b809fb7-9a3d-4ea9-8018-505fbe94566d",
+              "card_print": "2959f3c2-5e29-470b-b3d1-5d2767d94258",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pitfall Trap</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Defense Reaction - Trap</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Deal 2 damage to the attacking hero unless they pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>&quot;Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?&quot; - Jackdaw</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU127-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU127-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU127-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "b5c182ff-b68f-4292-b49a-2b5e5bcebe77",
+            "product_group": {
+              "id": "176887bd-8ddc-42ec-adba-d604aeff4f66",
+              "created_at": "2025-09-18T06:45:14.028662+12:00",
+              "updated_at": "2025-09-18T06:45:14.028673+12:00",
+              "group_name": "Crucible of War",
+              "product_type": "booster",
+              "release_date": "2020-08-28",
+              "slug": "crucible-of-war"
+            },
+            "created_at": "2025-09-18T06:45:14.031145+12:00",
+            "updated_at": "2025-09-18T06:45:14.031170+12:00",
+            "printed_date": "2020-06-01",
+            "printed_language": "en",
+            "product_name": "Crucible of War",
+            "product_type": "booster",
+            "release_date": "2020-08-28",
+            "slug": "crucible-of-war",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e451331d-0e82-4e38-bb7f-a3ee8e5df502",
+            "created_at": "2025-09-18T06:45:12.589871+12:00",
+            "updated_at": "2025-09-18T06:45:12.589891+12:00",
+            "set_code": "CRU",
+            "set_name": "Crucible of War",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:42.302107+12:00",
+          "updated_at": "2025-09-18T06:53:42.302121+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "CRU127-RF",
+          "set_number": 127,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "08f77c6a-b5c6-4a19-9178-790a2d2c5c66"
+        },
+        {
+          "id": "79733948-88b9-43e8-aa6b-0086554ffbe1",
+          "faces": [
+            {
+              "id": "66ecd22d-d5b8-4cb4-ad23-a88472fb571c",
+              "created_at": "2025-09-18T06:53:42.320596+12:00",
+              "updated_at": "2025-09-18T06:53:42.320605+12:00",
+              "face_id": "U-CRU127",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "CRU127",
+              "printed_artist": "Rio Sabda",
+              "printed_name": "Pitfall Trap",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Traps can only be played from arsenal.)_\nDeal 2 damage to the attacking hero unless they pay {r}.",
+              "printed_flavor_text": "_\"Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?\" - Jackdaw_",
+              "printed_typebox": "Ranger Defense Reaction - Trap",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b809fb7-9a3d-4ea9-8018-505fbe94566d",
+              "card_print": "79733948-88b9-43e8-aa6b-0086554ffbe1",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pitfall Trap</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Defense Reaction - Trap</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Deal 2 damage to the attacking hero unless they pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>&quot;Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?&quot; - Jackdaw</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU127.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU127.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU127.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "e1fcc1ce-eb21-4897-9cc6-33b4f79170cb",
+            "product_group": {
+              "id": "fd914013-6f0e-42af-b567-2753d88f794d",
+              "created_at": "2025-09-18T06:45:14.059574+12:00",
+              "updated_at": "2025-09-18T06:45:14.059595+12:00",
+              "group_name": "Crucible of War - Unlimited",
+              "product_type": "booster",
+              "release_date": "2021-07-30",
+              "slug": "crucible-of-war-unlimited"
+            },
+            "created_at": "2025-09-18T06:45:14.062883+12:00",
+            "updated_at": "2025-09-18T06:45:14.062897+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Crucible of War - Unlimited",
+            "product_type": "booster",
+            "release_date": "2021-07-30",
+            "slug": "crucible-of-war-unlimited",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e451331d-0e82-4e38-bb7f-a3ee8e5df502",
+            "created_at": "2025-09-18T06:45:12.589871+12:00",
+            "updated_at": "2025-09-18T06:45:12.589891+12:00",
+            "set_code": "CRU",
+            "set_name": "Crucible of War",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:42.316619+12:00",
+          "updated_at": "2025-09-18T06:53:42.316630+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "U-CRU127",
+          "set_number": 127,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "08f77c6a-b5c6-4a19-9178-790a2d2c5c66"
+        },
+        {
+          "id": "1b7c2f90-46c8-4161-ad92-944e178434f3",
+          "faces": [
+            {
+              "id": "d89fb87f-26b1-48f0-b652-fa3f6510a912",
+              "created_at": "2025-09-18T06:53:42.330783+12:00",
+              "updated_at": "2025-09-18T06:53:42.330793+12:00",
+              "face_id": "U-CRU127-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-circle",
+              "printed_code": "CRU127",
+              "printed_artist": "Rio Sabda",
+              "printed_name": "Pitfall Trap",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Traps can only be played from arsenal.)_\nDeal 2 damage to the attacking hero unless they pay {r}.",
+              "printed_flavor_text": "_\"Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?\" - Jackdaw_",
+              "printed_typebox": "Ranger Defense Reaction - Trap",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b809fb7-9a3d-4ea9-8018-505fbe94566d",
+              "card_print": "1b7c2f90-46c8-4161-ad92-944e178434f3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pitfall Trap</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Defense Reaction - Trap</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Deal 2 damage to the attacking hero unless they pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>&quot;Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?&quot; - Jackdaw</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU127-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU127-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU127-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "e1fcc1ce-eb21-4897-9cc6-33b4f79170cb",
+            "product_group": {
+              "id": "fd914013-6f0e-42af-b567-2753d88f794d",
+              "created_at": "2025-09-18T06:45:14.059574+12:00",
+              "updated_at": "2025-09-18T06:45:14.059595+12:00",
+              "group_name": "Crucible of War - Unlimited",
+              "product_type": "booster",
+              "release_date": "2021-07-30",
+              "slug": "crucible-of-war-unlimited"
+            },
+            "created_at": "2025-09-18T06:45:14.062883+12:00",
+            "updated_at": "2025-09-18T06:45:14.062897+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Crucible of War - Unlimited",
+            "product_type": "booster",
+            "release_date": "2021-07-30",
+            "slug": "crucible-of-war-unlimited",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e451331d-0e82-4e38-bb7f-a3ee8e5df502",
+            "created_at": "2025-09-18T06:45:12.589871+12:00",
+            "updated_at": "2025-09-18T06:45:12.589891+12:00",
+            "set_code": "CRU",
+            "set_name": "Crucible of War",
+            "set_type": "expansion",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:42.327284+12:00",
+          "updated_at": "2025-09-18T06:53:42.327294+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "U-CRU127-RF",
+          "set_number": 127,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "08f77c6a-b5c6-4a19-9178-790a2d2c5c66"
+        },
+        {
+          "id": "cd33b970-e599-4b1d-aa29-a5ca09d50676",
+          "faces": [
+            {
+              "id": "f083b224-4a04-4370-8d3e-e51bb02a3661",
+              "created_at": "2025-09-18T06:53:42.343219+12:00",
+              "updated_at": "2025-09-18T06:53:42.343238+12:00",
+              "face_id": "LXI029",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "LXI029",
+              "printed_artist": "Rio Sabda",
+              "printed_name": "Pitfall Trap",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "_(Traps can only be played from arsenal.)_\nDeal 2 damage to the attacking hero unless they pay {r}.",
+              "printed_flavor_text": "_\"Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?\" - Jackdaw_",
+              "printed_typebox": "Ranger Defense Reaction - Trap",
+              "printed_year": "2021",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b809fb7-9a3d-4ea9-8018-505fbe94566d",
+              "card_print": "cd33b970-e599-4b1d-aa29-a5ca09d50676",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pitfall Trap</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Defense Reaction - Trap</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><em>(Traps can only be played from arsenal.)</em></p>\n<p>Deal 2 damage to the attacking hero unless they pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>&quot;Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?&quot; - Jackdaw</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LXI029.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LXI029.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LXI029.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "be5e917a-18f7-45b6-82e0-1a44a44ca83c",
+            "product_group": null,
+            "created_at": "2025-09-18T06:45:27.852681+12:00",
+            "updated_at": "2025-09-18T06:45:27.852698+12:00",
+            "printed_date": "2021-06-01",
+            "printed_language": "en",
+            "product_name": "Lexi - Blitz Deck",
+            "product_type": "booster",
+            "release_date": "2021-09-24",
+            "slug": "lexi-blitz-deck",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "45e6f48f-7858-4305-b862-b8a8d793dea1",
+            "created_at": "2025-09-18T06:45:12.767657+12:00",
+            "updated_at": "2025-09-18T06:45:12.767666+12:00",
+            "set_code": "LXI",
+            "set_name": "Lexi - Blitz Deck",
+            "set_type": "blitz_precon",
+            "parent": "b5c461df-8423-4c37-9c69-4f72ae8aa5cc"
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:42.336816+12:00",
+          "updated_at": "2025-09-18T06:53:42.336828+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LXI029",
+          "set_number": 29,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "08f77c6a-b5c6-4a19-9178-790a2d2c5c66"
+        },
+        {
+          "id": "ae053a98-da17-42f3-9602-b90e16432796",
+          "faces": [
+            {
+              "id": "cc9cf76a-e38e-4c05-b1bb-15e1b95b3b50",
+              "created_at": "2025-09-18T06:53:42.357207+12:00",
+              "updated_at": "2025-09-18T06:53:42.357216+12:00",
+              "face_id": "LGS151-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "ranger",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS151",
+              "printed_artist": "Rio Sabda",
+              "printed_name": "Pitfall Trap",
+              "printed_pitch": 2,
+              "printed_cost": "0",
+              "printed_power": "",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Pitfall Trap can only be played from arsenal.\nWhen this defends, deal 2 damage to the attacking hero unless they pay {r}.",
+              "printed_flavor_text": "_\"Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?\" - Jackdaw_",
+              "printed_typebox": "Ranger Defense Reaction - Trap",
+              "printed_year": "2022",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "7b809fb7-9a3d-4ea9-8018-505fbe94566d",
+              "card_print": "ae053a98-da17-42f3-9602-b90e16432796",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Pitfall Trap</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ranger Defense Reaction - Trap</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Pitfall Trap can only be played from arsenal.</p>\n<p>When this defends, deal 2 damage to the attacking hero unless they pay <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>&quot;Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?&quot; - Jackdaw</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS151-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS151-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS151-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6cb8b11a-091c-4630-a89e-20998e3351fc",
+            "product_group": null,
+            "created_at": "2025-09-18T06:53:42.348350+12:00",
+            "updated_at": "2025-09-18T06:53:42.348372+12:00",
+            "printed_date": "2022-12-01",
+            "printed_language": "en",
+            "product_name": "Organized Play Support - Outsiders Traps",
+            "product_type": "booster",
+            "release_date": "2023-03-01",
+            "slug": "organized-play-support-outsiders-traps",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:53:42.353486+12:00",
+          "updated_at": "2025-09-18T06:53:42.353496+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS151-RF",
+          "set_number": 151,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "08f77c6a-b5c6-4a19-9178-790a2d2c5c66"
+        }
+      ],
+      "rulings_errata": [
+        {
+          "judgement_type": "erratum",
+          "name": "[Errata OUT] CRU traps must be played from arsenal",
+          "description": "The Trap subtype was changed from a functional subtype that must be played from arsenal to a non-functional subtype with the release of OUT. This change put this requirement onto the existing traps as a play-static ability, separate from the Trap subtype",
+          "date": "24-03-2023"
+        }
+      ],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:53:42.263640+12:00",
+      "updated_at": "2025-09-18T06:53:42.265165+12:00",
+      "card_id": "pitfall-trap-2",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

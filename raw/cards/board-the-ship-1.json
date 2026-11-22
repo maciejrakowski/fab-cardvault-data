@@ -1,0 +1,823 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "919b62bd-4476-45d0-848f-e6c7ff087002",
+      "cores": [
+        {
+          "id": "25d369b0-6efd-4de0-bac0-4057bd61d376",
+          "core_classes": [
+            {
+              "id": 37,
+              "name": "Necromancer",
+              "name_en": "Necromancer",
+              "name_fr": null,
+              "name_de": null,
+              "name_it": null,
+              "name_es": null,
+              "name_ja": null,
+              "is_published": true
+            },
+            {
+              "id": 36,
+              "name": "Pirate",
+              "name_en": "Pirate",
+              "name_fr": null,
+              "name_de": null,
+              "name_it": null,
+              "name_es": null,
+              "name_ja": null,
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2025-09-18T06:46:50.249276+12:00",
+          "updated_at": "2025-09-18T06:46:50.259101+12:00",
+          "name": "Board the Ship",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "",
+          "color": "red",
+          "cost": "2",
+          "power": "6",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.",
+          "typebox": "Pirate Necromancer Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": null,
+          "cost_value": 2,
+          "power_value": 6,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "919b62bd-4476-45d0-848f-e6c7ff087002"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "23159f1e-c369-480d-82ec-ed7cb0d13499",
+          "faces": [
+            {
+              "id": "3e7be9f0-24bf-49ac-b892-5df4787536cc",
+              "created_at": "2025-09-18T06:46:50.268988+12:00",
+              "updated_at": "2025-09-18T06:46:50.269005+12:00",
+              "face_id": "FR_SEA053",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA053",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "À l’abordage !",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, vous pouvez {t} un allié que vous contrôlez. Si vous le faites, cette carte gagne **maîtrise**. _(Cette carte ne peut pas être défendue par plus d’une carte d’action.)_",
+              "printed_flavor_text": "« Chuteredoute est mort, mais n’est cependant pas désert. » - Journal du capitaine Rue, dernière entrée",
+              "printed_typebox": "Pirate Nécromancien Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "25d369b0-6efd-4de0-bac0-4057bd61d376",
+              "card_print": "23159f1e-c369-480d-82ec-ed7cb0d13499",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>À l’abordage !</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Nécromancien Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, vous pouvez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> un allié que vous contrôlez. Si vous le faites, cette carte gagne <strong>maîtrise</strong>. <em>(Cette carte ne peut pas être défendue par plus d’une carte d’action.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>« Chuteredoute est mort, mais n’est cependant pas désert. » - Journal du capitaine Rue, dernière entrée</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA053.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA053.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA053.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:50.264720+12:00",
+          "updated_at": "2025-09-18T06:46:50.264731+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA053",
+          "set_number": 53,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "919b62bd-4476-45d0-848f-e6c7ff087002"
+        },
+        {
+          "id": "6993677f-ef95-4eb1-b9d4-028915ce115f",
+          "faces": [
+            {
+              "id": "f6a6aef1-b0b0-4460-8e18-9ebf047f3f32",
+              "created_at": "2025-09-18T06:46:50.284761+12:00",
+              "updated_at": "2025-09-18T06:46:50.284789+12:00",
+              "face_id": "FR_SEA053-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA053",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "À l’abordage !",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "Quand cette carte attaque, vous pouvez {t} un allié que vous contrôlez. Si vous le faites, cette carte gagne **maîtrise**. _(Cette carte ne peut pas être défendue par plus d’une carte d’action.)_",
+              "printed_flavor_text": "« Chuteredoute est mort, mais n’est cependant pas désert. » - Journal du capitaine Rue, dernière entrée",
+              "printed_typebox": "Pirate Nécromancien Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "25d369b0-6efd-4de0-bac0-4057bd61d376",
+              "card_print": "6993677f-ef95-4eb1-b9d4-028915ce115f",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>À l’abordage !</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Nécromancien Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>Quand cette carte attaque, vous pouvez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> un allié que vous contrôlez. Si vous le faites, cette carte gagne <strong>maîtrise</strong>. <em>(Cette carte ne peut pas être défendue par plus d’une carte d’action.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>« Chuteredoute est mort, mais n’est cependant pas désert. » - Journal du capitaine Rue, dernière entrée</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SEA053-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SEA053-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SEA053-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "1e3ede82-2b1f-4743-ac57-17f269728095",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.202833+12:00",
+            "updated_at": "2025-09-18T06:45:25.202851+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "fr",
+            "product_name": "High Seas [FR]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:50.277821+12:00",
+          "updated_at": "2025-09-18T06:46:50.277839+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SEA053-RF",
+          "set_number": 53,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "919b62bd-4476-45d0-848f-e6c7ff087002"
+        },
+        {
+          "id": "6bbc2d6e-5a80-4059-841d-43b679f41bd6",
+          "faces": [
+            {
+              "id": "f0cc4308-40b6-4454-b259-69b499a9343c",
+              "created_at": "2025-09-18T06:46:50.303667+12:00",
+              "updated_at": "2025-09-18T06:46:50.303681+12:00",
+              "face_id": "FAB347-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB347",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "Board the Ship",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, you may {t} an ally you control. If you do, this gets** overpower**.  _(This can't be defended by more than 1 action card.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Pirate Necromancer Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "25d369b0-6efd-4de0-bac0-4057bd61d376",
+              "card_print": "6bbc2d6e-5a80-4059-841d-43b679f41bd6",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Board the Ship</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> an ally you control. If you do, this gets** overpower**.  <em>(This can't be defended by more than 1 action card.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB347-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB347-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB347-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "512b1f64-69da-4b54-a6a5-8cbaddf2c299",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:50.292412+12:00",
+            "updated_at": "2025-09-18T06:46:50.292436+12:00",
+            "printed_date": "2025-04-01",
+            "printed_language": "en",
+            "product_name": "Battle Hardened - High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "battle-hardened-high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:50.298345+12:00",
+          "updated_at": "2025-09-18T06:46:50.298356+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB347-RF",
+          "set_number": 347,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "919b62bd-4476-45d0-848f-e6c7ff087002"
+        },
+        {
+          "id": "43eddf5e-6257-46ad-b250-60a35373da6b",
+          "faces": [
+            {
+              "id": "c3ff2349-de25-4c0b-bde8-c6e455e34c56",
+              "created_at": "2025-09-18T06:46:50.318747+12:00",
+              "updated_at": "2025-09-18T06:46:50.318759+12:00",
+              "face_id": "JA_SEA053",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA053",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "船上登り",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたがコントロールする盟友１体を{t}してもよい。そうした場合、これは**凌駕**を得る。（これは２枚以上のアクションカードで防御されない）",
+              "printed_flavor_text": "「凶兆海域は死に満ちているが、誰もいないわけではない」―ルー船長の航海日誌、最後の記述",
+              "printed_typebox": "海賊・死霊術師・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "25d369b0-6efd-4de0-bac0-4057bd61d376",
+              "card_print": "43eddf5e-6257-46ad-b250-60a35373da6b",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>船上登り</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>海賊・死霊術師・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたがコントロールする盟友１体を<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>してもよい。そうした場合、これは<strong>凌駕</strong>を得る。（これは２枚以上のアクションカードで防御されない）</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>「凶兆海域は死に満ちているが、誰もいないわけではない」―ルー船長の航海日誌、最後の記述</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA053.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA053.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA053.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:50.314251+12:00",
+          "updated_at": "2025-09-18T06:46:50.314266+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA053",
+          "set_number": 53,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "919b62bd-4476-45d0-848f-e6c7ff087002"
+        },
+        {
+          "id": "2c83fde0-72f6-4dda-ae0e-94754bcc4979",
+          "faces": [
+            {
+              "id": "a03d3d1c-9010-4353-83e0-5a079fd464fd",
+              "created_at": "2025-09-18T06:46:50.330026+12:00",
+              "updated_at": "2025-09-18T06:46:50.330039+12:00",
+              "face_id": "JA_SEA053-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA053",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "船上登り",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "これが攻撃したとき、あなたがコントロールする盟友１体を{t}してもよい。そうした場合、これは**凌駕**を得る。（これは２枚以上のアクションカードで防御されない）",
+              "printed_flavor_text": "「凶兆海域は死に満ちているが、誰もいないわけではない」―ルー船長の航海日誌、最後の記述",
+              "printed_typebox": "海賊・死霊術師・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "25d369b0-6efd-4de0-bac0-4057bd61d376",
+              "card_print": "2c83fde0-72f6-4dda-ae0e-94754bcc4979",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>船上登り</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>海賊・死霊術師・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>これが攻撃したとき、あなたがコントロールする盟友１体を<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'>してもよい。そうした場合、これは<strong>凌駕</strong>を得る。（これは２枚以上のアクションカードで防御されない）</p>\n"
+              ],
+              "flavor_text_html": [
+                "<p>「凶兆海域は死に満ちているが、誰もいないわけではない」―ルー船長の航海日誌、最後の記述</p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SEA053-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SEA053-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SEA053-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "070304fe-3127-49bb-9aa5-d5cc3fdbe193",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.219281+12:00",
+            "updated_at": "2025-09-18T06:45:25.219298+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "ja",
+            "product_name": "High Seas [JA]",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:50.325603+12:00",
+          "updated_at": "2025-09-18T06:46:50.325617+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SEA053-RF",
+          "set_number": 53,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "919b62bd-4476-45d0-848f-e6c7ff087002"
+        },
+        {
+          "id": "20dd8f8a-96bd-48f6-993a-e371a8ab6ca7",
+          "faces": [
+            {
+              "id": "97f8e856-fbea-4e70-9512-fe085efbb18a",
+              "created_at": "2025-09-18T06:46:50.342759+12:00",
+              "updated_at": "2025-09-18T06:46:50.342774+12:00",
+              "face_id": "SEA053",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA053",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "Board the Ship",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.  _(This can't be defended by more than 1 action card.)_",
+              "printed_flavor_text": "_The Reach is dead, but it ain't deserted. - Captain Rue's Log, final entry_",
+              "printed_typebox": "Pirate Necromancer Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "25d369b0-6efd-4de0-bac0-4057bd61d376",
+              "card_print": "20dd8f8a-96bd-48f6-993a-e371a8ab6ca7",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Board the Ship</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> an ally you control. If you do, this gets <strong>overpower</strong>.  <em>(This can't be defended by more than 1 action card.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>The Reach is dead, but it ain't deserted. - Captain Rue's Log, final entry</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA053.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA053.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA053.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:50.337060+12:00",
+          "updated_at": "2025-09-18T06:46:50.337077+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA053",
+          "set_number": 53,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "919b62bd-4476-45d0-848f-e6c7ff087002"
+        },
+        {
+          "id": "f4ebc037-1b43-440e-ad7e-db2363248249",
+          "faces": [
+            {
+              "id": "ffb990b7-9737-497f-9d01-60b89a170c6a",
+              "created_at": "2025-09-18T06:46:50.358785+12:00",
+              "updated_at": "2025-09-18T06:46:50.358799+12:00",
+              "face_id": "SEA053-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "pirate",
+              "frame_style": "necromancer",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SEA053",
+              "printed_artist": "Faizal Fikri",
+              "printed_name": "Board the Ship",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "6",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "When this attacks, you may {t} an ally you control. If you do, this gets **overpower**.  _(This can't be defended by more than 1 action card.)_",
+              "printed_flavor_text": "_The Reach is dead, but it ain't deserted. - Captain Rue's Log, final entry_",
+              "printed_typebox": "Pirate Necromancer Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "25d369b0-6efd-4de0-bac0-4057bd61d376",
+              "card_print": "f4ebc037-1b43-440e-ad7e-db2363248249",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Board the Ship</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Pirate Necromancer Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p>When this attacks, you may <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_t.webp' alt='{t}'> an ally you control. If you do, this gets <strong>overpower</strong>.  <em>(This can't be defended by more than 1 action card.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                "<p><em>The Reach is dead, but it ain't deserted. - Captain Rue's Log, final entry</em></p>\n"
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SEA053-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SEA053-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SEA053-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "878bbcd1-2120-45f1-8cb4-012c2e4ceb2f",
+            "product_group": {
+              "id": "caa5e92b-fd7c-4022-a3fe-5f884df0aebc",
+              "created_at": "2025-09-18T06:45:25.200211+12:00",
+              "updated_at": "2025-09-18T06:45:25.200224+12:00",
+              "group_name": "High Seas",
+              "product_type": "booster",
+              "release_date": "2025-06-06",
+              "slug": "high-seas"
+            },
+            "created_at": "2025-09-18T06:45:25.236626+12:00",
+            "updated_at": "2025-09-18T06:45:25.236641+12:00",
+            "printed_date": "2025-01-01",
+            "printed_language": "en",
+            "product_name": "High Seas",
+            "product_type": "booster",
+            "release_date": "2025-06-06",
+            "slug": "high-seas",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "e3b74cc0-6969-4abd-a1b4-8eb92282e8cc",
+            "created_at": "2025-09-18T06:45:12.684378+12:00",
+            "updated_at": "2025-09-18T06:45:12.684392+12:00",
+            "set_code": "SEA",
+            "set_name": "High Seas",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:50.351485+12:00",
+          "updated_at": "2025-09-18T06:46:50.351500+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SEA053-RF",
+          "set_number": 53,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "919b62bd-4476-45d0-848f-e6c7ff087002"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:46:50.246033+12:00",
+      "updated_at": "2025-09-18T06:46:50.247185+12:00",
+      "card_id": "board-the-ship-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

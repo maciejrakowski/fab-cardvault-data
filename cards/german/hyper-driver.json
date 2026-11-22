@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "hyper-driver",
+  "language": "de",
+  "name": "Hyper-Antrieb",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Hyper-Antrieb",
+      "typeLine": "Mechanologist Spielstein - Gegenstand",
+      "classes": [
+        "Mechanologisch"
+      ],
+      "types": [
+        "Spielstein"
+      ],
+      "subtypes": [
+        "Gegenstand"
+      ],
+      "text": {
+        "markup": "Wenn dies keine Dampf-Marken hat, zerstöre es.\nEinmal pro Zug, wenn du eine Karte **boostest**, entferne eine Dampf-Marke hiervon und du erhältst {r}.",
+        "plain": "Wenn dies keine Dampf-Marken hat, zerstöre es.\nEinmal pro Zug, wenn du eine Karte boostest, entferne eine Dampf-Marke hiervon und du erhältst {r}.",
+        "html": "<p>Wenn dies keine Dampf-Marken hat, zerstöre es.</p>\n<p>Einmal pro Zug, wenn du eine Karte <strong>boostest</strong>, entferne eine Dampf-Marke hiervon und du erhältst <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "DE_EVO234",
+      "code": "EVO234",
+      "language": "de",
+      "set": "EVO",
+      "setNumber": 234,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "bright-lights-de",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DE_EVO234",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "de",
+          "name": "Hyper-Antrieb",
+          "typeLine": "Mechanologist Spielstein - Gegenstand",
+          "traitLine": null,
+          "text": {
+            "markup": "Wenn dies keine Dampf-Marken hat, zerstöre es.\nEinmal pro Zug, wenn du eine Karte **boostest**, entferne eine Dampf-Marke hiervon und du erhältst {r}.",
+            "plain": "Wenn dies keine Dampf-Marken hat, zerstöre es.\nEinmal pro Zug, wenn du eine Karte boostest, entferne eine Dampf-Marke hiervon und du erhältst {r}.",
+            "html": "<p>Wenn dies keine Dampf-Marken hat, zerstöre es.</p>\n<p>Einmal pro Zug, wenn du eine Karte <strong>boostest</strong>, entferne eine Dampf-Marke hiervon und du erhältst <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "EVO234",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Alexander Mokhov",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DE_EVO234.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DE_EVO234.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DE_EVO234.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

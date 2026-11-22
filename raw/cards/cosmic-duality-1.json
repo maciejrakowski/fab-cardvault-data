@@ -1,0 +1,824 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "f56e74d1-8576-4dae-89c8-e6604e82261c",
+      "cores": [
+        {
+          "id": "dd058fac-ddc6-4ec2-9151-8c152e7957e8",
+          "core_classes": [
+            {
+              "id": 7,
+              "name": "Illusionist",
+              "name_en": "Illusionist",
+              "name_fr": "Illusionniste",
+              "name_de": "Illusionist",
+              "name_it": "Illusionista",
+              "name_es": "Ilusionista",
+              "name_ja": "幻術士",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 6,
+              "name": "Lightning",
+              "name_en": "Lightning",
+              "name_fr": "Foudre",
+              "name_de": "Blitz",
+              "name_it": "Fulmine",
+              "name_es": "Relámpago",
+              "name_ja": "稲妻",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-03-03T15:44:01.134498+13:00",
+          "updated_at": "2026-03-03T15:44:01.134506+13:00",
+          "name": "Cosmic Duality",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "2",
+          "color": "red",
+          "cost": "2",
+          "power": "7",
+          "defense": "3",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Instant** -- {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.{br}**Fragment**",
+          "typebox": "Lightning Illusionist Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": 2,
+          "cost_value": 2,
+          "power_value": 7,
+          "defense_value": 3,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "f56e74d1-8576-4dae-89c8-e6604e82261c"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "98736b39-eb63-4193-b72f-c871751f31c4",
+          "faces": [
+            {
+              "id": "f6023bbb-16fc-4cf9-a94a-d1fbd58e9bf0",
+              "created_at": "2026-03-03T15:44:14.059862+13:00",
+              "updated_at": "2026-03-03T15:44:14.059870+13:00",
+              "face_id": "OMN015",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN015",
+              "printed_artist": "YDZ",
+              "printed_name": "Cosmic Duality",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.{br}**Fragment** _(Whenever a card with 2 or more {d} defends this, this gets -2{p}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Illusionist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "dd058fac-ddc6-4ec2-9151-8c152e7957e8",
+              "card_print": "98736b39-eb63-4193-b72f-c871751f31c4",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cosmic Duality</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Illusionist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.</p>\n<p><strong>Fragment</strong> <em>(Whenever a card with 2 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> defends this, this gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN015.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN015.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN015.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:14.053306+13:00",
+          "updated_at": "2026-03-04T12:09:15.524711+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "OMN015",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "f56e74d1-8576-4dae-89c8-e6604e82261c"
+        },
+        {
+          "id": "d3c5c5e4-da03-4f31-86aa-f22c9e4ec4a7",
+          "faces": [
+            {
+              "id": "b741c8d8-9c93-4cec-b8ed-1f05c3777342",
+              "created_at": "2026-03-03T15:44:14.094146+13:00",
+              "updated_at": "2026-03-03T15:44:14.094155+13:00",
+              "face_id": "OMN015-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN015",
+              "printed_artist": "YDZ",
+              "printed_name": "Cosmic Duality",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.{br}**Fragment** _(Whenever a card with 2 or more {d} defends this, this gets -2{p}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Illusionist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "dd058fac-ddc6-4ec2-9151-8c152e7957e8",
+              "card_print": "d3c5c5e4-da03-4f31-86aa-f22c9e4ec4a7",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cosmic Duality</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Illusionist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.</p>\n<p><strong>Fragment</strong> <em>(Whenever a card with 2 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> defends this, this gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN015-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN015-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN015-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:14.087509+13:00",
+          "updated_at": "2026-03-04T12:09:23.317017+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "OMN015-RF",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "common",
+          "card": "f56e74d1-8576-4dae-89c8-e6604e82261c"
+        },
+        {
+          "id": "7afb5abb-da0a-480d-aadd-a898dfce4d36",
+          "faces": [
+            {
+              "id": "593957a1-a28a-4049-99ad-b3cd0330410a",
+              "created_at": "2026-03-03T23:52:45.374892+13:00",
+              "updated_at": "2026-03-03T23:52:45.374903+13:00",
+              "face_id": "FAB464-MV",
+              "face_language": "en",
+              "art_type": "extended-art",
+              "finish_type": "cold-foil",
+              "border_type": "",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "promo-marvel-dot",
+              "printed_code": "FAB464",
+              "printed_artist": "YDZ",
+              "printed_name": "Cosmic Duality",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- {r}, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.{br}**Fragment** _(Whenever a card with 2 or more {d} defends this, this gets -2{p}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Illusionist Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "dd058fac-ddc6-4ec2-9151-8c152e7957e8",
+              "card_print": "7afb5abb-da0a-480d-aadd-a898dfce4d36",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Cosmic Duality</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Illusionist Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, discard this: Deal 1 arcane damage to target hero. Create a Lightning Flow token.</p>\n<p><strong>Fragment</strong> <em>(Whenever a card with 2 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> defends this, this gets -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB464-MV.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB464-MV.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB464-MV.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fb9d9493-83f0-4ae7-b825-18256c1d829a",
+            "product_group": null,
+            "created_at": "2026-03-03T23:48:15.294236+13:00",
+            "updated_at": "2026-10-08T16:07:45.462623+13:00",
+            "printed_date": "2025-12-01",
+            "printed_language": "en",
+            "product_name": "World Premiere - Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "world-premiere-omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T23:52:45.345574+13:00",
+          "updated_at": "2026-03-04T12:11:02.335210+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "FAB464-MV",
+          "set_number": 464,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo-marvel",
+          "card": "f56e74d1-8576-4dae-89c8-e6604e82261c"
+        },
+        {
+          "id": "88b1f61a-d377-4fe7-bad3-22ab3f99b021",
+          "faces": [
+            {
+              "id": "d4e3ac3a-5693-4ab6-b833-fcff6f0f8617",
+              "created_at": "2026-03-03T15:44:13.922605+13:00",
+              "updated_at": "2026-03-03T15:44:13.922613+13:00",
+              "face_id": "FR_OMN015",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN015",
+              "printed_artist": "YDZ",
+              "printed_name": "Dualité cosmique",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané** -- {r}, défaussez-vous de cette carte : infligez 1 dégât arcane au héros ciblé. Créez un jeton Flux de foudre.{br}**Fragmenter** _(À chaque fois qu’une carte avec au moins 2 {d} défend cette carte, cette carte gagne -2{p}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Illusionniste Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "dd058fac-ddc6-4ec2-9151-8c152e7957e8",
+              "card_print": "88b1f61a-d377-4fe7-bad3-22ab3f99b021",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Dualité cosmique</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Illusionniste Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, défaussez-vous de cette carte : infligez 1 dégât arcane au héros ciblé. Créez un jeton Flux de foudre.</p>\n<p><strong>Fragmenter</strong> <em>(À chaque fois qu’une carte avec au moins 2 <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> défend cette carte, cette carte gagne -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN015.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN015.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN015.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:13.915940+13:00",
+          "updated_at": "2026-03-04T12:07:40.314669+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "FR_OMN015",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "f56e74d1-8576-4dae-89c8-e6604e82261c"
+        },
+        {
+          "id": "f6d8c273-e6f8-470a-bfcf-28487d3824c3",
+          "faces": [
+            {
+              "id": "57bcc694-186c-4651-8004-b5437debf9dd",
+              "created_at": "2026-03-03T15:44:13.955698+13:00",
+              "updated_at": "2026-03-03T15:44:13.955707+13:00",
+              "face_id": "FR_OMN015-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN015",
+              "printed_artist": "YDZ",
+              "printed_name": "Dualité cosmique",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané** -- {r}, défaussez-vous de cette carte : infligez 1 dégât arcane au héros ciblé. Créez un jeton Flux de foudre.{br}**Fragmenter** _(À chaque fois qu’une carte avec au moins 2 {d} défend cette carte, cette carte gagne -2{p}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Illusionniste Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "dd058fac-ddc6-4ec2-9151-8c152e7957e8",
+              "card_print": "f6d8c273-e6f8-470a-bfcf-28487d3824c3",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Dualité cosmique</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Illusionniste Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>, défaussez-vous de cette carte : infligez 1 dégât arcane au héros ciblé. Créez un jeton Flux de foudre.</p>\n<p><strong>Fragmenter</strong> <em>(À chaque fois qu’une carte avec au moins 2 <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> défend cette carte, cette carte gagne -2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN015-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN015-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN015-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:13.948926+13:00",
+          "updated_at": "2026-03-04T12:07:53.097566+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "FR_OMN015-RF",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "common",
+          "card": "f56e74d1-8576-4dae-89c8-e6604e82261c"
+        },
+        {
+          "id": "2a159510-6b23-4259-9785-e6fd29ea0dfc",
+          "faces": [
+            {
+              "id": "d76047ab-222d-44f8-886c-0b29d43ebfb2",
+              "created_at": "2026-03-03T15:44:13.991472+13:00",
+              "updated_at": "2026-03-03T15:44:13.991483+13:00",
+              "face_id": "JA_OMN015",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN015",
+              "printed_artist": "YDZ",
+              "printed_name": "宇宙の双対",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**インスタント**--, {r}これを捨てる：対象のヒーロー１人に秘術ダメージを１点与える。「稲妻の流動」トークンを１つ作成する。{br}**解片**（２{d}以上のカード１枚がこれを防御するたび、これは－２{p}を得る）",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・幻術士・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "dd058fac-ddc6-4ec2-9151-8c152e7957e8",
+              "card_print": "2a159510-6b23-4259-9785-e6fd29ea0dfc",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>宇宙の双対</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・幻術士・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>インスタント</strong>—, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>これを捨てる：対象のヒーロー１人に秘術ダメージを１点与える。「稲妻の流動」トークンを１つ作成する。</p>\n<p><strong>解片</strong>（２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>以上のカード１枚がこれを防御するたび、これは－２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN015.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN015.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN015.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:13.984187+13:00",
+          "updated_at": "2026-03-04T12:08:29.457154+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "JA_OMN015",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "f56e74d1-8576-4dae-89c8-e6604e82261c"
+        },
+        {
+          "id": "76785810-1763-4277-9a35-65160210ba18",
+          "faces": [
+            {
+              "id": "acb50bd4-38bf-4f44-9b3f-010bde2fc03e",
+              "created_at": "2026-03-03T15:44:14.026905+13:00",
+              "updated_at": "2026-03-03T15:44:14.026914+13:00",
+              "face_id": "JA_OMN015-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "illusionist",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "common-dot",
+              "printed_code": "OMN015",
+              "printed_artist": "YDZ",
+              "printed_name": "宇宙の双対",
+              "printed_pitch": 1,
+              "printed_cost": "2",
+              "printed_power": "7",
+              "printed_defense": "3",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**インスタント**--, {r}これを捨てる：対象のヒーロー１人に秘術ダメージを１点与える。「稲妻の流動」トークンを１つ作成する。{br}**解片**（２{d}以上のカード１枚がこれを防御するたび、これは－２{p}を得る）",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・幻術士・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "dd058fac-ddc6-4ec2-9151-8c152e7957e8",
+              "card_print": "76785810-1763-4277-9a35-65160210ba18",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>宇宙の双対</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・幻術士・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>インスタント</strong>—, <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>これを捨てる：対象のヒーロー１人に秘術ダメージを１点与える。「稲妻の流動」トークンを１つ作成する。</p>\n<p><strong>解片</strong>（２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>以上のカード１枚がこれを防御するたび、これは－２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN015-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN015-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN015-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:14.019917+13:00",
+          "updated_at": "2026-03-04T12:08:37.595741+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "JA_OMN015-RF",
+          "set_number": 15,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "common",
+          "card": "f56e74d1-8576-4dae-89c8-e6604e82261c"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-03-03T15:44:01.125876+13:00",
+      "updated_at": "2026-03-03T15:44:01.126018+13:00",
+      "card_id": "cosmic-duality-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

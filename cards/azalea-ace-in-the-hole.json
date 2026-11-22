@@ -1,0 +1,680 @@
+{
+  "schemaVersion": 1,
+  "id": "azalea-ace-in-the-hole",
+  "name": "Azalea, Ace in the Hole",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Azalea, Ace in the Hole",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 40,
+      "intellect": 4,
+      "typeLine": "Ranger Hero",
+      "traitLine": null,
+      "classes": [
+        "Ranger"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets **dominate** until end of turn. **Go again**",
+        "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets dominate until end of turn. Go again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HER010-CF",
+      "code": "HER010-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 10,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER010-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea, Ace in the Hole",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains **dominate** until end of turn. **Go again**",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains <strong>dominate</strong> until end of turn. <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER010-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Maxim Kostin",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER010-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER010-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER010-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC038",
+      "code": "ARC038-T",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 38,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC038",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea, Ace in the Hole",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "ARC038-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Maxim Kostin",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC038.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC038.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC038.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER018-RF",
+      "code": "HER018-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 18,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "buy-a-box-arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER018-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea, Ace in the Hole",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains **dominate** until end of turn. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains <strong>dominate</strong> until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER018-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Maxim Kostin",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER018-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER018-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER018-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU119",
+      "code": "CRU119",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 119,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU119",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea, Ace in the Hole",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains **dominate** until end of turn. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains <strong>dominate</strong> until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "CRU119",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU119.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU119.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU119.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC038",
+      "code": "ARC038",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 38,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC038",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea, Ace in the Hole",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "ARC038",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Maxim Kostin",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC038.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC038.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC038.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU119",
+      "code": "CRU119",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 119,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU119",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea, Ace in the Hole",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains **dominate** until end of turn. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains <strong>dominate</strong> until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "CRU119",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU119.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU119.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU119.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP221",
+      "code": "1HP221",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 221,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP221",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea, Ace in the Hole",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains **dominate** until end of turn. **Go again** _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains dominate until end of turn. Go again _(The defending hero can't defend the attack with more than 1 card from their hand.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains <strong>dominate</strong> until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend the attack with more than 1 card from their hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "1HP221",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Maxim Kostin",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "white",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP221.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP221.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP221.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WIN006-CF",
+      "code": "WIN006",
+      "language": "en",
+      "set": "WIN",
+      "setNumber": 6,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-champion-cards",
+      "releaseDate": "2022-05-15",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WIN006-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea, Ace in the Hole",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": {
+            "markup": "Pro Tour Champion",
+            "plain": "Pro Tour Champion",
+            "html": "<p>Pro Tour Champion</p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "WIN006",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WIN006-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WIN006-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WIN006-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "OUT089",
+      "code": "OUT089",
+      "language": "en",
+      "set": "OUT",
+      "setNumber": 89,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "outsiders",
+      "releaseDate": "2023-03-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "OUT089",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea, Ace in the Hole",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow, it gains **dominate** until end of turn. **Go again** _(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow, it gains dominate until end of turn. Go again _(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow, it gains <strong>dominate</strong> until end of turn. <strong>Go again</strong> <em>(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "OUT089",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Maxim Kostin",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OUT089.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OUT089.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OUT089.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AAZ001",
+      "code": "AAZ001",
+      "language": "en",
+      "set": "AAZ",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-azalea-ace-in-the-hole",
+      "releaseDate": "2024-08-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AAZ001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Azalea, Ace in the Hole",
+          "typeLine": "Ranger Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets **dominate** until end of turn. **Go again** _(It can’t be defended by more than 1 card from hand.)_",
+            "plain": "Once per Turn Action -- 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets dominate until end of turn. Go again _(It can’t be defended by more than 1 card from hand.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face-up into your arsenal. If it's an arrow, it gets <strong>dominate</strong> until end of turn. <strong>Go again</strong> <em>(It can’t be defended by more than 1 card from hand.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "AAZ001",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Maxim Kostin",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "x_pits",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AAZ001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AAZ001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AAZ001.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "dominate"
+    ],
+    "editions": {
+      "U-ARC038": "unlimited",
+      "U-CRU119": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:18:54Z",
+    "rawSha256": "07b34d42425bc0f612efb4032b8448b9b075b4d4665907f2e0741a5bc38fe609",
+    "updatedAt": "2025-09-18T06:45:57.358765+12:00"
+  }
+}

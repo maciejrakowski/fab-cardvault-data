@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "id": "teklo-core-3",
+  "name": "Teklo Core",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Teklo Core",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Mechanologist Action - Item",
+      "traitLine": null,
+      "classes": [
+        "Mechanologist"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Item"
+      ],
+      "text": {
+        "markup": "**Dash Specialization**{br}This enters the arena with 2 steam counters. When this has none, destroy it.{br}At the beginning of your action phase, remove a steam counter from this and gain {r}{r}.",
+        "plain": "Dash Specialization\nThis enters the arena with 2 steam counters. When this has none, destroy it.\nAt the beginning of your action phase, remove a steam counter from this and gain {r}{r}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ARC007",
+      "code": "ARC007-M",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC007",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Core",
+          "typeLine": "Mechanologist Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Dash Specialization** _(You may only have Teklo Core in your deck if your hero is Dash.)_\nTeklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.\nAt the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}.",
+            "plain": "Dash Specialization _(You may only have Teklo Core in your deck if your hero is Dash.)_\nTeklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.\nAt the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}.",
+            "html": "<p><strong>Dash Specialization</strong> <em>(You may only have Teklo Core in your deck if your hero is Dash.)</em></p>\n<p>Teklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.</p>\n<p>At the beginning of your action phase, remove a steam counter from Teklo Core and gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC007-M",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC007.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC007.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC007.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC007-RF",
+      "code": "ARC007-M",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC007-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Core",
+          "typeLine": "Mechanologist Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Dash Specialization**\nTeklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.\nAt the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}.",
+            "plain": "Dash Specialization\nTeklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.\nAt the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}.",
+            "html": "<p><strong>Dash Specialization</strong></p>\n<p>Teklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.</p>\n<p>At the beginning of your action phase, remove a steam counter from Teklo Core and gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC007-M",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC007-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC007-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC007-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC007",
+      "code": "ARC007",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC007",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Core",
+          "typeLine": "Mechanologist Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Dash Specialization** _(You may only have Teklo Core in your deck if your hero is Dash.)_\nTeklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.\nAt the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}.",
+            "plain": "Dash Specialization _(You may only have Teklo Core in your deck if your hero is Dash.)_\nTeklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.\nAt the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}.",
+            "html": "<p><strong>Dash Specialization</strong> <em>(You may only have Teklo Core in your deck if your hero is Dash.)</em></p>\n<p>Teklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.</p>\n<p>At the beginning of your action phase, remove a steam counter from Teklo Core and gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC007",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC007.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC007.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC007.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC007-RF",
+      "code": "ARC007",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC007-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Core",
+          "typeLine": "Mechanologist Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Dash Specialization** _(You may only have Teklo Core in your deck if your hero is Dash.)_\nTeklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.\nAt the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}.",
+            "plain": "Dash Specialization _(You may only have Teklo Core in your deck if your hero is Dash.)_\nTeklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.\nAt the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}.",
+            "html": "<p><strong>Dash Specialization</strong> <em>(You may only have Teklo Core in your deck if your hero is Dash.)</em></p>\n<p>Teklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.</p>\n<p>At the beginning of your action phase, remove a steam counter from Teklo Core and gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC007",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC007-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC007-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC007-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP192",
+      "code": "1HP192",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 192,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP192",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Core",
+          "typeLine": "Mechanologist Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Dash Specialization** _(You may only have Teklo Core in your deck if your hero is Dash.)_\nTeklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.\nAt the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}.",
+            "plain": "Dash Specialization _(You may only have Teklo Core in your deck if your hero is Dash.)_\nTeklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.\nAt the beginning of your action phase, remove a steam counter from Teklo Core and gain {r}{r}.",
+            "html": "<p><strong>Dash Specialization</strong> <em>(You may only have Teklo Core in your deck if your hero is Dash.)</em></p>\n<p>Teklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.</p>\n<p>At the beginning of your action phase, remove a steam counter from Teklo Core and gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP192",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "majestic-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP192.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP192.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP192.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS223-CF",
+      "code": "LGS223",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 223,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "skirmish-season-8",
+      "releaseDate": "2023-11-18",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS223-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Teklo Core",
+          "typeLine": "Mechanologist Action - Item",
+          "traitLine": null,
+          "text": {
+            "markup": "**Dash Specialization** _(You may only have Teklo Core in your deck if your hero is Dash.)_\nThis enters the arena with 2 steam counters. When this has none, destroy it.\nAt the beginning of your action phase, remove a steam counter from this and gain {r}{r}.",
+            "plain": "Dash Specialization _(You may only have Teklo Core in your deck if your hero is Dash.)_\nThis enters the arena with 2 steam counters. When this has none, destroy it.\nAt the beginning of your action phase, remove a steam counter from this and gain {r}{r}.",
+            "html": "<p><strong>Dash Specialization</strong> <em>(You may only have Teklo Core in your deck if your hero is Dash.)</em></p>\n<p>This enters the arena with 2 steam counters. When this has none, destroy it.</p>\n<p>At the beginning of your action phase, remove a steam counter from this and gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS223",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Nathaniel Himawan",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "mechanologist",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS223-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS223-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS223-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Dash Specialization"
+    ],
+    "editions": {
+      "U-ARC007": "unlimited",
+      "U-ARC007-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:59:02Z",
+    "rawSha256": "b20a3318066883344f6401e9a205910569985dcc1a39915f98de7b67bf98c2f2",
+    "updatedAt": "2025-09-18T06:57:39.040687+12:00"
+  }
+}

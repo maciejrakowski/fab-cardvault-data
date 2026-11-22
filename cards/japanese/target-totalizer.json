@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "target-totalizer",
+  "language": "ja",
+  "name": "照準補助装置",
+  "cores": [
+    {
+      "position": 10,
+      "name": "照準補助装置",
+      "typeLine": "レンジャー・装備品 － 頭",
+      "classes": [
+        "レンジャー"
+      ],
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "頭"
+      ],
+      "text": {
+        "markup": "**アクション**--これを破壊する ：このターン、照準カウンターが置かれている矢がヒットするたび、カードを１枚引く。**続行**",
+        "plain": "アクション--これを破壊する ：このターン、照準カウンターが置かれている矢がヒットするたび、カードを１枚引く。続行",
+        "html": "<p><strong>アクション</strong>—これを破壊する ：このターン、照準カウンターが置かれている矢がヒットするたび、カードを１枚引く。<strong>続行</strong></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_AAZ004-RF",
+      "code": "AAZ004",
+      "language": "ja",
+      "set": "AAZ",
+      "setNumber": 4,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-azalea-ace-in-the-hole-ja",
+      "releaseDate": "2024-08-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AAZ004-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "照準補助装置",
+          "typeLine": "レンジャー・装備品 － 頭",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--これを破壊する ：このターン、照準カウンターが置かれている矢がヒットするたび、カードを１枚引く。**続行**",
+            "plain": "アクション--これを破壊する ：このターン、照準カウンターが置かれている矢がヒットするたび、カードを１枚引く。続行",
+            "html": "<p><strong>アクション</strong>—これを破壊する ：このターン、照準カウンターが置かれている矢がヒットするたび、カードを１枚引く。<strong>続行</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AAZ004",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Mateus Manhanini",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AAZ004-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AAZ004-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AAZ004-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

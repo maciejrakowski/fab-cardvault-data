@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "id": "millers-grindstone",
+  "name": "Miller's Grindstone",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Miller's Grindstone",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 4,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Guardian Weapon - Hammer (1H)",
+      "traitLine": null,
+      "classes": [
+        "Guardian"
+      ],
+      "talents": [],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(1H)",
+        "Hammer"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}{r}{r}: **Attack**{br}When this hits a hero, **clash** with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this.",
+        "plain": "Once per Turn Action -- {r}{r}{r}: Attack\nWhen this hits a hero, clash with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HVY050",
+      "code": "HVY050",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 50,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY050",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Miller's Grindstone",
+          "typeLine": "Guardian Weapon - Hammer (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: **Attack**{br}When this hits a hero, **clash** with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "Once per Turn Action -- {r}{r}{r}: Attack\nWhen this hits a hero, clash with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this hits a hero, <strong>clash</strong> with them. If you win, destroy the top card of their deck. If they win, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> counter on this. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "4",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY050",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY050.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY050.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY050.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HVY050-CF",
+      "code": "HVY050",
+      "language": "en",
+      "set": "HVY",
+      "setNumber": 50,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HVY050-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Miller's Grindstone",
+          "typeLine": "Guardian Weapon - Hammer (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: **Attack**{br}When this hits a hero, **clash** with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "Once per Turn Action -- {r}{r}{r}: Attack\nWhen this hits a hero, clash with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this hits a hero, <strong>clash</strong> with them. If you win, destroy the top card of their deck. If they win, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> counter on this. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "4",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HVY050",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HVY050-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HVY050-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HVY050-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS240-RF",
+      "code": "LGS240",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 240,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "buy-a-box-heavy-hitters",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS240-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Miller's Grindstone",
+          "typeLine": "Guardian Weapon - Hammer (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: **Attack**{br}When this hits a hero, **clash** with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "Once per Turn Action -- {r}{r}{r}: Attack\nWhen this hits a hero, clash with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this hits a hero, <strong>clash</strong> with them. If you win, destroy the top card of their deck. If they win, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> counter on this. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "4",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS240",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Marcus Reyno",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS240-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS240-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS240-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "VIC002",
+      "code": "VIC002",
+      "language": "en",
+      "set": "VIC",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "victor-heavy-hitters-blitz-deck",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "VIC002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Miller's Grindstone",
+          "typeLine": "Guardian Weapon - Hammer (1H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}{r}{r}: **Attack**{br}When this hits a hero, **clash** with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "plain": "Once per Turn Action -- {r}{r}{r}: Attack\nWhen this hits a hero, clash with them. If you win, destroy the top card of their deck. If they win, put a -1{p} counter on this. _(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest {p} wins.)_",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>When this hits a hero, <strong>clash</strong> with them. If you win, destroy the top card of their deck. If they win, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> counter on this. <em>(Clashing heroes reveal the top card of their deck. The hero that reveals the card with greatest <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> wins.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "4",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "VIC002",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Marcus Reyno",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/VIC002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/VIC002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/VIC002.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack",
+      "clash"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:25:01Z",
+    "rawSha256": "48c77dff10841e3071fa1d8c2547433c0250f766ca1657cb98812c8bbe02183f",
+    "updatedAt": "2025-09-18T06:52:42.053684+12:00"
+  }
+}

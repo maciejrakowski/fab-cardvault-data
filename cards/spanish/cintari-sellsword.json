@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "cintari-sellsword",
+  "language": "es",
+  "name": "Mercenario cintari",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Mercenario cintari",
+      "typeLine": "Ficha de guerrero - Aliado mercenario",
+      "classes": [
+        "Guerrero"
+      ],
+      "types": [
+        "Ficha"
+      ],
+      "subtypes": [
+        "Aliado",
+        "Mercenario"
+      ],
+      "text": {
+        "markup": "**Acción una vez por turno** -- {r}: **Ataque**. **Continuar**.{br}Mercenario cintari solo puede atacar si has atacado con un arma este turno.",
+        "plain": "Acción una vez por turno -- {r}: Ataque. Continuar.\nMercenario cintari solo puede atacar si has atacado con un arma este turno.",
+        "html": "<p><strong>Acción una vez por turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Ataque</strong>. <strong>Continuar</strong>.</p>\n<p>Mercenario cintari solo puede atacar si has atacado con un arma este turno.</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_HVY134",
+      "code": "HVY134",
+      "language": "es",
+      "set": "HVY",
+      "setNumber": 134,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "heavy-hitters-es",
+      "releaseDate": "2024-02-02",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_HVY134",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Mercenario cintari",
+          "typeLine": "Ficha de guerrero - Aliado mercenario",
+          "traitLine": null,
+          "text": {
+            "markup": "**Acción una vez por turno** -- {r}: **Ataque**. **Continuar**.{br}Mercenario cintari solo puede atacar si has atacado con un arma este turno.",
+            "plain": "Acción una vez por turno -- {r}: Ataque. Continuar.\nMercenario cintari solo puede atacar si has atacado con un arma este turno.",
+            "html": "<p><strong>Acción una vez por turno</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Ataque</strong>. <strong>Continuar</strong>.</p>\n<p>Mercenario cintari solo puede atacar si has atacado con un arma este turno.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": "2",
+            "intellect": null
+          },
+          "printedCode": "HVY134",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Sebastian Szmyd",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_HVY134.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_HVY134.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_HVY134.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

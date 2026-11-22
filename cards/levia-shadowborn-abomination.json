@@ -1,0 +1,542 @@
+{
+  "schemaVersion": 1,
+  "id": "levia-shadowborn-abomination",
+  "name": "Levia, Shadowborn Abomination",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Levia, Shadowborn Abomination",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 40,
+      "intellect": 4,
+      "typeLine": "Shadow Brute Hero",
+      "traitLine": null,
+      "classes": [
+        "Brute"
+      ],
+      "talents": [
+        "Shadow"
+      ],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from blood debt during the end phase.",
+        "plain": "If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from blood debt during the end phase."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata IAR] Levia Textbox update",
+      "description": "This card's textbox was updated to \"If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from blood debt during the end phase.\"\r\nThis change lets cards with 6 or more {p} banished during the beginning of end phase to interact with blood debt triggers that are already on the stack.",
+      "date": "25-09-2026"
+    }
+  ],
+  "printings": [
+    {
+      "id": "HER040-RF",
+      "code": "HER040",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 40,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "buy-a-box-monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER040-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Levia, Shadowborn Abomination",
+          "typeLine": "Shadow Brute Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.",
+            "plain": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose blood debt during the end phase.",
+            "html": "<p>If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> has been put into your banished zone this turn, cards you own lose <strong>blood debt</strong> during the end phase.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER040",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Wisnu Tan",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER040-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER040-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER040-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON119",
+      "code": "MON119",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 119,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON119",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Levia, Shadowborn Abomination",
+          "typeLine": "Shadow Brute Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.",
+            "plain": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose blood debt during the end phase.",
+            "html": "<p>If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> has been put into your banished zone this turn, cards you own lose <strong>blood debt</strong> during the end phase.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "MON119",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Wisnu Tan",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON119.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON119.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON119.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON119",
+      "code": "MON119",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 119,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON119",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Levia, Shadowborn Abomination",
+          "typeLine": "Shadow Brute Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.",
+            "plain": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose blood debt during the end phase.",
+            "html": "<p>If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> has been put into your banished zone this turn, cards you own lose <strong>blood debt</strong> during the end phase.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "MON119",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Wisnu Tan",
+          "rarityMark": "token-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON119.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON119.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON119.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER032-CF",
+      "code": "HER032",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 32,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "road-to-nationals-2021",
+      "releaseDate": "2021-07-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER032-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Levia, Shadowborn Abomination",
+          "typeLine": "Shadow Brute Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.",
+            "plain": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose blood debt during the end phase.",
+            "html": "<p>If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> has been put into your banished zone this turn, cards you own lose <strong>blood debt</strong> during the end phase.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER032",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Wisnu Tan",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER032-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER032-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER032-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WIN011-CF",
+      "code": "WIN011",
+      "language": "en",
+      "set": "WIN",
+      "setNumber": 11,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-champion-cards",
+      "releaseDate": "2022-05-15",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WIN011-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Levia, Shadowborn Abomination",
+          "typeLine": "Shadow Brute Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": {
+            "markup": "Pro Tour Champion",
+            "plain": "Pro Tour Champion",
+            "html": "<p>Pro Tour Champion</p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "WIN011",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Wisnu Tan",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WIN011-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WIN011-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WIN011-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DTD103",
+      "code": "DTD103",
+      "language": "en",
+      "set": "DTD",
+      "setNumber": 103,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dusk-till-dawn",
+      "releaseDate": "2023-07-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DTD103",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Levia, Shadowborn Abomination",
+          "typeLine": "Shadow Brute Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose **blood debt** during the end phase.",
+            "plain": "If a card with 6 or more {p} has been put into your banished zone this turn, cards you own lose blood debt during the end phase.",
+            "html": "<p>If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> has been put into your banished zone this turn, cards you own lose <strong>blood debt</strong> during the end phase.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "DTD103",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Wisnu Tan",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DTD103.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DTD103.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DTD103.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER175-MV",
+      "code": "HER175",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 175,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "double-sided",
+      "product": "world-championship-paris-2026",
+      "releaseDate": "2026-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-17T15:15:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER175-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Levia, Shadowborn Abomination",
+          "typeLine": "Shadow Brute Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from blood debt during the end phase.",
+            "plain": "If a card with 6 or more {p} has been put into your banished zone this turn, you don't lose {h} from blood debt during the end phase.",
+            "html": "<p>If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> has been put into your banished zone this turn, you don't lose <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> from blood debt during the end phase.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER175",
+          "printedLanguageCode": "en",
+          "printedYear": "2026",
+          "artist": "Wisnu Tan",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER175-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER175-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER175-MV.webp"
+          }
+        },
+        {
+          "id": "HER175-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Levia, Shadowborn Abomination",
+          "typeLine": "Shadow Brute Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER175-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER175-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER175-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-MON119": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:29:59Z",
+    "rawSha256": "6daba02a91d4380a7c1c432d4198a786fb96f14a17fbf3d7b2f163f34b25770c",
+    "updatedAt": "2025-09-18T06:52:09.029919+12:00"
+  }
+}

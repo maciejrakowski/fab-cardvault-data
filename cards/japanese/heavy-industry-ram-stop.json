@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "heavy-industry-ram-stop",
+  "language": "ja",
+  "name": "重工業のラムストップ",
+  "cores": [
+    {
+      "position": 10,
+      "name": "重工業のラムストップ",
+      "typeLine": "機械技師・装備品 － 腕",
+      "classes": [
+        "機械技師"
+      ],
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "腕"
+      ],
+      "text": {
+        "markup": "これが防御したとき、あなたは{r}を支払ってよい。そうした場合、これはターン終了時まで＋１{d}を得る。{br}**焼き戻し**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後その{d}が０の場合、破壊する）",
+        "plain": "これが防御したとき、あなたは{r}を支払ってよい。そうした場合、これはターン終了時まで＋１{d}を得る。\n焼き戻し（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後その{d}が０の場合、破壊する）",
+        "html": "<p>これが防御したとき、あなたは<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を支払ってよい。そうした場合、これはターン終了時まで＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>を得る。</p>\n<p><strong>焼き戻し</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置き、その後その<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>が０の場合、破壊する）</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_AIO005-RF",
+      "code": "AIO005",
+      "language": "ja",
+      "set": "AIO",
+      "setNumber": 5,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-dash-io-ja",
+      "releaseDate": "2024-10-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_AIO005-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "重工業のラムストップ",
+          "typeLine": "機械技師・装備品 － 腕",
+          "traitLine": null,
+          "text": {
+            "markup": "これが防御したとき、あなたは{r}を支払ってよい。そうした場合、これはターン終了時まで＋１{d}を得る。{br}**焼き戻し**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後その{d}が０の場合、破壊する）",
+            "plain": "これが防御したとき、あなたは{r}を支払ってよい。そうした場合、これはターン終了時まで＋１{d}を得る。\n焼き戻し（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後その{d}が０の場合、破壊する）",
+            "html": "<p>これが防御したとき、あなたは<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を支払ってよい。そうした場合、これはターン終了時まで＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>を得る。</p>\n<p><strong>焼き戻し</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置き、その後その<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>が０の場合、破壊する）</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AIO005",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Simon Dominic",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AIO005-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AIO005-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AIO005-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

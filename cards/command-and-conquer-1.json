@@ -1,0 +1,739 @@
+{
+  "schemaVersion": 1,
+  "id": "command-and-conquer-1",
+  "name": "Command and Conquer",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Command and Conquer",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 2,
+      "power": 6,
+      "defense": 3,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "Defense reaction cards can't be played this chain link.{br}When this hits a hero, destroy all cards in their arsenal.",
+        "plain": "Defense reaction cards can't be played this chain link.\nWhen this hits a hero, destroy all cards in their arsenal."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ARC159",
+      "code": "ARC159-M",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 159,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC159",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Command and Conquer",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Defense reactions can't be played to Command and Conquers chain link.\nIf Command and Conquer hits a hero, destroy all cards in their arsenal.",
+            "plain": "Defense reactions can't be played to Command and Conquers chain link.\nIf Command and Conquer hits a hero, destroy all cards in their arsenal.",
+            "html": "<p>Defense reactions can't be played to Command and Conquers chain link.</p>\n<p>If Command and Conquer hits a hero, destroy all cards in their arsenal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC159-M",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Fajareka Setiawan",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC159.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC159.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC159.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC159-RF",
+      "code": "ARC159-M",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 159,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC159-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Command and Conquer",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Defense reactions can't be played to Command and Conquers chain link.\nIf Command and Conquer hits a hero, destroy all cards in their arsenal.",
+            "plain": "Defense reactions can't be played to Command and Conquers chain link.\nIf Command and Conquer hits a hero, destroy all cards in their arsenal.",
+            "html": "<p>Defense reactions can't be played to Command and Conquers chain link.</p>\n<p>If Command and Conquer hits a hero, destroy all cards in their arsenal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC159-M",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Fajareka Setiawan",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC159-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC159-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC159-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC159",
+      "code": "ARC159",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 159,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC159",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Command and Conquer",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Defense reaction cards can't be played to Command and Conquer's chain link.\nIf Command and Conquer hits a hero, destroy all cards in their arsenal.",
+            "plain": "Defense reaction cards can't be played to Command and Conquer's chain link.\nIf Command and Conquer hits a hero, destroy all cards in their arsenal.",
+            "html": "<p>Defense reaction cards can't be played to Command and Conquer's chain link.</p>\n<p>If Command and Conquer hits a hero, destroy all cards in their arsenal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC159",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Fajareka Setiawan",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC159.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC159.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC159.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC159-RF",
+      "code": "ARC159",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 159,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC159-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Command and Conquer",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Defense reaction cards can't be played to Command and Conquer's chain link.\nIf Command and Conquer hits a hero, destroy all cards in their arsenal.",
+            "plain": "Defense reaction cards can't be played to Command and Conquer's chain link.\nIf Command and Conquer hits a hero, destroy all cards in their arsenal.",
+            "html": "<p>Defense reaction cards can't be played to Command and Conquer's chain link.</p>\n<p>If Command and Conquer hits a hero, destroy all cards in their arsenal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC159",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Fajareka Setiawan",
+          "rarityMark": "majestic-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC159-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC159-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC159-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP360",
+      "code": "1HP360",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 360,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP360",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Command and Conquer",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Defense reaction cards can't be played to Command and Conquer's chain link.\nIf Command and Conquer hits a hero, destroy all cards in their arsenal.",
+            "plain": "Defense reaction cards can't be played to Command and Conquer's chain link.\nIf Command and Conquer hits a hero, destroy all cards in their arsenal.",
+            "html": "<p>Defense reaction cards can't be played to Command and Conquer's chain link.</p>\n<p>If Command and Conquer hits a hero, destroy all cards in their arsenal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP360",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Fajareka Setiawan",
+          "rarityMark": "majestic-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP360.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP360.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP360.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DYN000-CF",
+      "code": "DYN000",
+      "language": "en",
+      "set": "DYN",
+      "setNumber": 0,
+      "edition": null,
+      "rarity": "fabled",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dynasty",
+      "releaseDate": "2022-11-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "DYN000-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Command and Conquer",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Defense reaction cards can't be played this chain link.{br}When this hits a hero, destroy all cards in their arsenal.",
+            "plain": "Defense reaction cards can't be played this chain link.\nWhen this hits a hero, destroy all cards in their arsenal.",
+            "html": "<p>Defense reaction cards can't be played this chain link.</p>\n<p>When this hits a hero, destroy all cards in their arsenal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "DYN000",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Othon Nikolaidis",
+          "rarityMark": "fabled-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "fabled",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/DYN000-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/DYN000-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/DYN000-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB278-RF",
+      "code": "FAB278",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 278,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "deathmatch-arena-champion-prize-card",
+      "releaseDate": "2024-08-09",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB278-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Command and Conquer",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Defense reaction cards can't be played this chain link.{br}When this hits a hero, destroy all cards in their arsenal.",
+            "plain": "Defense reaction cards can't be played this chain link.\nWhen this hits a hero, destroy all cards in their arsenal.",
+            "html": "<p>Defense reaction cards can't be played this chain link.</p>\n<p>When this hits a hero, destroy all cards in their arsenal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB278",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Joseph Qiu",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB278-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB278-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB278-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HNT260",
+      "code": "HNT260",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 260,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT260",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Command and Conquer",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Defense reactions can't be played this chain link.{br}When this hits a hero, destroy all cards in their arsenal.",
+            "plain": "Defense reactions can't be played this chain link.\nWhen this hits a hero, destroy all cards in their arsenal.",
+            "html": "<p>Defense reactions can't be played this chain link.</p>\n<p>When this hits a hero, destroy all cards in their arsenal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT260",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Federico Musetti",
+          "rarityMark": "legendary-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT260.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT260.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT260.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HNT260-RF",
+      "code": "HNT260",
+      "language": "en",
+      "set": "HNT",
+      "setNumber": 260,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HNT260-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Command and Conquer",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Defense reactions can't be played this chain link.{br}When this hits a hero, destroy all cards in their arsenal.",
+            "plain": "Defense reactions can't be played this chain link.\nWhen this hits a hero, destroy all cards in their arsenal.",
+            "html": "<p>Defense reactions can't be played this chain link.</p>\n<p>When this hits a hero, destroy all cards in their arsenal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "HNT260",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Federico Musetti",
+          "rarityMark": "legendary-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HNT260-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HNT260-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HNT260-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ANQ009-RF",
+      "code": "ANQ009",
+      "language": "en",
+      "set": "ANQ",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "gold",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "compendium-of-rathe-antiquity-pack",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ANQ009-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Command and Conquer",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Defense reaction cards can't be played this chain link. {br}When this hits a hero, destroy all cards in their arsenal.",
+            "plain": "Defense reaction cards can't be played this chain link. \nWhen this hits a hero, destroy all cards in their arsenal.",
+            "html": "<p>Defense reaction cards can't be played this chain link. </p>\n<p>When this hits a hero, destroy all cards in their arsenal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ANQ009",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "gold-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ANQ009-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ANQ009-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ANQ009-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PEN319",
+      "code": "PEN319",
+      "language": "en",
+      "set": "PEN",
+      "setNumber": 319,
+      "edition": null,
+      "rarity": "legendary",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "compendium-of-rathe",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "PEN319",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Command and Conquer",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Defense reaction cards can't be played this chain link.{br}When this hits a hero, destroy all cards in their arsenal.",
+            "plain": "Defense reaction cards can't be played this chain link.\nWhen this hits a hero, destroy all cards in their arsenal.",
+            "html": "<p>Defense reaction cards can't be played this chain link.</p>\n<p>When this hits a hero, destroy all cards in their arsenal.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "PEN319",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Jessada Sutthi",
+          "rarityMark": "legendary-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/PEN319.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/PEN319.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/PEN319.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-ARC159": "unlimited",
+      "U-ARC159-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:12:15Z",
+    "rawSha256": "988cb88574bfab1aaf0a849d85374201c6a3fdeacfbc2a210993f2bba4348874",
+    "updatedAt": "2025-09-18T06:47:52.796381+12:00"
+  }
+}

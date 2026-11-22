@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "blade-runner-1",
+  "language": "es",
+  "name": "Corredor armado",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Corredor armado",
+      "typeLine": "Reacción de ataque de guerrero",
+      "classes": [
+        "Guerrero"
+      ],
+      "types": [
+        "Reacción de ataque"
+      ],
+      "text": {
+        "markup": "El ataque con arma objetivo de 1M gana **continuar**.{br}Tu próximo ataque con arma en este turno +3{p}. gana",
+        "plain": "El ataque con arma objetivo de 1M gana continuar.\nTu próximo ataque con arma en este turno +3{p}. gana",
+        "html": "<p>El ataque con arma objetivo de 1M gana <strong>continuar</strong>.</p>\n<p>Tu próximo ataque con arma en este turno +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. gana</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "ES_2HP362",
+      "code": "2HP362",
+      "language": "es",
+      "set": "2HP",
+      "setNumber": 362,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-2-black-label-es",
+      "releaseDate": "2023-02-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ES_2HP362",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "es",
+          "name": "Corredor armado",
+          "typeLine": "Reacción de ataque de guerrero",
+          "traitLine": null,
+          "text": {
+            "markup": "El ataque con arma objetivo de 1M gana **continuar**.{br}Tu próximo ataque con arma en este turno +3{p}. gana",
+            "plain": "El ataque con arma objetivo de 1M gana continuar.\nTu próximo ataque con arma en este turno +3{p}. gana",
+            "html": "<p>El ataque con arma objetivo de 1M gana <strong>continuar</strong>.</p>\n<p>Tu próximo ataque con arma en este turno +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>. gana</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "3",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "2HP362",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Federico Musetti",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "warrior",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ES_2HP362.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ES_2HP362.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ES_2HP362.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

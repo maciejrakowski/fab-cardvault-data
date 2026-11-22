@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "bait",
+  "language": "ja",
+  "name": "餌",
+  "cores": [
+    {
+      "position": 10,
+      "name": "餌",
+      "typeLine": "レンジャー・トークン － オーラ",
+      "classes": [
+        "レンジャー"
+      ],
+      "types": [
+        "トークン"
+      ],
+      "subtypes": [
+        "オーラ"
+      ],
+      "text": {
+        "markup": "あなたは自身がオーナーのカードをプレイしたり起動したりすることができない。 **アクション**--チェインリンクの解決時、これを破壊する：**攻撃** **ターン１攻撃リアクション**--０：これは＋１{p}と**続行**を得る。",
+        "plain": "あなたは自身がオーナーのカードをプレイしたり起動したりすることができない。 アクション--チェインリンクの解決時、これを破壊する：攻撃 ターン１攻撃リアクション--０：これは＋１{p}と続行を得る。",
+        "html": "<p>あなたは自身がオーナーのカードをプレイしたり起動したりすることができない。 <strong>アクション</strong>—チェインリンクの解決時、これを破壊する：<strong>攻撃</strong> <strong>ターン１攻撃リアクション</strong>—０：これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>と<strong>続行</strong>を得る。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_SUP259",
+      "code": "SUP259",
+      "language": "ja",
+      "set": "SUP",
+      "setNumber": 259,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "super-slam-ja",
+      "releaseDate": "2025-09-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_SUP259",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "餌",
+          "typeLine": "レンジャー・トークン － オーラ",
+          "traitLine": null,
+          "text": {
+            "markup": "あなたは自身がオーナーのカードをプレイしたり起動したりすることができない。 **アクション**--チェインリンクの解決時、これを破壊する：**攻撃** **ターン１攻撃リアクション**--０：これは＋１{p}と**続行**を得る。",
+            "plain": "あなたは自身がオーナーのカードをプレイしたり起動したりすることができない。 アクション--チェインリンクの解決時、これを破壊する：攻撃 ターン１攻撃リアクション--０：これは＋１{p}と続行を得る。",
+            "html": "<p>あなたは自身がオーナーのカードをプレイしたり起動したりすることができない。 <strong>アクション</strong>—チェインリンクの解決時、これを破壊する：<strong>攻撃</strong> <strong>ターン１攻撃リアクション</strong>—０：これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>と<strong>続行</strong>を得る。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "0",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SUP259",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Orson CaptainSass",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "token",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SUP259.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SUP259.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SUP259.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

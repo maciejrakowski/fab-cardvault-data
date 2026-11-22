@@ -1,0 +1,446 @@
+{
+  "schemaVersion": 1,
+  "id": "gamblers-gloves",
+  "name": "Gambler's Gloves",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Gambler's Gloves",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 0,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Equipment - Arms",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Arms"
+      ],
+      "text": {
+        "markup": "If an effect would resolve that includes rolling a 6 sided die, instead you may destroy this. If you do, the controller of the effect rerolls all 6 sided dice rolled this way.",
+        "plain": "If an effect would resolve that includes rolling a 6 sided die, instead you may destroy this. If you do, the controller of the effect rerolls all 6 sided dice rolled this way."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [
+    {
+      "judgement_type": "erratum",
+      "name": "[Errata #1] Gambler's Gloves - trigger to replacement",
+      "description": "This card's textbox was updated to convert a triggered effect into a replacement effect, so that it would modify the result before any other layer resolved.",
+      "date": "01-09-2020"
+    }
+  ],
+  "printings": [
+    {
+      "id": "CRU179",
+      "code": "CRU179",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 179,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU179",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Gambler's Gloves",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever a hero rolls a 6 sided die, you may destroy Gambler's Gloves. If you do, that hero rerolls the die. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "plain": "Whenever a hero rolls a 6 sided die, you may destroy Gambler's Gloves. If you do, that hero rerolls the die. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "html": "<p>Whenever a hero rolls a 6 sided die, you may destroy Gambler's Gloves. If you do, that hero rerolls the die. <em>(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU179",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Surya P",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU179.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU179.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU179.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU179-CF",
+      "code": "CRU179",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 179,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU179-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Gambler's Gloves",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever a hero rolls a 6 sided die, you may destroy Gambler's Gloves. If you do, that hero rerolls the die. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "plain": "Whenever a hero rolls a 6 sided die, you may destroy Gambler's Gloves. If you do, that hero rerolls the die. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "html": "<p>Whenever a hero rolls a 6 sided die, you may destroy Gambler's Gloves. If you do, that hero rerolls the die. <em>(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU179",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Surya P",
+          "rarityMark": "majestic-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU179-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU179-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU179-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU179",
+      "code": "CRU179",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 179,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU179",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Gambler's Gloves",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's Gloves. If you do, the controller of the effect rerolls all 6 sided dice rolled this way. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "plain": "If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's Gloves. If you do, the controller of the effect rerolls all 6 sided dice rolled this way. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "html": "<p>If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's Gloves. If you do, the controller of the effect rerolls all 6 sided dice rolled this way. <em>(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU179",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Surya P",
+          "rarityMark": "majestic-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU179.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU179.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU179.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU179-RF",
+      "code": "CRU179",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 179,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU179-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Gambler's Gloves",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's Gloves. If you do, the controller of the effect rerolls all 6 sided dice rolled this way. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "plain": "If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's Gloves. If you do, the controller of the effect rerolls all 6 sided dice rolled this way. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "html": "<p>If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's Gloves. If you do, the controller of the effect rerolls all 6 sided dice rolled this way. <em>(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU179",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Surya P",
+          "rarityMark": "majestic-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU179-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU179-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU179-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB074-GF",
+      "code": "FAB074",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 74,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "proquest-season-1-and-2",
+      "releaseDate": "2022-02-19",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB074-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Gambler's Gloves",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's Glove. If you do, the controller of the effect rerolls all 6 sided dice rolled this way. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "plain": "If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's Glove. If you do, the controller of the effect rerolls all 6 sided dice rolled this way. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "html": "<p>If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's Glove. If you do, the controller of the effect rerolls all 6 sided dice rolled this way. <em>(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB074",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Surya P",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB074-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB074-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB074-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP358",
+      "code": "1HP358",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 358,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP358",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Gambler's Gloves",
+          "typeLine": "Generic Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's. Gloves. If you do, the controller of the effect rerolls all 6 side dice rolled this way. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "plain": "If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's. Gloves. If you do, the controller of the effect rerolls all 6 side dice rolled this way. _(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)_",
+            "html": "<p>If an effect would resolve that includes rolling a 6 sided die, instead you may destroy Gambler's. Gloves. If you do, the controller of the effect rerolls all 6 side dice rolled this way. <em>(You decide whether to use Gambler's Gloves after seeing the result of the die roll.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP358",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Surya P",
+          "rarityMark": "majestic-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP358.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP358.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP358.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-CRU179": "unlimited",
+      "U-CRU179-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:32:49Z",
+    "rawSha256": "0ae7619458fd8c3e53446cd00dedafb65c98e3ec67dfa90d2dc0abd938665715",
+    "updatedAt": "2025-09-18T06:50:23.229319+12:00"
+  }
+}

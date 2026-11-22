@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "id": "viserai-rune-blood",
+  "name": "Viserai, Rune Blood",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Viserai, Rune Blood",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 40,
+      "intellect": 4,
+      "typeLine": "Runeblade Hero",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Whenever you play a Runeblade card, if you've played another non-attack action card this turn, create a Runechant token.",
+        "plain": "Whenever you play a Runeblade card, if you've played another non-attack action card this turn, create a Runechant token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HER011-CF",
+      "code": "HER011-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 11,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER011-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Rune Blood",
+          "typeLine": "Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.",
+            "plain": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.",
+            "html": "<p>Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER011-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Steve Argyle",
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER011-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER011-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER011-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC075",
+      "code": "ARC075-T",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 75,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC075",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Rune Blood",
+          "typeLine": "Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "ARC075-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Steve Argyle",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC075.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC075.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC075.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER019-RF",
+      "code": "HER019-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 19,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "buy-a-box-arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER019-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Rune Blood",
+          "typeLine": "Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "HER019-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Steve Argyle",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER019-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER019-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER019-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU138",
+      "code": "CRU138",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 138,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU138",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Rune Blood",
+          "typeLine": "Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "CRU138",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Steve Argyle",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU138.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU138.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU138.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC075",
+      "code": "ARC075",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 75,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC075",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Rune Blood",
+          "typeLine": "Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "ARC075",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Steve Argyle",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC075.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC075.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC075.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU138",
+      "code": "CRU138",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 138,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU138",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Rune Blood",
+          "typeLine": "Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "CRU138",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Steve Argyle",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU138.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU138.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU138.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP258",
+      "code": "1HP258",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 258,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP258",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Rune Blood",
+          "typeLine": "Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "1HP258",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Steve Argyle",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "white",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP258.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP258.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP258.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WIN007-CF",
+      "code": "WIN007",
+      "language": "en",
+      "set": "WIN",
+      "setNumber": 7,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "pro-tour-champion-cards",
+      "releaseDate": "2022-05-15",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WIN007-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Rune Blood",
+          "typeLine": "Runeblade Hero",
+          "traitLine": null,
+          "text": null,
+          "flavorText": {
+            "markup": "Pro Tour Champion",
+            "plain": "Pro Tour Champion",
+            "html": "<p>Pro Tour Champion</p>\n"
+          },
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "WIN007",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Steve Argyle",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WIN007-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WIN007-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WIN007-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AVS001",
+      "code": "AVS001",
+      "language": "en",
+      "set": "AVS",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "majestic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "amory-deck-legends-viserai-rune-blood",
+      "releaseDate": "2025-07-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AVS001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Viserai, Rune Blood",
+          "typeLine": "Runeblade Hero",
+          "traitLine": null,
+          "text": {
+            "markup": "Whenever you play a Runeblade card, if you've played another non-attack action card this turn, create a Runechant token.",
+            "plain": "Whenever you play a Runeblade card, if you've played another non-attack action card this turn, create a Runechant token.",
+            "html": "<p>Whenever you play a Runeblade card, if you've played another non-attack action card this turn, create a Runechant token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "40",
+            "intellect": "4"
+          },
+          "printedCode": "AVS001",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Steve Argyle",
+          "rarityMark": "majestic-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "shadow",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AVS001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AVS001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AVS001.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-ARC075": "unlimited",
+      "U-CRU138": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:39:14Z",
+    "rawSha256": "c0607eeab206059dfc5bc95db7d1a57bae00d581687feb4379d53ce395142378",
+    "updatedAt": "2025-09-18T06:58:51.334612+12:00"
+  }
+}

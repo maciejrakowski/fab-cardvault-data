@@ -1,0 +1,532 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "6dc80e7e-0f56-4cda-97ea-791d35991751",
+      "cores": [
+        {
+          "id": "584928cc-4d40-4658-98d1-92bfe2c600f2",
+          "core_classes": [
+            {
+              "id": 5,
+              "name": "Guardian",
+              "name_en": "Guardian",
+              "name_fr": "Gardien",
+              "name_de": "Wächter",
+              "name_it": "Guardiano",
+              "name_es": "Guardián",
+              "name_ja": "守護者",
+              "is_published": true
+            }
+          ],
+          "core_talents": [
+            {
+              "id": 2,
+              "name": "Earth",
+              "name_en": "Earth",
+              "name_fr": "Terre",
+              "name_de": "Erde",
+              "name_it": "Terra",
+              "name_es": "Tierra",
+              "name_ja": "大地",
+              "is_published": true
+            },
+            {
+              "id": 4,
+              "name": "Ice",
+              "name_en": "Ice",
+              "name_fr": "Glace",
+              "name_de": "Eis",
+              "name_it": "Ghiaccio",
+              "name_es": "Hielo",
+              "name_ja": "Ice",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 6,
+              "name": "Equipment",
+              "name_en": "Equipment",
+              "name_fr": "Équipement",
+              "name_de": "Ausrüstung",
+              "name_it": "Equipaggiamento",
+              "name_es": "Equipo",
+              "name_ja": "装備品",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 16,
+              "name": "Arms",
+              "name_en": "Arms",
+              "name_fr": "Bras",
+              "name_de": "Arme",
+              "name_it": "Braccia",
+              "name_es": "Brazos",
+              "name_ja": "腕",
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-09-18T06:50:26.285631+12:00",
+          "updated_at": "2025-09-18T06:50:26.307354+12:00",
+          "name": "Gauntlets of the Boreal Domain",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Once per Turn Action** -- {r}{r}: If an Earth card is pitched this way, your attacks named Mangle get +2{p} this turn. If an Ice card is pitched this way, your attacks named Mangle get **dominate** this turn. **Go again**{br}**Temper**",
+          "typebox": "Earth Ice Guardian Equipment - Arms",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "6dc80e7e-0f56-4cda-97ea-791d35991751"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "dbf7cddd-6e11-431c-8443-5fcd4090f79c",
+          "faces": [
+            {
+              "id": "6e4da99d-89bb-4986-92fe-0daae5126351",
+              "created_at": "2025-09-18T06:50:26.329937+12:00",
+              "updated_at": "2025-09-18T06:50:26.329956+12:00",
+              "face_id": "AJV006-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "legendary",
+              "printed_rarity_symbol": "legendary-dot",
+              "printed_code": "AJV006",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "Gauntlets of the Boreal Domain",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Action** -- {r}{r}: If an Earth card is pitched this way, your attacks named Mangle get +2{p} this turn. If an Ice card is pitched this way, your attacks named Mangle get **dominate** this turn. **Go again**{br}**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Earth Ice Guardian Equipment - Arms",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "584928cc-4d40-4658-98d1-92bfe2c600f2",
+              "card_print": "dbf7cddd-6e11-431c-8443-5fcd4090f79c",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Gauntlets of the Boreal Domain</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Earth Ice Guardian Equipment - Arms</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If an Earth card is pitched this way, your attacks named Mangle get +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> this turn. If an Ice card is pitched this way, your attacks named Mangle get <strong>dominate</strong> this turn. <strong>Go again</strong></p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AJV006-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AJV006-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AJV006-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "0867ed9c-6d5c-442d-b553-629bd0de3d5f",
+            "product_group": {
+              "id": "ef93f432-d008-42b3-a8b8-264576330196",
+              "created_at": "2025-09-18T06:45:27.427071+12:00",
+              "updated_at": "2025-09-18T06:45:27.427097+12:00",
+              "group_name": "Armory Deck Origins - Jarl Vetreiði",
+              "product_type": "precon",
+              "release_date": "2024-11-29",
+              "slug": "armory-deck-origins-jarl-vetreii"
+            },
+            "created_at": "2025-09-18T06:45:27.429593+12:00",
+            "updated_at": "2025-09-18T06:45:27.429605+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "en",
+            "product_name": "Armory Deck Origins - Jarl Vetreiði",
+            "product_type": "booster",
+            "release_date": "2024-11-29",
+            "slug": "armory-deck-origins-jarl-vetreii",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "c2ad9d96-9f7d-470b-addd-f60e86779752",
+            "created_at": "2025-09-18T06:45:12.665379+12:00",
+            "updated_at": "2025-09-18T06:45:12.665399+12:00",
+            "set_code": "AJV",
+            "set_name": "Armory Deck Origins - Jarl Vetreiði",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:26.319832+12:00",
+          "updated_at": "2025-09-18T06:50:26.319862+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "AJV006-RF",
+          "set_number": 6,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "legendary",
+          "card": "6dc80e7e-0f56-4cda-97ea-791d35991751"
+        },
+        {
+          "id": "e38b2003-4263-4283-af92-0e7aa8c81033",
+          "faces": [
+            {
+              "id": "68e98671-1752-4c8b-84c6-0f3e41989b23",
+              "created_at": "2025-09-18T06:50:26.351386+12:00",
+              "updated_at": "2025-09-18T06:50:26.351407+12:00",
+              "face_id": "FR_AJV006-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "legendary",
+              "printed_rarity_symbol": "legendary-dot",
+              "printed_code": "AJV006",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "Gantelets du domaine boréal",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Action une fois par tour** -- {r}{r}\u00A0: si une carte Terre est pitchée de cette manière, vos attaques nommées Broiement gagnent +2{p} ce tour-ci. Si une carte Glace est pitchée de cette manière, vos attaques nommées Broiement gagnent **dominer** ce tour-ci. **Encore une fois** **Tempérer** _(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1{d} sur elle, puis détruisez-la si elle a 0{d}.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Terre Glace Gardien Équipement - Bras",
+              "printed_year": "2024",
+              "printed_language_code": "FR",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "584928cc-4d40-4658-98d1-92bfe2c600f2",
+              "card_print": "e38b2003-4263-4283-af92-0e7aa8c81033",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Gantelets du domaine boréal</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Terre Glace Gardien Équipement - Bras</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Action une fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>\u00A0: si une carte Terre est pitchée de cette manière, vos attaques nommées Broiement gagnent +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> ce tour-ci. Si une carte Glace est pitchée de cette manière, vos attaques nommées Broiement gagnent <strong>dominer</strong> ce tour-ci. <strong>Encore une fois</strong> <strong>Tempérer</strong> <em>(Quand la chaîne de combat se termine, si cette carte a défendu, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> sur elle, puis détruisez-la si elle a 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_AJV006-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_AJV006-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_AJV006-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "401e55d5-7ae6-412b-8dbf-ec1ddf11c356",
+            "product_group": {
+              "id": "ef93f432-d008-42b3-a8b8-264576330196",
+              "created_at": "2025-09-18T06:45:27.427071+12:00",
+              "updated_at": "2025-09-18T06:45:27.427097+12:00",
+              "group_name": "Armory Deck Origins - Jarl Vetreiði",
+              "product_type": "precon",
+              "release_date": "2024-11-29",
+              "slug": "armory-deck-origins-jarl-vetreii"
+            },
+            "created_at": "2025-09-18T06:45:27.444265+12:00",
+            "updated_at": "2025-09-18T06:45:27.444277+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "fr",
+            "product_name": "Armory Deck Origins - Jarl Vetreiði [FR]",
+            "product_type": "booster",
+            "release_date": "2024-11-29",
+            "slug": "armory-deck-origins-jarl-vetreii-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "c2ad9d96-9f7d-470b-addd-f60e86779752",
+            "created_at": "2025-09-18T06:45:12.665379+12:00",
+            "updated_at": "2025-09-18T06:45:12.665399+12:00",
+            "set_code": "AJV",
+            "set_name": "Armory Deck Origins - Jarl Vetreiði",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:26.342357+12:00",
+          "updated_at": "2025-09-18T06:50:26.342376+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_AJV006-RF",
+          "set_number": 6,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "legendary",
+          "card": "6dc80e7e-0f56-4cda-97ea-791d35991751"
+        },
+        {
+          "id": "8ef7e9a5-5a03-4a79-89e6-e804259f1f32",
+          "faces": [
+            {
+              "id": "815647e8-15b0-4228-9777-2fda7d393051",
+              "created_at": "2025-09-18T06:50:26.373037+12:00",
+              "updated_at": "2025-09-18T06:50:26.373054+12:00",
+              "face_id": "JA_AJV006-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "legendary",
+              "printed_rarity_symbol": "legendary-dot",
+              "printed_code": "AJV006",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "北方領域の籠手",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**ターン１アクション**--{r}{r}：これにより大地・カードをピッチした場合、このターン、あなたの「破砕撃」の攻撃は＋２{p}を得る。これにより氷・カードをピッチした場合、このターン、あなたの「破砕撃」の攻撃は**圧倒**を得る。**続行** **焼き戻し**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置き、その後これの{d}が０の場合、破壊する）",
+              "printed_flavor_text": "",
+              "printed_typebox": "大地・氷・守護者・装備品 － 腕",
+              "printed_year": "2024",
+              "printed_language_code": "JP",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "584928cc-4d40-4658-98d1-92bfe2c600f2",
+              "card_print": "8ef7e9a5-5a03-4a79-89e6-e804259f1f32",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>北方領域の籠手</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>大地・氷・守護者・装備品 － 腕</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>ターン１アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：これにより大地・カードをピッチした場合、このターン、あなたの「破砕撃」の攻撃は＋２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。これにより氷・カードをピッチした場合、このターン、あなたの「破砕撃」の攻撃は<strong>圧倒</strong>を得る。<strong>続行</strong> <strong>焼き戻し</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置き、その後これの<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>が０の場合、破壊する）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_AJV006-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_AJV006-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_AJV006-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "365f32fe-e29f-4afa-bba6-635e7792f5f5",
+            "product_group": {
+              "id": "ef93f432-d008-42b3-a8b8-264576330196",
+              "created_at": "2025-09-18T06:45:27.427071+12:00",
+              "updated_at": "2025-09-18T06:45:27.427097+12:00",
+              "group_name": "Armory Deck Origins - Jarl Vetreiði",
+              "product_type": "precon",
+              "release_date": "2024-11-29",
+              "slug": "armory-deck-origins-jarl-vetreii"
+            },
+            "created_at": "2025-09-18T06:45:27.460497+12:00",
+            "updated_at": "2025-09-18T06:45:27.460513+12:00",
+            "printed_date": "2024-08-01",
+            "printed_language": "ja",
+            "product_name": "Armory Deck Origins - Jarl Vetreiði [JA]",
+            "product_type": "booster",
+            "release_date": "2024-11-29",
+            "slug": "armory-deck-origins-jarl-vetreii-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "c2ad9d96-9f7d-470b-addd-f60e86779752",
+            "created_at": "2025-09-18T06:45:12.665379+12:00",
+            "updated_at": "2025-09-18T06:45:12.665399+12:00",
+            "set_code": "AJV",
+            "set_name": "Armory Deck Origins - Jarl Vetreiði",
+            "set_type": "classic_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:26.365057+12:00",
+          "updated_at": "2025-09-18T06:50:26.365075+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_AJV006-RF",
+          "set_number": 6,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "legendary",
+          "card": "6dc80e7e-0f56-4cda-97ea-791d35991751"
+        },
+        {
+          "id": "10d5fbeb-7383-4237-97ba-77be4d470275",
+          "faces": [
+            {
+              "id": "efa6d094-ff8a-49bd-b82f-2841dfa2ed6c",
+              "created_at": "2025-09-18T06:50:26.391306+12:00",
+              "updated_at": "2025-09-18T06:50:26.391325+12:00",
+              "face_id": "FAB289-GF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "gold-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "gold",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB289",
+              "printed_artist": "Federico Musetti",
+              "printed_name": "Gauntlets of the Boreal Domain",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Once per Turn Action** -- {r}{r}: If an Earth card is pitched this way, your attacks named Mangle get +2{p} this turn. If an Ice card is pitched this way, your attacks named Mangle get **dominate** this turn. **Go again**{br}**Temper** _(When the combat chain closes, if this defended, put a -1{d} counter on it, then if it has 0{d}, destroy it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Earth Ice Guardian Equipment - Arms",
+              "printed_year": "2024",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "584928cc-4d40-4658-98d1-92bfe2c600f2",
+              "card_print": "10d5fbeb-7383-4237-97ba-77be4d470275",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Gauntlets of the Boreal Domain</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Earth Ice Guardian Equipment - Arms</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: If an Earth card is pitched this way, your attacks named Mangle get +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> this turn. If an Ice card is pitched this way, your attacks named Mangle get <strong>dominate</strong> this turn. <strong>Go again</strong></p>\n<p><strong>Temper</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it, then if it has 0<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>, destroy it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB289-GF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB289-GF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB289-GF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "e136d9b2-0330-4ca3-85bf-8fb2f2f7b5d9",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:44.347335+12:00",
+            "updated_at": "2025-09-18T06:46:44.347347+12:00",
+            "printed_date": "2024-12-01",
+            "printed_language": "en",
+            "product_name": "Premier Organized Play - The Hunted",
+            "product_type": "booster",
+            "release_date": "2025-01-31",
+            "slug": "premier-organized-play-the-hunted",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:50:26.384675+12:00",
+          "updated_at": "2025-09-18T06:50:26.384690+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FAB289-GF",
+          "set_number": 289,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "6dc80e7e-0f56-4cda-97ea-791d35991751"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        }
+      },
+      "created_at": "2025-09-18T06:50:26.280458+12:00",
+      "updated_at": "2025-09-18T06:50:26.282182+12:00",
+      "card_id": "gauntlets-of-the-boreal-domain",
+      "card_type": "regular",
+      "object_type": "arena-card"
+    }
+  ]
+}

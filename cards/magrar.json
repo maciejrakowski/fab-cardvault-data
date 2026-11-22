@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "magrar",
+  "name": "Magrar",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Magrar",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Merchant Equipment - Off-Hand",
+      "traitLine": null,
+      "classes": [
+        "Merchant"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Off-Hand"
+      ],
+      "text": {
+        "markup": "**Genis Specialization**{br}**Action** -- Destroy this: Create a Zen State and an Inertia token.",
+        "plain": "Genis Specialization\nAction -- Destroy this: Create a Zen State and an Inertia token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "JDG038-CF",
+      "code": "JDG038",
+      "language": "en",
+      "set": "JDG",
+      "setNumber": 38,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "judge-pack-season-6",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JDG038-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Magrar",
+          "typeLine": "Merchant Equipment - Off-Hand",
+          "traitLine": null,
+          "text": {
+            "markup": "**Genis Specialization** _(You may only have this in your deck if your hero is Genis.)_{br}**Action** -- Destroy this: Create a Zen State and an Inertia token.",
+            "plain": "Genis Specialization _(You may only have this in your deck if your hero is Genis.)_\nAction -- Destroy this: Create a Zen State and an Inertia token.",
+            "html": "<p><strong>Genis Specialization</strong> <em>(You may only have this in your deck if your hero is Genis.)</em></p>\n<p><strong>Action</strong> — Destroy this: Create a Zen State and an Inertia token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "JDG038",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Petrinda Wiyugo",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG038-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG038-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG038-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Genis Specialization"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:46:10Z",
+    "rawSha256": "83f3f9b2aeccc57e8e08d77a2f3de75c496884e66ddb1af5e8a2bbd27d4c64c5",
+    "updatedAt": "2025-09-18T06:52:26.237106+12:00"
+  }
+}

@@ -1,0 +1,557 @@
+{
+  "schemaVersion": 1,
+  "id": "reduce-to-runechant-1",
+  "name": "Reduce to Runechant",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Reduce to Runechant",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 1,
+      "power": null,
+      "defense": 4,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Runeblade Defense Reaction",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [],
+      "types": [
+        "Defense Reaction"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "This costs {r} less to play for each Runechant you control.{br}Create a Runechant token.",
+        "plain": "This costs {r} less to play for each Runechant you control.\nCreate a Runechant token."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS015",
+      "code": "LGS015-P",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 15,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-2",
+      "releaseDate": "2020-02-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS015",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reduce to Runechant",
+          "typeLine": "Runeblade Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token.",
+            "plain": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token.",
+            "html": "<p>Reduce to Runechant costs <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> less to play for each Runechant you control.</p>\n<p>Create a Runechant token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS015-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Yen Lee",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS015.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS015.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS015.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC088",
+      "code": "ARC088-R",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 88,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC088",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reduce to Runechant",
+          "typeLine": "Runeblade Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Reduce to Runechant costs <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> less to play for each Runechant you control.</p>\n<p>Create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC088-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Yen Lee",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC088.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC088.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC088.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ARC088-RF",
+      "code": "ARC088-R",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 88,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising",
+      "releaseDate": "2020-03-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ARC088-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reduce to Runechant",
+          "typeLine": "Runeblade Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token.",
+            "plain": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token.",
+            "html": "<p>Reduce to Runechant costs <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> less to play for each Runechant you control.</p>\n<p>Create a Runechant token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC088-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Yen Lee",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ARC088-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ARC088-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ARC088-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC088",
+      "code": "ARC088",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 88,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC088",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reduce to Runechant",
+          "typeLine": "Runeblade Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Reduce to Runechant costs <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> less to play for each Runechant you control.</p>\n<p>Create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC088",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Yen Lee",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC088.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC088.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC088.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ARC088-RF",
+      "code": "ARC088",
+      "language": "en",
+      "set": "ARC",
+      "setNumber": 88,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "arcane-rising-unlimited",
+      "releaseDate": "2020-11-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ARC088-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reduce to Runechant",
+          "typeLine": "Runeblade Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Reduce to Runechant costs <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> less to play for each Runechant you control.</p>\n<p>Create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARC088",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Yen Lee",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ARC088-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ARC088-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ARC088-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS038-RF",
+      "code": "LGS038",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 38,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-3",
+      "releaseDate": "2020-12-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS038-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reduce to Runechant",
+          "typeLine": "Runeblade Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Reduce to Runechant costs <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> less to play for each Runechant you control.</p>\n<p>Create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS038",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Yen Lee",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS038-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS038-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS038-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP273",
+      "code": "1HP273",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 273,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP273",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reduce to Runechant",
+          "typeLine": "Runeblade Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "plain": "Reduce to Runechant costs {r} less to play for each Runechant you control.\nCreate a Runechant token. _(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_",
+            "html": "<p>Reduce to Runechant costs <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> less to play for each Runechant you control.</p>\n<p>Create a Runechant token. <em>(It's an aura with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP273",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Yen Lee",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP273.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP273.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP273.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SVI018",
+      "code": "SVI018",
+      "language": "en",
+      "set": "SVI",
+      "setNumber": 18,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-viserai",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SVI018",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Reduce to Runechant",
+          "typeLine": "Runeblade Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "This costs {r} less to play for each Runechant you control.{br}Create a Runechant token.",
+            "plain": "This costs {r} less to play for each Runechant you control.\nCreate a Runechant token.",
+            "html": "<p>This costs <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> less to play for each Runechant you control.</p>\n<p>Create a Runechant token.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "1",
+            "power": null,
+            "defense": "4",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SVI018",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Yen Lee",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SVI018.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SVI018.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SVI018.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-ARC088": "unlimited",
+      "U-ARC088-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:37:22Z",
+    "rawSha256": "2163bade6cac06700653bd5e6256e2872bd278f9a192225ef8708ab7c007b39b",
+    "updatedAt": "2025-09-18T06:54:40.009570+12:00"
+  }
+}

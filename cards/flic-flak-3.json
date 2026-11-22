@@ -1,0 +1,653 @@
+{
+  "schemaVersion": 1,
+  "id": "flic-flak-3",
+  "name": "Flic Flak",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Flic Flak",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Ninja Defense Reaction",
+      "traitLine": null,
+      "classes": [
+        "Ninja"
+      ],
+      "talents": [],
+      "types": [
+        "Defense Reaction"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "If the next card you defend with this turn is a card with **combo**, it gets +2{d}.",
+        "plain": "If the next card you defend with this turn is a card with combo, it gets +2{d}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "KSU025",
+      "code": "KSU025-R",
+      "language": "en",
+      "set": "KSU",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "katsu-the-wanderer-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "KSU025",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flic Flak",
+          "typeLine": "Ninja Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "If the next card you defend with this turn is a card with **combo**, it gains +2{d}.",
+            "plain": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "html": "<p>If the next card you defend with this turn is a card with <strong>combo</strong>, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "plain": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "html": "<p><em>Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "KSU025-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Daniel Jiménez",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/KSU025.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/KSU025.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/KSU025.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR094",
+      "code": "WTR094-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 94,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR094",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flic Flak",
+          "typeLine": "Ninja Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "plain": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "html": "<p>If the next card you defend with this turn is a card with combo, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "plain": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "html": "<p><em>Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR094-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Daniel Jiménez",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR094.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR094.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR094.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR094-RF",
+      "code": "WTR094-R",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 94,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR094-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flic Flak",
+          "typeLine": "Ninja Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "plain": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "html": "<p>If the next card you defend with this turn is a card with combo, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "plain": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "html": "<p><em>Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR094-R",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Daniel Jiménez",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR094-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR094-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR094-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR094",
+      "code": "WTR094",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 94,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR094",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flic Flak",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "plain": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "html": "<p>If the next card you defend with this turn is a card with combo, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "plain": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "html": "<p><em>Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR094",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR094.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR094.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR094.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR094-RF",
+      "code": "WTR094",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 94,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR094-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flic Flak",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "plain": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "html": "<p>If the next card you defend with this turn is a card with combo, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "plain": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "html": "<p><em>Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR094",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR094-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR094-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR094-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR094",
+      "code": "WTR094",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 94,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR094",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flic Flak",
+          "typeLine": "Ninja Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "plain": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "html": "<p>If the next card you defend with this turn is a card with combo, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "plain": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "html": "<p><em>Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR094",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR094.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR094.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR094.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR094-RF",
+      "code": "WTR094",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 94,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR094-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flic Flak",
+          "typeLine": "Ninja Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "plain": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "html": "<p>If the next card you defend with this turn is a card with combo, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "plain": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "html": "<p><em>Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR094",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR094-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR094-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR094-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP115",
+      "code": "1HP115",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 115,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP115",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flic Flak",
+          "typeLine": "Ninja Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "If the next card you defend with this turn is a card with **combo**, it gains +2{d}.",
+            "plain": "If the next card you defend with this turn is a card with combo, it gains +2{d}.",
+            "html": "<p>If the next card you defend with this turn is a card with <strong>combo</strong>, it gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "plain": "_Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush._",
+            "html": "<p><em>Silver flashes under the pale moonlight, blades slicing through air as Ira twisted and turned, narrowly avoiding their ambush.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP115",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP115.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP115.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP115.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TNP024-MV",
+      "code": "TNP024",
+      "language": "en",
+      "set": "TNP",
+      "setNumber": 24,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "tournament-pack",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TNP024-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Flic Flak",
+          "typeLine": "Ninja Defense Reaction",
+          "traitLine": null,
+          "text": {
+            "markup": "If the next card you defend with this turn is a card with **combo**, it gets +2{d}.",
+            "plain": "If the next card you defend with this turn is a card with combo, it gets +2{d}.",
+            "html": "<p>If the next card you defend with this turn is a card with <strong>combo</strong>, it gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TNP024",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daniel Jiménez",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "ninja",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TNP024-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TNP024-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP024-MV.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "combo"
+    ],
+    "editions": {
+      "R-WTR094": "unlimited-revised",
+      "R-WTR094-RF": "unlimited-revised",
+      "U-WTR094": "unlimited",
+      "U-WTR094-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:57:14Z",
+    "rawSha256": "326a2d4196f4467cc54b3c06efa00f1dc97a9c916886a452000c6c05bdd17aca",
+    "updatedAt": "2025-09-18T06:50:04.703906+12:00"
+  }
+}

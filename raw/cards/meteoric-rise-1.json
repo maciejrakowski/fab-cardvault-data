@@ -1,0 +1,812 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "cb4c6518-6f8c-4d24-84e6-c12292e28dd6",
+      "cores": [
+        {
+          "id": "3b0c06d7-f58d-4a8a-b30f-aba49dbae2bb",
+          "core_classes": [],
+          "core_talents": [
+            {
+              "id": 6,
+              "name": "Lightning",
+              "name_en": "Lightning",
+              "name_fr": "Foudre",
+              "name_de": "Blitz",
+              "name_it": "Fulmine",
+              "name_es": "Relámpago",
+              "name_ja": "稲妻",
+              "is_published": true
+            }
+          ],
+          "core_types": [
+            {
+              "id": 1,
+              "name": "Action",
+              "name_en": "Action",
+              "name_fr": "Action",
+              "name_de": "Aktion",
+              "name_it": "Azione",
+              "name_es": "Acción",
+              "name_ja": "アクション",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 7,
+              "name": "Attack",
+              "name_en": "Attack",
+              "name_fr": "Attaque",
+              "name_de": "Angriff",
+              "name_it": "Attacco",
+              "name_es": "Ataque",
+              "name_ja": "攻撃",
+              "is_published": true,
+              "functional": true
+            }
+          ],
+          "created_at": "2026-03-03T15:44:04.694062+13:00",
+          "updated_at": "2026-03-03T15:44:04.694070+13:00",
+          "name": "Meteoric Rise",
+          "layout_position": 10,
+          "pitch": "1",
+          "pitch_chi": "1",
+          "color": "red",
+          "cost": "1",
+          "power": "5",
+          "defense": "2",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Twice per Turn Instant** -- {r}: This gets +1{p}.{br}When this hits, create a Lightning Flow token.",
+          "typebox": "Lightning Action - Attack",
+          "traitbox": "",
+          "pitch_value": 1,
+          "pitch_chi_value": 1,
+          "cost_value": 1,
+          "power_value": 5,
+          "defense_value": 2,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "cb4c6518-6f8c-4d24-84e6-c12292e28dd6"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "fd7c8103-2faf-43cf-8c62-f30011299eb2",
+          "faces": [
+            {
+              "id": "a727a3ce-592a-49c2-beb9-8d58359284d5",
+              "created_at": "2026-03-03T15:44:58.095965+13:00",
+              "updated_at": "2026-03-03T15:44:58.095973+13:00",
+              "face_id": "FR_OMN153",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "sub-elemental",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN153",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "Ascension météorique",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané deux fois par tour** -- {r} : carte gagne +1{p}.{br}Quand cette carte touche, créez un jeton Flux de foudre.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "3b0c06d7-f58d-4a8a-b30f-aba49dbae2bb",
+              "card_print": "fd7c8103-2faf-43cf-8c62-f30011299eb2",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Ascension météorique</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané deux fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> : carte gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>Quand cette carte touche, créez un jeton Flux de foudre.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN153.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN153.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN153.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:58.089175+13:00",
+          "updated_at": "2026-03-04T12:00:38.714424+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "FR_OMN153",
+          "set_number": 153,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "cb4c6518-6f8c-4d24-84e6-c12292e28dd6"
+        },
+        {
+          "id": "71719feb-e9ba-44ad-b581-38276138a178",
+          "faces": [
+            {
+              "id": "19a9fe95-c523-4178-a35a-31aa558495d3",
+              "created_at": "2026-03-03T15:44:58.130700+13:00",
+              "updated_at": "2026-03-03T15:44:58.130708+13:00",
+              "face_id": "FR_OMN153-RF",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "sub-elemental",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN153",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "Ascension météorique",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané deux fois par tour** -- {r} : carte gagne +1{p}.{br}Quand cette carte touche, créez un jeton Flux de foudre.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Foudre Action - Attaque",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "3b0c06d7-f58d-4a8a-b30f-aba49dbae2bb",
+              "card_print": "71719feb-e9ba-44ad-b581-38276138a178",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Ascension météorique</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Foudre Action - Attaque</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané deux fois par tour</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'> : carte gagne +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>Quand cette carte touche, créez un jeton Flux de foudre.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_OMN153-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_OMN153-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_OMN153-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7c9bfed4-9a9d-40f3-ae91-10ef10b25877",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.130196+13:00",
+            "updated_at": "2026-02-26T15:27:09.428656+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "fr",
+            "product_name": "Omens of the Third Age [FR]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:58.123855+13:00",
+          "updated_at": "2026-03-04T12:00:38.722228+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "FR_OMN153-RF",
+          "set_number": 153,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "cb4c6518-6f8c-4d24-84e6-c12292e28dd6"
+        },
+        {
+          "id": "822d5db1-dde3-42be-b825-348d96aa6f59",
+          "faces": [
+            {
+              "id": "e0a233a3-2829-4bba-92cf-407c1a6c232f",
+              "created_at": "2026-03-03T23:52:45.613888+13:00",
+              "updated_at": "2026-03-03T23:52:45.613896+13:00",
+              "face_id": "FAB472-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "elemental",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "FAB472",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "Meteoric Rise",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Twice per Turn Instant** -- {r}: This gets +1{p}.{br}When this hits, create a Lightning Flow token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "3b0c06d7-f58d-4a8a-b30f-aba49dbae2bb",
+              "card_print": "822d5db1-dde3-42be-b825-348d96aa6f59",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Meteoric Rise</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Twice per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>When this hits, create a Lightning Flow token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB472-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB472-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB472-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "34f70854-0f6b-4093-a9ec-f68cedea690b",
+            "product_group": null,
+            "created_at": "2026-03-03T23:49:15.246168+13:00",
+            "updated_at": "2026-06-12T09:35:21.913204+12:00",
+            "printed_date": "2025-12-01",
+            "printed_language": "en",
+            "product_name": "Calling - Omens of the Third Age",
+            "product_type": "promo",
+            "release_date": "2026-06-05",
+            "slug": "calling-omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "19041c65-cf7e-4d6c-88a9-d5eccfe57b4b",
+            "created_at": "2025-09-18T06:45:12.735496+12:00",
+            "updated_at": "2025-09-18T06:45:12.735506+12:00",
+            "set_code": "FAB",
+            "set_name": "Flesh and Blood Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T23:52:45.606020+13:00",
+          "updated_at": "2026-03-04T12:00:44.780852+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "FAB472-RF",
+          "set_number": 472,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "cb4c6518-6f8c-4d24-84e6-c12292e28dd6"
+        },
+        {
+          "id": "90b38230-23ad-4b33-924c-ce5104fae335",
+          "faces": [
+            {
+              "id": "7926240e-82b6-46b5-9c95-86e5df81557b",
+              "created_at": "2026-03-03T15:44:58.164074+13:00",
+              "updated_at": "2026-03-03T15:44:58.164081+13:00",
+              "face_id": "JA_OMN153",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "sub-elemental",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN153",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "隕石上昇",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**ターン２インスタント**--{r}：これは＋１{p}を得る。{br}これがヒットしたとき、「稲妻の流動」トークンを１つ作成する。",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "3b0c06d7-f58d-4a8a-b30f-aba49dbae2bb",
+              "card_print": "90b38230-23ad-4b33-924c-ce5104fae335",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>隕石上昇</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>ターン２インスタント</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n<p>これがヒットしたとき、「稲妻の流動」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN153.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN153.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN153.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:58.157210+13:00",
+          "updated_at": "2026-03-04T12:02:15.447495+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "JA_OMN153",
+          "set_number": 153,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "cb4c6518-6f8c-4d24-84e6-c12292e28dd6"
+        },
+        {
+          "id": "55de9238-a15f-4b22-b772-0016dc1856ee",
+          "faces": [
+            {
+              "id": "52557611-ccd6-494f-9a34-0ad046571ccf",
+              "created_at": "2026-03-03T15:44:58.198253+13:00",
+              "updated_at": "2026-03-03T15:44:58.198261+13:00",
+              "face_id": "JA_OMN153-RF",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "sub-elemental",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN153",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "隕石上昇",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**ターン２インスタント**--{r}：これは＋１{p}を得る。{br}これがヒットしたとき、「稲妻の流動」トークンを１つ作成する。",
+              "printed_flavor_text": "",
+              "printed_typebox": "稲妻・アクション － 攻撃",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "3b0c06d7-f58d-4a8a-b30f-aba49dbae2bb",
+              "card_print": "55de9238-a15f-4b22-b772-0016dc1856ee",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>隕石上昇</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>稲妻・アクション － 攻撃</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>ターン２インスタント</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：これは＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n<p>これがヒットしたとき、「稲妻の流動」トークンを１つ作成する。</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_OMN153-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_OMN153-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_OMN153-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "ac79254e-7b39-4164-b0c0-b52a01096cc6",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.138620+13:00",
+            "updated_at": "2026-02-26T15:25:42.720640+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "ja",
+            "product_name": "Omens of the Third Age [JA]",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:58.191621+13:00",
+          "updated_at": "2026-03-04T12:02:21.541833+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "JA_OMN153-RF",
+          "set_number": 153,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "cb4c6518-6f8c-4d24-84e6-c12292e28dd6"
+        },
+        {
+          "id": "d9cfc31c-7f27-4b1a-a633-653aca29b9ca",
+          "faces": [
+            {
+              "id": "fed90ee2-0000-4d57-88c5-482ffb668166",
+              "created_at": "2026-03-03T15:44:58.231816+13:00",
+              "updated_at": "2026-03-03T15:44:58.231824+13:00",
+              "face_id": "OMN153",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "sub-elemental",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN153",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "Meteoric Rise",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Twice per Turn Instant** -- {r}: This gets +1{p}.{br}When this hits, create a Lightning Flow token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "3b0c06d7-f58d-4a8a-b30f-aba49dbae2bb",
+              "card_print": "d9cfc31c-7f27-4b1a-a633-653aca29b9ca",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Meteoric Rise</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Twice per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>When this hits, create a Lightning Flow token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN153.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN153.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN153.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:58.225346+13:00",
+          "updated_at": "2026-03-04T12:02:40.642428+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "OMN153",
+          "set_number": 153,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "cb4c6518-6f8c-4d24-84e6-c12292e28dd6"
+        },
+        {
+          "id": "4f07952f-e6df-44c7-bfbc-3440ad5c7733",
+          "faces": [
+            {
+              "id": "0e605f75-67a6-463d-b79e-4eb967ed2efa",
+              "created_at": "2026-03-03T15:44:58.264825+13:00",
+              "updated_at": "2026-03-03T15:44:58.264833+13:00",
+              "face_id": "OMN153-RF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "rainbow-foil",
+              "border_type": "black",
+              "frame_type": "sub-elemental",
+              "frame_style": "lightning",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "OMN153",
+              "printed_artist": "Tomasz Jedruszek",
+              "printed_name": "Meteoric Rise",
+              "printed_pitch": 1,
+              "printed_cost": "1",
+              "printed_power": "5",
+              "printed_defense": "2",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Twice per Turn Instant** -- {r}: This gets +1{p}.{br}When this hits, create a Lightning Flow token.",
+              "printed_flavor_text": "",
+              "printed_typebox": "Lightning Action - Attack",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "3b0c06d7-f58d-4a8a-b30f-aba49dbae2bb",
+              "card_print": "4f07952f-e6df-44c7-bfbc-3440ad5c7733",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Meteoric Rise</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Lightning Action - Attack</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Twice per Turn Instant</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: This gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n<p>When this hits, create a Lightning Flow token.</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/OMN153-RF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/OMN153-RF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/OMN153-RF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "6539e75d-f6b4-4237-a9ea-1888c5d1af45",
+            "product_group": {
+              "id": "b5bb0dd3-3f74-4985-9446-b956e92c8764",
+              "created_at": "2026-02-24T16:46:19.425118+13:00",
+              "updated_at": "2026-02-26T15:29:27.657070+13:00",
+              "group_name": "Omens of the Third Age",
+              "product_type": "booster",
+              "release_date": "2026-06-05",
+              "slug": "omens-of-the-third-age"
+            },
+            "created_at": "2026-02-24T16:46:18.121672+13:00",
+            "updated_at": "2026-02-26T15:27:21.651822+13:00",
+            "printed_date": "2025-12-24",
+            "printed_language": "en",
+            "product_name": "Omens of the Third Age",
+            "product_type": "booster",
+            "release_date": "2026-06-05",
+            "slug": "omens-of-the-third-age",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "65b15265-9e6e-44e0-9bca-df9f2566641e",
+            "created_at": "2026-02-24T16:46:18.062605+13:00",
+            "updated_at": "2026-03-02T11:52:50.995071+13:00",
+            "set_code": "OMN",
+            "set_name": "Omens of the Third Age",
+            "set_type": "core",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-03-03T15:44:58.258122+13:00",
+          "updated_at": "2026-03-04T12:02:47.034657+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": "2026-03-04T12:00:00+13:00",
+          "print_id": "OMN153-RF",
+          "set_number": 153,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "cb4c6518-6f8c-4d24-84e6-c12292e28dd6"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2026-03-03T15:44:04.685575+13:00",
+      "updated_at": "2026-03-03T15:44:04.685583+13:00",
+      "card_id": "meteoric-rise-1",
+      "card_type": "regular",
+      "object_type": "deck-card"
+    }
+  ]
+}

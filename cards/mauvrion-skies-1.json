@@ -1,0 +1,500 @@
+{
+  "schemaVersion": 1,
+  "id": "mauvrion-skies-1",
+  "name": "Mauvrion Skies",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Mauvrion Skies",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Runeblade Action",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "The next Runeblade attack action card you play this turn gets **go again** and \"When this hits, create 3 Runechant tokens.\"{br}**Go again**",
+        "plain": "The next Runeblade attack action card you play this turn gets go again and \"When this hits, create 3 Runechant tokens.\"\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "CRU145",
+      "code": "CRU145",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 145,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU145",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mauvrion Skies",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Runeblade attack action card you play this turn gains **go again** and \"If this hits, create 3 Runechant tokens.\" _(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_\n**Go again**",
+            "plain": "The next Runeblade attack action card you play this turn gains go again and \"If this hits, create 3 Runechant tokens.\" _(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_\nGo again",
+            "html": "<p>The next Runeblade attack action card you play this turn gains <strong>go again</strong> and &quot;If this hits, create 3 Runechant tokens.&quot; <em>(They're auras with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU145",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU145.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU145.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU145.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CRU145-RF",
+      "code": "CRU145",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 145,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war",
+      "releaseDate": "2020-08-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "CRU145-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mauvrion Skies",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Runeblade attack action card you play this turn gains **go again** and \"If this hits, create 3 Runechant tokens.\"",
+            "plain": "The next Runeblade attack action card you play this turn gains go again and \"If this hits, create 3 Runechant tokens.\"",
+            "html": "<p>The next Runeblade attack action card you play this turn gains <strong>go again</strong> and &quot;If this hits, create 3 Runechant tokens.&quot;</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU145",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/CRU145-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/CRU145-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/CRU145-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU145",
+      "code": "CRU145",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 145,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU145",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mauvrion Skies",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Runeblade attack action card you play this turn gains **go again** and \"If this hits, create 3 Runechant tokens.\" _(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_\n**Go again**",
+            "plain": "The next Runeblade attack action card you play this turn gains go again and \"If this hits, create 3 Runechant tokens.\" _(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_\nGo again",
+            "html": "<p>The next Runeblade attack action card you play this turn gains <strong>go again</strong> and &quot;If this hits, create 3 Runechant tokens.&quot; <em>(They're auras with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU145",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU145.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU145.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU145.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-CRU145-RF",
+      "code": "CRU145",
+      "language": "en",
+      "set": "CRU",
+      "setNumber": 145,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "crucible-of-war-unlimited",
+      "releaseDate": "2021-07-30",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-CRU145-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mauvrion Skies",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Runeblade attack action card you play this turn gains **go again** and \"If this hits, create 3 Runechant tokens.\" _(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_\n**Go again**",
+            "plain": "The next Runeblade attack action card you play this turn gains go again and \"If this hits, create 3 Runechant tokens.\" _(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_\nGo again",
+            "html": "<p>The next Runeblade attack action card you play this turn gains <strong>go again</strong> and &quot;If this hits, create 3 Runechant tokens.&quot; <em>(They're auras with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "CRU145",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-CRU145-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-CRU145-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-CRU145-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP276",
+      "code": "1HP276",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 276,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP276",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mauvrion Skies",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Runeblade attack action card you play this turn gains **go again** and \"If this hits, create 3 Runechant tokens.\" _(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_\n**Go again**",
+            "plain": "The next Runeblade attack action card you play this turn gains go again and \"If this hits, create 3 Runechant tokens.\" _(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")_\nGo again",
+            "html": "<p>The next Runeblade attack action card you play this turn gains <strong>go again</strong> and &quot;If this hits, create 3 Runechant tokens.&quot; <em>(They're auras with &quot;When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.&quot;)</em></p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HP276",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "white",
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP276.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP276.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP276.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SVI022",
+      "code": "SVI022",
+      "language": "en",
+      "set": "SVI",
+      "setNumber": 22,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-viserai",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SVI022",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mauvrion Skies",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Runeblade attack action card you play this turn gets **go again** and \"When this hits, create 3 Runechant tokens.\"{br}**Go again**",
+            "plain": "The next Runeblade attack action card you play this turn gets go again and \"When this hits, create 3 Runechant tokens.\"\nGo again",
+            "html": "<p>The next Runeblade attack action card you play this turn gets <strong>go again</strong> and &quot;When this hits, create 3 Runechant tokens.&quot;</p>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SVI022",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SVI022.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SVI022.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SVI022.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TNP025-MV",
+      "code": "TNP025",
+      "language": "en",
+      "set": "TNP",
+      "setNumber": 25,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": true,
+      "layout": "regular",
+      "product": "tournament-pack",
+      "releaseDate": "2027-02-12",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TNP025-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Mauvrion Skies",
+          "typeLine": "Runeblade Action",
+          "traitLine": null,
+          "text": {
+            "markup": "The next Runeblade attack action card you play this turn gets **go again** and \"When this hits, create 3 Runechant tokens.\" **Go again**",
+            "plain": "The next Runeblade attack action card you play this turn gets go again and \"When this hits, create 3 Runechant tokens.\" Go again",
+            "html": "<p>The next Runeblade attack action card you play this turn gets <strong>go again</strong> and &quot;When this hits, create 3 Runechant tokens.&quot; <strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TNP025",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Daria Khlebnikova",
+          "rarityMark": "promo-marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": null,
+          "frame": "runeblade",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TNP025-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TNP025-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TNP025-MV.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "go again"
+    ],
+    "editions": {
+      "U-CRU145": "unlimited",
+      "U-CRU145-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:58:16Z",
+    "rawSha256": "c6f77f2187f4acd7c9b8c17ce1aed8fc6eeb564e19141f49cd32ebfc0b1960ce",
+    "updatedAt": "2025-09-18T06:52:35.085603+12:00"
+  }
+}

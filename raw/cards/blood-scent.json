@@ -1,0 +1,610 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "e08d246b-c30b-48c2-ac4e-ee6bdb01ebff",
+      "cores": [
+        {
+          "id": "0038e3f9-8769-4cc7-9321-c3bb8e714d8e",
+          "core_classes": [
+            {
+              "id": 10,
+              "name": "Ninja",
+              "name_en": "Ninja",
+              "name_fr": "Ninja",
+              "name_de": "Ninja",
+              "name_it": "Ninja",
+              "name_es": "Ninja",
+              "name_ja": "忍者",
+              "is_published": true
+            }
+          ],
+          "core_talents": [],
+          "core_types": [
+            {
+              "id": 6,
+              "name": "Equipment",
+              "name_en": "Equipment",
+              "name_fr": "Équipement",
+              "name_de": "Ausrüstung",
+              "name_it": "Equipaggiamento",
+              "name_es": "Equipo",
+              "name_ja": "装備品",
+              "is_published": true
+            }
+          ],
+          "core_subtypes": [
+            {
+              "id": 21,
+              "name": "Chest",
+              "name_en": "Chest",
+              "name_fr": "Torse",
+              "name_de": "Brust",
+              "name_it": "Torso",
+              "name_es": "Pecho",
+              "name_ja": "胴",
+              "is_published": true,
+              "functional": false
+            }
+          ],
+          "created_at": "2025-09-18T06:46:44.033340+12:00",
+          "updated_at": "2025-09-18T06:46:44.040155+12:00",
+          "name": "Blood Scent",
+          "layout_position": 10,
+          "pitch": "",
+          "pitch_chi": "",
+          "color": "",
+          "cost": "",
+          "power": "",
+          "defense": "1",
+          "intellect": "",
+          "life": "",
+          "textbox": "**Instant** -- Destroy this: Gain {r}. Activate this only if you've attacked with a Crouching Tiger this turn.{br}**Battleworn**",
+          "typebox": "Ninja Equipment - Chest",
+          "traitbox": "",
+          "pitch_value": null,
+          "pitch_chi_value": null,
+          "cost_value": null,
+          "power_value": null,
+          "defense_value": 1,
+          "intellect_value": null,
+          "life_value": null,
+          "card": "e08d246b-c30b-48c2-ac4e-ee6bdb01ebff"
+        }
+      ],
+      "card_prints": [
+        {
+          "id": "9fa76abb-d465-43a7-b864-e31a5e979bb8",
+          "faces": [
+            {
+              "id": "75b3790b-d147-414a-b84e-bad618aef8c4",
+              "created_at": "2025-09-18T06:46:44.053362+12:00",
+              "updated_at": "2025-09-18T06:46:44.053375+12:00",
+              "face_id": "TCC080",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "TCC080",
+              "printed_artist": "Kimberly Pantoni",
+              "printed_name": "Blood Scent",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- Destroy this: Gain {r}. Activate this ability only if you've attacked with a Crouching Tiger this turn.{br}**Battleworn** _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ninja Equipment - Chest",
+              "printed_year": "2023",
+              "printed_language_code": "",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0038e3f9-8769-4cc7-9321-c3bb8e714d8e",
+              "card_print": "9fa76abb-d465-43a7-b864-e31a5e979bb8",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blood Scent</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ninja Equipment - Chest</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — Destroy this: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Activate this ability only if you've attacked with a Crouching Tiger this turn.</p>\n<p><strong>Battleworn</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TCC080.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TCC080.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TCC080.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "7ea545bf-864f-4c19-a996-ee6a2c13b763",
+            "product_group": {
+              "id": "dd2df736-e4fd-46f4-8542-47b055fbb9ae",
+              "created_at": "2025-09-29T08:48:56.642788+13:00",
+              "updated_at": "2025-09-29T08:48:56.642802+13:00",
+              "group_name": "Round the Table: TCC x LSS",
+              "product_type": "precon",
+              "release_date": "2023-09-29",
+              "slug": "round-the-table-tcc-x-lss"
+            },
+            "created_at": "2025-09-18T06:45:33.753455+12:00",
+            "updated_at": "2025-09-29T08:49:02.376966+13:00",
+            "printed_date": "2023-08-01",
+            "printed_language": "en",
+            "product_name": "Round the Table: TCC x LSS",
+            "product_type": "booster",
+            "release_date": "2023-09-29",
+            "slug": "round-the-table-tcc-x-lss",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "eee6a16f-40b2-437e-b8c3-f43f5e18e995",
+            "created_at": "2025-09-18T06:45:12.726349+12:00",
+            "updated_at": "2025-09-18T06:45:12.726359+12:00",
+            "set_code": "TCC",
+            "set_name": "Round the Table: TCC x LSS",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:44.046916+12:00",
+          "updated_at": "2025-09-18T06:46:44.046933+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "TCC080",
+          "set_number": 80,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "e08d246b-c30b-48c2-ac4e-ee6bdb01ebff"
+        },
+        {
+          "id": "35fd1dab-50b9-49a0-92c1-6803504490e2",
+          "faces": [
+            {
+              "id": "a6964522-8266-4b35-b4dc-d5fa7410a703",
+              "created_at": "2025-09-18T06:46:44.070136+12:00",
+              "updated_at": "2025-09-18T06:46:44.070149+12:00",
+              "face_id": "LGS259-CF",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "cold-foil",
+              "border_type": "black",
+              "frame_type": "equipment",
+              "frame_style": "",
+              "printed_rarity_symbol": "promo-dot",
+              "printed_code": "LGS259",
+              "printed_artist": "Kimberly Pantoni",
+              "printed_name": "Blood Scent",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- Destroy this: Gain {r}. Activate this ability only if you've attacked with a Crouching Tiger this turn.{br}**Battleworn** _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ninja Equipment - Chest",
+              "printed_year": "2023",
+              "printed_language_code": "EN",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0038e3f9-8769-4cc7-9321-c3bb8e714d8e",
+              "card_print": "35fd1dab-50b9-49a0-92c1-6803504490e2",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blood Scent</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ninja Equipment - Chest</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — Destroy this: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Activate this ability only if you've attacked with a Crouching Tiger this turn.</p>\n<p><strong>Battleworn</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS259-CF.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS259-CF.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS259-CF.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "fd4cec53-5576-4a15-bfc3-51481a8142b0",
+            "product_group": null,
+            "created_at": "2025-09-18T06:46:10.738321+12:00",
+            "updated_at": "2025-09-18T06:46:10.738348+12:00",
+            "printed_date": "2023-11-01",
+            "printed_language": "en",
+            "product_name": "Armory - Season 12",
+            "product_type": "booster",
+            "release_date": "2024-02-01",
+            "slug": "armory-season-12",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "ec5ad7d7-cac9-4d04-b99d-8b92a3ff3d0b",
+            "created_at": "2025-09-18T06:45:12.729943+12:00",
+            "updated_at": "2025-09-18T06:45:12.729954+12:00",
+            "set_code": "LGS",
+            "set_name": "Local Game Store Promos",
+            "set_type": "promo",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2025-09-18T06:46:44.063903+12:00",
+          "updated_at": "2025-09-18T06:46:44.063917+12:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "LGS259-CF",
+          "set_number": 259,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "promo",
+          "card": "e08d246b-c30b-48c2-ac4e-ee6bdb01ebff"
+        },
+        {
+          "id": "245b1c23-72a3-4e29-a95d-d38b2cc8a094",
+          "faces": [
+            {
+              "id": "1147716e-1b1a-4885-a911-7f5ca63e7b8a",
+              "created_at": "2026-01-19T19:36:02.227300+13:00",
+              "updated_at": "2026-01-19T19:36:02.227311+13:00",
+              "face_id": "SFA006",
+              "face_language": "en",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SFA006",
+              "printed_artist": "Kimberly Pantoni",
+              "printed_name": "Blood Scent",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instant** -- Destroy this: Gain {r}. Activate this only if you've attacked with a Crouching Tiger this turn.{br}**Battleworn** _(When the combat chain closes, if this defended, put a -1{d} counter on it.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ninja Equipment - Chest",
+              "printed_year": "2025",
+              "printed_language_code": "en",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0038e3f9-8769-4cc7-9321-c3bb8e714d8e",
+              "card_print": "245b1c23-72a3-4e29-a95d-d38b2cc8a094",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Blood Scent</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ninja Equipment - Chest</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instant</strong> — Destroy this: Gain <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. Activate this only if you've attacked with a Crouching Tiger this turn.</p>\n<p><strong>Battleworn</strong> <em>(When the combat chain closes, if this defended, put a -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> counter on it.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SFA006.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SFA006.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SFA006.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "f48bb2f4-a80c-4415-bb66-823d1b5bbba5",
+            "product_group": {
+              "id": "8237b529-f247-498b-b08d-2977efb3af96",
+              "created_at": "2025-10-20T10:26:44.888619+13:00",
+              "updated_at": "2026-01-28T08:27:10.146529+13:00",
+              "group_name": "Silver Age Chapter 2 - Fai",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-2-fai"
+            },
+            "created_at": "2025-10-20T10:26:44.357413+13:00",
+            "updated_at": "2026-01-28T08:27:10.148525+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "en",
+            "product_name": "Silver Age Chapter 2 - Fai",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-2-fai",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "6f62792d-9e19-4b58-a834-cb6817328500",
+            "created_at": "2025-10-20T10:26:44.280801+13:00",
+            "updated_at": "2025-10-20T10:53:07.422221+13:00",
+            "set_code": "SFA",
+            "set_name": "Silver Age Chapter 1 - Fai",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:36:02.223816+13:00",
+          "updated_at": "2026-01-26T17:51:48.154486+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "SFA006",
+          "set_number": 6,
+          "layout": "regular",
+          "print_language": "en",
+          "rarity": "rare",
+          "card": "e08d246b-c30b-48c2-ac4e-ee6bdb01ebff"
+        },
+        {
+          "id": "5fc90208-1206-43ad-b240-95db9d3df948",
+          "faces": [
+            {
+              "id": "3bf95bae-661c-4021-a2aa-127776da6c0b",
+              "created_at": "2026-01-19T19:36:02.903220+13:00",
+              "updated_at": "2026-01-19T19:36:02.903231+13:00",
+              "face_id": "FR_SFA006",
+              "face_language": "fr",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SFA006",
+              "printed_artist": "Kimberly Pantoni",
+              "printed_name": "Effluve de sang",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**Instantané** -- Détruisez cette carte : gagnez {r}. N’activez cette capacité que si vous avez attaqué avec un Tigre accroupi ce tour-ci.{br}**Usure de guerre** _(Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1{d} sur elle.)_",
+              "printed_flavor_text": "",
+              "printed_typebox": "Ninja Équipement - Torse",
+              "printed_year": "2025",
+              "printed_language_code": "fr",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0038e3f9-8769-4cc7-9321-c3bb8e714d8e",
+              "card_print": "5fc90208-1206-43ad-b240-95db9d3df948",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>Effluve de sang</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>Ninja Équipement - Torse</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>Instantané</strong> — Détruisez cette carte : gagnez <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>. N’activez cette capacité que si vous avez attaqué avec un Tigre accroupi ce tour-ci.</p>\n<p><strong>Usure de guerre</strong> <em>(Quand la chaîne de combat se termine, si vous avez défendu avec cette carte, mettez un marqueur -1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'> sur elle.)</em></p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FR_SFA006.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FR_SFA006.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FR_SFA006.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "685e3071-bd13-4a33-a713-e538090bf1a5",
+            "product_group": {
+              "id": "8237b529-f247-498b-b08d-2977efb3af96",
+              "created_at": "2025-10-20T10:26:44.888619+13:00",
+              "updated_at": "2026-01-28T08:27:10.146529+13:00",
+              "group_name": "Silver Age Chapter 2 - Fai",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-2-fai"
+            },
+            "created_at": "2025-10-20T10:26:44.363537+13:00",
+            "updated_at": "2026-01-28T08:27:10.147291+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "fr",
+            "product_name": "Silver Age Chapter 2 - Fai [FR]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-2-fai-fr",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "6f62792d-9e19-4b58-a834-cb6817328500",
+            "created_at": "2025-10-20T10:26:44.280801+13:00",
+            "updated_at": "2025-10-20T10:53:07.422221+13:00",
+            "set_code": "SFA",
+            "set_name": "Silver Age Chapter 1 - Fai",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:36:02.899514+13:00",
+          "updated_at": "2026-01-26T17:51:39.670549+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "FR_SFA006",
+          "set_number": 6,
+          "layout": "regular",
+          "print_language": "fr",
+          "rarity": "rare",
+          "card": "e08d246b-c30b-48c2-ac4e-ee6bdb01ebff"
+        },
+        {
+          "id": "010cd28e-8093-43a3-8ec3-d558ea91a690",
+          "faces": [
+            {
+              "id": "e8408579-2d5c-4c09-8343-b6f097c124ca",
+              "created_at": "2026-01-19T19:36:03.567133+13:00",
+              "updated_at": "2026-01-19T19:36:03.567144+13:00",
+              "face_id": "JA_SFA006",
+              "face_language": "ja",
+              "art_type": "regular",
+              "finish_type": "regular",
+              "border_type": "black",
+              "frame_type": "",
+              "frame_style": "",
+              "printed_rarity_symbol": "rare-dot",
+              "printed_code": "SFA006",
+              "printed_artist": "Kimberly Pantoni",
+              "printed_name": "血の余臭",
+              "printed_pitch": null,
+              "printed_cost": "",
+              "printed_power": "",
+              "printed_defense": "1",
+              "printed_intellect": "",
+              "printed_life": "",
+              "printed_rules_text": "**インスタント**--これを破壊する：{r}を得る。このターンにあなたが「臥虎」で攻撃していた場合にのみ起動できる。{br}**戦傷**（戦闘チェインが閉じたとき、これが防御していた場合、－１{d}カウンターを１個上に置く）",
+              "printed_flavor_text": "",
+              "printed_typebox": "忍者・装備品 － 胴",
+              "printed_year": "2025",
+              "printed_language_code": "jp",
+              "printed_message": "",
+              "layout_position": 10,
+              "orientation": "vertical",
+              "printed_traitbox": "",
+              "core": "0038e3f9-8769-4cc7-9321-c3bb8e714d8e",
+              "card_print": "010cd28e-8093-43a3-8ec3-d558ea91a690",
+              "watermark": [],
+              "printed_name_html": [
+                "<p>血の余臭</p>\n"
+              ],
+              "printed_typebox_html": [
+                "<p>忍者・装備品 － 胴</p>\n"
+              ],
+              "rules_text_html": [
+                "<p><strong>インスタント</strong>—これを破壊する：<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>を得る。このターンにあなたが「臥虎」で攻撃していた場合にのみ起動できる。</p>\n<p><strong>戦傷</strong>（戦闘チェインが閉じたとき、これが防御していた場合、－１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_def.webp' alt='{d}'>カウンターを１個上に置く）</p>\n"
+              ],
+              "flavor_text_html": [
+                ""
+              ],
+              "image": {
+                "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SFA006.webp",
+                "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SFA006.webp",
+                "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SFA006.webp"
+              }
+            }
+          ],
+          "product": {
+            "id": "c128883b-b10a-40aa-8a44-359fc5d05834",
+            "product_group": {
+              "id": "8237b529-f247-498b-b08d-2977efb3af96",
+              "created_at": "2025-10-20T10:26:44.888619+13:00",
+              "updated_at": "2026-01-28T08:27:10.146529+13:00",
+              "group_name": "Silver Age Chapter 2 - Fai",
+              "product_type": "precon",
+              "release_date": "2026-02-13",
+              "slug": "silver-age-chapter-2-fai"
+            },
+            "created_at": "2025-10-20T10:26:44.360456+13:00",
+            "updated_at": "2026-01-28T08:27:10.147966+13:00",
+            "printed_date": "2025-11-20",
+            "printed_language": "ja",
+            "product_name": "Silver Age Chapter 2 - Fai [JA]",
+            "product_type": "precon",
+            "release_date": "2026-02-13",
+            "slug": "silver-age-chapter-2-fai-ja",
+            "description": "",
+            "banner_background_colour": null,
+            "heading_colour": null,
+            "body_colour": null
+          },
+          "print_set": {
+            "id": "6f62792d-9e19-4b58-a834-cb6817328500",
+            "created_at": "2025-10-20T10:26:44.280801+13:00",
+            "updated_at": "2025-10-20T10:53:07.422221+13:00",
+            "set_code": "SFA",
+            "set_name": "Silver Age Chapter 1 - Fai",
+            "set_type": "blitz_precon",
+            "parent": null
+          },
+          "print_notes": [],
+          "created_at": "2026-01-19T19:36:03.564074+13:00",
+          "updated_at": "2026-01-26T17:51:52.229403+13:00",
+          "is_default": false,
+          "is_published": true,
+          "published_at": null,
+          "print_id": "JA_SFA006",
+          "set_number": 6,
+          "layout": "regular",
+          "print_language": "ja",
+          "rarity": "rare",
+          "card": "e08d246b-c30b-48c2-ac4e-ee6bdb01ebff"
+        }
+      ],
+      "rulings_errata": [],
+      "card_legality": {
+        "Blitz": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Classic Constructed": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Living Legend": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Commoner": {
+          "legality": "not legal",
+          "reason": "programmatic_legality"
+        },
+        "Ultimate Pit Fight": {
+          "legality": "legal",
+          "reason": ""
+        },
+        "Silver Age": {
+          "legality": "legal",
+          "reason": ""
+        }
+      },
+      "created_at": "2025-09-18T06:46:44.029804+12:00",
+      "updated_at": "2025-09-18T06:46:44.030856+12:00",
+      "card_id": "blood-scent",
+      "card_type": "regular",
+      "object_type": "arena-card"
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "schemaVersion": 1,
+  "id": "lightning-press-1",
+  "name": "Lightning Press",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Lightning Press",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 0,
+      "power": null,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Lightning Instant",
+      "traitLine": null,
+      "classes": [],
+      "talents": [
+        "Lightning"
+      ],
+      "types": [
+        "Instant"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Target attack action card with cost 1 or less gets +3{p}.",
+        "plain": "Target attack action card with cost 1 or less gets +3{p}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "ELE183",
+      "code": "ELE183",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 183,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ELE183",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lightning Press",
+          "typeLine": "Lightning Instant",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with cost 1 or less gains +3{p}.",
+            "plain": "Target attack action card with cost 1 or less gains +3{p}.",
+            "html": "<p>Target attack action card with cost 1 or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Back in my day, folk used weapons made of metal.\" - Lishu, Crimson Haze Vigilante_",
+            "plain": "_\"Back in my day, folk used weapons made of metal.\" - Lishu, Crimson Haze Vigilante_",
+            "html": "<p><em>&quot;Back in my day, folk used weapons made of metal.&quot; - Lishu, Crimson Haze Vigilante</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE183",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Ekaterina Revazashvili",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE183.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE183.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE183.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ELE183-RF",
+      "code": "ELE183",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 183,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ELE183-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lightning Press",
+          "typeLine": "Lightning Instant",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with cost 1 or less gains +3{p}.",
+            "plain": "Target attack action card with cost 1 or less gains +3{p}.",
+            "html": "<p>Target attack action card with cost 1 or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Back in my day, folk used weapons made of metal.\" - Lishu, Crimson Haze Vigilante_",
+            "plain": "_\"Back in my day, folk used weapons made of metal.\" - Lishu, Crimson Haze Vigilante_",
+            "html": "<p><em>&quot;Back in my day, folk used weapons made of metal.&quot; - Lishu, Crimson Haze Vigilante</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE183",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Ekaterina Revazashvili",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ELE183-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ELE183-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ELE183-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LXI018",
+      "code": "LXI018",
+      "language": "en",
+      "set": "LXI",
+      "setNumber": 18,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "lexi-blitz-deck",
+      "releaseDate": "2021-09-24",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LXI018",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lightning Press",
+          "typeLine": "Lightning Instant",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with cost 1 or less gains +3{p}.",
+            "plain": "Target attack action card with cost 1 or less gains +3{p}.",
+            "html": "<p>Target attack action card with cost 1 or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Back in my day, folk used weapons made of metal.\" - Lishu, Crimson Haze Vigilante_",
+            "plain": "_\"Back in my day, folk used weapons made of metal.\" - Lishu, Crimson Haze Vigilante_",
+            "html": "<p><em>&quot;Back in my day, folk used weapons made of metal.&quot; - Lishu, Crimson Haze Vigilante</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LXI018",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Ekaterina Revazashvili",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LXI018.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LXI018.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LXI018.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ELE183",
+      "code": "ELE183",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 183,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria-unlimited",
+      "releaseDate": "2021-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ELE183",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lightning Press",
+          "typeLine": "Lightning Instant",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with cost 1 or less gains +3{p}.",
+            "plain": "Target attack action card with cost 1 or less gains +3{p}.",
+            "html": "<p>Target attack action card with cost 1 or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Back in my day, folk used weapons made of metal.\" - Lishu, Crimson Haze Vigilante_",
+            "plain": "_\"Back in my day, folk used weapons made of metal.\" - Lishu, Crimson Haze Vigilante_",
+            "html": "<p><em>&quot;Back in my day, folk used weapons made of metal.&quot; - Lishu, Crimson Haze Vigilante</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE183",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Ekaterina Revazashvili",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE183.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE183.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE183.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-ELE183-RF",
+      "code": "ELE183",
+      "language": "en",
+      "set": "ELE",
+      "setNumber": 183,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "tales-of-aria-unlimited",
+      "releaseDate": "2021-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-ELE183-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lightning Press",
+          "typeLine": "Lightning Instant",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with cost 1 or less gains +3{p}.",
+            "plain": "Target attack action card with cost 1 or less gains +3{p}.",
+            "html": "<p>Target attack action card with cost 1 or less gains +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_\"Back in my day, folk used weapons made of metal.\" - Lishu, Crimson Haze Vigilante_",
+            "plain": "_\"Back in my day, folk used weapons made of metal.\" - Lishu, Crimson Haze Vigilante_",
+            "html": "<p><em>&quot;Back in my day, folk used weapons made of metal.&quot; - Lishu, Crimson Haze Vigilante</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ELE183",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Ekaterina Revazashvili",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-ELE183-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-ELE183-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-ELE183-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB262-RF",
+      "code": "FAB262",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 262,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "calling-rosetta",
+      "releaseDate": "2024-09-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB262-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lightning Press",
+          "typeLine": "Lightning Instant",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with cost 1 or less gets +3{p}.",
+            "plain": "Target attack action card with cost 1 or less gets +3{p}.",
+            "html": "<p>Target attack action card with cost 1 or less gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB262",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Orson CaptainSass",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB262-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB262-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB262-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AST021",
+      "code": "AST021",
+      "language": "en",
+      "set": "AST",
+      "setNumber": 21,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-aurora-shooting-star",
+      "releaseDate": "2025-03-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AST021",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lightning Press",
+          "typeLine": "Lightning Instant",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with cost 1 or less gets +3{p}.",
+            "plain": "Target attack action card with cost 1 or less gets +3{p}.",
+            "html": "<p>Target attack action card with cost 1 or less gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AST021",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Revazashvili E.",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AST021.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AST021.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AST021.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBA032",
+      "code": "SBA032",
+      "language": "en",
+      "set": "SBA",
+      "setNumber": 32,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-briar",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBA032",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Lightning Press",
+          "typeLine": "Lightning Instant",
+          "traitLine": null,
+          "text": {
+            "markup": "Target attack action card with cost 1 or less gets +3{p}.",
+            "plain": "Target attack action card with cost 1 or less gets +3{p}.",
+            "html": "<p>Target attack action card with cost 1 or less gets +3<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "0",
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBA032",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Revazashvili E.",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "sub-elemental",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBA032.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBA032.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBA032.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "U-ELE183": "unlimited",
+      "U-ELE183-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T15:02:49Z",
+    "rawSha256": "8d45cc21c5a5141de2eac28d9add6c0c9b1fa6a73bf09bee1a0eccc3845147aa",
+    "updatedAt": "2025-09-18T06:52:12.789641+12:00"
+  }
+}

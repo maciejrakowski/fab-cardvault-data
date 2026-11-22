@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "redwood-hammer",
+  "language": "ja",
+  "name": "レッドウッド・ハンマー",
+  "cores": [
+    {
+      "position": 10,
+      "name": "レッドウッド・ハンマー",
+      "typeLine": "大地・守護者・武器 － 鎚（片手）",
+      "classes": [
+        "守護者"
+      ],
+      "talents": [
+        "大地"
+      ],
+      "types": [
+        "武器"
+      ],
+      "subtypes": [
+        "（片手）",
+        "鎚"
+      ],
+      "text": {
+        "markup": "**ターン１アクション** -- {r}{r}{r}：**攻撃**{br}これで攻撃するために大地・カードをピッチした場合、これの攻撃は＋１{p}を得る。",
+        "plain": "ターン１アクション -- {r}{r}{r}：攻撃\nこれで攻撃するために大地・カードをピッチした場合、これの攻撃は＋１{p}を得る。",
+        "html": "<p><strong>ターン１アクション</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：<strong>攻撃</strong></p>\n<p>これで攻撃するために大地・カードをピッチした場合、これの攻撃は＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_TER002",
+      "code": "TER002",
+      "language": "ja",
+      "set": "TER",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "1st-strike-terra-ja",
+      "releaseDate": "2024-08-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_TER002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "レッドウッド・ハンマー",
+          "typeLine": "大地・守護者・武器 － 鎚（片手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**ターン１アクション** -- {r}{r}{r}：**攻撃**{br}これで攻撃するために大地・カードをピッチした場合、これの攻撃は＋１{p}を得る。",
+            "plain": "ターン１アクション -- {r}{r}{r}：攻撃\nこれで攻撃するために大地・カードをピッチした場合、これの攻撃は＋１{p}を得る。",
+            "html": "<p><strong>ターン１アクション</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：<strong>攻撃</strong></p>\n<p>これで攻撃するために大地・カードをピッチした場合、これの攻撃は＋１<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "3",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "TER002",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Henrique Lindner",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": "earth",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_TER002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_TER002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_TER002.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

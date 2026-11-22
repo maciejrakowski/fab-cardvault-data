@@ -1,0 +1,645 @@
+{
+  "schemaVersion": 1,
+  "id": "wounded-bull-1",
+  "name": "Wounded Bull",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Wounded Bull",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 3,
+      "power": 7,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this is played, if you have less {h} than an opposing hero, it gets +1{p}.",
+        "plain": "When this is played, if you have less {h} than an opposing hero, it gets +1{p}."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "JDG014-CF",
+      "code": "JDG014",
+      "language": "en",
+      "set": "JDG",
+      "setNumber": 14,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "judge-pack-season-1",
+      "releaseDate": "2019-10-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JDG014-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wounded Bull",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play this, if you have less {h} than an opposing hero, this gains +1{p}.",
+            "plain": "When you play this, if you have less {h} than an opposing hero, this gains +1{p}.",
+            "html": "<p>When you play this, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than an opposing hero, this gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "3",
+            "power": "7",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "JDG014",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JDG014-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JDG014-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JDG014-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR200",
+      "code": "WTR200-C",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 200,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR200",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wounded Bull",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "plain": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "html": "<p>When you play Wounded Bull, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than your opponent, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "plain": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "html": "<p><em>In the Savage Lands, humans, like animals, are more dangerous when they bleed.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "3",
+            "power": "7",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR200-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR200.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR200.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR200.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR200-RF",
+      "code": "WTR200-C",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 200,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR200-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wounded Bull",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "plain": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "html": "<p>When you play Wounded Bull, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than your opponent, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "plain": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "html": "<p><em>In the Savage Lands, humans, like animals, are more dangerous when they bleed.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "3",
+            "power": "7",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR200-C",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Adolfo Navarro",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR200-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR200-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR200-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR200",
+      "code": "WTR200",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 200,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR200",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wounded Bull",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "plain": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "html": "<p>When you play Wounded Bull, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than your opponent, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "plain": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "html": "<p><em>In the Savage Lands, humans, like animals, are more dangerous when they bleed.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "3",
+            "power": "7",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR200",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR200.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR200.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR200.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR200-RF",
+      "code": "WTR200",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 200,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR200-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wounded Bull",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "plain": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "html": "<p>When you play Wounded Bull, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than your opponent, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "plain": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "html": "<p><em>In the Savage Lands, humans, like animals, are more dangerous when they bleed.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "3",
+            "power": "7",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR200",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR200-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR200-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR200-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR200",
+      "code": "WTR200",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 200,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR200",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wounded Bull",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "plain": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "html": "<p>When you play Wounded Bull, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than your opponent, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "plain": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "html": "<p><em>In the Savage Lands, humans, like animals, are more dangerous when they bleed.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "3",
+            "power": "7",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR200",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR200.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR200.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR200.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR200-RF",
+      "code": "WTR200",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 200,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR200-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wounded Bull",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "plain": "When you play Wounded Bull, if you have less {h} than your opponent, it gains +1{p}.",
+            "html": "<p>When you play Wounded Bull, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than your opponent, it gains +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": {
+            "markup": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "plain": "_In the Savage Lands, humans, like animals, are more dangerous when they bleed._",
+            "html": "<p><em>In the Savage Lands, humans, like animals, are more dangerous when they bleed.</em></p>\n"
+          },
+          "stats": {
+            "pitch": "1",
+            "cost": "3",
+            "power": "7",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "WTR200",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR200-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR200-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR200-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SIY012",
+      "code": "SIY012",
+      "language": "en",
+      "set": "SIY",
+      "setNumber": 12,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-iyslander",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SIY012",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wounded Bull",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this is played, if you have less {g} than an opposing hero, it gets +1{p}.",
+            "plain": "When this is played, if you have less {g} than an opposing hero, it gets +1{p}.",
+            "html": "<p>When this is played, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than an opposing hero, it gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "3",
+            "power": "7",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SIY012",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SIY012.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SIY012.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SIY012.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBZ011",
+      "code": "SBZ011",
+      "language": "en",
+      "set": "SBZ",
+      "setNumber": 11,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-blaze-firemind",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBZ011",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Wounded Bull",
+          "typeLine": "Generic Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this is played, if you have less {h} than an opposing hero, it gets +1{p}.",
+            "plain": "When this is played, if you have less {h} than an opposing hero, it gets +1{p}.",
+            "html": "<p>When this is played, if you have less <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_hp.webp' alt='{h}'> than an opposing hero, it gets +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "3",
+            "power": "7",
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBZ011",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Adolfo Navarro",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBZ011.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBZ011.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBZ011.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "R-WTR200": "unlimited-revised",
+      "R-WTR200-RF": "unlimited-revised",
+      "U-WTR200": "unlimited",
+      "U-WTR200-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:52:52Z",
+    "rawSha256": "9f399b05a6ba4c60df9c4348a1c4be6869224a26157dd02c080ff1af45e4568a",
+    "updatedAt": "2025-09-18T06:59:28.229494+12:00"
+  }
+}

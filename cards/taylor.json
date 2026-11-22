@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "taylor",
+  "name": "Taylor",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Taylor",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 18,
+      "intellect": 4,
+      "typeLine": "Shapeshifter Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Shapeshifter"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "You may have equipment of any class or talent in your inventory. Each equipment in your starting inventory must have a different name.{br}At the start of your turn, you may banish an equipment you control. If you do, equip a card of the same subtype from your inventory.",
+        "plain": "You may have equipment of any class or talent in your inventory. Each equipment in your starting inventory must have a different name.\nAt the start of your turn, you may banish an equipment you control. If you do, equip a card of the same subtype from your inventory."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LSS003-CF",
+      "code": "LSS003",
+      "language": "en",
+      "set": "LSS",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "cosplay-2022",
+      "releaseDate": "2022-01-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LSS003-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Taylor",
+          "typeLine": "Shapeshifter Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "You may have equipment of any class or talent in your inventory. Each equipment in your starting inventory must have a different name.\nAt the start of your turn, you may banish an equipment you control. If you do, equip a card of the same subtype from your inventory.",
+            "plain": "You may have equipment of any class or talent in your inventory. Each equipment in your starting inventory must have a different name.\nAt the start of your turn, you may banish an equipment you control. If you do, equip a card of the same subtype from your inventory.",
+            "html": "<p>You may have equipment of any class or talent in your inventory. Each equipment in your starting inventory must have a different name.</p>\n<p>At the start of your turn, you may banish an equipment you control. If you do, equip a card of the same subtype from your inventory.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "18",
+            "intellect": "4"
+          },
+          "printedCode": "LSS003",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Andy Aslamov",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "elemental",
+          "frameStyle": "shapeshifter",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LSS003-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LSS003-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS003-CF.webp"
+          }
+        },
+        {
+          "id": "LSS003-CF_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Taylor",
+          "typeLine": "Shapeshifter Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": null,
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "full-art",
+          "border": null,
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LSS003-CF_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LSS003-CF_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS003-CF_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:10:20Z",
+    "rawSha256": "5336e6a113aa9ef8f031a151af06bfe4e7e953143cd7e348dc1ae2781d5b3609",
+    "updatedAt": "2025-09-18T06:57:35.450071+12:00"
+  }
+}

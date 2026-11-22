@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "punching-gloves",
+  "language": "ja",
+  "name": "殴打のグローブ",
+  "cores": [
+    {
+      "position": 10,
+      "name": "殴打のグローブ",
+      "typeLine": "汎用・装備品 － 腕",
+      "classes": [
+        "汎用"
+      ],
+      "types": [
+        "装備品"
+      ],
+      "subtypes": [
+        "腕"
+      ],
+      "text": {
+        "markup": "**アクション**--{r}{r},\u202Fこれを破壊する：このターン、あなたがプレイする次の攻撃・アクションカードは＋２{p}を得る。**続行**",
+        "plain": "アクション--{r}{r},\u202Fこれを破壊する：このターン、あなたがプレイする次の攻撃・アクションカードは＋２{p}を得る。続行",
+        "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>,\u202Fこれを破壊する：このターン、あなたがプレイする次の攻撃・アクションカードは＋２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。<strong>続行</strong></p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_SUP213",
+      "code": "SUP213",
+      "language": "ja",
+      "set": "SUP",
+      "setNumber": 213,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "super-slam-ja",
+      "releaseDate": "2025-09-26",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_SUP213",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "殴打のグローブ",
+          "typeLine": "汎用・装備品 － 腕",
+          "traitLine": null,
+          "text": {
+            "markup": "**アクション**--{r}{r},\u202Fこれを破壊する：このターン、あなたがプレイする次の攻撃・アクションカードは＋２{p}を得る。**続行**",
+            "plain": "アクション--{r}{r},\u202Fこれを破壊する：このターン、あなたがプレイする次の攻撃・アクションカードは＋２{p}を得る。続行",
+            "html": "<p><strong>アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>,\u202Fこれを破壊する：このターン、あなたがプレイする次の攻撃・アクションカードは＋２<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。<strong>続行</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "0",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SUP213",
+          "printedLanguageCode": "JP",
+          "printedYear": "2025",
+          "artist": "Marcus Reyno",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_SUP213.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_SUP213.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_SUP213.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

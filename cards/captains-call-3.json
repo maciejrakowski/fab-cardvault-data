@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "id": "captains-call-3",
+  "name": "Captain's Call",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Captain's Call",
+      "pitch": 3,
+      "chi": null,
+      "color": "blue",
+      "cost": 0,
+      "power": null,
+      "defense": 2,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Generic Action",
+      "traitLine": null,
+      "classes": [
+        "Generic"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [],
+      "text": {
+        "markup": "Choose 1;{br}* The next attack action card with cost 0 you play this turn gets +2{p}.{br}* The next attack action card with cost 0 you play this turn gets **go again**.{br}**Go again**",
+        "plain": "Choose 1;\n* The next attack action card with cost 0 you play this turn gets +2{p}.\n* The next attack action card with cost 0 you play this turn gets go again.\nGo again"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "MON262",
+      "code": "MON262",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 262,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON262",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Captain's Call",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* The next attack action card with cost 0 you play this turn gains +2{p}.\n* The next attack action card with cost 0 you play this turn gains **go again**.\n**Go again**",
+            "plain": "Choose 1;\n* The next attack action card with cost 0 you play this turn gains +2{p}.\n* The next attack action card with cost 0 you play this turn gains go again.\nGo again",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>The next attack action card with cost 0 you play this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>The next attack action card with cost 0 you play this turn gains <strong>go again</strong>.</p>\n</li>\n</ul>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON262",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Joshua Raphael",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON262.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON262.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON262.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON262-RF",
+      "code": "MON262",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 262,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON262-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Captain's Call",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* The next attack action card with cost 0 you play this turn gains +2{p}.\n* The next attack action card with cost 0 you play this turn gains **go again**.\n**Go again**",
+            "plain": "Choose 1;\n* The next attack action card with cost 0 you play this turn gains +2{p}.\n* The next attack action card with cost 0 you play this turn gains go again.\nGo again",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>The next attack action card with cost 0 you play this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>The next attack action card with cost 0 you play this turn gains <strong>go again</strong>.</p>\n</li>\n</ul>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON262",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Joshua Raphael",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON262-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON262-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON262-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON262",
+      "code": "MON262",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 262,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON262",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Captain's Call",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* The next attack action card with cost 0 you play this turn gains +2{p}.\n* The next attack action card with cost 0 you play this turn gains **go again**.\n**Go again**",
+            "plain": "Choose 1;\n* The next attack action card with cost 0 you play this turn gains +2{p}.\n* The next attack action card with cost 0 you play this turn gains go again.\nGo again",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>The next attack action card with cost 0 you play this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>The next attack action card with cost 0 you play this turn gains <strong>go again</strong>.</p>\n</li>\n</ul>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON262",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Joshua Raphael",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON262.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON262.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON262.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON262-RF",
+      "code": "MON262",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 262,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON262-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Captain's Call",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;\n* The next attack action card with cost 0 you play this turn gains +2{p}.\n* The next attack action card with cost 0 you play this turn gains **go again**.\n**Go again**",
+            "plain": "Choose 1;\n* The next attack action card with cost 0 you play this turn gains +2{p}.\n* The next attack action card with cost 0 you play this turn gains go again.\nGo again",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>The next attack action card with cost 0 you play this turn gains +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>The next attack action card with cost 0 you play this turn gains <strong>go again</strong>.</p>\n</li>\n</ul>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON262",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Joshua Raphael",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON262-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON262-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON262-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AST026",
+      "code": "AST026",
+      "language": "en",
+      "set": "AST",
+      "setNumber": 26,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-aurora-shooting-star",
+      "releaseDate": "2025-03-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AST026",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Captain's Call",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* The next attack action card with cost 0 you play this turn gets +2{p}.{br}* The next attack action card with cost 0 you play this turn gets **go again**.{br}**Go again**",
+            "plain": "Choose 1;\n* The next attack action card with cost 0 you play this turn gets +2{p}.\n* The next attack action card with cost 0 you play this turn gets go again.\nGo again",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>The next attack action card with cost 0 you play this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>The next attack action card with cost 0 you play this turn gets <strong>go again</strong>.</p>\n</li>\n</ul>\n<p><strong>Go again</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AST026",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Joshua Raphael",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AST026.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AST026.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AST026.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB352-RF",
+      "code": "FAB352",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 352,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "marketing-team-covenant-high-seas",
+      "releaseDate": "2025-06-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB352-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Captain's Call",
+          "typeLine": "Generic Action",
+          "traitLine": null,
+          "text": {
+            "markup": "Choose 1;{br}* The next attack action card with cost 0 you play this turn gets +2{p}.{br}* The next attack action card with cost 0 you play this turn gets **go again**.{br}Go again",
+            "plain": "Choose 1;\n* The next attack action card with cost 0 you play this turn gets +2{p}.\n* The next attack action card with cost 0 you play this turn gets go again.\nGo again",
+            "html": "<p>Choose 1;</p>\n<ul>\n<li>\n<p>The next attack action card with cost 0 you play this turn gets +2<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>.</p>\n</li>\n<li>\n<p>The next attack action card with cost 0 you play this turn gets <strong>go again</strong>.</p>\n</li>\n</ul>\n<p>Go again</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "3",
+            "cost": "0",
+            "power": null,
+            "defense": "2",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB352",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Peyeyo",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "generic",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB352-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB352-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB352-RF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Go again",
+      "go again"
+    ],
+    "editions": {
+      "U-MON262": "unlimited",
+      "U-MON262-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T14:08:08Z",
+    "rawSha256": "37dfe9c6021a3fcc6287b6a34e9d5a53bcef87a5cae0126ced70b1256d512a88",
+    "updatedAt": "2025-09-18T06:47:19.319417+12:00"
+  }
+}

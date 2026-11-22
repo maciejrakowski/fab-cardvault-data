@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "nebula-blade",
+  "language": "ja",
+  "name": "星雲の剣",
+  "cores": [
+    {
+      "position": 10,
+      "name": "星雲の剣",
+      "typeLine": "ルーン剣士・武器 － 剣（両手）",
+      "classes": [
+        "ルーン剣士"
+      ],
+      "types": [
+        "武器"
+      ],
+      "subtypes": [
+        "（両手）",
+        "剣"
+      ],
+      "text": {
+        "markup": "**ターン１アクション**--{r}{r}：**攻撃** これがヒットしたとき、「ルーン陣」トークンを１つ作成する。 このターン、あなたが非攻撃・アクションカードをプレイしていた場合、これは＋３{p}を得る。",
+        "plain": "ターン１アクション--{r}{r}：攻撃 これがヒットしたとき、「ルーン陣」トークンを１つ作成する。 このターン、あなたが非攻撃・アクションカードをプレイしていた場合、これは＋３{p}を得る。",
+        "html": "<p><strong>ターン１アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：<strong>攻撃</strong> これがヒットしたとき、「ルーン陣」トークンを１つ作成する。 このターン、あなたが非攻撃・アクションカードをプレイしていた場合、これは＋３<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n"
+      }
+    }
+  ],
+  "printings": [
+    {
+      "id": "JA_RAP003",
+      "code": "RAP003",
+      "language": "ja",
+      "set": "RAP",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "archive-pack-rosetta-ja",
+      "releaseDate": "2024-10-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "JA_RAP003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "ja",
+          "name": "星雲の剣",
+          "typeLine": "ルーン剣士・武器 － 剣（両手）",
+          "traitLine": null,
+          "text": {
+            "markup": "**ターン１アクション**--{r}{r}：**攻撃** これがヒットしたとき、「ルーン陣」トークンを１つ作成する。 このターン、あなたが非攻撃・アクションカードをプレイしていた場合、これは＋３{p}を得る。",
+            "plain": "ターン１アクション--{r}{r}：攻撃 これがヒットしたとき、「ルーン陣」トークンを１つ作成する。 このターン、あなたが非攻撃・アクションカードをプレイしていた場合、これは＋３{p}を得る。",
+            "html": "<p><strong>ターン１アクション</strong>—<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'><img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>：<strong>攻撃</strong> これがヒットしたとき、「ルーン陣」トークンを１つ作成する。 このターン、あなたが非攻撃・アクションカードをプレイしていた場合、これは＋３<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'>を得る。</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "RAP003",
+          "printedLanguageCode": "JP",
+          "printedYear": "2024",
+          "artist": "Steve Argyle",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/JA_RAP003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/JA_RAP003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/JA_RAP003.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "editions": {}
+  }
+}

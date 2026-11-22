@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "id": "star-fall",
+  "name": "Star Fall",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Star Fall",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": 1,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Lightning Runeblade Weapon - Sword (2H)",
+      "traitLine": null,
+      "classes": [
+        "Runeblade"
+      ],
+      "talents": [
+        "Lightning"
+      ],
+      "types": [
+        "Weapon"
+      ],
+      "subtypes": [
+        "(2H)",
+        "Sword"
+      ],
+      "text": {
+        "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**.",
+        "plain": "Once per Turn Action -- {r}: Attack\nIf you've played a Lightning card this turn, this card's attacks get +1{p} and go again."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "AUR002",
+      "code": "AUR002",
+      "language": "en",
+      "set": "AUR",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "1st-strike-aurora",
+      "releaseDate": "2024-08-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AUR002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Star Fall",
+          "typeLine": "Lightning Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf you've played a Lightning card this turn, this card's attacks get +1{p} and go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If you've played a Lightning card this turn, this card's attacks get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AUR002",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AUR002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AUR002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AUR002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AUA002",
+      "code": "ARA002",
+      "language": "en",
+      "set": "AUA",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rosetta-blitz-deck-aurora",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AUA002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Star Fall",
+          "typeLine": "Lightning Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf you've played a Lightning card this turn, this card's attacks get +1{p} and go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If you've played a Lightning card this turn, this card's attacks get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ARA002",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AUA002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AUA002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AUA002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ROS009",
+      "code": "ROS009",
+      "language": "en",
+      "set": "ROS",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rosetta",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ROS009",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Star Fall",
+          "typeLine": "Lightning Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf you've played a Lightning card this turn, this card's attacks get +1{p} and go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If you've played a Lightning card this turn, this card's attacks get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ROS009",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ROS009.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ROS009.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ROS009.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ROS009-CF",
+      "code": "ROS009",
+      "language": "en",
+      "set": "ROS",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rosetta",
+      "releaseDate": "2024-09-20",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "ROS009-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Star Fall",
+          "typeLine": "Lightning Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf you've played a Lightning card this turn, this card's attacks get +1{p} and go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If you've played a Lightning card this turn, this card's attacks get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "ROS009",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "token-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/ROS009-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/ROS009-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/ROS009-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LGS332-RF",
+      "code": "LGS332",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 332,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "gift-with-purchase-rosetta-archive-pack-ja",
+      "releaseDate": "2024-10-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS332-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Star Fall",
+          "typeLine": "Lightning Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf you've played a Lightning card this turn, this card's attacks get +1{p} and go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If you've played a Lightning card this turn, this card's attacks get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS332",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": "lightning",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS332-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS332-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS332-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FAB302-GF",
+      "code": "FAB302",
+      "language": "en",
+      "set": "FAB",
+      "setNumber": 302,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "in-store-qualifiers-the-hunted",
+      "releaseDate": "2025-01-31",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "FAB302-GF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Star Fall",
+          "typeLine": "Lightning Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf you've played a Lightning card this turn, this card's attacks get +1{p} and go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If you've played a Lightning card this turn, this card's attacks get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "FAB302",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "promo-dot",
+          "finish": "gold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": "gold",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/FAB302-GF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/FAB302-GF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/FAB302-GF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AST002",
+      "code": "AST002",
+      "language": "en",
+      "set": "AST",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-deck-aurora-shooting-star",
+      "releaseDate": "2025-03-14",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AST002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Star Fall",
+          "typeLine": "Lightning Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf you've played a Lightning card this turn, this card's attacks get +1{p} and go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If you've played a Lightning card this turn, this card's attacks get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AST002",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "common-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AST002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AST002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AST002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SBA003",
+      "code": "SBA003",
+      "language": "en",
+      "set": "SBA",
+      "setNumber": 3,
+      "edition": null,
+      "rarity": "basic",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-3-briar",
+      "releaseDate": "2026-06-05",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SBA003",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Star Fall",
+          "typeLine": "Runeblade Weapon - Sword (2H)",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Action** -- {r}: **Attack**{br}If you've played a Lightning card this turn, this card's attacks get +1{p} and **go again**.",
+            "plain": "Once per Turn Action -- {r}: Attack\nIf you've played a Lightning card this turn, this card's attacks get +1{p} and go again.",
+            "html": "<p><strong>Once per Turn Action</strong> — <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_cost.webp' alt='{r}'>: <strong>Attack</strong></p>\n<p>If you've played a Lightning card this turn, this card's attacks get +1<img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> and <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": "1",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SBA003",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Ramza Ardyputra",
+          "rarityMark": "basic-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "weapon",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SBA003.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SBA003.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SBA003.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Attack",
+      "go again"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T16:21:05Z",
+    "rawSha256": "bf825dd56a658dd6bf9282bb22a5bb27b332b377138ebde2c7ab9c5ab6682b96",
+    "updatedAt": "2025-09-18T06:56:59.230936+12:00"
+  }
+}

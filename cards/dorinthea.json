@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 1,
+  "id": "dorinthea",
+  "name": "Dorinthea",
+  "objectType": "hero-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Dorinthea",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": null,
+      "life": 20,
+      "intellect": 4,
+      "typeLine": "Warrior Hero - Young",
+      "traitLine": null,
+      "classes": [
+        "Warrior"
+      ],
+      "talents": [],
+      "types": [
+        "Hero"
+      ],
+      "subtypes": [
+        "Young"
+      ],
+      "text": {
+        "markup": "The first time your weapon attack hits each turn, you may attack an additional time with that weapon this turn.",
+        "plain": "The first time your weapon attack hits each turn, you may attack an additional time with that weapon this turn."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "legal",
+      "reason": null
+    },
+    "silver-age": {
+      "status": "legal",
+      "reason": null
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "HER008-RF",
+      "code": "HER008-P",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 8,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "premier-organized-play-welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER008-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": "Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "plain": "Once per Turn Effect - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When your weapon attack hits, you may attack an additional time with that weapon this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER008-P",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Lius Lasahido",
+          "rarityMark": null,
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER008-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER008-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER008-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TEA002",
+      "code": "TEA002-T",
+      "language": "en",
+      "set": "TEA",
+      "setNumber": 2,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dorinthea-ironsong-hero-deck",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "TEA002",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": "Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "plain": "Once per Turn Effect - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When your weapon attack hits, you may attack an additional time with that weapon this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "TEA002-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Lius Lasahido",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/TEA002.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/TEA002.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/TEA002.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WTR114",
+      "code": "WTR114-T",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 114,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe",
+      "releaseDate": "2019-10-11",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "WTR114",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": "Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "plain": "Once per Turn Effect - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When your weapon attack hits, you may attack an additional time with that weapon this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR114-T",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Lius Lasahido",
+          "rarityMark": null,
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/WTR114.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/WTR114.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/WTR114.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "XXX001",
+      "code": "XXX001",
+      "language": "en",
+      "set": "XXX",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "organized-play-support-limited-calling-2019",
+      "releaseDate": "2019-10-27",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "XXX001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": "Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "plain": "Once per Turn Effect - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When your weapon attack hits, you may attack an additional time with that weapon this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "XXX001",
+          "printedLanguageCode": null,
+          "printedYear": "2019",
+          "artist": "Lius Lasahido",
+          "rarityMark": "promo-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/XXX001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/XXX001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/XXX001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "R-WTR114",
+      "code": "WTR114",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 114,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited-revised",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "R-WTR114",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": null,
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "plain": "Once per Turn Effect - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When your weapon attack hits, you may attack an additional time with that weapon this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR114",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Lius Lasahido",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/R-WTR114.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/R-WTR114.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/R-WTR114.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-WTR114",
+      "code": "WTR114",
+      "language": "en",
+      "set": "WTR",
+      "setNumber": 114,
+      "edition": null,
+      "rarity": "token",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "welcome-to-rathe-unlimited",
+      "releaseDate": "2020-11-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-WTR114",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": "Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "plain": "Once per Turn Effect - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "html": "<p><strong>Once per Turn Effect</strong> - When your weapon attack hits, you may attack an additional time with that weapon this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "WTR114",
+          "printedLanguageCode": null,
+          "printedYear": "2020",
+          "artist": "Lius Lasahido",
+          "rarityMark": "token-dot",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-WTR114.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-WTR114.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-WTR114.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HER057-CF",
+      "code": "HER057",
+      "language": "en",
+      "set": "HER",
+      "setNumber": 57,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "farewell-welcome-to-rathe",
+      "releaseDate": "2022-01-28",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "HER057-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": "Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect - When your weapon attack hits, you may attack an additional time with that weapon this turn.**",
+            "plain": "Once per Turn Effect - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+            "html": "<p><strong>Once per Turn Effect - When your weapon attack hits, you may attack an additional time with that weapon this turn.</strong></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "HER057",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Lius Lasahido",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/HER057-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/HER057-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/HER057-CF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HP139",
+      "code": "1HP139",
+      "language": "en",
+      "set": "1HP",
+      "setNumber": 139,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "history-pack-1",
+      "releaseDate": "2022-05-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HP139",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": "Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "**Once per Turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn. _(You must have an action point to attack an additional time.)_",
+            "plain": "Once per Turn Effect - When your weapon attack hits, you may attack an additional time with that weapon this turn. _(You must have an action point to attack an additional time.)_",
+            "html": "<p><strong>Once per Turn Effect</strong> - When your weapon attack hits, you may attack an additional time with that weapon this turn. <em>(You must have an action point to attack an additional time.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "1HP139",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Lius Lasahido",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "white",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HP139.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HP139.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HP139.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HT001",
+      "code": "1HT001",
+      "language": "en",
+      "set": "1HT",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "common",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "dorinthea-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HT001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": "Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "The first time your weapon attack hits each turn, you may attack an additional time with that weapon this turn. _(You must have an action point to attack an additional time.)_",
+            "plain": "The first time your weapon attack hits each turn, you may attack an additional time with that weapon this turn. _(You must have an action point to attack an additional time.)_",
+            "html": "<p>The first time your weapon attack hits each turn, you may attack an additional time with that weapon this turn. <em>(You must have an action point to attack an additional time.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "1HT001",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Lius Lasahido",
+          "rarityMark": "common-circle",
+          "finish": "regular",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HT001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HT001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HT001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SDO001",
+      "code": "SDO001",
+      "language": "en",
+      "set": "SDO",
+      "setNumber": 1,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-2-dorinthea",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SDO001",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": "Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "The first time your weapon attack hits each turn, you may attack an additional time with that weapon this turn.",
+            "plain": "The first time your weapon attack hits each turn, you may attack an additional time with that weapon this turn.",
+            "html": "<p>The first time your weapon attack hits each turn, you may attack an additional time with that weapon this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "SDO001",
+          "printedLanguageCode": "EN",
+          "printedYear": "2025",
+          "artist": "Lius Lasahido",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SDO001.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SDO001.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SDO001.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MPW155-MV",
+      "code": "MPW155",
+      "language": "en",
+      "set": "MPW",
+      "setNumber": 155,
+      "edition": null,
+      "rarity": "marvel",
+      "isMarvel": false,
+      "layout": "double-sided",
+      "product": "mastery-pack-warrior",
+      "releaseDate": "2026-08-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": "2026-07-29T16:00:00+12:00",
+      "notes": [],
+      "faces": [
+        {
+          "id": "MPW155-MV",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": "Warrior Hero - Young",
+          "traitLine": null,
+          "text": {
+            "markup": "The first time your weapon attack hits each turn, you may attack an additional time with that weapon this turn.",
+            "plain": "The first time your weapon attack hits each turn, you may attack an additional time with that weapon this turn.",
+            "html": "<p>The first time your weapon attack hits each turn, you may attack an additional time with that weapon this turn.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": "20",
+            "intellect": "4"
+          },
+          "printedCode": "MPW155",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Lius Lasahido",
+          "rarityMark": "marvel-dot",
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPW155-MV.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPW155-MV.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW155-MV.webp"
+          }
+        },
+        {
+          "id": "MPW155-MV_BACK",
+          "side": "back",
+          "position": 20,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Dorinthea",
+          "typeLine": "Warrior Hero - Young",
+          "traitLine": null,
+          "text": null,
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": null,
+          "printedLanguageCode": "en",
+          "printedYear": null,
+          "artist": null,
+          "rarityMark": null,
+          "finish": "cold-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "light",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MPW155-MV_BACK.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MPW155-MV_BACK.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MPW155-MV_BACK.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [],
+    "editions": {
+      "R-WTR114": "unlimited-revised",
+      "U-WTR114": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T22:23:17Z",
+    "rawSha256": "72cf85788ff47e86b9cc23a53b909fa61b7fe11c33d0b83b7df5617f022cde33",
+    "updatedAt": "2025-09-18T06:48:45.105669+12:00"
+  }
+}

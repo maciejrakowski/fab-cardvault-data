@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "diamond-hands",
+  "name": "Diamond Hands",
+  "objectType": "arena-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Diamond Hands",
+      "pitch": null,
+      "chi": null,
+      "color": null,
+      "cost": null,
+      "power": null,
+      "defense": 1,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Merchant Equipment - Arms",
+      "traitLine": null,
+      "classes": [
+        "Merchant"
+      ],
+      "talents": [],
+      "types": [
+        "Equipment"
+      ],
+      "subtypes": [
+        "Arms"
+      ],
+      "text": {
+        "markup": "**Ruu'di Specialization**{br}At the beginning of your end phase, if you have 4 or more cards in hand, create a Diamond token.{br}**Blade Break**",
+        "plain": "Ruu'di Specialization\nAt the beginning of your end phase, if you have 4 or more cards in hand, create a Diamond token.\nBlade Break"
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "blitz": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LSS008-CF",
+      "code": "LSS008",
+      "language": "en",
+      "set": "LSS",
+      "setNumber": 8,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "marketing-alpha-investments-bright-lights",
+      "releaseDate": "2023-10-06",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LSS008-CF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Diamond Hands",
+          "typeLine": "Merchant Equipment - Arms",
+          "traitLine": null,
+          "text": {
+            "markup": "**Ruu'di Specialization** _(You may only have this in your deck if your hero is Ruu'di.)_{br}At the beginning of your end phase, if you have 4 or more cards in hand, create a Diamond token.{br}**Blade Break** _(When the combat chain closes, if this defended, destroy it.)_",
+            "plain": "Ruu'di Specialization _(You may only have this in your deck if your hero is Ruu'di.)_\nAt the beginning of your end phase, if you have 4 or more cards in hand, create a Diamond token.\nBlade Break _(When the combat chain closes, if this defended, destroy it.)_",
+            "html": "<p><strong>Ruu'di Specialization</strong> <em>(You may only have this in your deck if your hero is Ruu'di.)</em></p>\n<p>At the beginning of your end phase, if you have 4 or more cards in hand, create a Diamond token.</p>\n<p><strong>Blade Break</strong> <em>(When the combat chain closes, if this defended, destroy it.)</em></p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": null,
+            "cost": null,
+            "power": null,
+            "defense": "1",
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LSS008",
+          "printedLanguageCode": null,
+          "printedYear": "2023",
+          "artist": "Isuardi Therianto",
+          "rarityMark": "promo-dot",
+          "finish": "cold-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "equipment",
+          "frameStyle": "legendary",
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LSS008-CF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LSS008-CF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LSS008-CF.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "Blade Break",
+      "Ruu'di Specialization"
+    ],
+    "editions": {}
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T23:05:59Z",
+    "rawSha256": "7a89daa4e6535d62b45613e50b00a0125421cfb59086097bf05b5d158eb30403",
+    "updatedAt": "2025-09-18T06:48:38.363908+12:00"
+  }
+}

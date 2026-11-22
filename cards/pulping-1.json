@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "id": "pulping-1",
+  "name": "Pulping",
+  "objectType": "deck-card",
+  "cardType": "regular",
+  "cores": [
+    {
+      "position": 10,
+      "name": "Pulping",
+      "pitch": 1,
+      "chi": null,
+      "color": "red",
+      "cost": 2,
+      "power": 6,
+      "defense": null,
+      "life": null,
+      "intellect": null,
+      "typeLine": "Brute Action - Attack",
+      "traitLine": null,
+      "classes": [
+        "Brute"
+      ],
+      "talents": [],
+      "types": [
+        "Action"
+      ],
+      "subtypes": [
+        "Attack"
+      ],
+      "text": {
+        "markup": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **dominate**.{br}If this is defended by fewer than 2 non-equipment cards, it gets **go again**.",
+        "plain": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets dominate.\nIf this is defended by fewer than 2 non-equipment cards, it gets go again."
+      }
+    }
+  ],
+  "legality": {
+    "cc": {
+      "status": "legal",
+      "reason": null
+    },
+    "blitz": {
+      "status": "legal",
+      "reason": null
+    },
+    "commoner": {
+      "status": "not-legal",
+      "reason": "programmatic_legality"
+    },
+    "silver-age": {
+      "status": "banned",
+      "reason": "programmatic_legality"
+    },
+    "living-legend": {
+      "status": "legal",
+      "reason": null
+    },
+    "upf": {
+      "status": "legal",
+      "reason": null
+    }
+  },
+  "rulings": [],
+  "printings": [
+    {
+      "id": "LGS051-RF",
+      "code": "LGS051",
+      "language": "en",
+      "set": "LGS",
+      "setNumber": 51,
+      "edition": null,
+      "rarity": "promo",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "armory-season-4",
+      "releaseDate": "2021-05-01",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "LGS051-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pulping",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**.\nWhile Pulping is defended by less than 2 non-equipment cards, it has **go again**.",
+            "plain": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains dominate.\nWhile Pulping is defended by less than 2 non-equipment cards, it has go again.",
+            "html": "<p>Draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>.</p>\n<p>While Pulping is defended by less than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "LGS051",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Kevin Sidharta",
+          "rarityMark": "promo-dot",
+          "finish": "rainbow-foil",
+          "artType": "extended-art",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/LGS051-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/LGS051-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/LGS051-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON223",
+      "code": "MON223",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 223,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON223",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pulping",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has **go again**.",
+            "plain": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains dominate. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has go again.",
+            "html": "<p>Draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>. <em>(The defending hero can't defend Pulping with more than 1 card from their hand.)</em></p>\n<p>While Pulping is defended by less than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON223",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Kevin Sidharta",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON223.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON223.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON223.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MON223-RF",
+      "code": "MON223",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 223,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch",
+      "releaseDate": "2021-05-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "MON223-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pulping",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has **go again**.",
+            "plain": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains dominate. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has go again.",
+            "html": "<p>Draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>. <em>(The defending hero can't defend Pulping with more than 1 card from their hand.)</em></p>\n<p>While Pulping is defended by less than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON223",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Kevin Sidharta",
+          "rarityMark": "rare-dot",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/MON223-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/MON223-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/MON223-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON223",
+      "code": "MON223",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 223,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON223",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pulping",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has **go again**.",
+            "plain": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains dominate. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has go again.",
+            "html": "<p>Draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>. <em>(The defending hero can't defend Pulping with more than 1 card from their hand.)</em></p>\n<p>While Pulping is defended by less than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON223",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Kevin Sidharta",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON223.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON223.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON223.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "U-MON223-RF",
+      "code": "MON223",
+      "language": "en",
+      "set": "MON",
+      "setNumber": 223,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "monarch-unlimited",
+      "releaseDate": "2021-06-04",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "U-MON223-RF",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pulping",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has **go again**.",
+            "plain": "Draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains dominate. _(The defending hero can't defend Pulping with more than 1 card from their hand.)_\nWhile Pulping is defended by less than 2 non-equipment cards, it has go again.",
+            "html": "<p>Draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>. <em>(The defending hero can't defend Pulping with more than 1 card from their hand.)</em></p>\n<p>While Pulping is defended by less than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "MON223",
+          "printedLanguageCode": null,
+          "printedYear": "2021",
+          "artist": "Kevin Sidharta",
+          "rarityMark": "rare-circle",
+          "finish": "rainbow-foil",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/U-MON223-RF.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/U-MON223-RF.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/U-MON223-RF.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1HR009",
+      "code": "1HR009",
+      "language": "en",
+      "set": "1HR",
+      "setNumber": 9,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "rhinar-blitz-deck",
+      "releaseDate": "2023-04-07",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "1HR009",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pulping",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When you attack with this, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains **dominate**. _(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)_\nIf Pulping is defended by fewer than 2 non-equipment cards, it has **go again**.",
+            "plain": "When you attack with this, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, Pulping gains dominate. _(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)_\nIf Pulping is defended by fewer than 2 non-equipment cards, it has go again.",
+            "html": "<p>When you attack with this, draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, Pulping gains <strong>dominate</strong>. <em>(The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)</em></p>\n<p>If Pulping is defended by fewer than 2 non-equipment cards, it has <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "1HR009",
+          "printedLanguageCode": null,
+          "printedYear": "2022",
+          "artist": "Kevin Sidharta",
+          "rarityMark": "rare-circle",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/1HR009.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/1HR009.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/1HR009.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AKO010",
+      "code": "AKO010",
+      "language": "en",
+      "set": "AKO",
+      "setNumber": 10,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "kayo-armory-deck",
+      "releaseDate": "2024-05-03",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "AKO010",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pulping",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **dominate**. _(This can't be defended by more than one card from hand.)_{br}If this is defended by fewer than 2 non-equipment cards, it gets **go again**.",
+            "plain": "When this attacks, draw a card then discard a random card. If a card with 6 or more {p} is discarded this way, this gets dominate. _(This can't be defended by more than one card from hand.)_\nIf this is defended by fewer than 2 non-equipment cards, it gets go again.",
+            "html": "<p>When this attacks, draw a card then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, this gets <strong>dominate</strong>. <em>(This can't be defended by more than one card from hand.)</em></p>\n<p>If this is defended by fewer than 2 non-equipment cards, it gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "AKO010",
+          "printedLanguageCode": "EN",
+          "printedYear": "2024",
+          "artist": "Kevin Sidharta",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": "brute",
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/AKO010.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/AKO010.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/AKO010.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SKA015",
+      "code": "SKA015",
+      "language": "en",
+      "set": "SKA",
+      "setNumber": 15,
+      "edition": null,
+      "rarity": "rare",
+      "isMarvel": false,
+      "layout": "regular",
+      "product": "silver-age-chapter-1-kayo",
+      "releaseDate": "2026-02-13",
+      "isDefault": false,
+      "isPublished": true,
+      "publishedAt": null,
+      "notes": [],
+      "faces": [
+        {
+          "id": "SKA015",
+          "side": "front",
+          "position": 10,
+          "orientation": "vertical",
+          "language": "en",
+          "name": "Pulping",
+          "typeLine": "Brute Action - Attack",
+          "traitLine": null,
+          "text": {
+            "markup": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets **dominate**. _(This can't be defended by more than 1 card from hand.)_{br}If this is defended by fewer than 2 non-equipment cards, it gets **go again**.",
+            "plain": "When this attacks, draw a card, then discard a random card. If a card with 6 or more {p} is discarded this way, this gets dominate. _(This can't be defended by more than 1 card from hand.)_\nIf this is defended by fewer than 2 non-equipment cards, it gets go again.",
+            "html": "<p>When this attacks, draw a card, then discard a random card. If a card with 6 or more <img src='https://legendstory-production-s3-public.s3.amazonaws.com/static/images/card-icons/icon_pwr.webp' alt='{p}'> is discarded this way, this gets <strong>dominate</strong>. <em>(This can't be defended by more than 1 card from hand.)</em></p>\n<p>If this is defended by fewer than 2 non-equipment cards, it gets <strong>go again</strong>.</p>\n"
+          },
+          "flavorText": null,
+          "stats": {
+            "pitch": "1",
+            "cost": "2",
+            "power": "6",
+            "defense": null,
+            "life": null,
+            "intellect": null
+          },
+          "printedCode": "SKA015",
+          "printedLanguageCode": "en",
+          "printedYear": "2025",
+          "artist": "Kevin Sidharta",
+          "rarityMark": "rare-dot",
+          "finish": "regular",
+          "artType": "regular",
+          "border": "black",
+          "frame": null,
+          "frameStyle": null,
+          "watermark": [],
+          "message": null,
+          "images": {
+            "small": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/small/SKA015.webp",
+            "normal": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/normal/SKA015.webp",
+            "large": "https://legendstory-production-s3-public.s3.amazonaws.com/media/cards/large/SKA015.webp"
+          }
+        }
+      ]
+    }
+  ],
+  "derived": {
+    "keywords": [
+      "dominate",
+      "go again"
+    ],
+    "editions": {
+      "U-MON223": "unlimited",
+      "U-MON223-RF": "unlimited"
+    }
+  },
+  "source": {
+    "kind": "api",
+    "fetchedAt": "2026-11-20T17:34:17Z",
+    "rawSha256": "f37d039e076912e26e0658207b5b49fc590bca05d5eac1a1d847250e3713ce7f",
+    "updatedAt": "2025-09-18T06:54:06.916800+12:00"
+  }
+}
